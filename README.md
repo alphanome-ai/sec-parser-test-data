@@ -12,4 +12,4 @@ If you're a contributor to `sec-parser`, you can utilize this dataset to run e2e
 
 ## Feedback & Issues
 
-For asking questions, use [Discussions](https://github.com/orgs/alphanome-ai/discussions). For any issues or suggestions for improvements, please [open an issue](https://github.com/alphanome-ai/sec-parser/issues).
+For asking questions and discussing potential improvements, use [Discussions](https://github.com/orgs/alphanome-ai/discussions). For any issues, please [open an issue](https://github.com/alphanome-ai/sec-parser/issues).
