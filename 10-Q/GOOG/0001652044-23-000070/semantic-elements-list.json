@@ -1,0 +1,5476 @@
+[
+    {
+        "id": 0,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "FALSE2023Q2000165204...[34880]...lkerMember2023-06-30",
+        "html_preview": "<div style=\"display:...[207513]...s></ix:header></div>",
+        "html_hash": "436a2501"
+    },
+    {
+        "id": 1,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[12]...b8adbae2ee_1\"></div>",
+        "html_hash": "46cb00fc"
+    },
+    {
+        "id": 2,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"min-heig...[61]...></span></div></div>",
+        "html_hash": "6dc87554"
+    },
+    {
+        "id": 3,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-b...[369]...></tr></table></div>",
+        "html_hash": "0774843a"
+    },
+    {
+        "id": 4,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "UNITED STATES",
+        "html_preview": "<div style=\"margin-b...[142]... STATES</span></div>",
+        "html_hash": "ff96e63d",
+        "level": 0
+    },
+    {
+        "id": 5,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "SECURITIES AND EXCHANGE COMMISSION",
+        "html_preview": "<div style=\"text-ali...[145]...MISSION</span></div>",
+        "html_hash": "b357734d",
+        "level": 0
+    },
+    {
+        "id": 6,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Washington, D.C. 20549",
+        "html_preview": "<div style=\"text-ali...[133].... 20549</span></div>",
+        "html_hash": "3b1bac6c",
+        "level": 0
+    },
+    {
+        "id": 7,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "____________________...[48]...____________________",
+        "html_preview": "<div style=\"text-ali...[198]..._______</span></div>",
+        "html_hash": "2919f47f"
+    },
+    {
+        "id": 8,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "FORM 10-Q",
+        "html_preview": "<div style=\"margin-t...[217]...meric> </span></div>",
+        "html_hash": "71d05d62",
+        "level": 0
+    },
+    {
+        "id": 9,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "____________________...[48]...____________________",
+        "html_preview": "<div style=\"text-ali...[198]..._______</span></div>",
+        "html_hash": "2919f47f"
+    },
+    {
+        "id": 10,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(Mark One)",
+        "html_preview": "<div style=\"text-ali...[121]...rk One)</span></div>",
+        "html_hash": "54db53d1"
+    },
+    {
+        "id": 11,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "\u2612QUARTERLY REPORT PU...[48]...EXCHANGE ACT OF 1934",
+        "html_preview": "<div style=\"text-ali...[931]...></tr></table></div>",
+        "html_hash": "6209cdc1"
+    },
+    {
+        "id": 12,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For the quarterly pe...[4]... ended June\u00a030, 2023",
+        "html_preview": "<div style=\"text-ali...[284]...umeric></span></div>",
+        "html_hash": "46098b64"
+    },
+    {
+        "id": 13,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "OR\u2610TRANSITION REPORT...[51]...EXCHANGE ACT OF 1934",
+        "html_preview": "<div style=\"text-ali...[1047]...></tr></table></div>",
+        "html_hash": "ae7da8b8",
+        "level": 0
+    },
+    {
+        "id": 14,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For the transition p...[9]...m _______ to _______",
+        "html_preview": "<div style=\"text-ali...[159]..._______</span></div>",
+        "html_hash": "56d6cc24"
+    },
+    {
+        "id": 15,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Commission file number: 001-37580",
+        "html_preview": "<div style=\"text-ali...[455]...120%\"> </span></div>",
+        "html_hash": "10cb5b96"
+    },
+    {
+        "id": 16,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "____________________...[48]...____________________",
+        "html_preview": "<div style=\"text-ali...[198]..._______</span></div>",
+        "html_hash": "2919f47f"
+    },
+    {
+        "id": 17,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Alphabet Inc.",
+        "html_preview": "<div style=\"margin-t...[229]...meric> </span></div>",
+        "html_hash": "b4c0abd1",
+        "level": 0
+    },
+    {
+        "id": 18,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(Exact name of regis...[14]...fied in its charter)",
+        "html_preview": "<div style=\"text-ali...[164]...harter)</span></div>",
+        "html_hash": "3ee0e3cc"
+    },
+    {
+        "id": 19,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "____________________...[167]...entification Number)",
+        "html_preview": "<div style=\"text-ali...[1668]...></tr></table></div>",
+        "html_hash": "eda24412"
+    },
+    {
+        "id": 20,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "1600 Amphitheatre Parkway",
+        "html_preview": "<div style=\"text-ali...[229]...umeric></span></div>",
+        "html_hash": "0bf942f2",
+        "level": 0
+    },
+    {
+        "id": 21,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Mountain View, CA 94043",
+        "html_preview": "<div style=\"text-ali...[420]...umeric></span></div>",
+        "html_hash": "70678d79",
+        "level": 0
+    },
+    {
+        "id": 22,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(Address of principa...[20]... including zip code)",
+        "html_preview": "<div style=\"text-ali...[170]...p code)</span></div>",
+        "html_hash": "f90d5dec"
+    },
+    {
+        "id": 23,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "(650) 253-0000",
+        "html_preview": "<div style=\"text-ali...[292]...umeric></span></div>",
+        "html_hash": "06d93612",
+        "level": 0
+    },
+    {
+        "id": 24,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "(Registrant's teleph...[338]...lobal Select Market)",
+        "html_preview": "<div style=\"text-ali...[4141]...></tr></table></div>",
+        "html_hash": "1834fd77",
+        "level": 0
+    },
+    {
+        "id": 25,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "____________________...[48]...____________________",
+        "html_preview": "<div style=\"text-ali...[198]..._______</span></div>",
+        "html_hash": "2919f47f"
+    },
+    {
+        "id": 26,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Indicate by check ma...[324]....\u00a0\u00a0\u00a0\u00a0Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
+        "html_preview": "<div style=\"margin-t...[951]...120%\">\u2610</span></div>",
+        "html_hash": "0a9396b3"
+    },
+    {
+        "id": 27,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Indicate by check ma...[287]....\u00a0\u00a0\u00a0\u00a0Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
+        "html_preview": "<div style=\"margin-t...[914]...120%\">\u2610</span></div>",
+        "html_hash": "adf08d8f"
+    },
+    {
+        "id": 28,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Indicate by check ma...[307]...of the Exchange Act.",
+        "html_preview": "<div style=\"margin-b...[491]...ge Act.</span></div>",
+        "html_hash": "30ab4c8c"
+    },
+    {
+        "id": 29,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Large accelerated fi...[77]...ging growth company\u2610",
+        "html_preview": "<div style=\"margin-b...[3508]...></tr></table></div>",
+        "html_hash": "7aecaef7"
+    },
+    {
+        "id": 30,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "If an emerging growt...[215]...e Exchange Act.\u00a0\u00a0  \u2610",
+        "html_preview": "<div style=\"margin-t...[506]...120%\">\u2610</span></div>",
+        "html_hash": "43901fb4"
+    },
+    {
+        "id": 31,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Indicate by check ma...[91]....\u00a0   Yes  \u2610\u00a0\u00a0\u00a0\u00a0No  \u2612",
+        "html_preview": "<div style=\"margin-t...[739]...120%\">\u2612</span></div>",
+        "html_hash": "5a931ccc"
+    },
+    {
+        "id": 32,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of July\u00a018, 2023,...[179]...C stock outstanding.",
+        "html_preview": "<div style=\"margin-t...[1011]...anding.</span></div>",
+        "html_hash": "929d4411"
+    },
+    {
+        "id": 33,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[367]...></tr></table></div>",
+        "html_hash": "0dacfd40"
+    },
+    {
+        "id": 34,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"height:4...[170]...n></div></div></div>",
+        "html_hash": "699ce83b"
+    },
+    {
+        "id": 35,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[12]...b8adbae2ee_7\"></div>",
+        "html_hash": "e613399d"
+    },
+    {
+        "id": 36,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 37,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 38,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Alphabet Inc.",
+        "html_preview": "<div style=\"text-ali...[124]...et Inc.</span></div>",
+        "html_hash": "80825bb4",
+        "level": 0
+    },
+    {
+        "id": 39,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Form 10-Q",
+        "html_preview": "<div style=\"text-ali...[120]...rm 10-Q</span></div>",
+        "html_hash": "c6b0f8d8",
+        "level": 0
+    },
+    {
+        "id": 40,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "For the Quarterly Pe...[4]... Ended June\u00a030, 2023",
+        "html_preview": "<div style=\"text-ali...[156]..., 2023 </span></div>",
+        "html_hash": "2cd72b7c",
+        "level": 0
+    },
+    {
+        "id": 41,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "TABLE OF CONTENTS\u00a0\u00a0P...[940]...hibits52Signatures53",
+        "html_preview": "<div style=\"margin-t...[22404]...></tr></table></div>",
+        "html_hash": "e432bcda"
+    },
+    {
+        "id": 42,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[50]...n><br/></span></div>",
+        "html_hash": "8f98796f"
+    },
+    {
+        "id": 43,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "2",
+        "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
+        "html_hash": "ba04b2dd"
+    },
+    {
+        "id": 44,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_10\"></div>",
+        "html_hash": "45389cbf"
+    },
+    {
+        "id": 45,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 46,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 47,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note About Forward-Looking Statements",
+        "html_preview": "<div style=\"margin-t...[163]...tements</span></div>",
+        "html_hash": "fd9a4f1f",
+        "level": 0
+    },
+    {
+        "id": 48,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "This Quarterly Repor...[163]...tatements regarding:",
+        "html_preview": "<div style=\"margin-t...[350]...arding:</span></div>",
+        "html_hash": "fd887cc4"
+    },
+    {
+        "id": 49,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022the growth of our b...[94]...nds in our business;",
+        "html_preview": "<div style=\"margin-t...[431]...siness;</span></div>",
+        "html_hash": "8e2827c0"
+    },
+    {
+        "id": 50,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022fluctuations in our...[56]...o such fluctuations;",
+        "html_preview": "<div style=\"margin-t...[393]...ations;</span></div>",
+        "html_hash": "bcfadae8"
+    },
+    {
+        "id": 51,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[73]...enefit our business;",
+        "html_preview": "<div style=\"margin-t...[410]...siness;</span></div>",
+        "html_hash": "9e831dcc"
+    },
+    {
+        "id": 52,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[108]... affect our margins;",
+        "html_preview": "<div style=\"margin-t...[445]...argins;</span></div>",
+        "html_hash": "cb8e4c2a"
+    },
+    {
+        "id": 53,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[101]...our overall margins;",
+        "html_preview": "<div style=\"margin-t...[438]...argins;</span></div>",
+        "html_hash": "9f1b7fef"
+    },
+    {
+        "id": 54,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[66]...evenues and margins;",
+        "html_preview": "<div style=\"margin-t...[403]...argins;</span></div>",
+        "html_hash": "0b2dd6c0"
+    },
+    {
+        "id": 55,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022fluctuations in our...[156]...o such fluctuations;",
+        "html_preview": "<div style=\"margin-t...[493]...ations;</span></div>",
+        "html_hash": "9d4aa50c"
+    },
+    {
+        "id": 56,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[142]...cks and impressions;",
+        "html_preview": "<div style=\"margin-t...[479]...ssions;</span></div>",
+        "html_hash": "8b2b3471"
+    },
+    {
+        "id": 57,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[113]...asingly come online;",
+        "html_preview": "<div style=\"margin-t...[450]...online;</span></div>",
+        "html_hash": "37656492"
+    },
+    {
+        "id": 58,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[117]...ency exchange rates;",
+        "html_preview": "<div style=\"margin-t...[454]... rates;</span></div>",
+        "html_hash": "565949b9"
+    },
+    {
+        "id": 59,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022the expected variab...[87]... management program;",
+        "html_preview": "<div style=\"margin-t...[424]...rogram;</span></div>",
+        "html_hash": "2223ddc3"
+    },
+    {
+        "id": 60,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022the amount and timi...[178]...o recognize revenue;",
+        "html_preview": "<div style=\"margin-t...[515]...evenue;</span></div>",
+        "html_hash": "f7e98c33"
+    },
+    {
+        "id": 61,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022fluctuations in our...[2]...apital expenditures;",
+        "html_preview": "<div style=\"margin-t...[339]...itures;</span></div>",
+        "html_hash": "8bf8c7bd"
+    },
+    {
+        "id": 62,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[41]...ical infrastructure;",
+        "html_preview": "<div style=\"margin-t...[378]...ucture;</span></div>",
+        "html_hash": "6a6cf5cc"
+    },
+    {
+        "id": 63,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our plans to contin...[190]...rategic investments;",
+        "html_preview": "<div style=\"margin-t...[527]...tments;</span></div>",
+        "html_hash": "d8afcabb"
+    },
+    {
+        "id": 64,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our pace of hiring ...[39]...mpensation programs;",
+        "html_preview": "<div style=\"margin-t...[376]...ograms;</span></div>",
+        "html_hash": "11e858b4"
+    },
+    {
+        "id": 65,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[229]...a number of factors;",
+        "html_preview": "<div style=\"margin-t...[570]...actors;</span></div>",
+        "html_hash": "c80eb227"
+    },
+    {
+        "id": 66,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022estimates of our fu...[7]...mpensation expenses;",
+        "html_preview": "<div style=\"margin-t...[344]...penses;</span></div>",
+        "html_hash": "0a445178"
+    },
+    {
+        "id": 67,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[95]... by market dynamics;",
+        "html_preview": "<div style=\"margin-t...[436]...namics;</span></div>",
+        "html_hash": "795978c8"
+    },
+    {
+        "id": 68,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022fluctuations in our effective tax rate;",
+        "html_preview": "<div style=\"margin-t...[337]...x rate;</span></div>",
+        "html_hash": "73157d37"
+    },
+    {
+        "id": 69,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022seasonal fluctuatio...[161]...r quarterly results;",
+        "html_preview": "<div style=\"margin-t...[498]...esults;</span></div>",
+        "html_hash": "d7b90bf0"
+    },
+    {
+        "id": 70,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022the sufficiency of ...[3]... sources of funding;",
+        "html_preview": "<div style=\"margin-t...[340]...unding;</span></div>",
+        "html_hash": "cb03b498"
+    },
+    {
+        "id": 71,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our potential expos...[222]...d operating results;",
+        "html_preview": "<div style=\"margin-t...[559]...esults;</span></div>",
+        "html_hash": "14223364"
+    },
+    {
+        "id": 72,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "3",
+        "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
+        "html_hash": "987ed225"
+    },
+    {
+        "id": 73,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 74,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 75,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[201]...vernmental entities;",
+        "html_preview": "<div style=\"margin-t...[538]...tities;</span></div>",
+        "html_hash": "cdb824f4"
+    },
+    {
+        "id": 76,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022the expected timing...[38]...s share repurchases;",
+        "html_preview": "<div style=\"margin-t...[375]...chases;</span></div>",
+        "html_hash": "362580a3"
+    },
+    {
+        "id": 77,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our long-term susta...[10]...and diversity goals;",
+        "html_preview": "<div style=\"margin-t...[347]... goals;</span></div>",
+        "html_hash": "906a863b"
+    },
+    {
+        "id": 78,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022the unpredictabilit...[88]...e financial results;",
+        "html_preview": "<div style=\"margin-t...[425]...esults;</span></div>",
+        "html_hash": "9ac654be"
+    },
+    {
+        "id": 79,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022the expected financ...[58]... space optimization;",
+        "html_preview": "<div style=\"margin-t...[395]...zation;</span></div>",
+        "html_hash": "d52b2251"
+    },
+    {
+        "id": 80,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022our expectation tha...[119]...3 operating results;",
+        "html_preview": "<div style=\"margin-t...[456]...esults;</span></div>",
+        "html_hash": "527d124a"
+    },
+    {
+        "id": 81,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "as well as other sta...[1664]...-looking statements.",
+        "html_preview": "<div style=\"margin-t...[1831]...ements.</span></div>",
+        "html_hash": "b279f8bd"
+    },
+    {
+        "id": 82,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As used herein, \"Alp...[123]...indicates otherwise.",
+        "html_preview": "<div style=\"margin-t...[310]...erwise.</span></div>",
+        "html_hash": "f8068d1a"
+    },
+    {
+        "id": 83,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\"Alphabet,\" \"Google,...[248]... of these companies.",
+        "html_preview": "<div style=\"margin-t...[435]...panies.</span></div>",
+        "html_hash": "0660b96a"
+    },
+    {
+        "id": 84,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[50]...n><br/></span></div>",
+        "html_hash": "8f98796f"
+    },
+    {
+        "id": 85,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "4",
+        "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
+        "html_hash": "24acbb64"
+    },
+    {
+        "id": 86,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_13\"></div>",
+        "html_hash": "cb4ba176"
+    },
+    {
+        "id": 87,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 88,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 89,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "PART I.\u00a0\u00a0\u00a0\u00a0FINANCIAL INFORMATION",
+        "html_preview": "<div style=\"padding-...[180]...RMATION</span></div>",
+        "html_hash": "8a373fd3",
+        "level": 0
+    },
+    {
+        "id": 90,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_16\"></div>",
+        "html_hash": "9baf8bcb"
+    },
+    {
+        "id": 91,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "ITEM 1.FINANCIAL STATEMENTS",
+        "html_preview": "<div style=\"margin-t...[325]...TEMENTS</span></div>",
+        "html_hash": "5987b79e",
+        "level": 0
+    },
+    {
+        "id": 92,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_19\"></div>",
+        "html_hash": "edbdc9cb"
+    },
+    {
+        "id": 93,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Alphabet Inc.",
+        "html_preview": "<div style=\"margin-t...[139]...et Inc.</span></div>",
+        "html_hash": "f675085e",
+        "level": 0
+    },
+    {
+        "id": 94,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "CONSOLIDATED BALANCE SHEETS",
+        "html_preview": "<div style=\"text-ali...[138]... SHEETS</span></div>",
+        "html_hash": "920ead1a",
+        "level": 0
+    },
+    {
+        "id": 95,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(in millions, except...[1852]...ity$365,264\u00a0$383,044",
+        "html_preview": "<div style=\"text-ali...[59806]...></tr></table></div>",
+        "html_hash": "22291aa5"
+    },
+    {
+        "id": 96,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "See accompanying notes.",
+        "html_preview": "<div style=\"margin-t...[149]... notes.</span></div>",
+        "html_hash": "a00502cf"
+    },
+    {
+        "id": 97,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "5",
+        "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
+        "html_hash": "6bfd04ae"
+    },
+    {
+        "id": 98,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_22\"></div>",
+        "html_hash": "baccb615"
+    },
+    {
+        "id": 99,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 100,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 101,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Alphabet Inc.",
+        "html_preview": "<div style=\"text-ali...[124]...et Inc.</span></div>",
+        "html_hash": "80825bb4",
+        "level": 0
+    },
+    {
+        "id": 102,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "CONSOLIDATED STATEMENTS OF INCOME",
+        "html_preview": "<div style=\"text-ali...[144]... INCOME</span></div>",
+        "html_hash": "d9ee8e8f",
+        "level": 0
+    },
+    {
+        "id": 103,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(in millions, except...[801]...21\u00a0$1.44\u00a0$2.44\u00a0$2.61",
+        "html_preview": "<div style=\"text-ali...[45377]...></tr></table></div>",
+        "html_hash": "63d88c73"
+    },
+    {
+        "id": 104,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "See accompanying notes.",
+        "html_preview": "<div style=\"margin-t...[168]... notes.</span></div>",
+        "html_hash": "5b20a1db"
+    },
+    {
+        "id": 105,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "6",
+        "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
+        "html_hash": "2c34dd28"
+    },
+    {
+        "id": 106,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_25\"></div>",
+        "html_hash": "0a3065dc"
+    },
+    {
+        "id": 107,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 108,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 109,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Alphabet Inc.",
+        "html_preview": "<div style=\"text-ali...[124]...et Inc.</span></div>",
+        "html_hash": "80825bb4",
+        "level": 0
+    },
+    {
+        "id": 110,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "CONSOLIDATED STATEME...[7]...COMPREHENSIVE INCOME",
+        "html_preview": "<div style=\"text-ali...[158]... INCOME</span></div>",
+        "html_hash": "0f950a2b",
+        "level": 0
+    },
+    {
+        "id": 111,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(in millions; unaudi...[853]...,377\u00a0$28,233\u00a0$35,031",
+        "html_preview": "<div style=\"text-ali...[36852]...></tr></table></div>",
+        "html_hash": "401b0a62"
+    },
+    {
+        "id": 112,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "See accompanying notes.",
+        "html_preview": "<div style=\"margin-t...[168]... notes.</span></div>",
+        "html_hash": "5b20a1db"
+    },
+    {
+        "id": 113,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "7",
+        "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
+        "html_hash": "69d5416b"
+    },
+    {
+        "id": 114,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_28\"></div>",
+        "html_hash": "9f318591"
+    },
+    {
+        "id": 115,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 116,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 117,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Alphabet Inc.",
+        "html_preview": "<div style=\"padding-...[178]...et Inc.</span></div>",
+        "html_hash": "56b6bed6",
+        "level": 0
+    },
+    {
+        "id": 118,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "CONSOLIDATED STATEME...[7]...STOCKHOLDERS\u2019 EQUITY",
+        "html_preview": "<div style=\"text-ali...[158]... EQUITY</span></div>",
+        "html_hash": "d81cd57a",
+        "level": 0
+    },
+    {
+        "id": 119,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(in millions; unaudited)",
+        "html_preview": "<div style=\"text-ali...[135]...udited)</span></div>",
+        "html_hash": "943712fd"
+    },
+    {
+        "id": 120,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Three Months Ended J...[581]...28)$196,845\u00a0$255,419",
+        "html_preview": "<div style=\"text-ali...[28894]...></tr></table></div>",
+        "html_hash": "2efd38fd"
+    },
+    {
+        "id": 121,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 122,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 123,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Six Months Ended Jun...[584]...28)$196,845\u00a0$255,419",
+        "html_preview": "<div style=\"text-ali...[28926]...></tr></table></div>",
+        "html_hash": "c143045b"
+    },
+    {
+        "id": 124,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 125,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 126,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 127,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 128,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 129,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 130,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 131,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 132,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 133,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "8",
+        "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
+        "html_hash": "90755116"
+    },
+    {
+        "id": 134,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 135,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 136,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Three Months Ended J...[572]...91)$200,884\u00a0$267,141",
+        "html_preview": "<div style=\"text-ali...[28344]...></tr></table></div>",
+        "html_hash": "e9b25da9"
+    },
+    {
+        "id": 137,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 138,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
+        "html_hash": "e3014cd7"
+    },
+    {
+        "id": 139,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Six Months Ended Jun...[583]...91)$200,884\u00a0$267,141",
+        "html_preview": "<div style=\"text-ali...[28407]...></tr></table></div>",
+        "html_hash": "561915e8"
+    },
+    {
+        "id": 140,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "See accompanying notes.",
+        "html_preview": "<div style=\"margin-t...[168]... notes.</span></div>",
+        "html_hash": "5b20a1db"
+    },
+    {
+        "id": 141,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[49]...n><br/></span></div>",
+        "html_hash": "91048ce3"
+    },
+    {
+        "id": 142,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[49]...n><br/></span></div>",
+        "html_hash": "91048ce3"
+    },
+    {
+        "id": 143,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[50]...n><br/></span></div>",
+        "html_hash": "8f98796f"
+    },
+    {
+        "id": 144,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "9",
+        "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
+        "html_hash": "273de2df"
+    },
+    {
+        "id": 145,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_31\"></div>",
+        "html_hash": "d6e5ed4d"
+    },
+    {
+        "id": 146,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 147,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 148,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Alphabet Inc.",
+        "html_preview": "<div style=\"text-ali...[124]...et Inc.</span></div>",
+        "html_hash": "80825bb4",
+        "level": 0
+    },
+    {
+        "id": 149,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
+        "html_preview": "<div style=\"text-ali...[148]...H FLOWS</span></div>",
+        "html_hash": "283e0030",
+        "level": 0
+    },
+    {
+        "id": 150,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(in millions; unaudi...[1727]...eriod$17,936\u00a0$25,929",
+        "html_preview": "<div style=\"text-ali...[52884]...></tr></table></div>",
+        "html_hash": "b0ecc182"
+    },
+    {
+        "id": 151,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "See accompanying notes.",
+        "html_preview": "<div style=\"text-ali...[153]... notes.</span></div>",
+        "html_hash": "547e9f3b"
+    },
+    {
+        "id": 152,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "10",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "d79af152"
+    },
+    {
+        "id": 153,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_34\"></div>",
+        "html_hash": "c8ce8c12"
+    },
+    {
+        "id": 154,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 155,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 156,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Alphabet Inc.",
+        "html_preview": "<div style=\"text-ali...[124]...et Inc.</span></div>",
+        "html_hash": "80825bb4",
+        "level": 0
+    },
+    {
+        "id": 157,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "NOTES TO CONSOLIDATE...[2]...FINANCIAL STATEMENTS",
+        "html_preview": "<div style=\"text-ali...[153]...TEMENTS</span></div>",
+        "html_hash": "5675a0d1",
+        "level": 0
+    },
+    {
+        "id": 158,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "(Unaudited)",
+        "html_preview": "<div style=\"text-ali...[122]...udited)</span></div>",
+        "html_hash": "beeae2a1",
+        "level": 0
+    },
+    {
+        "id": 159,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_37\"></div>",
+        "html_hash": "b32da1a5"
+    },
+    {
+        "id": 160,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 1.    Summary o...[13]... Accounting Policies",
+        "html_preview": "<div style=\"margin-t...[367]...umeric></span></div>",
+        "html_hash": "bd4bdf89",
+        "level": 0
+    },
+    {
+        "id": 161,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Nature of Operations...[2770]...period presentation.",
+        "html_preview": "<ix:continuation id=...[7487]...v></ix:continuation>",
+        "html_hash": "35e08905"
+    },
+    {
+        "id": 162,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "11",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "14617b96"
+    },
+    {
+        "id": 163,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_40\"></div>",
+        "html_hash": "b155a5f0"
+    },
+    {
+        "id": 164,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 165,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 166,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 2.    Revenues",
+        "html_preview": "<div style=\"margin-t...[324]...umeric></span></div>",
+        "html_hash": "6f255aa0",
+        "level": 0
+    },
+    {
+        "id": 167,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Disaggregated Revenu...[2512]...ended June\u00a030, 2023.",
+        "html_preview": "<ix:continuation id=...[74755]...v></ix:continuation>",
+        "html_hash": "0f81a6be"
+    },
+    {
+        "id": 168,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[50]...n><br/></span></div>",
+        "html_hash": "8f98796f"
+    },
+    {
+        "id": 169,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[50]...n><br/></span></div>",
+        "html_hash": "8f98796f"
+    },
+    {
+        "id": 170,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[50]...n><br/></span></div>",
+        "html_hash": "8f98796f"
+    },
+    {
+        "id": 171,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "12",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "cec5d0ff"
+    },
+    {
+        "id": 172,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_46\"></div>",
+        "html_hash": "b417a260"
+    },
+    {
+        "id": 173,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 174,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 175,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 3.    Financial Instruments",
+        "html_preview": "<div style=\"margin-t...[360]...umeric></span></div>",
+        "html_hash": "c6b2c62c",
+        "level": 0
+    },
+    {
+        "id": 176,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_49\"></div>",
+        "html_hash": "2b485b19"
+    },
+    {
+        "id": 177,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Fair Value Measureme...[2423]... non-current assets.",
+        "html_preview": "<ix:continuation con...[62427]...c></ix:continuation>",
+        "html_hash": "89de0cde"
+    },
+    {
+        "id": 178,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "13",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "a6b47386"
+    },
+    {
+        "id": 179,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 180,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 181,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"padding-...[56]...n><br/></span></div>",
+        "html_hash": "1645d77c"
+    },
+    {
+        "id": 182,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "As of June 30, 2023F...[2212]...fied within Level 3.",
+        "html_preview": "<ix:continuation con...[61188]...v></ix:continuation>",
+        "html_hash": "a8b93866"
+    },
+    {
+        "id": 183,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of June 30, 2023 ...[190]...assified as Level 3.",
+        "html_preview": "<div style=\"margin-t...[902]...ation>.</span></div>",
+        "html_hash": "24a245b8"
+    },
+    {
+        "id": 184,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "14",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "b69210ad"
+    },
+    {
+        "id": 185,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_52\"></div>",
+        "html_hash": "81393ae9"
+    },
+    {
+        "id": 186,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 187,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 188,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Debt SecuritiesThe f...[2021]...$(304)$(1,157)$(597)",
+        "html_preview": "<ix:continuation con...[74992]...v></ix:continuation>",
+        "html_hash": "0115256f"
+    },
+    {
+        "id": 189,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[91]...n><br/></span></div>",
+        "html_hash": "8d0e8a5f"
+    },
+    {
+        "id": 190,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "15",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "699f77ac"
+    },
+    {
+        "id": 191,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_55\"></div>",
+        "html_hash": "559f5108"
+    },
+    {
+        "id": 192,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 193,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 194,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Equity InvestmentsTh...[3339]...)$477\u00a0$271\u00a0$907\u00a0$372",
+        "html_preview": "<ix:continuation con...[57032]...c></ix:continuation>",
+        "html_hash": "198904b9"
+    },
+    {
+        "id": 195,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[12]...n><br/></span></div>",
+        "html_hash": "1db55d7f"
+    },
+    {
+        "id": 196,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "16",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "dedc41d5"
+    },
+    {
+        "id": 197,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 198,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 199,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Equity Securities Ac...[400]...come (expense), net.",
+        "html_preview": "<ix:continuation con...[1301]...v></ix:continuation>",
+        "html_hash": "62e07020"
+    },
+    {
+        "id": 200,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_58\"></div>",
+        "html_hash": "92e4ae81"
+    },
+    {
+        "id": 201,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Derivative Financial...[3864]...for further details.",
+        "html_preview": "<ix:continuation con...[8002]...v></ix:continuation>",
+        "html_hash": "3a2cf7b1"
+    },
+    {
+        "id": 202,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "17",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "1b5a8eee"
+    },
+    {
+        "id": 203,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 204,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 205,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "The gross notional a...[1818]...01\u00a0$98\u00a0$1,870\u00a0$(208)",
+        "html_preview": "<ix:continuation con...[52536]...v></ix:continuation>",
+        "html_hash": "3a70c030"
+    },
+    {
+        "id": 206,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "18",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "227a8cb5"
+    },
+    {
+        "id": 207,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 208,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 209,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The table below pres...[929]...es)$376\u00a0$(33)$4\u00a0$197",
+        "html_preview": "<div style=\"margin-t...[38997]...:continuation></div>",
+        "html_hash": "c72a8feb"
+    },
+    {
+        "id": 210,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "19",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "4bb1be79"
+    },
+    {
+        "id": 211,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 212,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 213,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Gains (Losses) Recog...[835]...)$654\u00a0$(228)$88\u00a0$286",
+        "html_preview": "<div style=\"margin-t...[38628]...:continuation></div>",
+        "html_hash": "6e180b02"
+    },
+    {
+        "id": 214,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_64\"></div>",
+        "html_hash": "f2102d0b"
+    },
+    {
+        "id": 215,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Offsetting of Deriva...[1062]...$810\u00a0$(463)$(28)$319",
+        "html_preview": "<ix:continuation con...[16379]...c></ix:continuation>",
+        "html_hash": "af3bde12"
+    },
+    {
+        "id": 216,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[48]...n><br/></span></div>",
+        "html_hash": "ad8fbe4d"
+    },
+    {
+        "id": 217,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "20",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "e801b3ff"
+    },
+    {
+        "id": 218,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 219,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 220,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "As of June 30, 2023G...[553]... netting agreements.",
+        "html_preview": "<ix:continuation id=...[15268]...n></ix:continuation>",
+        "html_hash": "17b63bd7"
+    },
+    {
+        "id": 221,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_70\"></div>",
+        "html_hash": "5a5ef18f"
+    },
+    {
+        "id": 222,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 4.    Variable ...[3]...erest Entities (VIE)",
+        "html_preview": "<div style=\"margin-t...[348]...umeric></span></div>",
+        "html_hash": "f5d3897e",
+        "level": 0
+    },
+    {
+        "id": 223,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Consolidated VIEsWe ...[2347]...as of June\u00a030, 2023.",
+        "html_preview": "<ix:continuation id=...[6803]...v></ix:continuation>",
+        "html_hash": "6ab5df54"
+    },
+    {
+        "id": 224,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_73\"></div>",
+        "html_hash": "9ae21ec3"
+    },
+    {
+        "id": 225,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 5.    Debt",
+        "html_preview": "<div style=\"margin-t...[302]...umeric></span></div>",
+        "html_hash": "e0275459",
+        "level": 0
+    },
+    {
+        "id": 226,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Short-Term DebtWe ha...[315]...tain long-term debt.",
+        "html_preview": "<ix:continuation con...[2226]...v></ix:continuation>",
+        "html_hash": "69e016a1"
+    },
+    {
+        "id": 227,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "21",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "94f13969"
+    },
+    {
+        "id": 228,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 229,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 230,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Long-Term Debt Total...[1853]...2 and June\u00a030, 2023.",
+        "html_preview": "<ix:continuation id=...[26069]...v></ix:continuation>",
+        "html_hash": "61207456"
+    },
+    {
+        "id": 231,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_76\"></div>",
+        "html_hash": "a08c4e93"
+    },
+    {
+        "id": 232,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 6.    Supplemen...[15]...tatement Information",
+        "html_preview": "<div style=\"margin-t...[364]...umeric></span></div>",
+        "html_hash": "497a7641",
+        "level": 0
+    },
+    {
+        "id": 233,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Accounts ReceivableT...[578]...net$112,668\u00a0$121,208",
+        "html_preview": "<ix:continuation con...[16540]...v></ix:continuation>",
+        "html_hash": "5e66f8a1"
+    },
+    {
+        "id": 234,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "22",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "68af8d34"
+    },
+    {
+        "id": 235,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 236,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 237,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Accrued Expenses and...[2223]...$(2,691)$11\u00a0$(5,991)",
+        "html_preview": "<ix:continuation con...[55852]...v></ix:continuation>",
+        "html_hash": "09f03acf"
+    },
+    {
+        "id": 238,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "23",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "21d3d5e4"
+    },
+    {
+        "id": 239,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 240,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 241,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "The effects on net i...[1532]... 2023, respectively.",
+        "html_preview": "<ix:continuation id=...[59835]...c></ix:continuation>",
+        "html_hash": "4dcceae7"
+    },
+    {
+        "id": 242,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "24",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "1ae8f53d"
+    },
+    {
+        "id": 243,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_79\"></div>",
+        "html_hash": "ac90b7df"
+    },
+    {
+        "id": 244,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 245,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 246,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 7.    Workforce...[12]...nd Other Initiatives",
+        "html_preview": "<div style=\"margin-t...[369]...umeric></span></div>",
+        "html_hash": "1252b955",
+        "level": 0
+    },
+    {
+        "id": 247,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "We have a company-wi...[1957]...ated balance sheets.",
+        "html_preview": "<ix:continuation id=...[35527]...c></ix:continuation>",
+        "html_hash": "5c1487cb"
+    },
+    {
+        "id": 248,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_82\"></div>",
+        "html_hash": "81b8e31f"
+    },
+    {
+        "id": 249,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 8.    Goodwill ...[7]...er Intangible Assets",
+        "html_preview": "<div style=\"margin-t...[358]...umeric></span></div>",
+        "html_hash": "e0d6a785",
+        "level": 0
+    },
+    {
+        "id": 250,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "GoodwillChanges in t...[321]...\u00a0$7,206\u00a0$880\u00a0$29,210",
+        "html_preview": "<ix:continuation con...[15095]...c></ix:continuation>",
+        "html_hash": "a4b73819"
+    },
+    {
+        "id": 251,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "25",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "8f359bca"
+    },
+    {
+        "id": 252,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 253,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 254,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Other Intangible Ass...[1000]...after248\u00a0Total$1,730",
+        "html_preview": "<ix:continuation id=...[38950]...c></ix:continuation>",
+        "html_hash": "f8487e21"
+    },
+    {
+        "id": 255,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_85\"></div>",
+        "html_hash": "8628d774"
+    },
+    {
+        "id": 256,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 9.    Commitments and Contingencies",
+        "html_preview": "<div style=\"margin-t...[351]...umeric></span></div>",
+        "html_hash": "1e0ca9cb",
+        "level": 0
+    },
+    {
+        "id": 257,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "CommitmentsWe have c...[1748]...reasonably possible.",
+        "html_preview": "<ix:continuation con...[3389]...v></ix:continuation>",
+        "html_hash": "7b582c1f"
+    },
+    {
+        "id": 258,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "26",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "49c3f0c2"
+    },
+    {
+        "id": 259,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 260,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 261,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Legal MattersWe reco...[5012]...y. On June 14, 2023,",
+        "html_preview": "<ix:continuation con...[10380]...v></ix:continuation>",
+        "html_hash": "652ce0a4"
+    },
+    {
+        "id": 262,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "27",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "eaceaa68"
+    },
+    {
+        "id": 263,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 264,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 265,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "the EC issued a Stat...[5040]...encies, see Note 13.",
+        "html_preview": "<ix:continuation id=...[7817]...v></ix:continuation>",
+        "html_hash": "d4fb3494"
+    },
+    {
+        "id": 266,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "28",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "96374fb0"
+    },
+    {
+        "id": 267,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_88\"></div>",
+        "html_hash": "8997486d"
+    },
+    {
+        "id": 268,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 269,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 270,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 10.    Stockholders' Equity",
+        "html_preview": "<div style=\"margin-t...[339]...umeric></span></div>",
+        "html_hash": "a84a4126",
+        "level": 0
+    },
+    {
+        "id": 271,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Share RepurchasesIn ...[1602]... an expiration date.",
+        "html_preview": "<ix:continuation id=...[16240]...v></ix:continuation>",
+        "html_hash": "118fb80b"
+    },
+    {
+        "id": 272,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_91\"></div>",
+        "html_hash": "5d492668"
+    },
+    {
+        "id": 273,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 11.    Net Income Per Share",
+        "html_preview": "<div style=\"margin-t...[322]...umeric></span></div>",
+        "html_hash": "f4e82f1f",
+        "level": 0
+    },
+    {
+        "id": 274,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[1281]...21\u00a0$1.44\u00a0$1.44\u00a0$1.44",
+        "html_preview": "<div style=\"margin-t...[73766]...:continuation></div>",
+        "html_hash": "b5dcd6f2"
+    },
+    {
+        "id": 275,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "29",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "84dda0b6"
+    },
+    {
+        "id": 276,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 277,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 278,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Six Months Ended Jun...[1443]...ion of Alphabet Inc.",
+        "html_preview": "<ix:continuation id=...[73784]...v></ix:continuation>",
+        "html_hash": "1422dd69"
+    },
+    {
+        "id": 279,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_97\"></div>",
+        "html_hash": "3002728e"
+    },
+    {
+        "id": 280,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 12.    Compensation Plans",
+        "html_preview": "<div style=\"margin-t...[358]...umeric></span></div>",
+        "html_hash": "b4da16dd",
+        "level": 0
+    },
+    {
+        "id": 281,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "Stock-Based Compensa...[1205]... 30, 2023442\u00a0$102.97",
+        "html_preview": "<ix:continuation con...[14981]...v></ix:continuation>",
+        "html_hash": "4da21eff"
+    },
+    {
+        "id": 282,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "30",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "6ab2736a"
+    },
+    {
+        "id": 283,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 284,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 285,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of June\u00a030, 2023,...[150]...period of 2.8 years.",
+        "html_preview": "<div style=\"margin-t...[864]...n> \u00a0\u00a0\u00a0\u00a0</span></div>",
+        "html_hash": "c2d8da21"
+    },
+    {
+        "id": 286,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_103\"></div>",
+        "html_hash": "a56e6f73"
+    },
+    {
+        "id": 287,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 13.    Income Taxes",
+        "html_preview": "<div style=\"margin-t...[318]...umeric></span></div>",
+        "html_hash": "fef5e860",
+        "level": 0
+    },
+    {
+        "id": 288,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "The following table ...[295]...\u00a0%16.1\u00a0%14.5\u00a0%16.7\u00a0%",
+        "html_preview": "<ix:continuation con...[13640]...c></ix:continuation>",
+        "html_hash": "0216f5ab"
+    },
+    {
+        "id": 289,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We are subject to in...[401]... rate, respectively.",
+        "html_preview": "<div style=\"margin-t...[1771]...ation> </span></div>",
+        "html_hash": "60ad244f"
+    },
+    {
+        "id": 290,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_106\"></div>",
+        "html_hash": "775b76a9"
+    },
+    {
+        "id": 291,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Note 14.    Informat...[19]...and Geographic Areas",
+        "html_preview": "<div style=\"margin-t...[360]...umeric></span></div>",
+        "html_hash": "56f1c49c",
+        "level": 0
+    },
+    {
+        "id": 292,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "We report our segmen...[2958]...g asset information.",
+        "html_preview": "<ix:continuation con...[5363]...c></ix:continuation>",
+        "html_hash": "a1f6a809"
+    },
+    {
+        "id": 293,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "31",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "ac9dfb22"
+    },
+    {
+        "id": 294,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 295,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 296,
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "The following table ...[970]...ets$127,049\u00a0$135,677",
+        "html_preview": "<ix:continuation id=...[45661]...v></ix:continuation>",
+        "html_hash": "a093eda5"
+    },
+    {
+        "id": 297,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "32",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "51b11595"
+    },
+    {
+        "id": 298,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_112\"></div>",
+        "html_hash": "7342a111"
+    },
+    {
+        "id": 299,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 300,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 301,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "ITEM 2.MANAGEMENT\u2019S ...[52]...ESULTS OF OPERATIONS",
+        "html_preview": "<div style=\"margin-t...[391]...RATIONS</span></div>",
+        "html_hash": "5fa98299",
+        "level": 0
+    },
+    {
+        "id": 302,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Please read the foll...[365]...m 1A \"Risk Factors.\"",
+        "html_preview": "<div style=\"margin-t...[551]...ctors.\"</span></div>",
+        "html_hash": "cdde353b"
+    },
+    {
+        "id": 303,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_115\"></div>",
+        "html_hash": "793a678f"
+    },
+    {
+        "id": 304,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Understanding Alphab...[2]...\u2019s Financial Results",
+        "html_preview": "<div style=\"margin-t...[169]...Results</span></div>",
+        "html_hash": "6f707447",
+        "level": 0
+    },
+    {
+        "id": 305,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Alphabet is a collec...[326]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[512]...m 10-Q.</span></div>",
+        "html_hash": "32becd9c"
+    },
+    {
+        "id": 306,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_118\"></div>",
+        "html_hash": "a3dd1b1d"
+    },
+    {
+        "id": 307,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Revenues and Monetization Metrics",
+        "html_preview": "<div style=\"margin-t...[293]...120%\"> </span></div>",
+        "html_hash": "2c4793d7",
+        "level": 1
+    },
+    {
+        "id": 308,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We generate revenues...[547]...d December\u00a031, 2022.",
+        "html_preview": "<div style=\"margin-t...[733]..., 2022.</span></div>",
+        "html_hash": "68cbc6c2"
+    },
+    {
+        "id": 309,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "In addition to the l...[302]... factors, including:",
+        "html_preview": "<div style=\"margin-t...[488]...luding:</span></div>",
+        "html_hash": "e4616216"
+    },
+    {
+        "id": 310,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022changes in foreign ...[4]...ency exchange rates;",
+        "html_preview": "<div style=\"margin-t...[341]... rates;</span></div>",
+        "html_hash": "9b48bf33"
+    },
+    {
+        "id": 311,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022changes in pricing,...[72]...customer incentives;",
+        "html_preview": "<div style=\"margin-t...[409]...ntives;</span></div>",
+        "html_hash": "461af6e5"
+    },
+    {
+        "id": 312,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022general economic co...[149]...enterprise spending;",
+        "html_preview": "<div style=\"margin-t...[487]...nding; </span></div>",
+        "html_hash": "e28d3209"
+    },
+    {
+        "id": 313,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022new product and service launches; and",
+        "html_preview": "<div style=\"margin-t...[335]...es; and</span></div>",
+        "html_hash": "a4a0f2af"
+    },
+    {
+        "id": 314,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022seasonality.",
+        "html_preview": "<div style=\"margin-t...[310]...nality.</span></div>",
+        "html_hash": "b42c3f6f"
+    },
+    {
+        "id": 315,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Additionally, fluctu...[257]... as described below.",
+        "html_preview": "<div style=\"margin-t...[443]... below.</span></div>",
+        "html_hash": "3e7fb063"
+    },
+    {
+        "id": 316,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google Services",
+        "html_preview": "<div style=\"margin-t...[179]...ervices</span></div>",
+        "html_hash": "7496d068",
+        "level": 1
+    },
+    {
+        "id": 317,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Google Services reve...[48]...ogle other revenues.",
+        "html_preview": "<div style=\"margin-t...[234]...venues.</span></div>",
+        "html_hash": "d1cb6383"
+    },
+    {
+        "id": 318,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google Advertising",
+        "html_preview": "<div style=\"margin-t...[208]...rtising</span></div>",
+        "html_hash": "f166954a",
+        "level": 2
+    },
+    {
+        "id": 319,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Google advertising r...[19]...ed of the following:",
+        "html_preview": "<div style=\"margin-t...[206]...owing: </span></div>",
+        "html_hash": "aff3fb58"
+    },
+    {
+        "id": 320,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Google Search & oth...[282]...ps, and Google Play;",
+        "html_preview": "<div style=\"margin-t...[623]...e Play;</span></div>",
+        "html_hash": "7797a52e"
+    },
+    {
+        "id": 321,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022YouTube ads, which ...[34]...Tube properties; and",
+        "html_preview": "<div style=\"margin-t...[371]...es; and</span></div>",
+        "html_hash": "5dd17241"
+    },
+    {
+        "id": 322,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Google Network, whi...[95]...d Google Ad Manager.",
+        "html_preview": "<div style=\"margin-t...[432]...anager.</span></div>",
+        "html_hash": "20e55473"
+    },
+    {
+        "id": 323,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We use certain metri...[272]... Network properties.",
+        "html_preview": "<div style=\"margin-t...[462]...erties.</span></div>",
+        "html_hash": "d8e2f389"
+    },
+    {
+        "id": 324,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Paid clicks represen...[167]...gle Maps, and Google",
+        "html_preview": "<div style=\"margin-t...[354]...Google </span></div>",
+        "html_hash": "c206b9e7"
+    },
+    {
+        "id": 325,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "33",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "942930d5"
+    },
+    {
+        "id": 326,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 327,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 328,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Play. Cost-per-click...[145]...engagement by users.",
+        "html_preview": "<div style=\"margin-t...[312]... users.</span></div>",
+        "html_hash": "48c18ad5"
+    },
+    {
+        "id": 329,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Impressions include ...[321]... displayed to users.",
+        "html_preview": "<div style=\"margin-t...[507]... users.</span></div>",
+        "html_hash": "31331a26"
+    },
+    {
+        "id": 330,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As our business evol...[237]...impression activity.",
+        "html_preview": "<div style=\"margin-t...[423]...tivity.</span></div>",
+        "html_hash": "9d4265a5"
+    },
+    {
+        "id": 331,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Fluctuations in our ...[290]...al factors, such as:",
+        "html_preview": "<div style=\"margin-t...[480]...uch as:</span></div>",
+        "html_hash": "344ed89a"
+    },
+    {
+        "id": 332,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022advertiser competition for keywords;",
+        "html_preview": "<div style=\"margin-t...[334]...ywords;</span></div>",
+        "html_hash": "680cc7d8"
+    },
+    {
+        "id": 333,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022changes in advertis...[21]... delivery or policy;",
+        "html_preview": "<div style=\"margin-t...[358]...policy;</span></div>",
+        "html_hash": "904a887b"
+    },
+    {
+        "id": 334,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022changes in device mix;",
+        "html_preview": "<div style=\"margin-t...[320]...ce mix;</span></div>",
+        "html_hash": "c641c660"
+    },
+    {
+        "id": 335,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022seasonal fluctuatio...[103]...ail seasonality; and",
+        "html_preview": "<div style=\"margin-t...[440]...ty; and</span></div>",
+        "html_hash": "6a95a7ea"
+    },
+    {
+        "id": 336,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022traffic growth in e...[70]...ticals and channels.",
+        "html_preview": "<div style=\"margin-t...[407]...annels.</span></div>",
+        "html_hash": "2fe39885"
+    },
+    {
+        "id": 337,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google Other",
+        "html_preview": "<div style=\"margin-t...[202]...e Other</span></div>",
+        "html_hash": "0f1e0f22",
+        "level": 2
+    },
+    {
+        "id": 338,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Google other revenue...[13]...ed of the following:",
+        "html_preview": "<div style=\"margin-t...[199]...lowing:</span></div>",
+        "html_hash": "7ea42c50"
+    },
+    {
+        "id": 339,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Google Play, which ...[24]...nd in-app purchases;",
+        "html_preview": "<div style=\"margin-t...[361]...chases;</span></div>",
+        "html_hash": "98fa49f6"
+    },
+    {
+        "id": 340,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022hardware, which inc...[65]..., and Pixel devices;",
+        "html_preview": "<div style=\"margin-t...[402]...evices;</span></div>",
+        "html_hash": "68c9f4ca"
+    },
+    {
+        "id": 341,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022YouTube non-adverti...[80]... and YouTube TV; and",
+        "html_preview": "<div style=\"margin-t...[417]...TV; and</span></div>",
+        "html_hash": "08f5d769"
+    },
+    {
+        "id": 342,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022other products and services.",
+        "html_preview": "<div style=\"margin-t...[326]...rvices.</span></div>",
+        "html_hash": "3134adc4"
+    },
+    {
+        "id": 343,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Fluctuations in our ...[187]...of product launches.",
+        "html_preview": "<div style=\"margin-t...[373]...unches.</span></div>",
+        "html_hash": "ee78509f"
+    },
+    {
+        "id": 344,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google Cloud",
+        "html_preview": "<div style=\"margin-t...[176]...e Cloud</span></div>",
+        "html_hash": "ab267f59",
+        "level": 1
+    },
+    {
+        "id": 345,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Google Cloud revenue...[13]...ed of the following:",
+        "html_preview": "<div style=\"margin-t...[199]...lowing:</span></div>",
+        "html_hash": "3f623f73"
+    },
+    {
+        "id": 346,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Google Cloud Platfo...[53]... and other services;",
+        "html_preview": "<div style=\"margin-t...[390]...rvices;</span></div>",
+        "html_hash": "b850833f"
+    },
+    {
+        "id": 347,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Google Workspace, w...[120]...lendar and Meet; and",
+        "html_preview": "<div style=\"margin-t...[458]...t; and </span></div>",
+        "html_hash": "20dd75f3"
+    },
+    {
+        "id": 348,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022other enterprise services.",
+        "html_preview": "<div style=\"margin-t...[324]...rvices.</span></div>",
+        "html_hash": "7bde4f80"
+    },
+    {
+        "id": 349,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Fluctuations in our ...[90]...h as customer usage.",
+        "html_preview": "<div style=\"margin-t...[276]... usage.</span></div>",
+        "html_hash": "6bfdc341"
+    },
+    {
+        "id": 350,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Other Bets",
+        "html_preview": "<div style=\"margin-t...[174]...er Bets</span></div>",
+        "html_hash": "8cb33fbf",
+        "level": 1
+    },
+    {
+        "id": 351,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Revenues from Other ...[66]...d internet services.",
+        "html_preview": "<div style=\"margin-t...[252]...rvices.</span></div>",
+        "html_hash": "bde30ac9"
+    },
+    {
+        "id": 352,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_121\"></div>",
+        "html_hash": "31f59725"
+    },
+    {
+        "id": 353,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Costs and Expenses",
+        "html_preview": "<div style=\"margin-t...[163]...xpenses</span></div>",
+        "html_hash": "dd9ff285",
+        "level": 1
+    },
+    {
+        "id": 354,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Our cost structure h...[400]... changes in revenue.",
+        "html_preview": "<div style=\"margin-t...[590]...evenue.</span></div>",
+        "html_hash": "30e2aa50"
+    },
+    {
+        "id": 355,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "34",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "cc3fa483"
+    },
+    {
+        "id": 356,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 357,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 358,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Cost of Revenues",
+        "html_preview": "<div style=\"margin-t...[180]...evenues</span></div>",
+        "html_hash": "4aae7a25",
+        "level": 1
+    },
+    {
+        "id": 359,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Cost of revenues is ...[25]...r costs of revenues.",
+        "html_preview": "<div style=\"margin-t...[211]...venues.</span></div>",
+        "html_hash": "64f4af44"
+    },
+    {
+        "id": 360,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022TAC includes:",
+        "html_preview": "<div style=\"margin-t...[312]...ludes: </span></div>",
+        "html_hash": "181fd4ce"
+    },
+    {
+        "id": 361,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u25e6Amounts paid to our...[189]...software developers.",
+        "html_preview": "<div style=\"margin-t...[527]...lopers.</span></div>",
+        "html_hash": "746623e9"
+    },
+    {
+        "id": 362,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u25e6Amounts paid to Goo...[49]...on their properties.",
+        "html_preview": "<div style=\"margin-t...[387]...erties.</span></div>",
+        "html_hash": "a9ccb3d8"
+    },
+    {
+        "id": 363,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Other cost of revenues includes:",
+        "html_preview": "<div style=\"margin-t...[330]...cludes:</span></div>",
+        "html_hash": "7cf46919"
+    },
+    {
+        "id": 364,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u25e6Content acquisition...[200]...ated or a flat fee).",
+        "html_preview": "<div style=\"margin-t...[538]...t fee).</span></div>",
+        "html_hash": "00fc88c8"
+    },
+    {
+        "id": 365,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u25e6Expenses associated...[202]...duct support costs).",
+        "html_preview": "<div style=\"margin-t...[540]...costs).</span></div>",
+        "html_hash": "4ee04cc3"
+    },
+    {
+        "id": 366,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u25e6Inventory and other...[19]...he hardware we sell.",
+        "html_preview": "<div style=\"margin-t...[357]...e sell.</span></div>",
+        "html_hash": "655d8932"
+    },
+    {
+        "id": 367,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "TAC as a percentage ...[304]...le Network partners.",
+        "html_preview": "<div style=\"margin-t...[494]...rtners.</span></div>",
+        "html_hash": "5d7bad56"
+    },
+    {
+        "id": 368,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Operating Expenses",
+        "html_preview": "<div style=\"margin-t...[182]...xpenses</span></div>",
+        "html_hash": "2c99b811",
+        "level": 1
+    },
+    {
+        "id": 369,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Operating expenses a...[126]... and administrative.",
+        "html_preview": "<div style=\"margin-t...[316]...rative.</span></div>",
+        "html_hash": "e9ef6be6"
+    },
+    {
+        "id": 370,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The main components ...[4]...ur R&D expenses are:",
+        "html_preview": "<div style=\"margin-t...[194]...es are:</span></div>",
+        "html_hash": "c238a1ec"
+    },
+    {
+        "id": 371,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022compensation expens...[97]...oducts and services;",
+        "html_preview": "<div style=\"margin-t...[439]...vices; </span></div>",
+        "html_hash": "2acd3b6c"
+    },
+    {
+        "id": 372,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022depreciation; and",
+        "html_preview": "<div style=\"margin-t...[315]...on; and</span></div>",
+        "html_hash": "3fe7bb4a"
+    },
+    {
+        "id": 373,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022third-party service...[106]...development efforts.",
+        "html_preview": "<div style=\"margin-t...[443]...fforts.</span></div>",
+        "html_hash": "1a955b3b"
+    },
+    {
+        "id": 374,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The main components ...[20]...keting expenses are:",
+        "html_preview": "<div style=\"margin-t...[206]...es are:</span></div>",
+        "html_hash": "32b6415d"
+    },
+    {
+        "id": 375,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022compensation expens...[87]...rvice functions; and",
+        "html_preview": "<div style=\"margin-t...[424]...ns; and</span></div>",
+        "html_hash": "47957be3"
+    },
+    {
+        "id": 376,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022spending relating t...[65]...oducts and services.",
+        "html_preview": "<div style=\"margin-t...[402]...rvices.</span></div>",
+        "html_hash": "798f6d1d"
+    },
+    {
+        "id": 377,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The main components ...[27]...rative expenses are:",
+        "html_preview": "<div style=\"margin-t...[213]...es are:</span></div>",
+        "html_hash": "31cbd5be"
+    },
+    {
+        "id": 378,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022compensation expens...[100]...e support functions;",
+        "html_preview": "<div style=\"margin-t...[438]...tions; </span></div>",
+        "html_hash": "8de589f1"
+    },
+    {
+        "id": 379,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022expenses relating t...[33]...and settlements; and",
+        "html_preview": "<div style=\"margin-t...[371]...s; and </span></div>",
+        "html_hash": "dd46d6c9"
+    },
+    {
+        "id": 380,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022third-party service...[77]...nistrative services.",
+        "html_preview": "<div style=\"margin-t...[414]...rvices.</span></div>",
+        "html_hash": "3dcabfac"
+    },
+    {
+        "id": 381,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_124\"></div>",
+        "html_hash": "3bf9c504"
+    },
+    {
+        "id": 382,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Other Income (Expense), Net",
+        "html_preview": "<div style=\"margin-t...[173]...), Net </span></div>",
+        "html_hash": "f963544f",
+        "level": 1
+    },
+    {
+        "id": 383,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Other income (expens...[262]... method investments.",
+        "html_preview": "<div style=\"margin-t...[448]...tments.</span></div>",
+        "html_hash": "3b775204"
+    },
+    {
+        "id": 384,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For additional detai...[302]...ort on Form 10-K for",
+        "html_preview": "<div style=\"margin-t...[742]...-K for </span></div>",
+        "html_hash": "2b00998b"
+    },
+    {
+        "id": 385,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "35",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "6c4e4859"
+    },
+    {
+        "id": 386,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 387,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 388,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "the fiscal year ende...[125]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[292]...m 10-Q.</span></div>",
+        "html_hash": "642af091"
+    },
+    {
+        "id": 389,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_127\"></div>",
+        "html_hash": "f74a5483"
+    },
+    {
+        "id": 390,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Provision for Income Taxes",
+        "html_preview": "<div style=\"margin-t...[286]...120%\"> </span></div>",
+        "html_hash": "a46f2834",
+        "level": 1
+    },
+    {
+        "id": 391,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Provision for income...[294]...erest and penalties.",
+        "html_preview": "<div style=\"margin-t...[480]...alties.</span></div>",
+        "html_hash": "b71558ca"
+    },
+    {
+        "id": 392,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For additional detai...[277]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[716]...m 10-Q.</span></div>",
+        "html_hash": "d04cee54"
+    },
+    {
+        "id": 393,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_133\"></div>",
+        "html_hash": "c5709df8"
+    },
+    {
+        "id": 394,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Executive Overview",
+        "html_preview": "<div style=\"margin-t...[145]...verview</span></div>",
+        "html_hash": "7540e10e",
+        "level": 0
+    },
+    {
+        "id": 395,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[86]...on and percentages):",
+        "html_preview": "<div style=\"margin-t...[273]...tages):</span></div>",
+        "html_hash": "72796a6d"
+    },
+    {
+        "id": 396,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Three Months EndedJu...[380]....21\u00a0$1.44\u00a0$0.23\u00a019\u00a0%",
+        "html_preview": "<div style=\"margin-t...[27369]...></tr></table></div>",
+        "html_hash": "d9b34b5e"
+    },
+    {
+        "id": 397,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "NM = Not Meaningful",
+        "html_preview": "<div style=\"margin-t...[185]...ningful</span></div>",
+        "html_hash": "f286ab49"
+    },
+    {
+        "id": 398,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)\u00a0\u00a0\u00a0\u00a0See \"Use of N...[87]...urrency information.",
+        "html_preview": "<div style=\"margin-t...[464]...ation. </span></div>",
+        "html_hash": "2ac3df97"
+    },
+    {
+        "id": 399,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Revenues were $74.6...[173]...1.8 billion, or 28%.",
+        "html_preview": "<div style=\"margin-t...[510]...or 28%.</span></div>",
+        "html_hash": "720bcb92"
+    },
+    {
+        "id": 400,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Total constant curr...[60]...d 9% year over year.",
+        "html_preview": "<div style=\"margin-t...[397]...r year.</span></div>",
+        "html_hash": "639fd013"
+    },
+    {
+        "id": 401,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Cost of revenues wa...[323]...n network equipment.",
+        "html_preview": "<div style=\"margin-t...[660]...ipment.</span></div>",
+        "html_hash": "7ff09316"
+    },
+    {
+        "id": 402,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Operating expenses ...[408]...n network equipment.",
+        "html_preview": "<div style=\"margin-t...[745]...ipment.</span></div>",
+        "html_hash": "9e324f26"
+    },
+    {
+        "id": 403,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Other Information",
+        "html_preview": "<div style=\"margin-t...[162]...rmation</span></div>",
+        "html_hash": "58e19ffb",
+        "level": 1
+    },
+    {
+        "id": 404,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022In January 2023, we...[477]...dditional charges in",
+        "html_preview": "<div style=\"margin-t...[2244]...ges in </span></div>",
+        "html_hash": "6a4fe73c"
+    },
+    {
+        "id": 405,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "36",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "2b5d32af"
+    },
+    {
+        "id": 406,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 407,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 408,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "the future as we fur...[163]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[348]...m 10-Q.</span></div>",
+        "html_hash": "b2d322d5"
+    },
+    {
+        "id": 409,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022In January 2023, we...[541]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[1185]...m 10-Q.</span></div>",
+        "html_hash": "45068b59"
+    },
+    {
+        "id": 410,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Repurchases of Clas...[210]...itional information.",
+        "html_preview": "<div style=\"margin-t...[711]...mation.</span></div>",
+        "html_hash": "7e43fd04"
+    },
+    {
+        "id": 411,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Operating cash flow...[178]...nties in California.",
+        "html_preview": "<div style=\"margin-t...[515]...fornia.</span></div>",
+        "html_hash": "c9c07769"
+    },
+    {
+        "id": 412,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Capital expenditure...[109]...ended June 30, 2023.",
+        "html_preview": "<div style=\"margin-t...[446]..., 2023.</span></div>",
+        "html_hash": "cb6e7508"
+    },
+    {
+        "id": 413,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022As of June\u00a030, 2023...[321]...tation requirements.",
+        "html_preview": "<div style=\"margin-t...[658]...ements.</span></div>",
+        "html_hash": "127f9ebe"
+    },
+    {
+        "id": 414,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "37",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "d8676837"
+    },
+    {
+        "id": 415,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_136\"></div>",
+        "html_hash": "193c45c8"
+    },
+    {
+        "id": 416,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 417,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 418,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Financial Results",
+        "html_preview": "<div style=\"margin-t...[145]...Results</span></div>",
+        "html_hash": "6d0c0c89",
+        "level": 0
+    },
+    {
+        "id": 419,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_139\"></div>",
+        "html_hash": "a2f6ac26"
+    },
+    {
+        "id": 420,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Revenues",
+        "html_preview": "<div style=\"margin-t...[153]...evenues</span></div>",
+        "html_hash": "5761b2b2",
+        "level": 1
+    },
+    {
+        "id": 421,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[502]...04\u00a0$137,696\u00a0$144,391",
+        "html_preview": "<div style=\"margin-t...[24639]...></tr></table></div>",
+        "html_hash": "40cb7129"
+    },
+    {
+        "id": 422,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google Services",
+        "html_preview": "<div style=\"margin-t...[179]...ervices</span></div>",
+        "html_hash": "7496d068",
+        "level": 1
+    },
+    {
+        "id": 423,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google advertising revenues",
+        "html_preview": "<div style=\"margin-t...[217]...evenues</span></div>",
+        "html_hash": "1b85d47e",
+        "level": 2
+    },
+    {
+        "id": 424,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google Search & other",
+        "html_preview": "<div style=\"margin-t...[189]...; other</span></div>",
+        "html_hash": "e5c1679b",
+        "level": 2
+    },
+    {
+        "id": 425,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Google Search & othe...[588]...ended June 30, 2023.",
+        "html_preview": "<div style=\"margin-t...[778]..., 2023.</span></div>",
+        "html_hash": "012f58ad"
+    },
+    {
+        "id": 426,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "YouTube ads",
+        "html_preview": "<div style=\"margin-t...[175]...ube ads</span></div>",
+        "html_hash": "9e2fb2ae",
+        "level": 2
+    },
+    {
+        "id": 427,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "YouTube ads revenues...[507]...ended June 30, 2023.",
+        "html_preview": "<div style=\"margin-t...[693]..., 2023.</span></div>",
+        "html_hash": "34b5fcb6"
+    },
+    {
+        "id": 428,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google Network",
+        "html_preview": "<div style=\"margin-t...[178]...Network</span></div>",
+        "html_hash": "d7e94ccf",
+        "level": 2
+    },
+    {
+        "id": 429,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Google Network reven...[424]...ended June 30, 2023.",
+        "html_preview": "<div style=\"margin-t...[610]..., 2023.</span></div>",
+        "html_hash": "9401d159"
+    },
+    {
+        "id": 430,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Monetization Metrics",
+        "html_preview": "<div style=\"margin-t...[210]...Metrics</span></div>",
+        "html_hash": "40e6721f",
+        "level": 2
+    },
+    {
+        "id": 431,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Paid clicks and cost-per-click",
+        "html_preview": "<div style=\"margin-t...[175]...r-click</span></div>",
+        "html_hash": "738d2c17",
+        "level": 2
+    },
+    {
+        "id": 432,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[74]...ed as a percentage):",
+        "html_preview": "<div style=\"margin-t...[260]...ntage):</span></div>",
+        "html_hash": "86baff2e"
+    },
+    {
+        "id": 433,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Three Months Ended J...[71]...click change(3)%(5)%",
+        "html_preview": "<div style=\"margin-t...[3406]...></tr></table></div>",
+        "html_hash": "6729a162"
+    },
+    {
+        "id": 434,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "38",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "6622864b"
+    },
+    {
+        "id": 435,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 436,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 437,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Paid clicks increase...[302]... and policy changes.",
+        "html_preview": "<div style=\"margin-t...[488]...hanges.</span></div>",
+        "html_hash": "c15896a5"
+    },
+    {
+        "id": 438,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Cost-per-click decre...[453]...ended June 30, 2023.",
+        "html_preview": "<div style=\"margin-t...[639]..., 2023.</span></div>",
+        "html_hash": "3c700fb7"
+    },
+    {
+        "id": 439,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Impressions and cost-per-impression",
+        "html_preview": "<div style=\"margin-t...[180]...ression</span></div>",
+        "html_hash": "8b6a919c",
+        "level": 2
+    },
+    {
+        "id": 440,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[79]...ed as a percentage):",
+        "html_preview": "<div style=\"margin-t...[246]...ntage):</span></div>",
+        "html_hash": "fa4c2a28"
+    },
+    {
+        "id": 441,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Three Months Ended J...[78]...ssion change(5)%(5)%",
+        "html_preview": "<div style=\"margin-t...[3388]...></tr></table></div>",
+        "html_hash": "77aa93e4"
+    },
+    {
+        "id": 442,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Impressions were rel...[528]...ency exchange rates.",
+        "html_preview": "<div style=\"margin-t...[714]... rates.</span></div>",
+        "html_hash": "a7c34c13"
+    },
+    {
+        "id": 443,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Impressions decrease...[509]...ency exchange rates.",
+        "html_preview": "<div style=\"margin-t...[948]... rates.</span></div>",
+        "html_hash": "ed99bed1"
+    },
+    {
+        "id": 444,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google other revenues",
+        "html_preview": "<div style=\"margin-t...[211]...evenues</span></div>",
+        "html_hash": "3acb6bb9",
+        "level": 2
+    },
+    {
+        "id": 445,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Google other revenue...[527]...ended June 30, 2023.",
+        "html_preview": "<div style=\"margin-t...[713]..., 2023.</span></div>",
+        "html_hash": "de11156b"
+    },
+    {
+        "id": 446,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google Cloud",
+        "html_preview": "<div style=\"margin-t...[177]...e Cloud</span></div>",
+        "html_hash": "81862e30",
+        "level": 1
+    },
+    {
+        "id": 447,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Google Cloud revenue...[340]...ogle Cloud Platform.",
+        "html_preview": "<div style=\"margin-t...[527]...atform.</span></div>",
+        "html_hash": "e9c17d0e"
+    },
+    {
+        "id": 448,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "39",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "6353c58d"
+    },
+    {
+        "id": 449,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_145\"></div>",
+        "html_hash": "818a1a12"
+    },
+    {
+        "id": 450,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 451,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 452,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Revenues by Geography",
+        "html_preview": "<div style=\"margin-t...[166]...ography</span></div>",
+        "html_hash": "25d4bff9",
+        "level": 1
+    },
+    {
+        "id": 453,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[288]...(losses)1\u00a0%0\u00a0%0\u00a0%0\u00a0%",
+        "html_preview": "<div style=\"margin-t...[15033]...></tr></table></div>",
+        "html_hash": "6f8abf27"
+    },
+    {
+        "id": 454,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For further details ...[124]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[310]...m 10-Q.</span></div>",
+        "html_hash": "9857edd2"
+    },
+    {
+        "id": 455,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Use of Non-GAAP Cons...[5]...Currency Information",
+        "html_preview": "<div style=\"margin-t...[209]...rmation</span></div>",
+        "html_hash": "28096e06",
+        "level": 1
+    },
+    {
+        "id": 456,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "International revenu...[165]...ency exchange rates.",
+        "html_preview": "<div style=\"margin-t...[351]... rates.</span></div>",
+        "html_hash": "5d9fc0e2"
+    },
+    {
+        "id": 457,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The effect of curren...[644]...e operating results.",
+        "html_preview": "<div style=\"margin-t...[830]...esults.</span></div>",
+        "html_hash": "df39065f"
+    },
+    {
+        "id": 458,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Constant currency in...[617]... the current period.",
+        "html_preview": "<div style=\"margin-t...[803]...period.</span></div>",
+        "html_hash": "4d348f6f"
+    },
+    {
+        "id": 459,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Constant currency re...[289]...ues of both periods.",
+        "html_preview": "<div style=\"margin-t...[475]...eriods.</span></div>",
+        "html_hash": "1360ce1c"
+    },
+    {
+        "id": 460,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "These results should...[282]...ccordance with GAAP.",
+        "html_preview": "<div style=\"margin-t...[468]...h GAAP.</span></div>",
+        "html_hash": "2a8a6a66"
+    },
+    {
+        "id": 461,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "40",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "01b30ccd"
+    },
+    {
+        "id": 462,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 463,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 464,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[105]...except percentages):",
+        "html_preview": "<div style=\"margin-t...[430]...tages):</span></div>",
+        "html_hash": "520c0dbd"
+    },
+    {
+        "id": 465,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Three Months Ended J...[497]...5,747\u00a07\u00a0%(1)%(1)%9\u00a0%",
+        "html_preview": "<div style=\"margin-t...[31346]...></tr></table></div>",
+        "html_hash": "45accbae"
+    },
+    {
+        "id": 466,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)Total constant cu...[183]...ended June 30, 2022.",
+        "html_preview": "<div style=\"padding-...[565]..., 2022.</span></div>",
+        "html_hash": "910352cb"
+    },
+    {
+        "id": 467,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "EMEA revenue growth ...[129]...o the British pound.",
+        "html_preview": "<div style=\"margin-t...[315]... pound.</span></div>",
+        "html_hash": "b041b576"
+    },
+    {
+        "id": 468,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "APAC revenue growth ...[128]...to the Japanese yen.",
+        "html_preview": "<div style=\"margin-t...[314]...se yen.</span></div>",
+        "html_hash": "1d9b2e06"
+    },
+    {
+        "id": 469,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Other Americas reven...[140]... the Argentine peso.",
+        "html_preview": "<div style=\"margin-t...[326]...e peso.</span></div>",
+        "html_hash": "c7220eef"
+    },
+    {
+        "id": 470,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Six Months Ended Jun...[503]...47,624\u00a05\u00a0%0\u00a0%(3)%8\u00a0%",
+        "html_preview": "<div style=\"margin-t...[31327]...></tr></table></div>",
+        "html_hash": "c65aae11"
+    },
+    {
+        "id": 471,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)Total constant cu...[182]...ended June 30, 2022.",
+        "html_preview": "<div style=\"padding-...[564]..., 2022.</span></div>",
+        "html_hash": "5ca822d1"
+    },
+    {
+        "id": 472,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "EMEA revenue growth ...[142]... pound and the Euro.",
+        "html_preview": "<div style=\"margin-t...[328]...e Euro.</span></div>",
+        "html_hash": "8bf89841"
+    },
+    {
+        "id": 473,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "APAC revenue growth ...[128]...to the Japanese yen.",
+        "html_preview": "<div style=\"margin-t...[314]...se yen.</span></div>",
+        "html_hash": "1d9b2e06"
+    },
+    {
+        "id": 474,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Other Americas reven...[140]... the Argentine peso.",
+        "html_preview": "<div style=\"margin-t...[326]...e peso.</span></div>",
+        "html_hash": "c7220eef"
+    },
+    {
+        "id": 475,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "41",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "ee81e9a4"
+    },
+    {
+        "id": 476,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_148\"></div>",
+        "html_hash": "69dd58c0"
+    },
+    {
+        "id": 477,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 478,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 479,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Costs and Expenses",
+        "html_preview": "<div style=\"margin-t...[163]...xpenses</span></div>",
+        "html_hash": "c4e26b33",
+        "level": 1
+    },
+    {
+        "id": 480,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_151\"></div>",
+        "html_hash": "a36f21aa"
+    },
+    {
+        "id": 481,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Cost of Revenues",
+        "html_preview": "<div style=\"margin-t...[180]...evenues</span></div>",
+        "html_hash": "4aae7a25",
+        "level": 1
+    },
+    {
+        "id": 482,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[328]...nues43\u00a0%43\u00a0%43\u00a0%43\u00a0%",
+        "html_preview": "<div style=\"margin-t...[13761]...></tr></table></div>",
+        "html_hash": "9cbe281a"
+    },
+    {
+        "id": 483,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Cost of revenues inc...[373]...ues of $2.8 billion.",
+        "html_preview": "<div style=\"margin-t...[559]...illion.</span></div>",
+        "html_hash": "dd881428"
+    },
+    {
+        "id": 484,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The increase in TAC ...[860]...ended June 30, 2023.",
+        "html_preview": "<div style=\"margin-t...[1054]..., 2023.</span></div>",
+        "html_hash": "6b99048f"
+    },
+    {
+        "id": 485,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The increase in othe...[400]...n network equipment.",
+        "html_preview": "<div style=\"margin-t...[586]...ipment.</span></div>",
+        "html_hash": "592904e0"
+    },
+    {
+        "id": 486,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The increase in othe...[570]...n network equipment.",
+        "html_preview": "<div style=\"margin-t...[1009]...ipment.</span></div>",
+        "html_hash": "c2ecc962"
+    },
+    {
+        "id": 487,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_157\"></div>",
+        "html_hash": "029b2e09"
+    },
+    {
+        "id": 488,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Research and Development",
+        "html_preview": "<div style=\"margin-t...[188]...lopment</span></div>",
+        "html_hash": "ad7141ce",
+        "level": 1
+    },
+    {
+        "id": 489,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[245]...nues14\u00a0%14\u00a0%14\u00a0%15\u00a0%",
+        "html_preview": "<div style=\"margin-t...[8793]...></tr></table></div>",
+        "html_hash": "f81f8604"
+    },
+    {
+        "id": 490,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "R&D expenses increas...[630]...d network equipment.",
+        "html_preview": "<div style=\"margin-t...[820]...ipment.</span></div>",
+        "html_hash": "d3b25ad0"
+    },
+    {
+        "id": 491,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "R&D expenses increas...[404]... million in employee",
+        "html_preview": "<div style=\"margin-t...[987]...ployee </span></div>",
+        "html_hash": "1e893b54"
+    },
+    {
+        "id": 492,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "42",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "f37ccb2c"
+    },
+    {
+        "id": 493,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 494,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 495,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "severance charges as...[170]...d network equipment.",
+        "html_preview": "<div style=\"margin-t...[337]...ipment.</span></div>",
+        "html_hash": "4da867b1"
+    },
+    {
+        "id": 496,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_160\"></div>",
+        "html_hash": "ef890cb7"
+    },
+    {
+        "id": 497,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Sales and Marketing",
+        "html_preview": "<div style=\"margin-t...[183]...rketing</span></div>",
+        "html_hash": "dfa0cbc0",
+        "level": 1
+    },
+    {
+        "id": 498,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[52]...except percentages):",
+        "html_preview": "<div style=\"margin-t...[219]...tages):</span></div>",
+        "html_hash": "16607ae7"
+    },
+    {
+        "id": 499,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Three Months EndedSi...[155]...evenues10\u00a0%9\u00a0%9\u00a0%9\u00a0%",
+        "html_preview": "<div style=\"margin-t...[8566]...></tr></table></div>",
+        "html_hash": "ee399a4c"
+    },
+    {
+        "id": 500,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Sales and marketing ...[253]...idually significant.",
+        "html_preview": "<div style=\"margin-t...[439]...ficant.</span></div>",
+        "html_hash": "4558c82d"
+    },
+    {
+        "id": 501,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Sales and marketing ...[374]...uction in workforce.",
+        "html_preview": "<div style=\"margin-t...[560]...kforce.</span></div>",
+        "html_hash": "6ee89d44"
+    },
+    {
+        "id": 502,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_163\"></div>",
+        "html_hash": "6769cef3"
+    },
+    {
+        "id": 503,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "General and Administrative",
+        "html_preview": "<div style=\"margin-t...[190]...trative</span></div>",
+        "html_hash": "0b467511",
+        "level": 1
+    },
+    {
+        "id": 504,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[265]...revenues5\u00a0%5\u00a0%5\u00a0%5\u00a0%",
+        "html_preview": "<div style=\"margin-t...[8807]...></tr></table></div>",
+        "html_hash": "eec2f2ac"
+    },
+    {
+        "id": 505,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "General and administ...[179]...idually significant.",
+        "html_preview": "<div style=\"margin-t...[365]...ficant.</span></div>",
+        "html_hash": "6dc0988a"
+    },
+    {
+        "id": 506,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "General and administ...[277]...on in our workforce.",
+        "html_preview": "<div style=\"margin-t...[463]...kforce.</span></div>",
+        "html_hash": "b4de9b03"
+    },
+    {
+        "id": 507,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_166\"></div>",
+        "html_hash": "28fca464"
+    },
+    {
+        "id": 508,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Segment Profitability",
+        "html_preview": "<div style=\"margin-t...[166]...ability</span></div>",
+        "html_hash": "9ded6998",
+        "level": 1
+    },
+    {
+        "id": 509,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[35]...loss) (in millions).",
+        "html_preview": "<div style=\"margin-t...[202]...lions).</span></div>",
+        "html_hash": "1befb7fe"
+    },
+    {
+        "id": 510,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Three Months EndedSi...[280]...,838\u00a0$39,547\u00a0$39,253",
+        "html_preview": "<div style=\"margin-t...[18103]...></tr></table></div>",
+        "html_hash": "471905fc"
+    },
+    {
+        "id": 511,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)In addition to th...[486]...llion, respectively.",
+        "html_preview": "<div style=\"padding-...[1924]...ively. </span></div>",
+        "html_hash": "737adce3"
+    },
+    {
+        "id": 512,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "43",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "63bfd2b8"
+    },
+    {
+        "id": 513,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 514,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 515,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google Services",
+        "html_preview": "<div style=\"margin-t...[179]...ervices</span></div>",
+        "html_hash": "7496d068",
+        "level": 1
+    },
+    {
+        "id": 516,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Google Services oper...[537]...n network equipment.",
+        "html_preview": "<div style=\"margin-t...[723]...ipment.</span></div>",
+        "html_hash": "ce0b5d6e"
+    },
+    {
+        "id": 517,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Google Cloud",
+        "html_preview": "<div style=\"margin-t...[176]...e Cloud</span></div>",
+        "html_hash": "ab267f59",
+        "level": 1
+    },
+    {
+        "id": 518,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Google Cloud operati...[665]...n network equipment.",
+        "html_preview": "<div style=\"margin-t...[1104]...ipment.</span></div>",
+        "html_hash": "c6a0f2b7"
+    },
+    {
+        "id": 519,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Other Bets",
+        "html_preview": "<div style=\"margin-t...[174]...er Bets</span></div>",
+        "html_hash": "8cb33fbf",
+        "level": 1
+    },
+    {
+        "id": 520,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Other Bets operating...[303]... certain Other Bets.",
+        "html_preview": "<div style=\"margin-t...[489]...r Bets.</span></div>",
+        "html_hash": "c4fde0f1"
+    },
+    {
+        "id": 521,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_169\"></div>",
+        "html_hash": "eca2092f"
+    },
+    {
+        "id": 522,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Other Income (Expense), Net",
+        "html_preview": "<div style=\"margin-t...[172]...e), Net</span></div>",
+        "html_hash": "84b29168",
+        "level": 1
+    },
+    {
+        "id": 523,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[31]..., net (in millions):",
+        "html_preview": "<div style=\"margin-t...[199]...lions):</span></div>",
+        "html_hash": "622d3012"
+    },
+    {
+        "id": 524,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Three Months EndedSi...[77]...439)$65\u00a0$(1,599)$855",
+        "html_preview": "<div style=\"margin-t...[6618]...></tr></table></div>",
+        "html_hash": "c1db1025"
+    },
+    {
+        "id": 525,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Other income (expens...[819]... of interest income.",
+        "html_preview": "<div style=\"margin-t...[1006]...ncome. </span></div>",
+        "html_hash": "1a233e7f"
+    },
+    {
+        "id": 526,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Other income (expens...[767]...e equity securities.",
+        "html_preview": "<div style=\"margin-t...[954]...ities. </span></div>",
+        "html_hash": "99d3d137"
+    },
+    {
+        "id": 527,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "See Note 6 of the No...[102]...further information.",
+        "html_preview": "<div style=\"margin-t...[288]...mation.</span></div>",
+        "html_hash": "092b9138"
+    },
+    {
+        "id": 528,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "44",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "4ff4f52e"
+    },
+    {
+        "id": 529,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_175\"></div>",
+        "html_hash": "c2d7f00d"
+    },
+    {
+        "id": 530,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 531,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 532,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Provision for Income Taxes",
+        "html_preview": "<div style=\"margin-t...[171]...e Taxes</span></div>",
+        "html_hash": "afd6b407",
+        "level": 1
+    },
+    {
+        "id": 533,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[57]...effective tax rate):",
+        "html_preview": "<div style=\"margin-t...[224]... rate):</span></div>",
+        "html_hash": "0b17e6e0"
+    },
+    {
+        "id": 534,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Three Months EndedSi...[194]...\u00a0%16.1\u00a0%14.5\u00a0%16.7\u00a0%",
+        "html_preview": "<div style=\"margin-t...[10831]...></tr></table></div>",
+        "html_hash": "572c28d4"
+    },
+    {
+        "id": 535,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The effective tax ra...[273]...e is no tax benefit.",
+        "html_preview": "<div style=\"margin-t...[459]...enefit.</span></div>",
+        "html_hash": "4e11603a"
+    },
+    {
+        "id": 536,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The effective tax ra...[199]...ax return positions.",
+        "html_preview": "<div style=\"margin-t...[385]...itions.</span></div>",
+        "html_hash": "9a1ad56b"
+    },
+    {
+        "id": 537,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "On July 21, 2023 the...[399]... September 30, 2023.",
+        "html_preview": "<div style=\"margin-t...[586]... 2023. </span></div>",
+        "html_hash": "9d1381b3"
+    },
+    {
+        "id": 538,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_178\"></div>",
+        "html_hash": "4beecced"
+    },
+    {
+        "id": 539,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Financial Condition",
+        "html_preview": "<div style=\"margin-t...[146]...ndition</span></div>",
+        "html_hash": "c48e4348",
+        "level": 0
+    },
+    {
+        "id": 540,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Cash, Cash Equivalen...[9]...arketable Securities",
+        "html_preview": "<div style=\"margin-t...[194]...urities</span></div>",
+        "html_hash": "2942d7c9",
+        "level": 1
+    },
+    {
+        "id": 541,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of June\u00a030, 2023,...[300]...e equity securities.",
+        "html_preview": "<div style=\"margin-t...[486]...rities.</span></div>",
+        "html_hash": "40cee9ca"
+    },
+    {
+        "id": 542,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Sources, Uses of Cash and Related Trends",
+        "html_preview": "<div style=\"margin-t...[185]... Trends</span></div>",
+        "html_hash": "cb7fe71d",
+        "level": 1
+    },
+    {
+        "id": 543,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Our principal source...[327]...urn to stockholders.",
+        "html_preview": "<div style=\"margin-t...[513]...olders.</span></div>",
+        "html_hash": "80644946"
+    },
+    {
+        "id": 544,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[18]...flows (in millions):",
+        "html_preview": "<div style=\"margin-t...[185]...lions):</span></div>",
+        "html_hash": "34a25969"
+    },
+    {
+        "id": 545,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Six Months EndedJune...[160]...es$(34,031)$(34,403)",
+        "html_preview": "<div style=\"margin-t...[6276]...></tr></table></div>",
+        "html_hash": "24d56ba1"
+    },
+    {
+        "id": 546,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Cash Provided by Operating Activities",
+        "html_preview": "<div style=\"margin-t...[201]...ivities</span></div>",
+        "html_hash": "d0c52b12",
+        "level": 1
+    },
+    {
+        "id": 547,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Our largest source o...[337]...tion-based products.",
+        "html_preview": "<div style=\"margin-t...[527]...oducts.</span></div>",
+        "html_hash": "6c583c43"
+    },
+    {
+        "id": 548,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Our primary uses of ...[297]...porate expenditures.",
+        "html_preview": "<div style=\"margin-t...[483]...itures.</span></div>",
+        "html_hash": "7fbd3d69"
+    },
+    {
+        "id": 549,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Net cash provided by...[161]...ailable to taxpayers",
+        "html_preview": "<div style=\"margin-t...[348]...payers </span></div>",
+        "html_hash": "ad1b2124"
+    },
+    {
+        "id": 550,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "45",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "68642f1e"
+    },
+    {
+        "id": 551,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 552,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 553,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "headquartered in des...[79]... costs and expenses.",
+        "html_preview": "<div style=\"margin-t...[246]...penses.</span></div>",
+        "html_hash": "0e263c11"
+    },
+    {
+        "id": 554,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Cash Used in Investing Activities",
+        "html_preview": "<div style=\"margin-t...[197]...ivities</span></div>",
+        "html_hash": "7cac222c",
+        "level": 1
+    },
+    {
+        "id": 555,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Cash provided by inv...[279]...ts for acquisitions.",
+        "html_preview": "<div style=\"margin-t...[465]...itions.</span></div>",
+        "html_hash": "2f11cb46"
+    },
+    {
+        "id": 556,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Net cash used in inv...[254]...perty and equipment.",
+        "html_preview": "<div style=\"margin-t...[440]...ipment.</span></div>",
+        "html_hash": "776793fe"
+    },
+    {
+        "id": 557,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Cash Used in Financing Activities",
+        "html_preview": "<div style=\"margin-t...[197]...ivities</span></div>",
+        "html_hash": "9b87d345",
+        "level": 1
+    },
+    {
+        "id": 558,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Cash provided by fin...[271]... repayments of debt.",
+        "html_preview": "<div style=\"margin-t...[457]...f debt.</span></div>",
+        "html_hash": "011c1422"
+    },
+    {
+        "id": 559,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Net cash used in fin...[226]...ed award activities.",
+        "html_preview": "<div style=\"margin-t...[413]...ities. </span></div>",
+        "html_hash": "ff7fd0fa"
+    },
+    {
+        "id": 560,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Liquidity and Material Cash Requirements",
+        "html_preview": "<div style=\"margin-t...[185]...rements</span></div>",
+        "html_hash": "1004505e",
+        "level": 1
+    },
+    {
+        "id": 561,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We expect existing c...[285]... foreseeable future.",
+        "html_preview": "<div style=\"margin-t...[471]...future.</span></div>",
+        "html_hash": "9cd056f4"
+    },
+    {
+        "id": 562,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Capital Expenditures and Leases",
+        "html_preview": "<div style=\"margin-t...[195]... Leases</span></div>",
+        "html_hash": "b02ab49a",
+        "level": 1
+    },
+    {
+        "id": 563,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We make investments ...[196]...rvices and products.",
+        "html_preview": "<div style=\"margin-t...[383]...ducts. </span></div>",
+        "html_hash": "33cae6b5"
+    },
+    {
+        "id": 564,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Capital Expenditures",
+        "html_preview": "<div style=\"margin-t...[210]...ditures</span></div>",
+        "html_hash": "91fd44d4",
+        "level": 2
+    },
+    {
+        "id": 565,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Our capital investme...[62]...ng major categories:",
+        "html_preview": "<div style=\"margin-t...[248]...gories:</span></div>",
+        "html_hash": "c81deb1b"
+    },
+    {
+        "id": 566,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022technical infrastru...[268]...ng construction; and",
+        "html_preview": "<div style=\"margin-t...[605]...on; and</span></div>",
+        "html_hash": "11f39dc5"
+    },
+    {
+        "id": 567,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022office facilities, ...[71]...d to as \"fit-outs\").",
+        "html_preview": "<div style=\"margin-t...[408]...outs\").</span></div>",
+        "html_hash": "c03c762e"
+    },
+    {
+        "id": 568,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Construction in prog...[435]...n technology assets.",
+        "html_preview": "<div style=\"margin-t...[621]...assets.</span></div>",
+        "html_hash": "6d166625"
+    },
+    {
+        "id": 569,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "During the six month...[683]...llion, respectively.",
+        "html_preview": "<div style=\"margin-t...[870]...ively. </span></div>",
+        "html_hash": "c4c982ba"
+    },
+    {
+        "id": 570,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Leases",
+        "html_preview": "<div style=\"margin-t...[196]...>Leases</span></div>",
+        "html_hash": "87fa75b5",
+        "level": 2
+    },
+    {
+        "id": 571,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For the six months e...[660]...g lease obligations.",
+        "html_preview": "<div style=\"margin-t...[2111]...ations.</span></div>",
+        "html_hash": "2336567f"
+    },
+    {
+        "id": 572,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "46",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "77abbf40"
+    },
+    {
+        "id": 573,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 574,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 575,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For the six months e...[207]...e 30, 2022 and 2023.",
+        "html_preview": "<div style=\"margin-t...[532]...d 2023.</span></div>",
+        "html_hash": "32eb547c"
+    },
+    {
+        "id": 576,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Financing",
+        "html_preview": "<div style=\"margin-t...[173]...nancing</span></div>",
+        "html_hash": "1ce53fad",
+        "level": 1
+    },
+    {
+        "id": 577,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We have a short-term...[201]...l paper outstanding.",
+        "html_preview": "<div style=\"margin-t...[666]...nding. </span></div>",
+        "html_hash": "a9e874b1"
+    },
+    {
+        "id": 578,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of June\u00a030, 2023,...[356]...e credit facilities.",
+        "html_preview": "<div style=\"margin-t...[681]...lities.</span></div>",
+        "html_hash": "da789c65"
+    },
+    {
+        "id": 579,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of June\u00a030, 2023,...[223]...rmation on our debt.",
+        "html_preview": "<div style=\"margin-t...[409]...r debt.</span></div>",
+        "html_hash": "31ef78d2"
+    },
+    {
+        "id": 580,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We primarily utilize...[558]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[997]...120%\">.</span></div>",
+        "html_hash": "87a1c6c7"
+    },
+    {
+        "id": 581,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Share Repurchase Program",
+        "html_preview": "<div style=\"margin-t...[188]...Program</span></div>",
+        "html_hash": "ccb8a948",
+        "level": 1
+    },
+    {
+        "id": 582,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "During the three and...[578]...k for $26.3 billion.",
+        "html_preview": "<div style=\"margin-t...[765]...llion. </span></div>",
+        "html_hash": "b7db579c"
+    },
+    {
+        "id": 583,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "In April 2022, the B...[453]...C share repurchases.",
+        "html_preview": "<div style=\"margin-t...[640]...hases. </span></div>",
+        "html_hash": "ffeaa096"
+    },
+    {
+        "id": 584,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "See Note 10 of the N...[79]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[265]...m 10-Q.</span></div>",
+        "html_hash": "4edd6605"
+    },
+    {
+        "id": 585,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The U.S. Inflation R...[281]...inancial statements.",
+        "html_preview": "<div style=\"margin-t...[468]...ments. </span></div>",
+        "html_hash": "34fb7eb3"
+    },
+    {
+        "id": 586,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "European Commission Fines",
+        "html_preview": "<div style=\"margin-t...[189]...n Fines</span></div>",
+        "html_hash": "ec5eea09",
+        "level": 1
+    },
+    {
+        "id": 587,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "In 2017, 2018 and 20...[433]...an Court of Justice.",
+        "html_preview": "<div style=\"margin-t...[619]...ustice.</span></div>",
+        "html_hash": "258c492a"
+    },
+    {
+        "id": 588,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "While each EC decisi...[320]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[506]...m 10-Q.</span></div>",
+        "html_hash": "5181653b"
+    },
+    {
+        "id": 589,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Taxes",
+        "html_preview": "<div style=\"margin-t...[169]...\">Taxes</span></div>",
+        "html_hash": "af1eb650",
+        "level": 1
+    },
+    {
+        "id": 590,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of\u00a0June\u00a030, 2023,...[182]... Act (\"Tax Act\"). As",
+        "html_preview": "<div style=\"margin-t...[796]...0%\">As </span></div>",
+        "html_hash": "6a7634ef"
+    },
+    {
+        "id": 591,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "47",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "2142c3b1"
+    },
+    {
+        "id": 592,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 593,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 594,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "permitted by the Tax...[186]...as of June\u00a030, 2023.",
+        "html_preview": "<div style=\"margin-t...[379]... 2023. </span></div>",
+        "html_hash": "d12ba0e3"
+    },
+    {
+        "id": 595,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As a result of the 2...[304]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[490]...m 10-Q.</span></div>",
+        "html_hash": "ecd75d66"
+    },
+    {
+        "id": 596,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Purchase Commitments",
+        "html_preview": "<div style=\"margin-t...[185]...tments </span></div>",
+        "html_hash": "c0e4a827",
+        "level": 1
+    },
+    {
+        "id": 597,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of June 30, 2023,...[827]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[1520]... 10-Q. </span></div>",
+        "html_hash": "74120e1e"
+    },
+    {
+        "id": 598,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "In addition we regul...[314]...eadily determinable.",
+        "html_preview": "<div style=\"margin-t...[500]...inable.</span></div>",
+        "html_hash": "45e0b707"
+    },
+    {
+        "id": 599,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_184\"></div>",
+        "html_hash": "3fdee0d5"
+    },
+    {
+        "id": 600,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Critical Accounting Estimates",
+        "html_preview": "<div style=\"margin-t...[156]...timates</span></div>",
+        "html_hash": "6f71655b",
+        "level": 0
+    },
+    {
+        "id": 601,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "See Part II, Item 7,...[84]...d December\u00a031, 2022.",
+        "html_preview": "<div style=\"margin-t...[271]... 2022. </span></div>",
+        "html_hash": "7bd8af75"
+    },
+    {
+        "id": 602,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_187\"></div>",
+        "html_hash": "ad961d86"
+    },
+    {
+        "id": 603,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Available Information",
+        "html_preview": "<div style=\"margin-t...[148]...rmation</span></div>",
+        "html_hash": "fdd2e5b8",
+        "level": 0
+    },
+    {
+        "id": 604,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Our website is locat...[403]...site at www.sec.gov.",
+        "html_preview": "<div style=\"margin-t...[1579]...120%\">.</span></div>",
+        "html_hash": "b0bfe47a"
+    },
+    {
+        "id": 605,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We webcast via our i...[1008]...ual references only.",
+        "html_preview": "<div style=\"margin-t...[1448]...s only.</span></div>",
+        "html_hash": "5d161a18"
+    },
+    {
+        "id": 606,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_190\"></div>",
+        "html_hash": "905bc391"
+    },
+    {
+        "id": 607,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "ITEM 3.QUANTITATIVE ...[25]...ES ABOUT MARKET RISK",
+        "html_preview": "<div style=\"margin-t...[363]...ET RISK</span></div>",
+        "html_hash": "2228fe07",
+        "level": 0
+    },
+    {
+        "id": 608,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For quantitative and...[182]...d December 31, 2022.",
+        "html_preview": "<div style=\"margin-t...[368]..., 2022.</span></div>",
+        "html_hash": "1283ea13"
+    },
+    {
+        "id": 609,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_196\"></div>",
+        "html_hash": "5b07515b"
+    },
+    {
+        "id": 610,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "ITEM 4.CONTROLS AND PROCEDURES",
+        "html_preview": "<div style=\"margin-t...[328]...CEDURES</span></div>",
+        "html_hash": "76504fd3",
+        "level": 0
+    },
+    {
+        "id": 611,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Evaluation of Disclo...[8]...trols and Procedures",
+        "html_preview": "<div style=\"margin-t...[175]...cedures</span></div>",
+        "html_hash": "abd2988b",
+        "level": 0
+    },
+    {
+        "id": 612,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Our management, with...[251]...Report on Form 10-Q.",
+        "html_preview": "<div style=\"margin-t...[437]...m 10-Q.</span></div>",
+        "html_hash": "14a00b91"
+    },
+    {
+        "id": 613,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Based on\u00a0this evalua...[518]...ement, including our",
+        "html_preview": "<div style=\"margin-t...[705]...ng our </span></div>",
+        "html_hash": "d3c38282"
+    },
+    {
+        "id": 614,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "48",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "512867de"
+    },
+    {
+        "id": 615,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 616,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 617,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "chief executive offi...[85]...required disclosure.",
+        "html_preview": "<div style=\"margin-t...[252]...losure.</span></div>",
+        "html_hash": "202af9be"
+    },
+    {
+        "id": 618,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Changes in Internal ...[12]... Financial Reporting",
+        "html_preview": "<div style=\"margin-t...[179]...porting</span></div>",
+        "html_hash": "7d2687b5",
+        "level": 0
+    },
+    {
+        "id": 619,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "There have been no c...[213]...financial reporting.",
+        "html_preview": "<div style=\"margin-t...[653]...rting. </span></div>",
+        "html_hash": "e269bad7"
+    },
+    {
+        "id": 620,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Limitations on Effec...[15]...trols and Procedures",
+        "html_preview": "<div style=\"margin-t...[182]...cedures</span></div>",
+        "html_hash": "c07c5e54",
+        "level": 0
+    },
+    {
+        "id": 621,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "In designing and eva...[470]...tive to their costs.",
+        "html_preview": "<div style=\"margin-t...[656]... costs.</span></div>",
+        "html_hash": "9c7444c7"
+    },
+    {
+        "id": 622,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "49",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "1961d1de"
+    },
+    {
+        "id": 623,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_199\"></div>",
+        "html_hash": "5a191059"
+    },
+    {
+        "id": 624,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 625,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 626,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "PART II. \u00a0\u00a0\u00a0\u00a0OTHER INFORMATION",
+        "html_preview": "<div style=\"margin-t...[193]...RMATION</span></div>",
+        "html_hash": "4dfcff59",
+        "level": 0
+    },
+    {
+        "id": 627,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_202\"></div>",
+        "html_hash": "86025a61"
+    },
+    {
+        "id": 628,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "ITEM 1.LEGAL PROCEEDINGS",
+        "html_preview": "<div style=\"margin-t...[322]...EEDINGS</span></div>",
+        "html_hash": "f5bf1446",
+        "level": 0
+    },
+    {
+        "id": 629,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For a description of...[238]...herein by reference.",
+        "html_preview": "<div style=\"margin-t...[424]...erence.</span></div>",
+        "html_hash": "f7612a12"
+    },
+    {
+        "id": 630,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_205\"></div>",
+        "html_hash": "80f61552"
+    },
+    {
+        "id": 631,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "ITEM 1A.RISK FACTORS",
+        "html_preview": "<div style=\"margin-t...[448]...\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></div>",
+        "html_hash": "1b4cd8ee",
+        "level": 0
+    },
+    {
+        "id": 632,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Our operations and f...[312]... price of our stock.",
+        "html_preview": "<div style=\"margin-t...[499]...stock. </span></div>",
+        "html_hash": "286d4634"
+    },
+    {
+        "id": 633,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_208\"></div>",
+        "html_hash": "bb86b3fa"
+    },
+    {
+        "id": 634,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "ITEM 2.UNREGISTERED ...[26]... AND USE OF PROCEEDS",
+        "html_preview": "<div style=\"margin-t...[364]...ROCEEDS</span></div>",
+        "html_hash": "4ef1aa90",
+        "level": 0
+    },
+    {
+        "id": 635,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Issuer Purchases of Equity Securities",
+        "html_preview": "<div style=\"margin-t...[145]...urities</span></div>",
+        "html_hash": "3f1c2288",
+        "level": 0
+    },
+    {
+        "id": 636,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[686]...,594\u00a0114,386\u00a0130,980",
+        "html_preview": "<div style=\"margin-t...[17465]...></tr></table></div>",
+        "html_hash": "9ce67b24"
+    },
+    {
+        "id": 637,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)\u00a0\u00a0\u00a0\u00a0Repurchases a...[389]...o share repurchases.",
+        "html_preview": "<div style=\"margin-t...[879]...chases.</span></div>",
+        "html_hash": "aa58cfd8"
+    },
+    {
+        "id": 638,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(2)\u00a0\u00a0\u00a0\u00a0Average price...[43]...ith the repurchases.",
+        "html_preview": "<div style=\"margin-t...[533]...chases.</span></div>",
+        "html_hash": "f1953033"
+    },
+    {
+        "id": 639,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_211\"></div>",
+        "html_hash": "44bb8f38"
+    },
+    {
+        "id": 640,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "ITEM 5.OTHER INFORMATION",
+        "html_preview": "<div style=\"margin-t...[322]...RMATION</span></div>",
+        "html_hash": "f9caf4a2",
+        "level": 0
+    },
+    {
+        "id": 641,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "10b5-1 Trading Plans",
+        "html_preview": "<div style=\"margin-t...[128]...g Plans</span></div>",
+        "html_hash": "bf732215",
+        "level": 0
+    },
+    {
+        "id": 642,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "During the fiscal qu...[171]...f the Exchange Act):",
+        "html_preview": "<div style=\"margin-t...[357]...e Act):</span></div>",
+        "html_hash": "c010b089"
+    },
+    {
+        "id": 643,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Amie Thuener O\u2019Tool...[473]...of tax withholding).",
+        "html_preview": "<div style=\"margin-t...[1661]...meric> </span></div>",
+        "html_hash": "bb2f81db"
+    },
+    {
+        "id": 644,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "\u2022Kent Walker, Presid...[503]...f tax withholding)*.",
+        "html_preview": "<div style=\"margin-t...[1637]...umeric></span></div>",
+        "html_hash": "722f78a2"
+    },
+    {
+        "id": 645,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "*In accordance with ...[252]...trading arrangement.",
+        "html_preview": "<div style=\"margin-t...[438]...gement.</span></div>",
+        "html_hash": "15e9145f"
+    },
+    {
+        "id": 646,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "There were no \u201cnon-R...[290]...licy Against Insider",
+        "html_preview": "<div style=\"margin-t...[724]...nsider </span></div>",
+        "html_hash": "2b32a799"
+    },
+    {
+        "id": 647,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "50",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "a849ee37"
+    },
+    {
+        "id": 648,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 649,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 650,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Trading and actual s...[171]...les and regulations.",
+        "html_preview": "<div style=\"margin-t...[338]...ations.</span></div>",
+        "html_hash": "0128c4e7"
+    },
+    {
+        "id": 651,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "51",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "e70c12ef"
+    },
+    {
+        "id": 652,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_214\"></div>",
+        "html_hash": "e0583573"
+    },
+    {
+        "id": 653,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 654,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1046]...</table></div></div>",
+        "html_hash": "f5fa5cb5"
+    },
+    {
+        "id": 655,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "ITEM 6.EXHIBITS",
+        "html_preview": "<div style=\"-sec-ext...[365]...XHIBITS</span></div>",
+        "html_hash": "462906d4",
+        "level": 0
+    },
+    {
+        "id": 656,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "ExhibitNumber\u00a0\u00a0Descr...[1478]...ined in Exhibit 101)",
+        "html_preview": "<div style=\"margin-t...[16378]...></tr></table></div>",
+        "html_hash": "e996d290"
+    },
+    {
+        "id": 657,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "____________________...[89]...\u2021Furnished herewith.",
+        "html_preview": "<div style=\"margin-t...[1739]...></tr></table></div>",
+        "html_hash": "45eb8488"
+    },
+    {
+        "id": 658,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[50]...n><br/></span></div>",
+        "html_hash": "8f98796f"
+    },
+    {
+        "id": 659,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "52",
+        "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
+        "html_hash": "8b168d36"
+    },
+    {
+        "id": 660,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div id=\"i9cf7463c22...[14]...adbae2ee_217\"></div>",
+        "html_hash": "ca5c351e"
+    },
+    {
+        "id": 661,
+        "cls_name": "EmptyElement",
+        "tag_name": "hr",
+        "text_preview": "",
+        "html_preview": "<hr style=\"page-break-after:always\"/>",
+        "html_hash": "45ab5d64"
+    },
+    {
+        "id": 662,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "id": 663,
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "SIGNATURES",
+        "html_preview": "<div style=\"margin-t...[156]...NATURES</span></div>",
+        "html_hash": "815c1dd8",
+        "level": 0
+    },
+    {
+        "id": 664,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Pursuant to the requ...[144]...nto duly authorized.",
+        "html_preview": "<div style=\"margin-t...[331]...orized.</span></div>",
+        "html_hash": "d6f60045"
+    },
+    {
+        "id": 665,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[51]...n><br/></span></div>",
+        "html_hash": "5007faa6"
+    },
+    {
+        "id": 666,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "ALPHABET INC.July 25...[79]...ef Financial Officer",
+        "html_preview": "<div style=\"margin-t...[2015]...></tr></table></div>",
+        "html_hash": "530ba6bf"
+    },
+    {
+        "id": 667,
+        "cls_name": "TableElement",
+        "tag_name": "div",
+        "text_preview": "ALPHABET INC.July 25...[113]...l Accounting Officer",
+        "html_preview": "<div style=\"margin-t...[2049]...></tr></table></div>",
+        "html_hash": "0ffe86a3"
+    },
+    {
+        "id": 668,
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"margin-t...[12]...n><br/></span></div>",
+        "html_hash": "1db55d7f"
+    },
+    {
+        "id": 669,
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "53",
+        "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
+        "html_hash": "fec440a4"
+    }
+]
