@@ -1,6 +1,5 @@
 [
     {
-        "id": 0,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "FALSE2023Q2000165204...[34880]...lkerMember2023-06-30",
@@ -8,7 +7,6 @@
         "html_hash": "436a2501"
     },
     {
-        "id": 1,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -16,7 +14,6 @@
         "html_hash": "46cb00fc"
     },
     {
-        "id": 2,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -24,7 +21,6 @@
         "html_hash": "6dc87554"
     },
     {
-        "id": 3,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "",
@@ -32,7 +28,6 @@
         "html_hash": "0774843a"
     },
     {
-        "id": 4,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "UNITED STATES",
@@ -41,7 +36,6 @@
         "level": 0
     },
     {
-        "id": 5,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "SECURITIES AND EXCHANGE COMMISSION",
@@ -50,7 +44,6 @@
         "level": 0
     },
     {
-        "id": 6,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Washington, D.C. 20549",
@@ -59,7 +52,6 @@
         "level": 0
     },
     {
-        "id": 7,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "____________________...[48]...____________________",
@@ -67,7 +59,6 @@
         "html_hash": "2919f47f"
     },
     {
-        "id": 8,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "FORM 10-Q",
@@ -76,7 +67,6 @@
         "level": 0
     },
     {
-        "id": 9,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "____________________...[48]...____________________",
@@ -84,7 +74,6 @@
         "html_hash": "2919f47f"
     },
     {
-        "id": 10,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(Mark One)",
@@ -92,7 +81,6 @@
         "html_hash": "54db53d1"
     },
     {
-        "id": 11,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "\u2612QUARTERLY REPORT PU...[48]...EXCHANGE ACT OF 1934",
@@ -100,7 +88,6 @@
         "html_hash": "6209cdc1"
     },
     {
-        "id": 12,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "For the quarterly pe...[4]... ended June\u00a030, 2023",
@@ -108,7 +95,6 @@
         "html_hash": "46098b64"
     },
     {
-        "id": 13,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "OR\u2610TRANSITION REPORT...[51]...EXCHANGE ACT OF 1934",
@@ -117,7 +103,6 @@
         "level": 0
     },
     {
-        "id": 14,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "For the transition p...[9]...m _______ to _______",
@@ -125,7 +110,6 @@
         "html_hash": "56d6cc24"
     },
     {
-        "id": 15,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Commission file number: 001-37580",
@@ -133,7 +117,6 @@
         "html_hash": "10cb5b96"
     },
     {
-        "id": 16,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "____________________...[48]...____________________",
@@ -141,7 +124,6 @@
         "html_hash": "2919f47f"
     },
     {
-        "id": 17,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
@@ -150,7 +132,6 @@
         "level": 0
     },
     {
-        "id": 18,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(Exact name of regis...[14]...fied in its charter)",
@@ -158,7 +139,6 @@
         "html_hash": "3ee0e3cc"
     },
     {
-        "id": 19,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "____________________...[167]...entification Number)",
@@ -166,7 +146,6 @@
         "html_hash": "eda24412"
     },
     {
-        "id": 20,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "1600 Amphitheatre Parkway",
@@ -175,7 +154,6 @@
         "level": 0
     },
     {
-        "id": 21,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Mountain View, CA 94043",
@@ -184,7 +162,6 @@
         "level": 0
     },
     {
-        "id": 22,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(Address of principa...[20]... including zip code)",
@@ -192,7 +169,6 @@
         "html_hash": "f90d5dec"
     },
     {
-        "id": 23,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "(650) 253-0000",
@@ -201,7 +177,6 @@
         "level": 0
     },
     {
-        "id": 24,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "(Registrant's teleph...[338]...lobal Select Market)",
@@ -210,7 +185,6 @@
         "level": 0
     },
     {
-        "id": 25,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "____________________...[48]...____________________",
@@ -218,7 +192,6 @@
         "html_hash": "2919f47f"
     },
     {
-        "id": 26,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Indicate by check ma...[324]....\u00a0\u00a0\u00a0\u00a0Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
@@ -226,7 +199,6 @@
         "html_hash": "0a9396b3"
     },
     {
-        "id": 27,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Indicate by check ma...[287]....\u00a0\u00a0\u00a0\u00a0Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
@@ -234,7 +206,6 @@
         "html_hash": "adf08d8f"
     },
     {
-        "id": 28,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Indicate by check ma...[307]...of the Exchange Act.",
@@ -242,7 +213,6 @@
         "html_hash": "30ab4c8c"
     },
     {
-        "id": 29,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Large accelerated fi...[77]...ging growth company\u2610",
@@ -250,7 +220,6 @@
         "html_hash": "7aecaef7"
     },
     {
-        "id": 30,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "If an emerging growt...[215]...e Exchange Act.\u00a0\u00a0  \u2610",
@@ -258,7 +227,6 @@
         "html_hash": "43901fb4"
     },
     {
-        "id": 31,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Indicate by check ma...[91]....\u00a0   Yes  \u2610\u00a0\u00a0\u00a0\u00a0No  \u2612",
@@ -266,7 +234,6 @@
         "html_hash": "5a931ccc"
     },
     {
-        "id": 32,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "As of July\u00a018, 2023,...[179]...C stock outstanding.",
@@ -274,7 +241,6 @@
         "html_hash": "929d4411"
     },
     {
-        "id": 33,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "",
@@ -282,7 +248,6 @@
         "html_hash": "0dacfd40"
     },
     {
-        "id": 34,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -290,7 +255,6 @@
         "html_hash": "699ce83b"
     },
     {
-        "id": 35,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -298,7 +262,6 @@
         "html_hash": "e613399d"
     },
     {
-        "id": 36,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -306,7 +269,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 37,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -314,7 +276,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 38,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
@@ -323,7 +284,6 @@
         "level": 0
     },
     {
-        "id": 39,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Form 10-Q",
@@ -332,7 +292,6 @@
         "level": 0
     },
     {
-        "id": 40,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "For the Quarterly Pe...[4]... Ended June\u00a030, 2023",
@@ -341,7 +300,6 @@
         "level": 0
     },
     {
-        "id": 41,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "TABLE OF CONTENTS\u00a0\u00a0P...[940]...hibits52Signatures53",
@@ -349,7 +307,6 @@
         "html_hash": "e432bcda"
     },
     {
-        "id": 42,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -357,7 +314,6 @@
         "html_hash": "8f98796f"
     },
     {
-        "id": 43,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "2",
@@ -365,7 +321,6 @@
         "html_hash": "ba04b2dd"
     },
     {
-        "id": 44,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -373,7 +328,6 @@
         "html_hash": "45389cbf"
     },
     {
-        "id": 45,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -381,7 +335,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 46,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -389,7 +342,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 47,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note About Forward-Looking Statements",
@@ -398,7 +350,6 @@
         "level": 0
     },
     {
-        "id": 48,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "This Quarterly Repor...[163]...tatements regarding:",
@@ -406,7 +357,6 @@
         "html_hash": "fd887cc4"
     },
     {
-        "id": 49,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022the growth of our b...[94]...nds in our business;",
@@ -414,7 +364,6 @@
         "html_hash": "8e2827c0"
     },
     {
-        "id": 50,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022fluctuations in our...[56]...o such fluctuations;",
@@ -422,7 +371,6 @@
         "html_hash": "bcfadae8"
     },
     {
-        "id": 51,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[73]...enefit our business;",
@@ -430,7 +378,6 @@
         "html_hash": "9e831dcc"
     },
     {
-        "id": 52,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[108]... affect our margins;",
@@ -438,7 +385,6 @@
         "html_hash": "cb8e4c2a"
     },
     {
-        "id": 53,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[101]...our overall margins;",
@@ -446,7 +392,6 @@
         "html_hash": "9f1b7fef"
     },
     {
-        "id": 54,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[66]...evenues and margins;",
@@ -454,7 +399,6 @@
         "html_hash": "0b2dd6c0"
     },
     {
-        "id": 55,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022fluctuations in our...[156]...o such fluctuations;",
@@ -462,7 +406,6 @@
         "html_hash": "9d4aa50c"
     },
     {
-        "id": 56,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[142]...cks and impressions;",
@@ -470,7 +413,6 @@
         "html_hash": "8b2b3471"
     },
     {
-        "id": 57,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[113]...asingly come online;",
@@ -478,7 +420,6 @@
         "html_hash": "37656492"
     },
     {
-        "id": 58,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[117]...ency exchange rates;",
@@ -486,7 +427,6 @@
         "html_hash": "565949b9"
     },
     {
-        "id": 59,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022the expected variab...[87]... management program;",
@@ -494,7 +434,6 @@
         "html_hash": "2223ddc3"
     },
     {
-        "id": 60,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022the amount and timi...[178]...o recognize revenue;",
@@ -502,7 +441,6 @@
         "html_hash": "f7e98c33"
     },
     {
-        "id": 61,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022fluctuations in our...[2]...apital expenditures;",
@@ -510,7 +448,6 @@
         "html_hash": "8bf8c7bd"
     },
     {
-        "id": 62,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[41]...ical infrastructure;",
@@ -518,7 +455,6 @@
         "html_hash": "6a6cf5cc"
     },
     {
-        "id": 63,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our plans to contin...[190]...rategic investments;",
@@ -526,7 +462,6 @@
         "html_hash": "d8afcabb"
     },
     {
-        "id": 64,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our pace of hiring ...[39]...mpensation programs;",
@@ -534,7 +469,6 @@
         "html_hash": "11e858b4"
     },
     {
-        "id": 65,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[229]...a number of factors;",
@@ -542,7 +476,6 @@
         "html_hash": "c80eb227"
     },
     {
-        "id": 66,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022estimates of our fu...[7]...mpensation expenses;",
@@ -550,7 +483,6 @@
         "html_hash": "0a445178"
     },
     {
-        "id": 67,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[95]... by market dynamics;",
@@ -558,7 +490,6 @@
         "html_hash": "795978c8"
     },
     {
-        "id": 68,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022fluctuations in our effective tax rate;",
@@ -566,7 +497,6 @@
         "html_hash": "73157d37"
     },
     {
-        "id": 69,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022seasonal fluctuatio...[161]...r quarterly results;",
@@ -574,7 +504,6 @@
         "html_hash": "d7b90bf0"
     },
     {
-        "id": 70,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022the sufficiency of ...[3]... sources of funding;",
@@ -582,7 +511,6 @@
         "html_hash": "cb03b498"
     },
     {
-        "id": 71,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our potential expos...[222]...d operating results;",
@@ -590,7 +518,6 @@
         "html_hash": "14223364"
     },
     {
-        "id": 72,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "3",
@@ -598,7 +525,6 @@
         "html_hash": "987ed225"
     },
     {
-        "id": 73,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -606,7 +532,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 74,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -614,7 +539,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 75,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[201]...vernmental entities;",
@@ -622,7 +546,6 @@
         "html_hash": "cdb824f4"
     },
     {
-        "id": 76,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022the expected timing...[38]...s share repurchases;",
@@ -630,7 +553,6 @@
         "html_hash": "362580a3"
     },
     {
-        "id": 77,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our long-term susta...[10]...and diversity goals;",
@@ -638,7 +560,6 @@
         "html_hash": "906a863b"
     },
     {
-        "id": 78,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022the unpredictabilit...[88]...e financial results;",
@@ -646,7 +567,6 @@
         "html_hash": "9ac654be"
     },
     {
-        "id": 79,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022the expected financ...[58]... space optimization;",
@@ -654,7 +574,6 @@
         "html_hash": "d52b2251"
     },
     {
-        "id": 80,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022our expectation tha...[119]...3 operating results;",
@@ -662,7 +581,6 @@
         "html_hash": "527d124a"
     },
     {
-        "id": 81,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "as well as other sta...[1664]...-looking statements.",
@@ -670,7 +588,6 @@
         "html_hash": "b279f8bd"
     },
     {
-        "id": 82,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "As used herein, \"Alp...[123]...indicates otherwise.",
@@ -678,7 +595,6 @@
         "html_hash": "f8068d1a"
     },
     {
-        "id": 83,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\"Alphabet,\" \"Google,...[248]... of these companies.",
@@ -686,7 +602,6 @@
         "html_hash": "0660b96a"
     },
     {
-        "id": 84,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -694,7 +609,6 @@
         "html_hash": "8f98796f"
     },
     {
-        "id": 85,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "4",
@@ -702,7 +616,6 @@
         "html_hash": "24acbb64"
     },
     {
-        "id": 86,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -710,7 +623,6 @@
         "html_hash": "cb4ba176"
     },
     {
-        "id": 87,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -718,7 +630,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 88,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -726,7 +637,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 89,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "PART I.\u00a0\u00a0\u00a0\u00a0FINANCIAL INFORMATION",
@@ -735,7 +645,6 @@
         "level": 0
     },
     {
-        "id": 90,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -743,7 +652,6 @@
         "html_hash": "9baf8bcb"
     },
     {
-        "id": 91,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "ITEM 1.FINANCIAL STATEMENTS",
@@ -752,7 +660,6 @@
         "level": 0
     },
     {
-        "id": 92,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -760,7 +667,6 @@
         "html_hash": "edbdc9cb"
     },
     {
-        "id": 93,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
@@ -769,7 +675,6 @@
         "level": 0
     },
     {
-        "id": 94,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "CONSOLIDATED BALANCE SHEETS",
@@ -778,7 +683,6 @@
         "level": 0
     },
     {
-        "id": 95,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(in millions, except...[1852]...ity$365,264\u00a0$383,044",
@@ -786,7 +690,6 @@
         "html_hash": "22291aa5"
     },
     {
-        "id": 96,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See accompanying notes.",
@@ -794,7 +697,6 @@
         "html_hash": "a00502cf"
     },
     {
-        "id": 97,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "5",
@@ -802,7 +704,6 @@
         "html_hash": "6bfd04ae"
     },
     {
-        "id": 98,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -810,7 +711,6 @@
         "html_hash": "baccb615"
     },
     {
-        "id": 99,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -818,7 +718,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 100,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -826,7 +725,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 101,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
@@ -835,7 +733,6 @@
         "level": 0
     },
     {
-        "id": 102,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "CONSOLIDATED STATEMENTS OF INCOME",
@@ -844,7 +741,6 @@
         "level": 0
     },
     {
-        "id": 103,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(in millions, except...[801]...21\u00a0$1.44\u00a0$2.44\u00a0$2.61",
@@ -852,7 +748,6 @@
         "html_hash": "63d88c73"
     },
     {
-        "id": 104,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See accompanying notes.",
@@ -860,7 +755,6 @@
         "html_hash": "5b20a1db"
     },
     {
-        "id": 105,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "6",
@@ -868,7 +762,6 @@
         "html_hash": "2c34dd28"
     },
     {
-        "id": 106,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -876,7 +769,6 @@
         "html_hash": "0a3065dc"
     },
     {
-        "id": 107,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -884,7 +776,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 108,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -892,7 +783,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 109,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
@@ -901,7 +791,6 @@
         "level": 0
     },
     {
-        "id": 110,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "CONSOLIDATED STATEME...[7]...COMPREHENSIVE INCOME",
@@ -910,7 +799,6 @@
         "level": 0
     },
     {
-        "id": 111,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(in millions; unaudi...[853]...,377\u00a0$28,233\u00a0$35,031",
@@ -918,7 +806,6 @@
         "html_hash": "401b0a62"
     },
     {
-        "id": 112,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See accompanying notes.",
@@ -926,7 +813,6 @@
         "html_hash": "5b20a1db"
     },
     {
-        "id": 113,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "7",
@@ -934,7 +820,6 @@
         "html_hash": "69d5416b"
     },
     {
-        "id": 114,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -942,7 +827,6 @@
         "html_hash": "9f318591"
     },
     {
-        "id": 115,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -950,7 +834,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 116,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -958,7 +841,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 117,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
@@ -967,7 +849,6 @@
         "level": 0
     },
     {
-        "id": 118,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "CONSOLIDATED STATEME...[7]...STOCKHOLDERS\u2019 EQUITY",
@@ -976,7 +857,6 @@
         "level": 0
     },
     {
-        "id": 119,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(in millions; unaudited)",
@@ -984,7 +864,6 @@
         "html_hash": "943712fd"
     },
     {
-        "id": 120,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[581]...28)$196,845\u00a0$255,419",
@@ -992,7 +871,6 @@
         "html_hash": "2efd38fd"
     },
     {
-        "id": 121,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1000,7 +878,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 122,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1008,7 +885,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 123,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Six Months Ended Jun...[584]...28)$196,845\u00a0$255,419",
@@ -1016,7 +892,6 @@
         "html_hash": "c143045b"
     },
     {
-        "id": 124,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1024,7 +899,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 125,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1032,7 +906,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 126,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1040,7 +913,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 127,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1048,7 +920,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 128,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1056,7 +927,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 129,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1064,7 +934,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 130,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1072,7 +941,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 131,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1080,7 +948,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 132,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1088,7 +955,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 133,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "8",
@@ -1096,7 +962,6 @@
         "html_hash": "90755116"
     },
     {
-        "id": 134,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1104,7 +969,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 135,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1112,7 +976,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 136,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[572]...91)$200,884\u00a0$267,141",
@@ -1120,7 +983,6 @@
         "html_hash": "e9b25da9"
     },
     {
-        "id": 137,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1128,7 +990,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 138,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1136,7 +997,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 139,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Six Months Ended Jun...[583]...91)$200,884\u00a0$267,141",
@@ -1144,7 +1004,6 @@
         "html_hash": "561915e8"
     },
     {
-        "id": 140,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See accompanying notes.",
@@ -1152,7 +1011,6 @@
         "html_hash": "5b20a1db"
     },
     {
-        "id": 141,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1160,7 +1018,6 @@
         "html_hash": "91048ce3"
     },
     {
-        "id": 142,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1168,7 +1025,6 @@
         "html_hash": "91048ce3"
     },
     {
-        "id": 143,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1176,7 +1032,6 @@
         "html_hash": "8f98796f"
     },
     {
-        "id": 144,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "9",
@@ -1184,7 +1039,6 @@
         "html_hash": "273de2df"
     },
     {
-        "id": 145,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1192,7 +1046,6 @@
         "html_hash": "d6e5ed4d"
     },
     {
-        "id": 146,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1200,7 +1053,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 147,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1208,7 +1060,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 148,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
@@ -1217,7 +1068,6 @@
         "level": 0
     },
     {
-        "id": 149,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
@@ -1226,7 +1076,6 @@
         "level": 0
     },
     {
-        "id": 150,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(in millions; unaudi...[1727]...eriod$17,936\u00a0$25,929",
@@ -1234,7 +1083,6 @@
         "html_hash": "b0ecc182"
     },
     {
-        "id": 151,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See accompanying notes.",
@@ -1242,7 +1090,6 @@
         "html_hash": "547e9f3b"
     },
     {
-        "id": 152,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "10",
@@ -1250,7 +1097,6 @@
         "html_hash": "d79af152"
     },
     {
-        "id": 153,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1258,7 +1104,6 @@
         "html_hash": "c8ce8c12"
     },
     {
-        "id": 154,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1266,7 +1111,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 155,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1274,7 +1118,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 156,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
@@ -1283,7 +1126,6 @@
         "level": 0
     },
     {
-        "id": 157,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "NOTES TO CONSOLIDATE...[2]...FINANCIAL STATEMENTS",
@@ -1292,7 +1134,6 @@
         "level": 0
     },
     {
-        "id": 158,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "(Unaudited)",
@@ -1301,7 +1142,6 @@
         "level": 0
     },
     {
-        "id": 159,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1309,7 +1149,6 @@
         "html_hash": "b32da1a5"
     },
     {
-        "id": 160,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 1.    Summary o...[13]... Accounting Policies",
@@ -1318,7 +1157,6 @@
         "level": 0
     },
     {
-        "id": 161,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Nature of Operations...[2770]...period presentation.",
@@ -1326,7 +1164,6 @@
         "html_hash": "35e08905"
     },
     {
-        "id": 162,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "11",
@@ -1334,7 +1171,6 @@
         "html_hash": "14617b96"
     },
     {
-        "id": 163,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1342,7 +1178,6 @@
         "html_hash": "b155a5f0"
     },
     {
-        "id": 164,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1350,7 +1185,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 165,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1358,7 +1192,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 166,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 2.    Revenues",
@@ -1367,7 +1200,6 @@
         "level": 0
     },
     {
-        "id": 167,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Disaggregated Revenu...[2512]...ended June\u00a030, 2023.",
@@ -1375,7 +1207,6 @@
         "html_hash": "0f81a6be"
     },
     {
-        "id": 168,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1383,7 +1214,6 @@
         "html_hash": "8f98796f"
     },
     {
-        "id": 169,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1391,7 +1221,6 @@
         "html_hash": "8f98796f"
     },
     {
-        "id": 170,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1399,7 +1228,6 @@
         "html_hash": "8f98796f"
     },
     {
-        "id": 171,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "12",
@@ -1407,7 +1235,6 @@
         "html_hash": "cec5d0ff"
     },
     {
-        "id": 172,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1415,7 +1242,6 @@
         "html_hash": "b417a260"
     },
     {
-        "id": 173,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1423,7 +1249,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 174,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1431,7 +1256,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 175,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 3.    Financial Instruments",
@@ -1440,7 +1264,6 @@
         "level": 0
     },
     {
-        "id": 176,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1448,7 +1271,6 @@
         "html_hash": "2b485b19"
     },
     {
-        "id": 177,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Fair Value Measureme...[2423]... non-current assets.",
@@ -1456,7 +1278,6 @@
         "html_hash": "89de0cde"
     },
     {
-        "id": 178,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "13",
@@ -1464,7 +1285,6 @@
         "html_hash": "a6b47386"
     },
     {
-        "id": 179,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1472,7 +1292,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 180,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1480,7 +1299,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 181,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1488,7 +1306,6 @@
         "html_hash": "1645d77c"
     },
     {
-        "id": 182,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "As of June 30, 2023F...[2212]...fied within Level 3.",
@@ -1496,7 +1313,6 @@
         "html_hash": "a8b93866"
     },
     {
-        "id": 183,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "As of June 30, 2023 ...[190]...assified as Level 3.",
@@ -1504,7 +1320,6 @@
         "html_hash": "24a245b8"
     },
     {
-        "id": 184,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "14",
@@ -1512,7 +1327,6 @@
         "html_hash": "b69210ad"
     },
     {
-        "id": 185,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1520,7 +1334,6 @@
         "html_hash": "81393ae9"
     },
     {
-        "id": 186,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1528,7 +1341,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 187,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1536,7 +1348,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 188,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Debt SecuritiesThe f...[2021]...$(304)$(1,157)$(597)",
@@ -1544,7 +1355,6 @@
         "html_hash": "0115256f"
     },
     {
-        "id": 189,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1552,7 +1362,6 @@
         "html_hash": "8d0e8a5f"
     },
     {
-        "id": 190,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "15",
@@ -1560,7 +1369,6 @@
         "html_hash": "699f77ac"
     },
     {
-        "id": 191,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1568,7 +1376,6 @@
         "html_hash": "559f5108"
     },
     {
-        "id": 192,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1576,7 +1383,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 193,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1584,7 +1390,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 194,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Equity InvestmentsTh...[3339]...)$477\u00a0$271\u00a0$907\u00a0$372",
@@ -1592,7 +1397,6 @@
         "html_hash": "198904b9"
     },
     {
-        "id": 195,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1600,7 +1404,6 @@
         "html_hash": "1db55d7f"
     },
     {
-        "id": 196,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "16",
@@ -1608,7 +1411,6 @@
         "html_hash": "dedc41d5"
     },
     {
-        "id": 197,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1616,7 +1418,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 198,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1624,7 +1425,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 199,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Equity Securities Ac...[400]...come (expense), net.",
@@ -1632,7 +1432,6 @@
         "html_hash": "62e07020"
     },
     {
-        "id": 200,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1640,7 +1439,6 @@
         "html_hash": "92e4ae81"
     },
     {
-        "id": 201,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Derivative Financial...[3864]...for further details.",
@@ -1648,7 +1446,6 @@
         "html_hash": "3a2cf7b1"
     },
     {
-        "id": 202,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "17",
@@ -1656,7 +1453,6 @@
         "html_hash": "1b5a8eee"
     },
     {
-        "id": 203,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1664,7 +1460,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 204,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1672,7 +1467,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 205,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "The gross notional a...[1818]...01\u00a0$98\u00a0$1,870\u00a0$(208)",
@@ -1680,7 +1474,6 @@
         "html_hash": "3a70c030"
     },
     {
-        "id": 206,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "18",
@@ -1688,7 +1481,6 @@
         "html_hash": "227a8cb5"
     },
     {
-        "id": 207,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1696,7 +1488,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 208,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1704,7 +1495,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 209,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The table below pres...[929]...es)$376\u00a0$(33)$4\u00a0$197",
@@ -1712,7 +1502,6 @@
         "html_hash": "c72a8feb"
     },
     {
-        "id": 210,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "19",
@@ -1720,7 +1509,6 @@
         "html_hash": "4bb1be79"
     },
     {
-        "id": 211,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1728,7 +1516,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 212,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1736,7 +1523,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 213,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Gains (Losses) Recog...[835]...)$654\u00a0$(228)$88\u00a0$286",
@@ -1744,7 +1530,6 @@
         "html_hash": "6e180b02"
     },
     {
-        "id": 214,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1752,7 +1537,6 @@
         "html_hash": "f2102d0b"
     },
     {
-        "id": 215,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Offsetting of Deriva...[1062]...$810\u00a0$(463)$(28)$319",
@@ -1760,7 +1544,6 @@
         "html_hash": "af3bde12"
     },
     {
-        "id": 216,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1768,7 +1551,6 @@
         "html_hash": "ad8fbe4d"
     },
     {
-        "id": 217,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "20",
@@ -1776,7 +1558,6 @@
         "html_hash": "e801b3ff"
     },
     {
-        "id": 218,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1784,7 +1565,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 219,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1792,7 +1572,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 220,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "As of June 30, 2023G...[553]... netting agreements.",
@@ -1800,7 +1579,6 @@
         "html_hash": "17b63bd7"
     },
     {
-        "id": 221,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1808,7 +1586,6 @@
         "html_hash": "5a5ef18f"
     },
     {
-        "id": 222,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 4.    Variable ...[3]...erest Entities (VIE)",
@@ -1817,7 +1594,6 @@
         "level": 0
     },
     {
-        "id": 223,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Consolidated VIEsWe ...[2347]...as of June\u00a030, 2023.",
@@ -1825,7 +1601,6 @@
         "html_hash": "6ab5df54"
     },
     {
-        "id": 224,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1833,7 +1608,6 @@
         "html_hash": "9ae21ec3"
     },
     {
-        "id": 225,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 5.    Debt",
@@ -1842,7 +1616,6 @@
         "level": 0
     },
     {
-        "id": 226,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Short-Term DebtWe ha...[315]...tain long-term debt.",
@@ -1850,7 +1623,6 @@
         "html_hash": "69e016a1"
     },
     {
-        "id": 227,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "21",
@@ -1858,7 +1630,6 @@
         "html_hash": "94f13969"
     },
     {
-        "id": 228,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1866,7 +1637,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 229,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1874,7 +1644,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 230,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Long-Term Debt Total...[1853]...2 and June\u00a030, 2023.",
@@ -1882,7 +1651,6 @@
         "html_hash": "61207456"
     },
     {
-        "id": 231,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1890,7 +1658,6 @@
         "html_hash": "a08c4e93"
     },
     {
-        "id": 232,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 6.    Supplemen...[15]...tatement Information",
@@ -1899,7 +1666,6 @@
         "level": 0
     },
     {
-        "id": 233,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Accounts ReceivableT...[578]...net$112,668\u00a0$121,208",
@@ -1907,7 +1673,6 @@
         "html_hash": "5e66f8a1"
     },
     {
-        "id": 234,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "22",
@@ -1915,7 +1680,6 @@
         "html_hash": "68af8d34"
     },
     {
-        "id": 235,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1923,7 +1687,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 236,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1931,7 +1694,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 237,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Accrued Expenses and...[2223]...$(2,691)$11\u00a0$(5,991)",
@@ -1939,7 +1701,6 @@
         "html_hash": "09f03acf"
     },
     {
-        "id": 238,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "23",
@@ -1947,7 +1708,6 @@
         "html_hash": "21d3d5e4"
     },
     {
-        "id": 239,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1955,7 +1715,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 240,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -1963,7 +1722,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 241,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "The effects on net i...[1532]... 2023, respectively.",
@@ -1971,7 +1729,6 @@
         "html_hash": "4dcceae7"
     },
     {
-        "id": 242,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "24",
@@ -1979,7 +1736,6 @@
         "html_hash": "1ae8f53d"
     },
     {
-        "id": 243,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1987,7 +1743,6 @@
         "html_hash": "ac90b7df"
     },
     {
-        "id": 244,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1995,7 +1750,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 245,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -2003,7 +1757,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 246,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 7.    Workforce...[12]...nd Other Initiatives",
@@ -2012,7 +1765,6 @@
         "level": 0
     },
     {
-        "id": 247,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "We have a company-wi...[1957]...ated balance sheets.",
@@ -2020,7 +1772,6 @@
         "html_hash": "5c1487cb"
     },
     {
-        "id": 248,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2028,7 +1779,6 @@
         "html_hash": "81b8e31f"
     },
     {
-        "id": 249,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 8.    Goodwill ...[7]...er Intangible Assets",
@@ -2037,7 +1787,6 @@
         "level": 0
     },
     {
-        "id": 250,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "GoodwillChanges in t...[321]...\u00a0$7,206\u00a0$880\u00a0$29,210",
@@ -2045,7 +1794,6 @@
         "html_hash": "a4b73819"
     },
     {
-        "id": 251,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "25",
@@ -2053,7 +1801,6 @@
         "html_hash": "8f359bca"
     },
     {
-        "id": 252,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2061,7 +1808,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 253,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -2069,7 +1815,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 254,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Other Intangible Ass...[1000]...after248\u00a0Total$1,730",
@@ -2077,7 +1822,6 @@
         "html_hash": "f8487e21"
     },
     {
-        "id": 255,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2085,7 +1829,6 @@
         "html_hash": "8628d774"
     },
     {
-        "id": 256,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 9.    Commitments and Contingencies",
@@ -2094,7 +1837,6 @@
         "level": 0
     },
     {
-        "id": 257,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "CommitmentsWe have c...[1748]...reasonably possible.",
@@ -2102,7 +1844,6 @@
         "html_hash": "7b582c1f"
     },
     {
-        "id": 258,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "26",
@@ -2110,7 +1851,6 @@
         "html_hash": "49c3f0c2"
     },
     {
-        "id": 259,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2118,7 +1858,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 260,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -2126,7 +1865,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 261,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Legal MattersWe reco...[5012]...y. On June 14, 2023,",
@@ -2134,7 +1872,6 @@
         "html_hash": "652ce0a4"
     },
     {
-        "id": 262,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "27",
@@ -2142,7 +1879,6 @@
         "html_hash": "eaceaa68"
     },
     {
-        "id": 263,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2150,7 +1886,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 264,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -2158,7 +1893,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 265,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "the EC issued a Stat...[5040]...encies, see Note 13.",
@@ -2166,7 +1900,6 @@
         "html_hash": "d4fb3494"
     },
     {
-        "id": 266,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "28",
@@ -2174,7 +1907,6 @@
         "html_hash": "96374fb0"
     },
     {
-        "id": 267,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2182,7 +1914,6 @@
         "html_hash": "8997486d"
     },
     {
-        "id": 268,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2190,7 +1921,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 269,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -2198,7 +1928,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 270,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 10.    Stockholders' Equity",
@@ -2207,7 +1936,6 @@
         "level": 0
     },
     {
-        "id": 271,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Share RepurchasesIn ...[1602]... an expiration date.",
@@ -2215,7 +1943,6 @@
         "html_hash": "118fb80b"
     },
     {
-        "id": 272,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2223,7 +1950,6 @@
         "html_hash": "5d492668"
     },
     {
-        "id": 273,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 11.    Net Income Per Share",
@@ -2232,7 +1958,6 @@
         "level": 0
     },
     {
-        "id": 274,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[1281]...21\u00a0$1.44\u00a0$1.44\u00a0$1.44",
@@ -2240,7 +1965,6 @@
         "html_hash": "b5dcd6f2"
     },
     {
-        "id": 275,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "29",
@@ -2248,7 +1972,6 @@
         "html_hash": "84dda0b6"
     },
     {
-        "id": 276,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2256,7 +1979,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 277,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -2264,7 +1986,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 278,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Six Months Ended Jun...[1443]...ion of Alphabet Inc.",
@@ -2272,7 +1993,6 @@
         "html_hash": "1422dd69"
     },
     {
-        "id": 279,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2280,7 +2000,6 @@
         "html_hash": "3002728e"
     },
     {
-        "id": 280,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 12.    Compensation Plans",
@@ -2289,7 +2008,6 @@
         "level": 0
     },
     {
-        "id": 281,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Stock-Based Compensa...[1205]... 30, 2023442\u00a0$102.97",
@@ -2297,7 +2015,6 @@
         "html_hash": "4da21eff"
     },
     {
-        "id": 282,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "30",
@@ -2305,7 +2022,6 @@
         "html_hash": "6ab2736a"
     },
     {
-        "id": 283,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2313,7 +2029,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 284,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -2321,7 +2036,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 285,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "As of June\u00a030, 2023,...[150]...period of 2.8 years.",
@@ -2329,7 +2043,6 @@
         "html_hash": "c2d8da21"
     },
     {
-        "id": 286,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2337,7 +2050,6 @@
         "html_hash": "a56e6f73"
     },
     {
-        "id": 287,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 13.    Income Taxes",
@@ -2346,7 +2058,6 @@
         "level": 0
     },
     {
-        "id": 288,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "The following table ...[295]...\u00a0%16.1\u00a0%14.5\u00a0%16.7\u00a0%",
@@ -2354,7 +2065,6 @@
         "html_hash": "0216f5ab"
     },
     {
-        "id": 289,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "We are subject to in...[401]... rate, respectively.",
@@ -2362,7 +2072,6 @@
         "html_hash": "60ad244f"
     },
     {
-        "id": 290,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2370,7 +2079,6 @@
         "html_hash": "775b76a9"
     },
     {
-        "id": 291,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 14.    Informat...[19]...and Geographic Areas",
@@ -2379,7 +2087,6 @@
         "level": 0
     },
     {
-        "id": 292,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "We report our segmen...[2958]...g asset information.",
@@ -2387,7 +2094,6 @@
         "html_hash": "a1f6a809"
     },
     {
-        "id": 293,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "31",
@@ -2395,7 +2101,6 @@
         "html_hash": "ac9dfb22"
     },
     {
-        "id": 294,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2403,7 +2108,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 295,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -2411,7 +2115,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 296,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "The following table ...[970]...ets$127,049\u00a0$135,677",
@@ -2419,7 +2122,6 @@
         "html_hash": "a093eda5"
     },
     {
-        "id": 297,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "32",
@@ -2427,7 +2129,6 @@
         "html_hash": "51b11595"
     },
     {
-        "id": 298,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2435,7 +2136,6 @@
         "html_hash": "7342a111"
     },
     {
-        "id": 299,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2443,7 +2143,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 300,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -2451,7 +2150,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 301,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "ITEM 2.MANAGEMENT\u2019S ...[52]...ESULTS OF OPERATIONS",
@@ -2460,7 +2158,6 @@
         "level": 0
     },
     {
-        "id": 302,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Please read the foll...[365]...m 1A \"Risk Factors.\"",
@@ -2468,7 +2165,6 @@
         "html_hash": "cdde353b"
     },
     {
-        "id": 303,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2476,7 +2172,6 @@
         "html_hash": "793a678f"
     },
     {
-        "id": 304,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Understanding Alphab...[2]...\u2019s Financial Results",
@@ -2485,7 +2180,6 @@
         "level": 0
     },
     {
-        "id": 305,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Alphabet is a collec...[326]...Report on Form 10-Q.",
@@ -2493,7 +2187,6 @@
         "html_hash": "32becd9c"
     },
     {
-        "id": 306,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2501,7 +2194,6 @@
         "html_hash": "a3dd1b1d"
     },
     {
-        "id": 307,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Revenues and Monetization Metrics",
@@ -2510,7 +2202,6 @@
         "level": 1
     },
     {
-        "id": 308,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "We generate revenues...[547]...d December\u00a031, 2022.",
@@ -2518,7 +2209,6 @@
         "html_hash": "68cbc6c2"
     },
     {
-        "id": 309,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "In addition to the l...[302]... factors, including:",
@@ -2526,7 +2216,6 @@
         "html_hash": "e4616216"
     },
     {
-        "id": 310,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022changes in foreign ...[4]...ency exchange rates;",
@@ -2534,7 +2223,6 @@
         "html_hash": "9b48bf33"
     },
     {
-        "id": 311,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022changes in pricing,...[72]...customer incentives;",
@@ -2542,7 +2230,6 @@
         "html_hash": "461af6e5"
     },
     {
-        "id": 312,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022general economic co...[149]...enterprise spending;",
@@ -2550,7 +2237,6 @@
         "html_hash": "e28d3209"
     },
     {
-        "id": 313,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022new product and service launches; and",
@@ -2558,7 +2244,6 @@
         "html_hash": "a4a0f2af"
     },
     {
-        "id": 314,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022seasonality.",
@@ -2566,7 +2251,6 @@
         "html_hash": "b42c3f6f"
     },
     {
-        "id": 315,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Additionally, fluctu...[257]... as described below.",
@@ -2574,7 +2258,6 @@
         "html_hash": "3e7fb063"
     },
     {
-        "id": 316,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google Services",
@@ -2583,7 +2266,6 @@
         "level": 1
     },
     {
-        "id": 317,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Google Services reve...[48]...ogle other revenues.",
@@ -2591,7 +2273,6 @@
         "html_hash": "d1cb6383"
     },
     {
-        "id": 318,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google Advertising",
@@ -2600,7 +2281,6 @@
         "level": 2
     },
     {
-        "id": 319,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Google advertising r...[19]...ed of the following:",
@@ -2608,7 +2288,6 @@
         "html_hash": "aff3fb58"
     },
     {
-        "id": 320,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Google Search & oth...[282]...ps, and Google Play;",
@@ -2616,7 +2295,6 @@
         "html_hash": "7797a52e"
     },
     {
-        "id": 321,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022YouTube ads, which ...[34]...Tube properties; and",
@@ -2624,7 +2302,6 @@
         "html_hash": "5dd17241"
     },
     {
-        "id": 322,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Google Network, whi...[95]...d Google Ad Manager.",
@@ -2632,7 +2309,6 @@
         "html_hash": "20e55473"
     },
     {
-        "id": 323,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "We use certain metri...[272]... Network properties.",
@@ -2640,7 +2316,6 @@
         "html_hash": "d8e2f389"
     },
     {
-        "id": 324,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Paid clicks represen...[167]...gle Maps, and Google",
@@ -2648,7 +2323,6 @@
         "html_hash": "c206b9e7"
     },
     {
-        "id": 325,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "33",
@@ -2656,7 +2330,6 @@
         "html_hash": "942930d5"
     },
     {
-        "id": 326,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2664,7 +2337,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 327,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -2672,7 +2344,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 328,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Play. Cost-per-click...[145]...engagement by users.",
@@ -2680,7 +2351,6 @@
         "html_hash": "48c18ad5"
     },
     {
-        "id": 329,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Impressions include ...[321]... displayed to users.",
@@ -2688,7 +2358,6 @@
         "html_hash": "31331a26"
     },
     {
-        "id": 330,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "As our business evol...[237]...impression activity.",
@@ -2696,7 +2365,6 @@
         "html_hash": "9d4265a5"
     },
     {
-        "id": 331,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Fluctuations in our ...[290]...al factors, such as:",
@@ -2704,7 +2372,6 @@
         "html_hash": "344ed89a"
     },
     {
-        "id": 332,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022advertiser competition for keywords;",
@@ -2712,7 +2379,6 @@
         "html_hash": "680cc7d8"
     },
     {
-        "id": 333,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022changes in advertis...[21]... delivery or policy;",
@@ -2720,7 +2386,6 @@
         "html_hash": "904a887b"
     },
     {
-        "id": 334,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022changes in device mix;",
@@ -2728,7 +2393,6 @@
         "html_hash": "c641c660"
     },
     {
-        "id": 335,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022seasonal fluctuatio...[103]...ail seasonality; and",
@@ -2736,7 +2400,6 @@
         "html_hash": "6a95a7ea"
     },
     {
-        "id": 336,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022traffic growth in e...[70]...ticals and channels.",
@@ -2744,7 +2407,6 @@
         "html_hash": "2fe39885"
     },
     {
-        "id": 337,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google Other",
@@ -2753,7 +2415,6 @@
         "level": 2
     },
     {
-        "id": 338,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Google other revenue...[13]...ed of the following:",
@@ -2761,7 +2422,6 @@
         "html_hash": "7ea42c50"
     },
     {
-        "id": 339,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Google Play, which ...[24]...nd in-app purchases;",
@@ -2769,7 +2429,6 @@
         "html_hash": "98fa49f6"
     },
     {
-        "id": 340,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022hardware, which inc...[65]..., and Pixel devices;",
@@ -2777,7 +2436,6 @@
         "html_hash": "68c9f4ca"
     },
     {
-        "id": 341,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022YouTube non-adverti...[80]... and YouTube TV; and",
@@ -2785,7 +2443,6 @@
         "html_hash": "08f5d769"
     },
     {
-        "id": 342,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022other products and services.",
@@ -2793,7 +2450,6 @@
         "html_hash": "3134adc4"
     },
     {
-        "id": 343,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Fluctuations in our ...[187]...of product launches.",
@@ -2801,7 +2457,6 @@
         "html_hash": "ee78509f"
     },
     {
-        "id": 344,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google Cloud",
@@ -2810,7 +2465,6 @@
         "level": 1
     },
     {
-        "id": 345,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Google Cloud revenue...[13]...ed of the following:",
@@ -2818,7 +2472,6 @@
         "html_hash": "3f623f73"
     },
     {
-        "id": 346,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Google Cloud Platfo...[53]... and other services;",
@@ -2826,7 +2479,6 @@
         "html_hash": "b850833f"
     },
     {
-        "id": 347,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Google Workspace, w...[120]...lendar and Meet; and",
@@ -2834,7 +2486,6 @@
         "html_hash": "20dd75f3"
     },
     {
-        "id": 348,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022other enterprise services.",
@@ -2842,7 +2493,6 @@
         "html_hash": "7bde4f80"
     },
     {
-        "id": 349,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Fluctuations in our ...[90]...h as customer usage.",
@@ -2850,7 +2500,6 @@
         "html_hash": "6bfdc341"
     },
     {
-        "id": 350,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Other Bets",
@@ -2859,7 +2508,6 @@
         "level": 1
     },
     {
-        "id": 351,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Revenues from Other ...[66]...d internet services.",
@@ -2867,7 +2515,6 @@
         "html_hash": "bde30ac9"
     },
     {
-        "id": 352,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2875,7 +2522,6 @@
         "html_hash": "31f59725"
     },
     {
-        "id": 353,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Costs and Expenses",
@@ -2884,7 +2530,6 @@
         "level": 1
     },
     {
-        "id": 354,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Our cost structure h...[400]... changes in revenue.",
@@ -2892,7 +2537,6 @@
         "html_hash": "30e2aa50"
     },
     {
-        "id": 355,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "34",
@@ -2900,7 +2544,6 @@
         "html_hash": "cc3fa483"
     },
     {
-        "id": 356,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2908,7 +2551,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 357,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -2916,7 +2558,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 358,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Cost of Revenues",
@@ -2925,7 +2566,6 @@
         "level": 1
     },
     {
-        "id": 359,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Cost of revenues is ...[25]...r costs of revenues.",
@@ -2933,7 +2573,6 @@
         "html_hash": "64f4af44"
     },
     {
-        "id": 360,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022TAC includes:",
@@ -2941,7 +2580,6 @@
         "html_hash": "181fd4ce"
     },
     {
-        "id": 361,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u25e6Amounts paid to our...[189]...software developers.",
@@ -2949,7 +2587,6 @@
         "html_hash": "746623e9"
     },
     {
-        "id": 362,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u25e6Amounts paid to Goo...[49]...on their properties.",
@@ -2957,7 +2594,6 @@
         "html_hash": "a9ccb3d8"
     },
     {
-        "id": 363,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Other cost of revenues includes:",
@@ -2965,7 +2601,6 @@
         "html_hash": "7cf46919"
     },
     {
-        "id": 364,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u25e6Content acquisition...[200]...ated or a flat fee).",
@@ -2973,7 +2608,6 @@
         "html_hash": "00fc88c8"
     },
     {
-        "id": 365,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u25e6Expenses associated...[202]...duct support costs).",
@@ -2981,7 +2615,6 @@
         "html_hash": "4ee04cc3"
     },
     {
-        "id": 366,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u25e6Inventory and other...[19]...he hardware we sell.",
@@ -2989,7 +2622,6 @@
         "html_hash": "655d8932"
     },
     {
-        "id": 367,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "TAC as a percentage ...[304]...le Network partners.",
@@ -2997,7 +2629,6 @@
         "html_hash": "5d7bad56"
     },
     {
-        "id": 368,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Operating Expenses",
@@ -3006,7 +2637,6 @@
         "level": 1
     },
     {
-        "id": 369,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Operating expenses a...[126]... and administrative.",
@@ -3014,7 +2644,6 @@
         "html_hash": "e9ef6be6"
     },
     {
-        "id": 370,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The main components ...[4]...ur R&D expenses are:",
@@ -3022,7 +2651,6 @@
         "html_hash": "c238a1ec"
     },
     {
-        "id": 371,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022compensation expens...[97]...oducts and services;",
@@ -3030,7 +2658,6 @@
         "html_hash": "2acd3b6c"
     },
     {
-        "id": 372,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022depreciation; and",
@@ -3038,7 +2665,6 @@
         "html_hash": "3fe7bb4a"
     },
     {
-        "id": 373,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022third-party service...[106]...development efforts.",
@@ -3046,7 +2672,6 @@
         "html_hash": "1a955b3b"
     },
     {
-        "id": 374,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The main components ...[20]...keting expenses are:",
@@ -3054,7 +2679,6 @@
         "html_hash": "32b6415d"
     },
     {
-        "id": 375,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022compensation expens...[87]...rvice functions; and",
@@ -3062,7 +2686,6 @@
         "html_hash": "47957be3"
     },
     {
-        "id": 376,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022spending relating t...[65]...oducts and services.",
@@ -3070,7 +2693,6 @@
         "html_hash": "798f6d1d"
     },
     {
-        "id": 377,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The main components ...[27]...rative expenses are:",
@@ -3078,7 +2700,6 @@
         "html_hash": "31cbd5be"
     },
     {
-        "id": 378,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022compensation expens...[100]...e support functions;",
@@ -3086,7 +2707,6 @@
         "html_hash": "8de589f1"
     },
     {
-        "id": 379,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022expenses relating t...[33]...and settlements; and",
@@ -3094,7 +2714,6 @@
         "html_hash": "dd46d6c9"
     },
     {
-        "id": 380,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022third-party service...[77]...nistrative services.",
@@ -3102,7 +2721,6 @@
         "html_hash": "3dcabfac"
     },
     {
-        "id": 381,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -3110,7 +2728,6 @@
         "html_hash": "3bf9c504"
     },
     {
-        "id": 382,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Other Income (Expense), Net",
@@ -3119,7 +2736,6 @@
         "level": 1
     },
     {
-        "id": 383,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Other income (expens...[262]... method investments.",
@@ -3127,7 +2743,6 @@
         "html_hash": "3b775204"
     },
     {
-        "id": 384,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "For additional detai...[302]...ort on Form 10-K for",
@@ -3135,7 +2750,6 @@
         "html_hash": "2b00998b"
     },
     {
-        "id": 385,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "35",
@@ -3143,7 +2757,6 @@
         "html_hash": "6c4e4859"
     },
     {
-        "id": 386,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -3151,7 +2764,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 387,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -3159,7 +2771,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 388,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "the fiscal year ende...[125]...Report on Form 10-Q.",
@@ -3167,7 +2778,6 @@
         "html_hash": "642af091"
     },
     {
-        "id": 389,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -3175,7 +2785,6 @@
         "html_hash": "f74a5483"
     },
     {
-        "id": 390,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Provision for Income Taxes",
@@ -3184,7 +2793,6 @@
         "level": 1
     },
     {
-        "id": 391,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Provision for income...[294]...erest and penalties.",
@@ -3192,7 +2800,6 @@
         "html_hash": "b71558ca"
     },
     {
-        "id": 392,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "For additional detai...[277]...Report on Form 10-Q.",
@@ -3200,7 +2807,6 @@
         "html_hash": "d04cee54"
     },
     {
-        "id": 393,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -3208,7 +2814,6 @@
         "html_hash": "c5709df8"
     },
     {
-        "id": 394,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Executive Overview",
@@ -3217,7 +2822,6 @@
         "level": 0
     },
     {
-        "id": 395,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[86]...on and percentages):",
@@ -3225,7 +2829,6 @@
         "html_hash": "72796a6d"
     },
     {
-        "id": 396,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedJu...[380]....21\u00a0$1.44\u00a0$0.23\u00a019\u00a0%",
@@ -3233,7 +2836,6 @@
         "html_hash": "d9b34b5e"
     },
     {
-        "id": 397,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "NM = Not Meaningful",
@@ -3241,7 +2843,6 @@
         "html_hash": "f286ab49"
     },
     {
-        "id": 398,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(1)\u00a0\u00a0\u00a0\u00a0See \"Use of N...[87]...urrency information.",
@@ -3249,7 +2850,6 @@
         "html_hash": "2ac3df97"
     },
     {
-        "id": 399,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Revenues were $74.6...[173]...1.8 billion, or 28%.",
@@ -3257,7 +2857,6 @@
         "html_hash": "720bcb92"
     },
     {
-        "id": 400,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Total constant curr...[60]...d 9% year over year.",
@@ -3265,7 +2864,6 @@
         "html_hash": "639fd013"
     },
     {
-        "id": 401,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Cost of revenues wa...[323]...n network equipment.",
@@ -3273,7 +2871,6 @@
         "html_hash": "7ff09316"
     },
     {
-        "id": 402,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Operating expenses ...[408]...n network equipment.",
@@ -3281,7 +2878,6 @@
         "html_hash": "9e324f26"
     },
     {
-        "id": 403,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Other Information",
@@ -3290,7 +2886,6 @@
         "level": 1
     },
     {
-        "id": 404,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022In January 2023, we...[477]...dditional charges in",
@@ -3298,7 +2893,6 @@
         "html_hash": "6a4fe73c"
     },
     {
-        "id": 405,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "36",
@@ -3306,7 +2900,6 @@
         "html_hash": "2b5d32af"
     },
     {
-        "id": 406,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -3314,7 +2907,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 407,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -3322,7 +2914,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 408,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "the future as we fur...[163]...Report on Form 10-Q.",
@@ -3330,7 +2921,6 @@
         "html_hash": "b2d322d5"
     },
     {
-        "id": 409,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022In January 2023, we...[541]...Report on Form 10-Q.",
@@ -3338,7 +2928,6 @@
         "html_hash": "45068b59"
     },
     {
-        "id": 410,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Repurchases of Clas...[210]...itional information.",
@@ -3346,7 +2935,6 @@
         "html_hash": "7e43fd04"
     },
     {
-        "id": 411,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Operating cash flow...[178]...nties in California.",
@@ -3354,7 +2942,6 @@
         "html_hash": "c9c07769"
     },
     {
-        "id": 412,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Capital expenditure...[109]...ended June 30, 2023.",
@@ -3362,7 +2949,6 @@
         "html_hash": "cb6e7508"
     },
     {
-        "id": 413,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022As of June\u00a030, 2023...[321]...tation requirements.",
@@ -3370,7 +2956,6 @@
         "html_hash": "127f9ebe"
     },
     {
-        "id": 414,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "37",
@@ -3378,7 +2963,6 @@
         "html_hash": "d8676837"
     },
     {
-        "id": 415,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -3386,7 +2970,6 @@
         "html_hash": "193c45c8"
     },
     {
-        "id": 416,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -3394,7 +2977,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 417,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -3402,7 +2984,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 418,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Financial Results",
@@ -3411,7 +2992,6 @@
         "level": 0
     },
     {
-        "id": 419,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -3419,7 +2999,6 @@
         "html_hash": "a2f6ac26"
     },
     {
-        "id": 420,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Revenues",
@@ -3428,7 +3007,6 @@
         "level": 1
     },
     {
-        "id": 421,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[502]...04\u00a0$137,696\u00a0$144,391",
@@ -3436,7 +3014,6 @@
         "html_hash": "40cb7129"
     },
     {
-        "id": 422,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google Services",
@@ -3445,7 +3022,6 @@
         "level": 1
     },
     {
-        "id": 423,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google advertising revenues",
@@ -3454,7 +3030,6 @@
         "level": 2
     },
     {
-        "id": 424,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google Search & other",
@@ -3463,7 +3038,6 @@
         "level": 2
     },
     {
-        "id": 425,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Google Search & othe...[588]...ended June 30, 2023.",
@@ -3471,7 +3045,6 @@
         "html_hash": "012f58ad"
     },
     {
-        "id": 426,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "YouTube ads",
@@ -3480,7 +3053,6 @@
         "level": 2
     },
     {
-        "id": 427,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "YouTube ads revenues...[507]...ended June 30, 2023.",
@@ -3488,7 +3060,6 @@
         "html_hash": "34b5fcb6"
     },
     {
-        "id": 428,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google Network",
@@ -3497,7 +3068,6 @@
         "level": 2
     },
     {
-        "id": 429,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Google Network reven...[424]...ended June 30, 2023.",
@@ -3505,7 +3075,6 @@
         "html_hash": "9401d159"
     },
     {
-        "id": 430,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Monetization Metrics",
@@ -3514,7 +3083,6 @@
         "level": 2
     },
     {
-        "id": 431,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Paid clicks and cost-per-click",
@@ -3523,7 +3091,6 @@
         "level": 2
     },
     {
-        "id": 432,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[74]...ed as a percentage):",
@@ -3531,7 +3098,6 @@
         "html_hash": "86baff2e"
     },
     {
-        "id": 433,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[71]...click change(3)%(5)%",
@@ -3539,7 +3105,6 @@
         "html_hash": "6729a162"
     },
     {
-        "id": 434,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "38",
@@ -3547,7 +3112,6 @@
         "html_hash": "6622864b"
     },
     {
-        "id": 435,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -3555,7 +3119,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 436,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -3563,7 +3126,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 437,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Paid clicks increase...[302]... and policy changes.",
@@ -3571,7 +3133,6 @@
         "html_hash": "c15896a5"
     },
     {
-        "id": 438,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Cost-per-click decre...[453]...ended June 30, 2023.",
@@ -3579,7 +3140,6 @@
         "html_hash": "3c700fb7"
     },
     {
-        "id": 439,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Impressions and cost-per-impression",
@@ -3588,7 +3148,6 @@
         "level": 2
     },
     {
-        "id": 440,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[79]...ed as a percentage):",
@@ -3596,7 +3155,6 @@
         "html_hash": "fa4c2a28"
     },
     {
-        "id": 441,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[78]...ssion change(5)%(5)%",
@@ -3604,7 +3162,6 @@
         "html_hash": "77aa93e4"
     },
     {
-        "id": 442,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Impressions were rel...[528]...ency exchange rates.",
@@ -3612,7 +3169,6 @@
         "html_hash": "a7c34c13"
     },
     {
-        "id": 443,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Impressions decrease...[509]...ency exchange rates.",
@@ -3620,7 +3176,6 @@
         "html_hash": "ed99bed1"
     },
     {
-        "id": 444,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google other revenues",
@@ -3629,7 +3184,6 @@
         "level": 2
     },
     {
-        "id": 445,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Google other revenue...[527]...ended June 30, 2023.",
@@ -3637,7 +3191,6 @@
         "html_hash": "de11156b"
     },
     {
-        "id": 446,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google Cloud",
@@ -3646,7 +3199,6 @@
         "level": 1
     },
     {
-        "id": 447,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Google Cloud revenue...[340]...ogle Cloud Platform.",
@@ -3654,7 +3206,6 @@
         "html_hash": "e9c17d0e"
     },
     {
-        "id": 448,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "39",
@@ -3662,7 +3213,6 @@
         "html_hash": "6353c58d"
     },
     {
-        "id": 449,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -3670,7 +3220,6 @@
         "html_hash": "818a1a12"
     },
     {
-        "id": 450,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -3678,7 +3227,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 451,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -3686,7 +3234,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 452,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Revenues by Geography",
@@ -3695,7 +3242,6 @@
         "level": 1
     },
     {
-        "id": 453,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[288]...(losses)1\u00a0%0\u00a0%0\u00a0%0\u00a0%",
@@ -3703,7 +3249,6 @@
         "html_hash": "6f8abf27"
     },
     {
-        "id": 454,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "For further details ...[124]...Report on Form 10-Q.",
@@ -3711,7 +3256,6 @@
         "html_hash": "9857edd2"
     },
     {
-        "id": 455,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Use of Non-GAAP Cons...[5]...Currency Information",
@@ -3720,7 +3264,6 @@
         "level": 1
     },
     {
-        "id": 456,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "International revenu...[165]...ency exchange rates.",
@@ -3728,7 +3271,6 @@
         "html_hash": "5d9fc0e2"
     },
     {
-        "id": 457,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The effect of curren...[644]...e operating results.",
@@ -3736,7 +3278,6 @@
         "html_hash": "df39065f"
     },
     {
-        "id": 458,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Constant currency in...[617]... the current period.",
@@ -3744,7 +3285,6 @@
         "html_hash": "4d348f6f"
     },
     {
-        "id": 459,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Constant currency re...[289]...ues of both periods.",
@@ -3752,7 +3292,6 @@
         "html_hash": "1360ce1c"
     },
     {
-        "id": 460,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "These results should...[282]...ccordance with GAAP.",
@@ -3760,7 +3299,6 @@
         "html_hash": "2a8a6a66"
     },
     {
-        "id": 461,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "40",
@@ -3768,7 +3306,6 @@
         "html_hash": "01b30ccd"
     },
     {
-        "id": 462,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -3776,7 +3313,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 463,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -3784,7 +3320,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 464,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[105]...except percentages):",
@@ -3792,7 +3327,6 @@
         "html_hash": "520c0dbd"
     },
     {
-        "id": 465,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[497]...5,747\u00a07\u00a0%(1)%(1)%9\u00a0%",
@@ -3800,7 +3334,6 @@
         "html_hash": "45accbae"
     },
     {
-        "id": 466,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(1)Total constant cu...[183]...ended June 30, 2022.",
@@ -3808,7 +3341,6 @@
         "html_hash": "910352cb"
     },
     {
-        "id": 467,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "EMEA revenue growth ...[129]...o the British pound.",
@@ -3816,7 +3348,6 @@
         "html_hash": "b041b576"
     },
     {
-        "id": 468,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "APAC revenue growth ...[128]...to the Japanese yen.",
@@ -3824,7 +3355,6 @@
         "html_hash": "1d9b2e06"
     },
     {
-        "id": 469,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Other Americas reven...[140]... the Argentine peso.",
@@ -3832,7 +3362,6 @@
         "html_hash": "c7220eef"
     },
     {
-        "id": 470,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Six Months Ended Jun...[503]...47,624\u00a05\u00a0%0\u00a0%(3)%8\u00a0%",
@@ -3840,7 +3369,6 @@
         "html_hash": "c65aae11"
     },
     {
-        "id": 471,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(1)Total constant cu...[182]...ended June 30, 2022.",
@@ -3848,7 +3376,6 @@
         "html_hash": "5ca822d1"
     },
     {
-        "id": 472,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "EMEA revenue growth ...[142]... pound and the Euro.",
@@ -3856,7 +3383,6 @@
         "html_hash": "8bf89841"
     },
     {
-        "id": 473,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "APAC revenue growth ...[128]...to the Japanese yen.",
@@ -3864,7 +3390,6 @@
         "html_hash": "1d9b2e06"
     },
     {
-        "id": 474,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Other Americas reven...[140]... the Argentine peso.",
@@ -3872,7 +3397,6 @@
         "html_hash": "c7220eef"
     },
     {
-        "id": 475,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "41",
@@ -3880,7 +3404,6 @@
         "html_hash": "ee81e9a4"
     },
     {
-        "id": 476,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -3888,7 +3411,6 @@
         "html_hash": "69dd58c0"
     },
     {
-        "id": 477,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -3896,7 +3418,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 478,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -3904,7 +3425,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 479,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Costs and Expenses",
@@ -3913,7 +3433,6 @@
         "level": 1
     },
     {
-        "id": 480,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -3921,7 +3440,6 @@
         "html_hash": "a36f21aa"
     },
     {
-        "id": 481,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Cost of Revenues",
@@ -3930,7 +3448,6 @@
         "level": 1
     },
     {
-        "id": 482,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[328]...nues43\u00a0%43\u00a0%43\u00a0%43\u00a0%",
@@ -3938,7 +3455,6 @@
         "html_hash": "9cbe281a"
     },
     {
-        "id": 483,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Cost of revenues inc...[373]...ues of $2.8 billion.",
@@ -3946,7 +3462,6 @@
         "html_hash": "dd881428"
     },
     {
-        "id": 484,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The increase in TAC ...[860]...ended June 30, 2023.",
@@ -3954,7 +3469,6 @@
         "html_hash": "6b99048f"
     },
     {
-        "id": 485,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The increase in othe...[400]...n network equipment.",
@@ -3962,7 +3476,6 @@
         "html_hash": "592904e0"
     },
     {
-        "id": 486,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The increase in othe...[570]...n network equipment.",
@@ -3970,7 +3483,6 @@
         "html_hash": "c2ecc962"
     },
     {
-        "id": 487,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -3978,7 +3490,6 @@
         "html_hash": "029b2e09"
     },
     {
-        "id": 488,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Research and Development",
@@ -3987,7 +3498,6 @@
         "level": 1
     },
     {
-        "id": 489,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[245]...nues14\u00a0%14\u00a0%14\u00a0%15\u00a0%",
@@ -3995,7 +3505,6 @@
         "html_hash": "f81f8604"
     },
     {
-        "id": 490,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "R&D expenses increas...[630]...d network equipment.",
@@ -4003,7 +3512,6 @@
         "html_hash": "d3b25ad0"
     },
     {
-        "id": 491,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "R&D expenses increas...[404]... million in employee",
@@ -4011,7 +3519,6 @@
         "html_hash": "1e893b54"
     },
     {
-        "id": 492,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "42",
@@ -4019,7 +3526,6 @@
         "html_hash": "f37ccb2c"
     },
     {
-        "id": 493,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -4027,7 +3533,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 494,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -4035,7 +3540,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 495,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "severance charges as...[170]...d network equipment.",
@@ -4043,7 +3547,6 @@
         "html_hash": "4da867b1"
     },
     {
-        "id": 496,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -4051,7 +3554,6 @@
         "html_hash": "ef890cb7"
     },
     {
-        "id": 497,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Sales and Marketing",
@@ -4060,7 +3562,6 @@
         "level": 1
     },
     {
-        "id": 498,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[52]...except percentages):",
@@ -4068,7 +3569,6 @@
         "html_hash": "16607ae7"
     },
     {
-        "id": 499,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[155]...evenues10\u00a0%9\u00a0%9\u00a0%9\u00a0%",
@@ -4076,7 +3576,6 @@
         "html_hash": "ee399a4c"
     },
     {
-        "id": 500,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Sales and marketing ...[253]...idually significant.",
@@ -4084,7 +3583,6 @@
         "html_hash": "4558c82d"
     },
     {
-        "id": 501,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Sales and marketing ...[374]...uction in workforce.",
@@ -4092,7 +3590,6 @@
         "html_hash": "6ee89d44"
     },
     {
-        "id": 502,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -4100,7 +3597,6 @@
         "html_hash": "6769cef3"
     },
     {
-        "id": 503,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "General and Administrative",
@@ -4109,7 +3605,6 @@
         "level": 1
     },
     {
-        "id": 504,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[265]...revenues5\u00a0%5\u00a0%5\u00a0%5\u00a0%",
@@ -4117,7 +3612,6 @@
         "html_hash": "eec2f2ac"
     },
     {
-        "id": 505,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "General and administ...[179]...idually significant.",
@@ -4125,7 +3619,6 @@
         "html_hash": "6dc0988a"
     },
     {
-        "id": 506,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "General and administ...[277]...on in our workforce.",
@@ -4133,7 +3626,6 @@
         "html_hash": "b4de9b03"
     },
     {
-        "id": 507,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -4141,7 +3633,6 @@
         "html_hash": "28fca464"
     },
     {
-        "id": 508,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Segment Profitability",
@@ -4150,7 +3641,6 @@
         "level": 1
     },
     {
-        "id": 509,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[35]...loss) (in millions).",
@@ -4158,7 +3648,6 @@
         "html_hash": "1befb7fe"
     },
     {
-        "id": 510,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[280]...,838\u00a0$39,547\u00a0$39,253",
@@ -4166,7 +3655,6 @@
         "html_hash": "471905fc"
     },
     {
-        "id": 511,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(1)In addition to th...[486]...llion, respectively.",
@@ -4174,7 +3662,6 @@
         "html_hash": "737adce3"
     },
     {
-        "id": 512,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "43",
@@ -4182,7 +3669,6 @@
         "html_hash": "63bfd2b8"
     },
     {
-        "id": 513,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -4190,7 +3676,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 514,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -4198,7 +3683,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 515,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google Services",
@@ -4207,7 +3691,6 @@
         "level": 1
     },
     {
-        "id": 516,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Google Services oper...[537]...n network equipment.",
@@ -4215,7 +3698,6 @@
         "html_hash": "ce0b5d6e"
     },
     {
-        "id": 517,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Google Cloud",
@@ -4224,7 +3706,6 @@
         "level": 1
     },
     {
-        "id": 518,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Google Cloud operati...[665]...n network equipment.",
@@ -4232,7 +3713,6 @@
         "html_hash": "c6a0f2b7"
     },
     {
-        "id": 519,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Other Bets",
@@ -4241,7 +3721,6 @@
         "level": 1
     },
     {
-        "id": 520,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Other Bets operating...[303]... certain Other Bets.",
@@ -4249,7 +3728,6 @@
         "html_hash": "c4fde0f1"
     },
     {
-        "id": 521,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -4257,7 +3735,6 @@
         "html_hash": "eca2092f"
     },
     {
-        "id": 522,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Other Income (Expense), Net",
@@ -4266,7 +3743,6 @@
         "level": 1
     },
     {
-        "id": 523,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[31]..., net (in millions):",
@@ -4274,7 +3750,6 @@
         "html_hash": "622d3012"
     },
     {
-        "id": 524,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[77]...439)$65\u00a0$(1,599)$855",
@@ -4282,7 +3757,6 @@
         "html_hash": "c1db1025"
     },
     {
-        "id": 525,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Other income (expens...[819]... of interest income.",
@@ -4290,7 +3764,6 @@
         "html_hash": "1a233e7f"
     },
     {
-        "id": 526,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Other income (expens...[767]...e equity securities.",
@@ -4298,7 +3771,6 @@
         "html_hash": "99d3d137"
     },
     {
-        "id": 527,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See Note 6 of the No...[102]...further information.",
@@ -4306,7 +3778,6 @@
         "html_hash": "092b9138"
     },
     {
-        "id": 528,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "44",
@@ -4314,7 +3785,6 @@
         "html_hash": "4ff4f52e"
     },
     {
-        "id": 529,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -4322,7 +3792,6 @@
         "html_hash": "c2d7f00d"
     },
     {
-        "id": 530,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -4330,7 +3799,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 531,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -4338,7 +3806,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 532,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Provision for Income Taxes",
@@ -4347,7 +3814,6 @@
         "level": 1
     },
     {
-        "id": 533,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[57]...effective tax rate):",
@@ -4355,7 +3821,6 @@
         "html_hash": "0b17e6e0"
     },
     {
-        "id": 534,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[194]...\u00a0%16.1\u00a0%14.5\u00a0%16.7\u00a0%",
@@ -4363,7 +3828,6 @@
         "html_hash": "572c28d4"
     },
     {
-        "id": 535,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The effective tax ra...[273]...e is no tax benefit.",
@@ -4371,7 +3835,6 @@
         "html_hash": "4e11603a"
     },
     {
-        "id": 536,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The effective tax ra...[199]...ax return positions.",
@@ -4379,7 +3842,6 @@
         "html_hash": "9a1ad56b"
     },
     {
-        "id": 537,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "On July 21, 2023 the...[399]... September 30, 2023.",
@@ -4387,7 +3849,6 @@
         "html_hash": "9d1381b3"
     },
     {
-        "id": 538,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -4395,7 +3856,6 @@
         "html_hash": "4beecced"
     },
     {
-        "id": 539,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Financial Condition",
@@ -4404,7 +3864,6 @@
         "level": 0
     },
     {
-        "id": 540,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Cash, Cash Equivalen...[9]...arketable Securities",
@@ -4413,7 +3872,6 @@
         "level": 1
     },
     {
-        "id": 541,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "As of June\u00a030, 2023,...[300]...e equity securities.",
@@ -4421,7 +3879,6 @@
         "html_hash": "40cee9ca"
     },
     {
-        "id": 542,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Sources, Uses of Cash and Related Trends",
@@ -4430,7 +3887,6 @@
         "level": 1
     },
     {
-        "id": 543,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Our principal source...[327]...urn to stockholders.",
@@ -4438,7 +3894,6 @@
         "html_hash": "80644946"
     },
     {
-        "id": 544,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[18]...flows (in millions):",
@@ -4446,7 +3901,6 @@
         "html_hash": "34a25969"
     },
     {
-        "id": 545,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Six Months EndedJune...[160]...es$(34,031)$(34,403)",
@@ -4454,7 +3908,6 @@
         "html_hash": "24d56ba1"
     },
     {
-        "id": 546,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Cash Provided by Operating Activities",
@@ -4463,7 +3916,6 @@
         "level": 1
     },
     {
-        "id": 547,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Our largest source o...[337]...tion-based products.",
@@ -4471,7 +3923,6 @@
         "html_hash": "6c583c43"
     },
     {
-        "id": 548,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Our primary uses of ...[297]...porate expenditures.",
@@ -4479,7 +3930,6 @@
         "html_hash": "7fbd3d69"
     },
     {
-        "id": 549,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Net cash provided by...[161]...ailable to taxpayers",
@@ -4487,7 +3937,6 @@
         "html_hash": "ad1b2124"
     },
     {
-        "id": 550,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "45",
@@ -4495,7 +3944,6 @@
         "html_hash": "68642f1e"
     },
     {
-        "id": 551,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -4503,7 +3951,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 552,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -4511,7 +3958,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 553,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "headquartered in des...[79]... costs and expenses.",
@@ -4519,7 +3965,6 @@
         "html_hash": "0e263c11"
     },
     {
-        "id": 554,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Cash Used in Investing Activities",
@@ -4528,7 +3973,6 @@
         "level": 1
     },
     {
-        "id": 555,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Cash provided by inv...[279]...ts for acquisitions.",
@@ -4536,7 +3980,6 @@
         "html_hash": "2f11cb46"
     },
     {
-        "id": 556,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Net cash used in inv...[254]...perty and equipment.",
@@ -4544,7 +3987,6 @@
         "html_hash": "776793fe"
     },
     {
-        "id": 557,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Cash Used in Financing Activities",
@@ -4553,7 +3995,6 @@
         "level": 1
     },
     {
-        "id": 558,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Cash provided by fin...[271]... repayments of debt.",
@@ -4561,7 +4002,6 @@
         "html_hash": "011c1422"
     },
     {
-        "id": 559,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Net cash used in fin...[226]...ed award activities.",
@@ -4569,7 +4009,6 @@
         "html_hash": "ff7fd0fa"
     },
     {
-        "id": 560,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Liquidity and Material Cash Requirements",
@@ -4578,7 +4017,6 @@
         "level": 1
     },
     {
-        "id": 561,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "We expect existing c...[285]... foreseeable future.",
@@ -4586,7 +4024,6 @@
         "html_hash": "9cd056f4"
     },
     {
-        "id": 562,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Capital Expenditures and Leases",
@@ -4595,7 +4032,6 @@
         "level": 1
     },
     {
-        "id": 563,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "We make investments ...[196]...rvices and products.",
@@ -4603,7 +4039,6 @@
         "html_hash": "33cae6b5"
     },
     {
-        "id": 564,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Capital Expenditures",
@@ -4612,7 +4047,6 @@
         "level": 2
     },
     {
-        "id": 565,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Our capital investme...[62]...ng major categories:",
@@ -4620,7 +4054,6 @@
         "html_hash": "c81deb1b"
     },
     {
-        "id": 566,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022technical infrastru...[268]...ng construction; and",
@@ -4628,7 +4061,6 @@
         "html_hash": "11f39dc5"
     },
     {
-        "id": 567,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022office facilities, ...[71]...d to as \"fit-outs\").",
@@ -4636,7 +4068,6 @@
         "html_hash": "c03c762e"
     },
     {
-        "id": 568,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Construction in prog...[435]...n technology assets.",
@@ -4644,7 +4075,6 @@
         "html_hash": "6d166625"
     },
     {
-        "id": 569,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "During the six month...[683]...llion, respectively.",
@@ -4652,7 +4082,6 @@
         "html_hash": "c4c982ba"
     },
     {
-        "id": 570,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Leases",
@@ -4661,7 +4090,6 @@
         "level": 2
     },
     {
-        "id": 571,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "For the six months e...[660]...g lease obligations.",
@@ -4669,7 +4097,6 @@
         "html_hash": "2336567f"
     },
     {
-        "id": 572,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "46",
@@ -4677,7 +4104,6 @@
         "html_hash": "77abbf40"
     },
     {
-        "id": 573,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -4685,7 +4111,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 574,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -4693,7 +4118,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 575,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "For the six months e...[207]...e 30, 2022 and 2023.",
@@ -4701,7 +4125,6 @@
         "html_hash": "32eb547c"
     },
     {
-        "id": 576,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Financing",
@@ -4710,7 +4133,6 @@
         "level": 1
     },
     {
-        "id": 577,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "We have a short-term...[201]...l paper outstanding.",
@@ -4718,7 +4140,6 @@
         "html_hash": "a9e874b1"
     },
     {
-        "id": 578,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "As of June\u00a030, 2023,...[356]...e credit facilities.",
@@ -4726,7 +4147,6 @@
         "html_hash": "da789c65"
     },
     {
-        "id": 579,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "As of June\u00a030, 2023,...[223]...rmation on our debt.",
@@ -4734,7 +4154,6 @@
         "html_hash": "31ef78d2"
     },
     {
-        "id": 580,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "We primarily utilize...[558]...Report on Form 10-Q.",
@@ -4742,7 +4161,6 @@
         "html_hash": "87a1c6c7"
     },
     {
-        "id": 581,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Share Repurchase Program",
@@ -4751,7 +4169,6 @@
         "level": 1
     },
     {
-        "id": 582,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "During the three and...[578]...k for $26.3 billion.",
@@ -4759,7 +4176,6 @@
         "html_hash": "b7db579c"
     },
     {
-        "id": 583,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "In April 2022, the B...[453]...C share repurchases.",
@@ -4767,7 +4183,6 @@
         "html_hash": "ffeaa096"
     },
     {
-        "id": 584,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See Note 10 of the N...[79]...Report on Form 10-Q.",
@@ -4775,7 +4190,6 @@
         "html_hash": "4edd6605"
     },
     {
-        "id": 585,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The U.S. Inflation R...[281]...inancial statements.",
@@ -4783,7 +4197,6 @@
         "html_hash": "34fb7eb3"
     },
     {
-        "id": 586,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "European Commission Fines",
@@ -4792,7 +4205,6 @@
         "level": 1
     },
     {
-        "id": 587,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "In 2017, 2018 and 20...[433]...an Court of Justice.",
@@ -4800,7 +4212,6 @@
         "html_hash": "258c492a"
     },
     {
-        "id": 588,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "While each EC decisi...[320]...Report on Form 10-Q.",
@@ -4808,7 +4219,6 @@
         "html_hash": "5181653b"
     },
     {
-        "id": 589,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Taxes",
@@ -4817,7 +4227,6 @@
         "level": 1
     },
     {
-        "id": 590,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "As of\u00a0June\u00a030, 2023,...[182]... Act (\"Tax Act\"). As",
@@ -4825,7 +4234,6 @@
         "html_hash": "6a7634ef"
     },
     {
-        "id": 591,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "47",
@@ -4833,7 +4241,6 @@
         "html_hash": "2142c3b1"
     },
     {
-        "id": 592,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -4841,7 +4248,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 593,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -4849,7 +4255,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 594,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "permitted by the Tax...[186]...as of June\u00a030, 2023.",
@@ -4857,7 +4262,6 @@
         "html_hash": "d12ba0e3"
     },
     {
-        "id": 595,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "As a result of the 2...[304]...Report on Form 10-Q.",
@@ -4865,7 +4269,6 @@
         "html_hash": "ecd75d66"
     },
     {
-        "id": 596,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Purchase Commitments",
@@ -4874,7 +4277,6 @@
         "level": 1
     },
     {
-        "id": 597,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "As of June 30, 2023,...[827]...Report on Form 10-Q.",
@@ -4882,7 +4284,6 @@
         "html_hash": "74120e1e"
     },
     {
-        "id": 598,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "In addition we regul...[314]...eadily determinable.",
@@ -4890,7 +4291,6 @@
         "html_hash": "45e0b707"
     },
     {
-        "id": 599,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -4898,7 +4298,6 @@
         "html_hash": "3fdee0d5"
     },
     {
-        "id": 600,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Critical Accounting Estimates",
@@ -4907,7 +4306,6 @@
         "level": 0
     },
     {
-        "id": 601,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See Part II, Item 7,...[84]...d December\u00a031, 2022.",
@@ -4915,7 +4313,6 @@
         "html_hash": "7bd8af75"
     },
     {
-        "id": 602,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -4923,7 +4320,6 @@
         "html_hash": "ad961d86"
     },
     {
-        "id": 603,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Available Information",
@@ -4932,7 +4328,6 @@
         "level": 0
     },
     {
-        "id": 604,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Our website is locat...[403]...site at www.sec.gov.",
@@ -4940,7 +4335,6 @@
         "html_hash": "b0bfe47a"
     },
     {
-        "id": 605,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "We webcast via our i...[1008]...ual references only.",
@@ -4948,7 +4342,6 @@
         "html_hash": "5d161a18"
     },
     {
-        "id": 606,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -4956,7 +4349,6 @@
         "html_hash": "905bc391"
     },
     {
-        "id": 607,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "ITEM 3.QUANTITATIVE ...[25]...ES ABOUT MARKET RISK",
@@ -4965,7 +4357,6 @@
         "level": 0
     },
     {
-        "id": 608,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "For quantitative and...[182]...d December 31, 2022.",
@@ -4973,7 +4364,6 @@
         "html_hash": "1283ea13"
     },
     {
-        "id": 609,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -4981,7 +4371,6 @@
         "html_hash": "5b07515b"
     },
     {
-        "id": 610,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "ITEM 4.CONTROLS AND PROCEDURES",
@@ -4990,7 +4379,6 @@
         "level": 0
     },
     {
-        "id": 611,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Evaluation of Disclo...[8]...trols and Procedures",
@@ -4999,7 +4387,6 @@
         "level": 0
     },
     {
-        "id": 612,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Our management, with...[251]...Report on Form 10-Q.",
@@ -5007,7 +4394,6 @@
         "html_hash": "14a00b91"
     },
     {
-        "id": 613,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Based on\u00a0this evalua...[518]...ement, including our",
@@ -5015,7 +4401,6 @@
         "html_hash": "d3c38282"
     },
     {
-        "id": 614,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "48",
@@ -5023,7 +4408,6 @@
         "html_hash": "512867de"
     },
     {
-        "id": 615,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -5031,7 +4415,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 616,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -5039,7 +4422,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 617,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "chief executive offi...[85]...required disclosure.",
@@ -5047,7 +4429,6 @@
         "html_hash": "202af9be"
     },
     {
-        "id": 618,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Changes in Internal ...[12]... Financial Reporting",
@@ -5056,7 +4437,6 @@
         "level": 0
     },
     {
-        "id": 619,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "There have been no c...[213]...financial reporting.",
@@ -5064,7 +4444,6 @@
         "html_hash": "e269bad7"
     },
     {
-        "id": 620,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Limitations on Effec...[15]...trols and Procedures",
@@ -5073,7 +4452,6 @@
         "level": 0
     },
     {
-        "id": 621,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "In designing and eva...[470]...tive to their costs.",
@@ -5081,7 +4459,6 @@
         "html_hash": "9c7444c7"
     },
     {
-        "id": 622,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "49",
@@ -5089,7 +4466,6 @@
         "html_hash": "1961d1de"
     },
     {
-        "id": 623,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -5097,7 +4473,6 @@
         "html_hash": "5a191059"
     },
     {
-        "id": 624,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -5105,7 +4480,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 625,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -5113,7 +4487,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 626,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "PART II. \u00a0\u00a0\u00a0\u00a0OTHER INFORMATION",
@@ -5122,7 +4495,6 @@
         "level": 0
     },
     {
-        "id": 627,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -5130,7 +4502,6 @@
         "html_hash": "86025a61"
     },
     {
-        "id": 628,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "ITEM 1.LEGAL PROCEEDINGS",
@@ -5139,7 +4510,6 @@
         "level": 0
     },
     {
-        "id": 629,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "For a description of...[238]...herein by reference.",
@@ -5147,7 +4517,6 @@
         "html_hash": "f7612a12"
     },
     {
-        "id": 630,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -5155,7 +4524,6 @@
         "html_hash": "80f61552"
     },
     {
-        "id": 631,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "ITEM 1A.RISK FACTORS",
@@ -5164,7 +4532,6 @@
         "level": 0
     },
     {
-        "id": 632,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Our operations and f...[312]... price of our stock.",
@@ -5172,7 +4539,6 @@
         "html_hash": "286d4634"
     },
     {
-        "id": 633,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -5180,7 +4546,6 @@
         "html_hash": "bb86b3fa"
     },
     {
-        "id": 634,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "ITEM 2.UNREGISTERED ...[26]... AND USE OF PROCEEDS",
@@ -5189,7 +4554,6 @@
         "level": 0
     },
     {
-        "id": 635,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Issuer Purchases of Equity Securities",
@@ -5198,7 +4562,6 @@
         "level": 0
     },
     {
-        "id": 636,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[686]...,594\u00a0114,386\u00a0130,980",
@@ -5206,7 +4569,6 @@
         "html_hash": "9ce67b24"
     },
     {
-        "id": 637,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(1)\u00a0\u00a0\u00a0\u00a0Repurchases a...[389]...o share repurchases.",
@@ -5214,7 +4576,6 @@
         "html_hash": "aa58cfd8"
     },
     {
-        "id": 638,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(2)\u00a0\u00a0\u00a0\u00a0Average price...[43]...ith the repurchases.",
@@ -5222,7 +4583,6 @@
         "html_hash": "f1953033"
     },
     {
-        "id": 639,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -5230,7 +4590,6 @@
         "html_hash": "44bb8f38"
     },
     {
-        "id": 640,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "ITEM 5.OTHER INFORMATION",
@@ -5239,7 +4598,6 @@
         "level": 0
     },
     {
-        "id": 641,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "10b5-1 Trading Plans",
@@ -5248,7 +4606,6 @@
         "level": 0
     },
     {
-        "id": 642,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "During the fiscal qu...[171]...f the Exchange Act):",
@@ -5256,7 +4613,6 @@
         "html_hash": "c010b089"
     },
     {
-        "id": 643,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Amie Thuener O\u2019Tool...[473]...of tax withholding).",
@@ -5264,7 +4620,6 @@
         "html_hash": "bb2f81db"
     },
     {
-        "id": 644,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Kent Walker, Presid...[503]...f tax withholding)*.",
@@ -5272,7 +4627,6 @@
         "html_hash": "722f78a2"
     },
     {
-        "id": 645,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "*In accordance with ...[252]...trading arrangement.",
@@ -5280,7 +4634,6 @@
         "html_hash": "15e9145f"
     },
     {
-        "id": 646,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "There were no \u201cnon-R...[290]...licy Against Insider",
@@ -5288,7 +4641,6 @@
         "html_hash": "2b32a799"
     },
     {
-        "id": 647,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "50",
@@ -5296,7 +4648,6 @@
         "html_hash": "a849ee37"
     },
     {
-        "id": 648,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -5304,7 +4655,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 649,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -5312,7 +4662,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 650,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Trading and actual s...[171]...les and regulations.",
@@ -5320,7 +4669,6 @@
         "html_hash": "0128c4e7"
     },
     {
-        "id": 651,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "51",
@@ -5328,7 +4676,6 @@
         "html_hash": "e70c12ef"
     },
     {
-        "id": 652,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -5336,7 +4683,6 @@
         "html_hash": "e0583573"
     },
     {
-        "id": 653,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -5344,7 +4690,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 654,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -5352,7 +4697,6 @@
         "html_hash": "f5fa5cb5"
     },
     {
-        "id": 655,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "ITEM 6.EXHIBITS",
@@ -5361,7 +4705,6 @@
         "level": 0
     },
     {
-        "id": 656,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "ExhibitNumber\u00a0\u00a0Descr...[1478]...ined in Exhibit 101)",
@@ -5369,7 +4712,6 @@
         "html_hash": "e996d290"
     },
     {
-        "id": 657,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "____________________...[89]...\u2021Furnished herewith.",
@@ -5377,7 +4719,6 @@
         "html_hash": "45eb8488"
     },
     {
-        "id": 658,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -5385,7 +4726,6 @@
         "html_hash": "8f98796f"
     },
     {
-        "id": 659,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "52",
@@ -5393,7 +4733,6 @@
         "html_hash": "8b168d36"
     },
     {
-        "id": 660,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -5401,7 +4740,6 @@
         "html_hash": "ca5c351e"
     },
     {
-        "id": 661,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -5409,7 +4747,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 662,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
@@ -5417,7 +4754,6 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "id": 663,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "SIGNATURES",
@@ -5426,7 +4762,6 @@
         "level": 0
     },
     {
-        "id": 664,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Pursuant to the requ...[144]...nto duly authorized.",
@@ -5434,7 +4769,6 @@
         "html_hash": "d6f60045"
     },
     {
-        "id": 665,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -5442,7 +4776,6 @@
         "html_hash": "5007faa6"
     },
     {
-        "id": 666,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "ALPHABET INC.July 25...[79]...ef Financial Officer",
@@ -5450,7 +4783,6 @@
         "html_hash": "530ba6bf"
     },
     {
-        "id": 667,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "ALPHABET INC.July 25...[113]...l Accounting Officer",
@@ -5458,7 +4790,6 @@
         "html_hash": "0ffe86a3"
     },
     {
-        "id": 668,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -5466,7 +4797,6 @@
         "html_hash": "1db55d7f"
     },
     {
-        "id": 669,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "53",

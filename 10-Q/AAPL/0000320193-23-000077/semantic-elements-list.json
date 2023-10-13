@@ -1,6 +1,5 @@
 [
     {
-        "id": 0,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "false2023Q3000032019...[12507]...2021-09-262022-06-25",
@@ -8,7 +7,6 @@
         "html_hash": "1b269f3d"
     },
     {
-        "id": 1,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -16,7 +14,6 @@
         "html_hash": "fdbe3ecf"
     },
     {
-        "id": 2,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -24,7 +21,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 3,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "",
@@ -32,7 +28,6 @@
         "html_hash": "3380ab89"
     },
     {
-        "id": 4,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "UNITED STATES",
@@ -41,7 +36,6 @@
         "level": 0
     },
     {
-        "id": 5,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "SECURITIES AND EXCHANGE COMMISSION",
@@ -50,7 +44,6 @@
         "level": 0
     },
     {
-        "id": 6,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Washington, D.C. 20549",
@@ -59,7 +52,6 @@
         "level": 0
     },
     {
-        "id": 7,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "",
@@ -67,7 +59,6 @@
         "html_hash": "50e31387"
     },
     {
-        "id": 8,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "FORM 10-Q",
@@ -76,7 +67,6 @@
         "level": 0
     },
     {
-        "id": 9,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "",
@@ -84,7 +74,6 @@
         "html_hash": "39180c7d"
     },
     {
-        "id": 10,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(Mark One)",
@@ -92,7 +81,6 @@
         "html_hash": "127c4ad7"
     },
     {
-        "id": 11,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "\u2612 QUARTERLY REPORT P...[49]...EXCHANGE ACT OF 1934",
@@ -101,7 +89,6 @@
         "level": 0
     },
     {
-        "id": 12,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "For the quarterly pe...[3]...d ended July\u00a01, 2023",
@@ -109,7 +96,6 @@
         "html_hash": "df6d9ec7"
     },
     {
-        "id": 13,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "or",
@@ -117,7 +103,6 @@
         "html_hash": "a5046a0e"
     },
     {
-        "id": 14,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "\u2610 TRANSITION REPORT ...[50]...EXCHANGE ACT OF 1934",
@@ -126,7 +111,6 @@
         "level": 0
     },
     {
-        "id": 15,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "For the transition p...[20]...\u00a0\u00a0\u00a0 to \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
@@ -134,7 +118,6 @@
         "html_hash": "86bead7f"
     },
     {
-        "id": 16,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Commission File Number: 001-36743",
@@ -142,7 +125,6 @@
         "html_hash": "92183eed"
     },
     {
-        "id": 17,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "",
@@ -150,7 +132,6 @@
         "html_hash": "31e91d34"
     },
     {
-        "id": 18,
         "cls_name": "ImageElement",
         "tag_name": "div",
         "text_preview": "",
@@ -158,7 +139,6 @@
         "html_hash": "f994be77"
     },
     {
-        "id": 19,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
@@ -167,7 +147,6 @@
         "level": 0
     },
     {
-        "id": 20,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(Exact name of Regis...[14]...fied in its charter)",
@@ -175,7 +154,6 @@
         "html_hash": "6dfebec1"
     },
     {
-        "id": 21,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "",
@@ -183,7 +161,6 @@
         "html_hash": "233d3c1f"
     },
     {
-        "id": 22,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "California94-2404110...[171]...e offices)(Zip Code)",
@@ -191,7 +168,6 @@
         "html_hash": "8206b562"
     },
     {
-        "id": 23,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "(408) 996-1010",
@@ -200,7 +176,6 @@
         "level": 0
     },
     {
-        "id": 24,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(Registrant\u2019s teleph...[12]...including area code)",
@@ -208,7 +183,6 @@
         "html_hash": "01d65cc2"
     },
     {
-        "id": 25,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "",
@@ -216,7 +190,6 @@
         "html_hash": "cbee9661"
     },
     {
-        "id": 26,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Securities registere...[19]...on 12(b) of the Act:",
@@ -224,7 +197,6 @@
         "html_hash": "61c36d58"
     },
     {
-        "id": 27,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Title of each classT...[551]...daq Stock Market LLC",
@@ -232,7 +204,6 @@
         "html_hash": "732e2038"
     },
     {
-        "id": 28,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "",
@@ -240,7 +211,6 @@
         "html_hash": "39180c7d"
     },
     {
-        "id": 29,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Indicate by check ma...[304]...or the past 90 days.",
@@ -248,7 +218,6 @@
         "html_hash": "79febedf"
     },
     {
-        "id": 30,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
@@ -256,7 +225,6 @@
         "html_hash": "a2295ff2"
     },
     {
-        "id": 31,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -264,7 +232,6 @@
         "html_hash": "ac56ac81"
     },
     {
-        "id": 32,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Indicate by check ma...[268]... submit such files).",
@@ -272,7 +239,6 @@
         "html_hash": "4ba7b979"
     },
     {
-        "id": 33,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
@@ -280,7 +246,6 @@
         "html_hash": "ad38573c"
     },
     {
-        "id": 34,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Indicate by check ma...[307]...of the Exchange Act.",
@@ -288,7 +253,6 @@
         "html_hash": "6999130f"
     },
     {
-        "id": 35,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Large accelerated fi...[74]...ging growth company\u2610",
@@ -296,7 +260,6 @@
         "html_hash": "0be0ee61"
     },
     {
-        "id": 36,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "If an emerging growt...[221]...ange Act.          \u2610",
@@ -304,7 +267,6 @@
         "html_hash": "7c4b8f50"
     },
     {
-        "id": 37,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Indicate by check ma...[72]...f the Exchange Act).",
@@ -312,7 +274,6 @@
         "html_hash": "7f420368"
     },
     {
-        "id": 38,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Yes\u00a0\u00a0\u2610\u00a0\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2612",
@@ -320,7 +281,6 @@
         "html_hash": "8ce4d2e2"
     },
     {
-        "id": 39,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "15,634,232,000 share...[46]...as of July\u00a021, 2023.",
@@ -328,7 +288,6 @@
         "html_hash": "cba1a98f"
     },
     {
-        "id": 40,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "",
@@ -336,7 +295,6 @@
         "html_hash": "16343d71"
     },
     {
-        "id": 41,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -344,7 +302,6 @@
         "html_hash": "ce4996b8"
     },
     {
-        "id": 42,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -352,7 +309,6 @@
         "html_hash": "87c302ff"
     },
     {
-        "id": 43,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -360,7 +316,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 44,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -368,7 +323,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 45,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
@@ -377,7 +331,6 @@
         "level": 0
     },
     {
-        "id": 46,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -385,7 +338,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 47,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Form 10-Q",
@@ -394,7 +346,6 @@
         "level": 0
     },
     {
-        "id": 48,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "For the Fiscal Quart...[1]...r Ended July\u00a01, 2023",
@@ -403,7 +354,6 @@
         "level": 0
     },
     {
-        "id": 49,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "TABLE OF CONTENTS",
@@ -412,7 +362,6 @@
         "level": 0
     },
     {
-        "id": 50,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -420,7 +369,6 @@
         "html_hash": "262e860a"
     },
     {
-        "id": 51,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "PagePart IItem 1.Fin...[469]...n21Item 6.Exhibits22",
@@ -428,7 +376,6 @@
         "html_hash": "247649d7"
     },
     {
-        "id": 52,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -436,7 +383,6 @@
         "html_hash": "ce4996b8"
     },
     {
-        "id": 53,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -444,7 +390,6 @@
         "html_hash": "e90e04fd"
     },
     {
-        "id": 54,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -452,7 +397,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 55,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -460,7 +404,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 56,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "PART I  \u2014  FINANCIAL INFORMATION",
@@ -469,7 +412,6 @@
         "level": 0
     },
     {
-        "id": 57,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -477,7 +419,6 @@
         "html_hash": "96ecf46b"
     },
     {
-        "id": 58,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Item 1.\u00a0\u00a0\u00a0\u00a0Financial Statements",
@@ -486,7 +427,6 @@
         "level": 0
     },
     {
-        "id": 59,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -494,7 +434,6 @@
         "html_hash": "bac8f8d5"
     },
     {
-        "id": 60,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
@@ -503,7 +442,6 @@
         "level": 0
     },
     {
-        "id": 61,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "CONDENSED CONSOLIDAT...[19]...ERATIONS (Unaudited)",
@@ -512,7 +450,6 @@
         "level": 0
     },
     {
-        "id": 62,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(In millions, except...[53]...d per share amounts)",
@@ -520,7 +457,6 @@
         "html_hash": "65002806"
     },
     {
-        "id": 63,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -528,7 +464,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 64,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[1018]...5,859,263\u00a016,394,937",
@@ -536,7 +471,6 @@
         "html_hash": "da1e82dc"
     },
     {
-        "id": 65,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See accompanying Not...[30]...inancial Statements.",
@@ -544,7 +478,6 @@
         "html_hash": "dc30982e"
     },
     {
-        "id": 66,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 1",
@@ -552,7 +485,6 @@
         "html_hash": "8752b2f0"
     },
     {
-        "id": 67,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -560,7 +492,6 @@
         "html_hash": "09a93013"
     },
     {
-        "id": 68,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -568,7 +499,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 69,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -576,7 +506,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 70,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
@@ -585,7 +514,6 @@
         "level": 0
     },
     {
-        "id": 71,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "CONDENSED CONSOLIDAT...[29]...E INCOME (Unaudited)",
@@ -594,7 +522,6 @@
         "level": 0
     },
     {
-        "id": 72,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(In millions)",
@@ -602,7 +529,6 @@
         "html_hash": "a6487173"
     },
     {
-        "id": 73,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -610,7 +536,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 74,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[947]...,639\u00a0$73,347\u00a0$69,622",
@@ -618,7 +543,6 @@
         "html_hash": "df31c99e"
     },
     {
-        "id": 75,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See accompanying Not...[30]...inancial Statements.",
@@ -626,7 +550,6 @@
         "html_hash": "dc30982e"
     },
     {
-        "id": 76,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 2",
@@ -634,7 +557,6 @@
         "html_hash": "f95c876f"
     },
     {
-        "id": 77,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -642,7 +564,6 @@
         "html_hash": "86623a73"
     },
     {
-        "id": 78,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -650,7 +571,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 79,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -658,7 +578,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 80,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
@@ -667,7 +586,6 @@
         "level": 0
     },
     {
-        "id": 81,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "CONDENSED CONSOLIDAT...[9]...E SHEETS (Unaudited)",
@@ -676,7 +594,6 @@
         "level": 0
     },
     {
-        "id": 82,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(In millions, except...[45]...sands and par value)",
@@ -684,7 +601,6 @@
         "html_hash": "c82043a4"
     },
     {
-        "id": 83,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -692,7 +608,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 84,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "July 1,2023September...[1326]...ity$335,038\u00a0$352,755",
@@ -700,7 +615,6 @@
         "html_hash": "8ec3a47c"
     },
     {
-        "id": 85,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See accompanying Not...[30]...inancial Statements.",
@@ -708,7 +622,6 @@
         "html_hash": "dc30982e"
     },
     {
-        "id": 86,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 3",
@@ -716,7 +629,6 @@
         "html_hash": "9f6a72d9"
     },
     {
-        "id": 87,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -724,7 +636,6 @@
         "html_hash": "78a1430e"
     },
     {
-        "id": 88,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -732,7 +643,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 89,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -740,7 +650,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 90,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
@@ -749,7 +658,6 @@
         "level": 0
     },
     {
-        "id": 91,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "CONDENSED CONSOLIDAT...[29]...\u2019 EQUITY (Unaudited)",
@@ -758,7 +666,6 @@
         "level": 0
     },
     {
-        "id": 92,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(In millions, except per share amounts)",
@@ -766,7 +673,6 @@
         "html_hash": "5ae31b8f"
     },
     {
-        "id": 93,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -774,7 +680,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 94,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[1165]...24\u00a0$0.23\u00a0$0.70\u00a0$0.67",
@@ -782,7 +687,6 @@
         "html_hash": "89d29ff2"
     },
     {
-        "id": 95,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See accompanying Not...[30]...inancial Statements.",
@@ -790,7 +694,6 @@
         "html_hash": "dc30982e"
     },
     {
-        "id": 96,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 4",
@@ -798,7 +701,6 @@
         "html_hash": "8dfe4dc2"
     },
     {
-        "id": 97,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -806,7 +708,6 @@
         "html_hash": "b7f71e46"
     },
     {
-        "id": 98,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -814,7 +715,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 99,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -822,7 +722,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 100,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
@@ -831,7 +730,6 @@
         "level": 0
     },
     {
-        "id": 101,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "CONDENSED CONSOLIDAT...[19]...SH FLOWS (Unaudited)",
@@ -840,7 +738,6 @@
         "level": 0
     },
     {
-        "id": 102,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(In millions)",
@@ -848,7 +745,6 @@
         "html_hash": "a6487173"
     },
     {
-        "id": 103,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -856,7 +752,6 @@
         "html_hash": "e3014cd7"
     },
     {
-        "id": 104,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Nine Months EndedJul...[1664]...nterest$2,590\u00a0$1,910",
@@ -864,7 +759,6 @@
         "html_hash": "0531633d"
     },
     {
-        "id": 105,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "See accompanying Not...[30]...inancial Statements.",
@@ -872,7 +766,6 @@
         "html_hash": "dc30982e"
     },
     {
-        "id": 106,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 5",
@@ -880,7 +773,6 @@
         "html_hash": "716fa9b6"
     },
     {
-        "id": 107,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -888,7 +780,6 @@
         "html_hash": "941a7d46"
     },
     {
-        "id": 108,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -896,7 +787,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 109,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -904,7 +794,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 110,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
@@ -913,7 +802,6 @@
         "level": 0
     },
     {
-        "id": 111,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Notes to Condensed C...[24]...atements (Unaudited)",
@@ -922,7 +810,6 @@
         "level": 0
     },
     {
-        "id": 112,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -930,7 +817,6 @@
         "html_hash": "f88de1fa"
     },
     {
-        "id": 113,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 1 \u2013 Summary of ...[11]... Accounting Policies",
@@ -939,7 +825,6 @@
         "level": 0
     },
     {
-        "id": 114,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Basis of Presentatio...[2667]...e been antidilutive.",
@@ -947,7 +832,6 @@
         "html_hash": "760b16d9"
     },
     {
-        "id": 115,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 6",
@@ -955,7 +839,6 @@
         "html_hash": "992f2750"
     },
     {
-        "id": 116,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -963,7 +846,6 @@
         "html_hash": "b37193dc"
     },
     {
-        "id": 117,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -971,7 +853,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 118,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -979,7 +860,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 119,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 2 \u2013 Revenue",
@@ -988,7 +868,6 @@
         "level": 0
     },
     {
-        "id": 120,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Net sales disaggrega...[1707]...er than three years.",
@@ -996,7 +875,6 @@
         "html_hash": "5feb226f"
     },
     {
-        "id": 121,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1004,7 +882,6 @@
         "html_hash": "0434c06b"
     },
     {
-        "id": 122,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 3 \u2013 Financial Instruments",
@@ -1013,7 +890,6 @@
         "level": 0
     },
     {
-        "id": 123,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Cash, Cash Equivalen...[1105]...408\u00a0$34,074\u00a0$104,061",
@@ -1021,7 +897,6 @@
         "html_hash": "d80f6dd3"
     },
     {
-        "id": 124,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 7",
@@ -1029,7 +904,6 @@
         "html_hash": "93a7fa72"
     },
     {
-        "id": 125,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1037,7 +911,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 126,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1045,7 +918,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 127,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "September 24, 2022Ad...[3337]...actions is 19 years.",
@@ -1053,7 +925,6 @@
         "html_hash": "7fc533b9"
     },
     {
-        "id": 128,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 8",
@@ -1061,7 +932,6 @@
         "html_hash": "cd2b98de"
     },
     {
-        "id": 129,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1069,7 +939,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 130,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1077,7 +946,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 131,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "The Company may also...[3118]...bt$(17,986)$(18,739)",
@@ -1085,7 +953,6 @@
         "html_hash": "fd6a416d"
     },
     {
-        "id": 132,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 9",
@@ -1093,7 +960,6 @@
         "html_hash": "d0ca3a6b"
     },
     {
-        "id": 133,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1101,7 +967,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 134,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1109,7 +974,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 135,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Accounts ReceivableT...[1737]...ted for 54% and 13%.",
@@ -1117,7 +981,6 @@
         "html_hash": "9f077f89"
     },
     {
-        "id": 136,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1125,7 +988,6 @@
         "html_hash": "5276385b"
     },
     {
-        "id": 137,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 4 \u2013 Condensed C...[19]...al Statement Details",
@@ -1134,7 +996,6 @@
         "level": 0
     },
     {
-        "id": 138,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "The following tables...[903]...265)$(10)$(594)$(97)",
@@ -1142,7 +1003,6 @@
         "html_hash": "b52e7c46"
     },
     {
-        "id": 139,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 10",
@@ -1150,7 +1010,6 @@
         "html_hash": "5f8e7edd"
     },
     {
-        "id": 140,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1158,7 +1017,6 @@
         "html_hash": "1e50dcc4"
     },
     {
-        "id": 141,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1166,7 +1024,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 142,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1174,7 +1031,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 143,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 5 \u2013 Income Taxes",
@@ -1183,7 +1039,6 @@
         "level": 0
     },
     {
-        "id": 144,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "European Commission ...[1187]... State Aid Decision.",
@@ -1191,7 +1046,6 @@
         "html_hash": "8b33692d"
     },
     {
-        "id": 145,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1199,7 +1053,6 @@
         "html_hash": "4e28d94d"
     },
     {
-        "id": 146,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 6 \u2013 Debt",
@@ -1208,7 +1061,6 @@
         "level": 0
     },
     {
-        "id": 147,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Commercial PaperThe ...[1329]...llion, respectively.",
@@ -1216,7 +1068,6 @@
         "html_hash": "5c52371f"
     },
     {
-        "id": 148,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1224,7 +1075,6 @@
         "html_hash": "0338bc52"
     },
     {
-        "id": 149,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 7 \u2013 Shareholders\u2019 Equity",
@@ -1233,7 +1083,6 @@
         "level": 0
     },
     {
-        "id": 150,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Share Repurchase Pro...[486]...of 1934, as amended.",
@@ -1241,7 +1090,6 @@
         "html_hash": "604c4383"
     },
     {
-        "id": 151,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 11",
@@ -1249,7 +1097,6 @@
         "html_hash": "2430ce4a"
     },
     {
-        "id": 152,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1257,7 +1104,6 @@
         "html_hash": "6e2edffb"
     },
     {
-        "id": 153,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1265,7 +1111,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 154,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1273,7 +1118,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 155,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 8 \u2013 Benefit Plans",
@@ -1282,7 +1126,6 @@
         "level": 0
     },
     {
-        "id": 156,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Restricted Stock Uni...[1370]...period of 2.7 years.",
@@ -1290,7 +1133,6 @@
         "html_hash": "3b62bbc6"
     },
     {
-        "id": 157,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1298,7 +1140,6 @@
         "html_hash": "7849b562"
     },
     {
-        "id": 158,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 9 \u2013 Commitments and Contingencies",
@@ -1307,7 +1148,6 @@
         "level": 0
     },
     {
-        "id": 159,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "Unconditional Purcha...[1047]...al and other claims.",
@@ -1315,7 +1155,6 @@
         "html_hash": "640ab5e3"
     },
     {
-        "id": 160,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 12",
@@ -1323,7 +1162,6 @@
         "html_hash": "e387fb5e"
     },
     {
-        "id": 161,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1331,7 +1169,6 @@
         "html_hash": "eba81010"
     },
     {
-        "id": 162,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1339,7 +1176,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 163,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1347,7 +1183,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 164,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Note 10 \u2013 Segment In...[9]... and Geographic Data",
@@ -1356,7 +1191,6 @@
         "level": 0
     },
     {
-        "id": 165,
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
         "text_preview": "The following table ...[1206]...,076\u00a0$87,332\u00a0$94,543",
@@ -1364,7 +1198,6 @@
         "html_hash": "a5123317"
     },
     {
-        "id": 166,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 13",
@@ -1372,7 +1205,6 @@
         "html_hash": "2de08696"
     },
     {
-        "id": 167,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1380,7 +1212,6 @@
         "html_hash": "5593f5bd"
     },
     {
-        "id": 168,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1388,7 +1219,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 169,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1396,7 +1226,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 170,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Item 2.\u00a0\u00a0\u00a0\u00a0Managemen...[56]...esults of Operations",
@@ -1405,7 +1234,6 @@
         "level": 0
     },
     {
-        "id": 171,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "This section and oth...[1366]... as required by law.",
@@ -1414,7 +1242,6 @@
         "level": 1
     },
     {
-        "id": 172,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Unless otherwise sta...[403]...ss otherwise stated.",
@@ -1423,7 +1250,6 @@
         "level": 1
     },
     {
-        "id": 173,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "The following discus...[226]...1 of this Form 10-Q.",
@@ -1432,7 +1258,6 @@
         "level": 1
     },
     {
-        "id": 174,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1440,7 +1265,6 @@
         "html_hash": "25f5ae14"
     },
     {
-        "id": 175,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Available Information",
@@ -1449,7 +1273,6 @@
         "level": 0
     },
     {
-        "id": 176,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company periodic...[559]...ual references only.",
@@ -1457,7 +1280,6 @@
         "html_hash": "fbd89615"
     },
     {
-        "id": 177,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1465,7 +1287,6 @@
         "html_hash": "b5959d4a"
     },
     {
-        "id": 178,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Business Seasonality...[6]...roduct Introductions",
@@ -1474,7 +1295,6 @@
         "level": 0
     },
     {
-        "id": 179,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company has hist...[640]...roduct introduction.",
@@ -1482,7 +1302,6 @@
         "html_hash": "dad44d68"
     },
     {
-        "id": 180,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1490,7 +1309,6 @@
         "html_hash": "66e819fe"
     },
     {
-        "id": 181,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Fiscal Period",
@@ -1499,7 +1317,6 @@
         "level": 0
     },
     {
-        "id": 182,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company\u2019s fiscal...[329]...weeks, respectively.",
@@ -1507,7 +1324,6 @@
         "html_hash": "ddcf258b"
     },
     {
-        "id": 183,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1515,7 +1331,6 @@
         "html_hash": "e6d74e7d"
     },
     {
-        "id": 184,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Quarterly Highlights",
@@ -1524,7 +1339,6 @@
         "level": 0
     },
     {
-        "id": 185,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Weakness in foreign ...[331]...t sales of Services.",
@@ -1532,7 +1346,6 @@
         "html_hash": "f2b78a26"
     },
     {
-        "id": 186,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "During the third qua...[43]...lowing new products:",
@@ -1540,7 +1353,6 @@
         "html_hash": "479ca078"
     },
     {
-        "id": 187,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u202215-inch MacBook Air...[6]...ered by the M2 chip;",
@@ -1548,7 +1360,6 @@
         "html_hash": "c3bc6d7a"
     },
     {
-        "id": 188,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Mac Studio\u2122, powere...[27]...e new M2 Ultra chip;",
@@ -1556,7 +1367,6 @@
         "html_hash": "bb60c742"
     },
     {
-        "id": 189,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Mac Pro\u00ae, powered b...[8]...w M2 Ultra chip; and",
@@ -1564,7 +1374,6 @@
         "html_hash": "7f77165f"
     },
     {
-        "id": 190,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "\u2022Apple Vision Pro\u2122, ...[99]... calendar year 2024.",
@@ -1572,7 +1381,6 @@
         "html_hash": "cfa48d1a"
     },
     {
-        "id": 191,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company also ann...[135]...in the fall of 2023.",
@@ -1580,7 +1388,6 @@
         "html_hash": "41f38dd8"
     },
     {
-        "id": 192,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 14",
@@ -1588,7 +1395,6 @@
         "html_hash": "8189866a"
     },
     {
-        "id": 193,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1596,7 +1402,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 194,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1604,7 +1409,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 195,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company repurcha...[111]...ird quarter of 2023.",
@@ -1612,7 +1416,6 @@
         "html_hash": "2ea0defa"
     },
     {
-        "id": 196,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Macroeconomic Conditions",
@@ -1621,7 +1424,6 @@
         "level": 1
     },
     {
-        "id": 197,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Macroeconomic condit...[203]...financial condition.",
@@ -1629,7 +1431,6 @@
         "html_hash": "049d72f4"
     },
     {
-        "id": 198,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1637,7 +1438,6 @@
         "html_hash": "e2183de0"
     },
     {
-        "id": 199,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Segment Operating Performance",
@@ -1646,7 +1446,6 @@
         "level": 0
     },
     {
-        "id": 200,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[115]...ollars in millions):",
@@ -1654,7 +1453,6 @@
         "html_hash": "e1791bdf"
     },
     {
-        "id": 201,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[374]...93,787\u00a0$304,182\u00a0(3)%",
@@ -1662,7 +1460,6 @@
         "html_hash": "c621d3b4"
     },
     {
-        "id": 202,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Americas",
@@ -1671,7 +1468,6 @@
         "level": 1
     },
     {
-        "id": 203,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Americas net sales d...[182]...t sales of Services.",
@@ -1679,7 +1475,6 @@
         "html_hash": "3a5a4ff3"
     },
     {
-        "id": 204,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Europe",
@@ -1688,7 +1483,6 @@
         "level": 1
     },
     {
-        "id": 205,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The weakness in fore...[420]...net sales of iPhone.",
@@ -1696,7 +1490,6 @@
         "html_hash": "e787849e"
     },
     {
-        "id": 206,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Greater China",
@@ -1705,7 +1498,6 @@
         "level": 1
     },
     {
-        "id": 207,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The weakness in the ...[387]...net sales of iPhone.",
@@ -1713,7 +1505,6 @@
         "html_hash": "bd84e33c"
     },
     {
-        "id": 208,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Japan",
@@ -1722,7 +1513,6 @@
         "level": 1
     },
     {
-        "id": 209,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The weakness in the ...[403]...ome and Accessories.",
@@ -1730,7 +1520,6 @@
         "html_hash": "33aed7b7"
     },
     {
-        "id": 210,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Rest of Asia Pacific",
@@ -1739,7 +1528,6 @@
         "level": 1
     },
     {
-        "id": 211,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The weakness in fore...[470]...er net sales of Mac.",
@@ -1747,7 +1535,6 @@
         "html_hash": "8c438981"
     },
     {
-        "id": 212,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 15",
@@ -1755,7 +1542,6 @@
         "html_hash": "f9f5abd1"
     },
     {
-        "id": 213,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1763,7 +1549,6 @@
         "html_hash": "a8363c03"
     },
     {
-        "id": 214,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1771,7 +1556,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 215,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1779,7 +1563,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 216,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Products and Services Performance",
@@ -1788,7 +1571,6 @@
         "level": 0
     },
     {
-        "id": 217,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The following table ...[105]...ollars in millions):",
@@ -1796,7 +1578,6 @@
         "html_hash": "c956d3f5"
     },
     {
-        "id": 218,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[363]...93,787\u00a0$304,182\u00a0(3)%",
@@ -1804,7 +1585,6 @@
         "html_hash": "8ba8c764"
     },
     {
-        "id": 219,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "iPhone",
@@ -1813,7 +1593,6 @@
         "level": 1
     },
     {
-        "id": 220,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "iPhone net sales dec...[201]...Phone 14 Pro models.",
@@ -1821,7 +1600,6 @@
         "html_hash": "83e12517"
     },
     {
-        "id": 221,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Mac",
@@ -1830,7 +1608,6 @@
         "level": 1
     },
     {
-        "id": 222,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Mac net sales decrea...[120]...et sales of laptops.",
@@ -1838,7 +1615,6 @@
         "html_hash": "4a1fb372"
     },
     {
-        "id": 223,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "iPad",
@@ -1847,7 +1623,6 @@
         "level": 1
     },
     {
-        "id": 224,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "iPad net sales decre...[202]...nine months of 2023.",
@@ -1855,7 +1630,6 @@
         "html_hash": "edaed212"
     },
     {
-        "id": 225,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Wearables, Home and Accessories",
@@ -1864,7 +1638,6 @@
         "level": 1
     },
     {
-        "id": 226,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Wearables, Home and ...[408]...les and accessories.",
@@ -1872,7 +1645,6 @@
         "html_hash": "dcea31a7"
     },
     {
-        "id": 227,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Services",
@@ -1881,7 +1653,6 @@
         "level": 1
     },
     {
-        "id": 228,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Services net sales i...[305]...vertising and music.",
@@ -1889,7 +1660,6 @@
         "html_hash": "2967333d"
     },
     {
-        "id": 229,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 16",
@@ -1897,7 +1667,6 @@
         "html_hash": "ab04a7a1"
     },
     {
-        "id": 230,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1905,7 +1674,6 @@
         "html_hash": "ec87d7bd"
     },
     {
-        "id": 231,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -1913,7 +1681,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 232,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -1921,7 +1688,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 233,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Gross Margin",
@@ -1930,7 +1696,6 @@
         "level": 0
     },
     {
-        "id": 234,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Products and Service...[136]...ollars in millions):",
@@ -1938,7 +1703,6 @@
         "html_hash": "a9c79c38"
     },
     {
-        "id": 235,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[181]...85\u00a0$128,721\u00a0$132,687",
@@ -1946,7 +1710,6 @@
         "html_hash": "23bbe4ae"
     },
     {
-        "id": 236,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Gross margin percent...[101]...\u00a0%43.3\u00a0%43.8\u00a0%43.6\u00a0%",
@@ -1954,7 +1717,6 @@
         "html_hash": "1fd03a96"
     },
     {
-        "id": 237,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Products Gross Margin",
@@ -1963,7 +1725,6 @@
         "level": 1
     },
     {
-        "id": 238,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Products gross margi...[253]...ferent Products mix.",
@@ -1971,7 +1732,6 @@
         "html_hash": "83aface5"
     },
     {
-        "id": 239,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Products gross margi...[502]...ferent Products mix.",
@@ -1979,7 +1739,6 @@
         "html_hash": "95bf7800"
     },
     {
-        "id": 240,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Services Gross Margin",
@@ -1988,7 +1747,6 @@
         "level": 1
     },
     {
-        "id": 241,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Services gross margi...[237]...gher Services costs.",
@@ -1996,7 +1754,6 @@
         "html_hash": "4be2c8a7"
     },
     {
-        "id": 242,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Services gross margi...[393]...y improved leverage.",
@@ -2004,7 +1761,6 @@
         "html_hash": "6c23828c"
     },
     {
-        "id": 243,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company\u2019s future...[237]...d downward pressure.",
@@ -2012,7 +1768,6 @@
         "html_hash": "0337b6f8"
     },
     {
-        "id": 244,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 17",
@@ -2020,7 +1775,6 @@
         "html_hash": "cc372f20"
     },
     {
-        "id": 245,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2028,7 +1782,6 @@
         "html_hash": "304dc27b"
     },
     {
-        "id": 246,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2036,7 +1789,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 247,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2044,7 +1796,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 248,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Operating Expenses",
@@ -2053,7 +1804,6 @@
         "level": 0
     },
     {
-        "id": 249,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Operating expenses f...[92]...ollars in millions):",
@@ -2061,7 +1811,6 @@
         "html_hash": "00f50a3d"
     },
     {
-        "id": 250,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[343]...ales16\u00a0%15\u00a0%14\u00a0%13\u00a0%",
@@ -2069,7 +1818,6 @@
         "html_hash": "a6380e96"
     },
     {
-        "id": 251,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Research and Development",
@@ -2078,7 +1826,6 @@
         "level": 1
     },
     {
-        "id": 252,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The growth in resear...[171]...nt-related expenses.",
@@ -2086,7 +1833,6 @@
         "html_hash": "a2733beb"
     },
     {
-        "id": 253,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Selling, General and Administrative",
@@ -2095,7 +1841,6 @@
         "level": 1
     },
     {
-        "id": 254,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Selling, general and...[116]...ame periods in 2022.",
@@ -2103,7 +1848,6 @@
         "html_hash": "55dc3c3e"
     },
     {
-        "id": 255,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2111,7 +1855,6 @@
         "html_hash": "be5f244b"
     },
     {
-        "id": 256,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Provision for Income Taxes",
@@ -2120,7 +1863,6 @@
         "level": 0
     },
     {
-        "id": 257,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Provision for income...[158]...ollars in millions):",
@@ -2128,7 +1870,6 @@
         "html_hash": "90c5259f"
     },
     {
-        "id": 258,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[188]...rate21\u00a0%21\u00a0%21\u00a0%21\u00a0%",
@@ -2136,7 +1877,6 @@
         "html_hash": "42b46563"
     },
     {
-        "id": 259,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company\u2019s effect...[351]... state income taxes.",
@@ -2144,7 +1884,6 @@
         "html_hash": "928056af"
     },
     {
-        "id": 260,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company\u2019s effect...[633]...-based compensation.",
@@ -2152,7 +1891,6 @@
         "html_hash": "0f132233"
     },
     {
-        "id": 261,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 18",
@@ -2160,7 +1898,6 @@
         "html_hash": "797adc37"
     },
     {
-        "id": 262,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2168,7 +1905,6 @@
         "html_hash": "a48fc48c"
     },
     {
-        "id": 263,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2176,7 +1912,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 264,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2184,7 +1919,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 265,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Liquidity and Capital Resources",
@@ -2193,7 +1927,6 @@
         "level": 0
     },
     {
-        "id": 266,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company believes...[260]...2 months and beyond.",
@@ -2201,7 +1934,6 @@
         "html_hash": "2de9915a"
     },
     {
-        "id": 267,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company\u2019s contra...[104]...urchase obligations.",
@@ -2209,7 +1941,6 @@
         "html_hash": "0ade2854"
     },
     {
-        "id": 268,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Manufacturing Purchase Obligations",
@@ -2218,7 +1949,6 @@
         "level": 1
     },
     {
-        "id": 269,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company utilizes...[608]...arily noncancelable.",
@@ -2226,7 +1956,6 @@
         "html_hash": "58a747a4"
     },
     {
-        "id": 270,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Capital Return Program",
@@ -2235,7 +1964,6 @@
         "level": 1
     },
     {
-        "id": 271,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "In addition to its c...[356]... Board of Directors.",
@@ -2243,7 +1971,6 @@
         "html_hash": "ff54ba97"
     },
     {
-        "id": 272,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2251,7 +1978,6 @@
         "html_hash": "87eb29f4"
     },
     {
-        "id": 273,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Critical Accounting Estimates",
@@ -2260,7 +1986,6 @@
         "level": 0
     },
     {
-        "id": 274,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The preparation of f...[787]... the 2022 Form 10-K.",
@@ -2268,7 +1993,6 @@
         "html_hash": "af2c55d3"
     },
     {
-        "id": 275,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2276,7 +2000,6 @@
         "html_hash": "89196c45"
     },
     {
-        "id": 276,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Item 3.\u00a0\u00a0\u00a0\u00a0Quantitat...[29]...es About Market Risk",
@@ -2285,7 +2008,6 @@
         "level": 0
     },
     {
-        "id": 277,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "There have been no m...[283]... the 2022 Form 10-K.",
@@ -2293,7 +2015,6 @@
         "html_hash": "79ebb697"
     },
     {
-        "id": 278,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2301,7 +2022,6 @@
         "html_hash": "c1d4c4d9"
     },
     {
-        "id": 279,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Item 4.\u00a0\u00a0\u00a0\u00a0Controls and Procedures",
@@ -2310,7 +2030,6 @@
         "level": 0
     },
     {
-        "id": 280,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Evaluation of Disclo...[8]...trols and Procedures",
@@ -2319,7 +2038,6 @@
         "level": 0
     },
     {
-        "id": 281,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Based on an evaluati...[831]...required disclosure.",
@@ -2327,7 +2045,6 @@
         "html_hash": "d9ed0d70"
     },
     {
-        "id": 282,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Changes in Internal ...[12]... Financial Reporting",
@@ -2336,7 +2053,6 @@
         "level": 0
     },
     {
-        "id": 283,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "There were no change...[351]...financial reporting.",
@@ -2344,7 +2060,6 @@
         "html_hash": "00baa1a8"
     },
     {
-        "id": 284,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 19",
@@ -2352,7 +2067,6 @@
         "html_hash": "dda9d0fc"
     },
     {
-        "id": 285,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2360,7 +2074,6 @@
         "html_hash": "d04e0cab"
     },
     {
-        "id": 286,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2368,7 +2081,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 287,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2376,7 +2088,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 288,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "PART II  \u2014  OTHER INFORMATION",
@@ -2385,7 +2096,6 @@
         "level": 0
     },
     {
-        "id": 289,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2393,7 +2103,6 @@
         "html_hash": "a9f1d17d"
     },
     {
-        "id": 290,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Item 1.\u00a0\u00a0\u00a0\u00a0Legal Proceedings",
@@ -2402,7 +2111,6 @@
         "level": 0
     },
     {
-        "id": 291,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Epic Games",
@@ -2411,7 +2119,6 @@
         "level": 1
     },
     {
-        "id": 292,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Epic Games, Inc. (\u201cE...[1476]...on will take effect.",
@@ -2419,7 +2126,6 @@
         "html_hash": "4b675205"
     },
     {
-        "id": 293,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Other Legal Proceedings",
@@ -2428,7 +2134,6 @@
         "level": 1
     },
     {
-        "id": 294,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company is subje...[611]... adversely affected.",
@@ -2436,7 +2141,6 @@
         "html_hash": "4b094194"
     },
     {
-        "id": 295,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2444,7 +2148,6 @@
         "html_hash": "1d4814e4"
     },
     {
-        "id": 296,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Item 1A.\u00a0\u00a0\u00a0\u00a0Risk Factors",
@@ -2453,7 +2156,6 @@
         "level": 0
     },
     {
-        "id": 297,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "The Company\u2019s busine...[527]... the 2022 Form 10-K.",
@@ -2461,7 +2163,6 @@
         "html_hash": "8ad04281"
     },
     {
-        "id": 298,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 20",
@@ -2469,7 +2170,6 @@
         "html_hash": "aeb2c472"
     },
     {
-        "id": 299,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2477,7 +2177,6 @@
         "html_hash": "4194f2e2"
     },
     {
-        "id": 300,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2485,7 +2184,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 301,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2493,7 +2191,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 302,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Item 2.\u00a0\u00a0\u00a0\u00a0Unregiste...[70]...of Equity Securities",
@@ -2502,7 +2199,6 @@
         "level": 0
     },
     {
-        "id": 303,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Purchases of Equity ...[30]...ffiliated Purchasers",
@@ -2511,7 +2207,6 @@
         "level": 0
     },
     {
-        "id": 304,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Share repurchase act...[140]... per share amounts):",
@@ -2519,7 +2214,6 @@
         "html_hash": "4c1517df"
     },
     {
-        "id": 305,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "PeriodsTotal Numbero...[503]...Total102,673\u00a0$94,569",
@@ -2527,7 +2221,6 @@
         "html_hash": "b746af68"
     },
     {
-        "id": 306,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "(1)On April 28, 2022...[604]...er the Exchange Act.",
@@ -2535,7 +2228,6 @@
         "html_hash": "47696197"
     },
     {
-        "id": 307,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2543,7 +2235,6 @@
         "html_hash": "72e507a0"
     },
     {
-        "id": 308,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Item 3.\u00a0\u00a0\u00a0\u00a0Defaults ...[2]...on Senior Securities",
@@ -2552,7 +2243,6 @@
         "level": 0
     },
     {
-        "id": 309,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "None.",
@@ -2560,7 +2250,6 @@
         "html_hash": "4ddb33a4"
     },
     {
-        "id": 310,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2568,7 +2257,6 @@
         "html_hash": "55de3f03"
     },
     {
-        "id": 311,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Item 4.\u00a0\u00a0\u00a0\u00a0Mine Safety Disclosures",
@@ -2577,7 +2265,6 @@
         "level": 0
     },
     {
-        "id": 312,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Not applicable.",
@@ -2585,7 +2272,6 @@
         "html_hash": "df055e03"
     },
     {
-        "id": 313,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2593,7 +2279,6 @@
         "html_hash": "13d01467"
     },
     {
-        "id": 314,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Item 5.\u00a0\u00a0\u00a0\u00a0Other Information",
@@ -2602,7 +2287,6 @@
         "level": 0
     },
     {
-        "id": 315,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "None.",
@@ -2610,7 +2294,6 @@
         "html_hash": "c9d1b42c"
     },
     {
-        "id": 316,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 21",
@@ -2618,7 +2301,6 @@
         "html_hash": "a679dcae"
     },
     {
-        "id": 317,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2626,7 +2308,6 @@
         "html_hash": "8cb6f30a"
     },
     {
-        "id": 318,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2634,7 +2315,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 319,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2642,7 +2322,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 320,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Item 6.\u00a0\u00a0\u00a0\u00a0Exhibits",
@@ -2651,7 +2330,6 @@
         "level": 0
     },
     {
-        "id": 321,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Incorporated by Refe...[850]...e XBRL Document Set.",
@@ -2659,7 +2337,6 @@
         "html_hash": "70670636"
     },
     {
-        "id": 322,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "*\u00a0\u00a0\u00a0\u00a0Filed herewith.",
@@ -2667,7 +2344,6 @@
         "html_hash": "9ce41279"
     },
     {
-        "id": 323,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "**\u00a0\u00a0\u00a0\u00a0Furnished herewith.",
@@ -2675,7 +2351,6 @@
         "html_hash": "fd61de73"
     },
     {
-        "id": 324,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 22",
@@ -2683,7 +2358,6 @@
         "html_hash": "ee30f02f"
     },
     {
-        "id": 325,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2691,7 +2365,6 @@
         "html_hash": "74f80bb6"
     },
     {
-        "id": 326,
         "cls_name": "EmptyElement",
         "tag_name": "hr",
         "text_preview": "",
@@ -2699,7 +2372,6 @@
         "html_hash": "45ab5d64"
     },
     {
-        "id": 327,
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "",
@@ -2707,7 +2379,6 @@
         "html_hash": "d140b877"
     },
     {
-        "id": 328,
         "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "SIGNATURE",
@@ -2716,7 +2387,6 @@
         "level": 0
     },
     {
-        "id": 329,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Pursuant to the requ...[144]...nto duly authorized.",
@@ -2724,7 +2394,6 @@
         "html_hash": "55a8469c"
     },
     {
-        "id": 330,
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Date: August\u00a03, 2023...[66]...ef Financial Officer",
@@ -2732,7 +2401,6 @@
         "html_hash": "32903796"
     },
     {
-        "id": 331,
         "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 23",
