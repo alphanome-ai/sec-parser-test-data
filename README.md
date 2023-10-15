@@ -1,6 +1,6 @@
 # sec-parser-e2e-data
 
-This repository houses the end-to-end (e2e) testing data for the [sec-parser](https://github.com/alphanome-ai/sec-parser) project.
+This repository houses the end-to-end (e2e) testing data for the [sec-parser](https://github.com/alphanome-ai/sec-parser) project. For detailed instructions on using the e2e data for testing, please refer to the [Contribution Guide](https://github.com/alphanome-ai/sec-parser/blob/main/CONTRIBUTING.md).
 
 ## Purpose
 
