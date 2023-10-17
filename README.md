@@ -11,7 +11,7 @@ Keeping this data separate ensures a clean and manageable main code repository, 
 
 ## Contributing
 
-When submitting changes, include the git hash of the `sec-parser` repository in your commit message for version tracking.
+When submitting changes, please include the git hash of the `sec-parser` repository in your commit message or pull request for version tracking.
 
 ## Feedback
 
