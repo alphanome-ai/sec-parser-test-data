@@ -1,4 +1,4 @@
-# sec-parser-validation-data
+# sec-parser-test-data
 
 This repository complements the [sec-parser](https://github.com/alphanome-ai/sec-parser) project by storing raw SEC EDGAR documents for various quality assurance tasks. These tasks include end-to-end testing and evaluation tests. For guidelines on contributing, please consult the [Contribution Guide](https://github.com/alphanome-ai/sec-parser/blob/main/CONTRIBUTING.md).
 
