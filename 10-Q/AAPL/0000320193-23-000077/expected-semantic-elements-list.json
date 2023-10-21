@@ -1,410 +1,6 @@
 [
     {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "false2023Q3000032019...[12507]...2021-09-262022-06-25",
-        "html_preview": "<div style=\"display:...[81231]...s></ix:header></div>",
-        "html_hash": "1b269f3d"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div id=\"i89a6f703d1...[12]...bbc5198dc5_1\"></div>",
-        "html_hash": "fdbe3ecf"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"min-heig...[38]...></span></div></div>",
-        "html_hash": "d140b877"
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"text-ali...[353]...></tr></table></div>",
-        "html_hash": "3380ab89"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "UNITED STATES",
-        "html_preview": "<div style=\"margin-t...[143]... STATES</span></div>",
-        "html_hash": "3a1ef47a",
-        "level": 0
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "SECURITIES AND EXCHANGE COMMISSION",
-        "html_preview": "<div style=\"text-ali...[149]...MISSION</span></div>",
-        "html_hash": "cb496701",
-        "level": 0
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Washington, D.C. 20549",
-        "html_preview": "<div style=\"text-ali...[137].... 20549</span></div>",
-        "html_hash": "632c60bc",
-        "level": 0
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"margin-t...[339]...></tr></table></div>",
-        "html_hash": "50e31387"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "FORM 10-Q",
-        "html_preview": "<div style=\"margin-t...[220]...umeric></span></div>",
-        "html_hash": "f87b7200",
-        "level": 0
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"margin-t...[336]...></tr></table></div>",
-        "html_hash": "39180c7d"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(Mark One)",
-        "html_preview": "<div><span style=\"co...[98]...rk One)</span></div>",
-        "html_hash": "127c4ad7"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "\u2612 QUARTERLY REPORT P...[49]...EXCHANGE ACT OF 1934",
-        "html_preview": "<div style=\"margin-t...[583]...OF 1934</span></div>",
-        "html_hash": "95ce7028",
-        "level": 0
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "For the quarterly pe...[3]...d ended July\u00a01, 2023",
-        "html_preview": "<div style=\"margin-t...[302]...umeric></span></div>",
-        "html_hash": "df6d9ec7"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "or",
-        "html_preview": "<div style=\"margin-t...[131]...20%\">or</span></div>",
-        "html_hash": "a5046a0e"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "\u2610 TRANSITION REPORT ...[50]...EXCHANGE ACT OF 1934",
-        "html_preview": "<div style=\"margin-t...[585]...OF 1934</span></div>",
-        "html_hash": "f6227fc4",
-        "level": 0
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "For the transition p...[20]...\u00a0\u00a0\u00a0 to \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
-        "html_preview": "<div style=\"margin-t...[709]...120%\">.</span></div>",
-        "html_hash": "86bead7f"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Commission File Number: 001-36743",
-        "html_preview": "<div style=\"margin-t...[364]...umeric></span></div>",
-        "html_hash": "92183eed"
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"margin-t...[339]...></tr></table></div>",
-        "html_hash": "31e91d34"
-    },
-    {
-        "cls_name": "ImageElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"margin-t...[144]...;width:36px\"/></div>",
-        "html_hash": "f994be77"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Apple Inc.",
-        "html_preview": "<div style=\"margin-t...[229]...umeric></span></div>",
-        "html_hash": "fa864aca",
-        "level": 0
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(Exact name of Regis...[14]...fied in its charter)",
-        "html_preview": "<div style=\"margin-t...[183]...harter)</span></div>",
-        "html_hash": "6dfebec1"
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"margin-t...[336]...></tr></table></div>",
-        "html_hash": "233d3c1f"
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "California94-2404110...[171]...e offices)(Zip Code)",
-        "html_preview": "<div style=\"text-ali...[3559]...></tr></table></div>",
-        "html_hash": "8206b562"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "(408) 996-1010",
-        "html_preview": "<div style=\"margin-t...[311]...umeric></span></div>",
-        "html_hash": "533fdba8",
-        "level": 0
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(Registrant\u2019s teleph...[12]...including area code)",
-        "html_preview": "<div style=\"text-ali...[166]...a code)</span></div>",
-        "html_hash": "01d65cc2"
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"margin-t...[339]...></tr></table></div>",
-        "html_hash": "cbee9661"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Securities registere...[19]...on 12(b) of the Act:",
-        "html_preview": "<div style=\"margin-t...[188]...he Act:</span></div>",
-        "html_hash": "61c36d58"
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "Title of each classT...[551]...daq Stock Market LLC",
-        "html_preview": "<div style=\"margin-t...[13005]...></tr></table></div>",
-        "html_hash": "732e2038"
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"margin-t...[336]...></tr></table></div>",
-        "html_hash": "39180c7d"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Indicate by check ma...[304]...or the past 90 days.",
-        "html_preview": "<div style=\"margin-t...[474]...0 days.</span></div>",
-        "html_hash": "79febedf"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
-        "html_preview": "<div style=\"margin-t...[610]...120%\">\u2610</span></div>",
-        "html_hash": "a2295ff2"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"margin-t...[31]...n><br/></span></div>",
-        "html_hash": "ac56ac81"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Indicate by check ma...[268]... submit such files).",
-        "html_preview": "<div style=\"text-ali...[423]...files).</span></div>",
-        "html_hash": "4ba7b979"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
-        "html_preview": "<div style=\"margin-t...[610]...120%\">\u2610</span></div>",
-        "html_hash": "ad38573c"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Indicate by check ma...[307]...of the Exchange Act.",
-        "html_preview": "<div style=\"margin-t...[477]...ge Act.</span></div>",
-        "html_hash": "6999130f"
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "Large accelerated fi...[74]...ging growth company\u2610",
-        "html_preview": "<div style=\"margin-t...[3813]...></tr></table></div>",
-        "html_hash": "0be0ee61"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "If an emerging growt...[221]...ange Act.          \u2610",
-        "html_preview": "<div style=\"margin-t...[516]...120%\">\u2610</span></div>",
-        "html_hash": "7c4b8f50"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Indicate by check ma...[72]...f the Exchange Act).",
-        "html_preview": "<div style=\"margin-t...[243]...e Act).</span></div>",
-        "html_hash": "7f420368"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Yes\u00a0\u00a0\u2610\u00a0\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2612",
-        "html_preview": "<div style=\"margin-t...[631]...120%\">\u2612</span></div>",
-        "html_hash": "8ce4d2e2"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "15,634,232,000 share...[46]...as of July\u00a021, 2023.",
-        "html_preview": "<div style=\"margin-b...[527]...120%\">.</span></div>",
-        "html_hash": "cba1a98f"
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"margin-t...[368]...></tr></table></div>",
-        "html_hash": "16343d71"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"height:4...[109]...n></div></div></div>",
-        "html_hash": "ce4996b8"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div id=\"i89a6f703d1...[12]...bbc5198dc5_7\"></div>",
-        "html_hash": "87c302ff"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "hr",
-        "text_preview": "",
-        "html_preview": "<hr style=\"page-break-after:always\"/>",
-        "html_hash": "45ab5d64"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"min-heig...[38]...></span></div></div>",
-        "html_hash": "d140b877"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Apple Inc.",
-        "html_preview": "<div style=\"text-ali...[124]...le Inc.</span></div>",
-        "html_hash": "44c6dcf4",
-        "level": 0
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"text-ali...[15]...n><br/></span></div>",
-        "html_hash": "e3014cd7"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Form 10-Q",
-        "html_preview": "<div style=\"text-ali...[123]...rm 10-Q</span></div>",
-        "html_hash": "b516902f",
-        "level": 0
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "For the Fiscal Quart...[1]...r Ended July\u00a01, 2023",
-        "html_preview": "<div style=\"margin-t...[171]..., 2023 </span></div>",
-        "html_hash": "793294ef",
-        "level": 0
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "TABLE OF CONTENTS",
-        "html_preview": "<div style=\"margin-t...[146]...ONTENTS</span></div>",
-        "html_hash": "acd6741d",
-        "level": 0
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"margin-t...[30]...n><br/></span></div>",
-        "html_hash": "262e860a"
-    },
-    {
-        "cls_name": "TableElement",
-        "tag_name": "div",
-        "text_preview": "PagePart IItem 1.Fin...[469]...n21Item 6.Exhibits22",
-        "html_preview": "<div style=\"text-ali...[16823]...></tr></table></div>",
-        "html_hash": "247649d7"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"height:4...[109]...n></div></div></div>",
-        "html_hash": "ce4996b8"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div id=\"i89a6f703d1...[13]...bc5198dc5_10\"></div>",
-        "html_hash": "e90e04fd"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "hr",
-        "text_preview": "",
-        "html_preview": "<hr style=\"page-break-after:always\"/>",
-        "html_hash": "45ab5d64"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "div",
-        "text_preview": "",
-        "html_preview": "<div style=\"min-heig...[38]...></span></div></div>",
-        "html_hash": "d140b877"
-    },
-    {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "PART I  \u2014  FINANCIAL INFORMATION",
         "html_preview": "<div style=\"margin-t...[163]...RMATION</span></div>",
@@ -419,12 +15,12 @@
         "html_hash": "96ecf46b"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "Item 1.\u00a0\u00a0\u00a0\u00a0Financial Statements",
         "html_preview": "<div style=\"margin-t...[162]...tements</span></div>",
         "html_hash": "8e7d8121",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "EmptyElement",
@@ -1226,12 +822,12 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "Item 2.\u00a0\u00a0\u00a0\u00a0Managemen...[56]...esults of Operations",
         "html_preview": "<div style=\"margin-t...[262]...rations</span></div>",
         "html_hash": "409b474e",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TitleElement",
@@ -2000,12 +1596,12 @@
         "html_hash": "89196c45"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "Item 3.\u00a0\u00a0\u00a0\u00a0Quantitat...[29]...es About Market Risk",
         "html_preview": "<div style=\"margin-t...[236]...et Risk</span></div>",
         "html_hash": "c4c1db46",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TextElement",
@@ -2022,12 +1618,12 @@
         "html_hash": "c1d4c4d9"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "Item 4.\u00a0\u00a0\u00a0\u00a0Controls and Procedures",
         "html_preview": "<div style=\"margin-t...[201]...cedures</span></div>",
         "html_hash": "85e59b85",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TitleElement",
@@ -2088,7 +1684,7 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "PART II  \u2014  OTHER INFORMATION",
         "html_preview": "<div style=\"margin-t...[160]...RMATION</span></div>",
@@ -2103,12 +1699,12 @@
         "html_hash": "a9f1d17d"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "Item 1.\u00a0\u00a0\u00a0\u00a0Legal Proceedings",
         "html_preview": "<div style=\"margin-t...[195]...eedings</span></div>",
         "html_hash": "d6590a11",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TitleElement",
@@ -2148,12 +1744,12 @@
         "html_hash": "1d4814e4"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "Item 1A.\u00a0\u00a0\u00a0\u00a0Risk Factors",
         "html_preview": "<div style=\"margin-t...[191]...Factors</span></div>",
         "html_hash": "fa6ecc70",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TextElement",
@@ -2191,12 +1787,12 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "Item 2.\u00a0\u00a0\u00a0\u00a0Unregiste...[70]...of Equity Securities",
         "html_preview": "<div style=\"margin-t...[277]...urities</span></div>",
         "html_hash": "28497f1c",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TitleElement",
@@ -2235,12 +1831,12 @@
         "html_hash": "72e507a0"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "Item 3.\u00a0\u00a0\u00a0\u00a0Defaults ...[2]...on Senior Securities",
         "html_preview": "<div style=\"margin-t...[209]...urities</span></div>",
         "html_hash": "93965fa9",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TextElement",
@@ -2257,12 +1853,12 @@
         "html_hash": "55de3f03"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "Item 4.\u00a0\u00a0\u00a0\u00a0Mine Safety Disclosures",
         "html_preview": "<div style=\"margin-t...[201]...losures</span></div>",
         "html_hash": "df1916a2",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TextElement",
@@ -2279,12 +1875,12 @@
         "html_hash": "13d01467"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "Item 5.\u00a0\u00a0\u00a0\u00a0Other Information",
         "html_preview": "<div style=\"margin-t...[195]...rmation</span></div>",
         "html_hash": "abb61fda",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TextElement",
@@ -2322,12 +1918,12 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopLevelSectionTitle",
         "tag_name": "div",
         "text_preview": "Item 6.\u00a0\u00a0\u00a0\u00a0Exhibits",
         "html_preview": "<div style=\"-sec-ext...[207]...xhibits</span></div>",
         "html_hash": "326b6af4",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TableElement",
