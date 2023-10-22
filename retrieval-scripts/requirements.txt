@@ -1,0 +1,7 @@
+jupyter
+ipywidgets
+jupyter-black
+python-dotenv
+sec-downloader
+sec-api-io
+tqdm

@@ -1,0 +1,7 @@
+version: '3'
+
+tasks:
+  setup:
+    cmds:
+      - test ! -d .venv && python3 -m venv .venv || echo "[Error] .venv directory already exists." && exit 1
+      - source .venv/bin/activate && pip install -r requirements.txt
