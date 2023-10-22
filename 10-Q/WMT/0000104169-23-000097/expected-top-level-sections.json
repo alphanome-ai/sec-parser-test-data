@@ -1,46 +1,46 @@
 [
     {
-        "id": "part1item1",
+        "identifier": "part1item1",
         "character_count": 812320
     },
     {
-        "id": "part1item2",
+        "identifier": "part1item2",
         "character_count": 319465
     },
     {
-        "id": "part1item3",
+        "identifier": "part1item3",
         "character_count": 1630
     },
     {
-        "id": "part1item4",
+        "identifier": "part1item4",
         "character_count": 4557
     },
     {
-        "id": "part2item1",
+        "identifier": "part2item1",
         "character_count": 22648
     },
     {
-        "id": "part2item1a",
+        "identifier": "part2item1a",
         "character_count": 1215
     },
     {
-        "id": "part2item2",
+        "identifier": "part2item2",
         "character_count": 13703
     },
     {
-        "id": "part2item3",
+        "identifier": "part2item3",
         "character_count": 0
     },
     {
-        "id": "part2item4",
+        "identifier": "part2item4",
         "character_count": 0
     },
     {
-        "id": "part2item5",
+        "identifier": "part2item5",
         "character_count": 42675
     },
     {
-        "id": "part2item6",
+        "identifier": "part2item6",
         "character_count": 23934
     }
 ]
