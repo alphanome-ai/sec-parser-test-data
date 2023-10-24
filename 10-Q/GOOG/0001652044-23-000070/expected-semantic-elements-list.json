@@ -5,7 +5,8 @@
         "text_preview": "PART I.\u00a0\u00a0\u00a0\u00a0FINANCIAL INFORMATION",
         "html_preview": "<div style=\"padding-...[180]...RMATION</span></div>",
         "html_hash": "8a373fd3",
-        "level": 0
+        "level": 0,
+        "identifier": "part1"
     },
     {
         "cls_name": "EmptyElement",
@@ -20,7 +21,8 @@
         "text_preview": "ITEM 1.FINANCIAL STATEMENTS",
         "html_preview": "<div style=\"margin-t...[325]...TEMENTS</span></div>",
         "html_hash": "5987b79e",
-        "level": 1
+        "level": 1,
+        "identifier": "part1item1"
     },
     {
         "cls_name": "EmptyElement",
@@ -30,12 +32,11 @@
         "html_hash": "edbdc9cb"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
         "html_preview": "<div style=\"margin-t...[139]...et Inc.</span></div>",
-        "html_hash": "f675085e",
-        "level": 0
+        "html_hash": "f675085e"
     },
     {
         "cls_name": "TitleElement",
@@ -43,7 +44,7 @@
         "text_preview": "CONSOLIDATED BALANCE SHEETS",
         "html_preview": "<div style=\"text-ali...[138]... SHEETS</span></div>",
         "html_hash": "920ead1a",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TextElement",
@@ -53,14 +54,14 @@
         "html_hash": "22291aa5"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "See accompanying notes.",
         "html_preview": "<div style=\"margin-t...[149]... notes.</span></div>",
         "html_hash": "a00502cf"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "5",
         "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
@@ -81,19 +82,18 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
         "html_hash": "4c6ac0c7"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
         "html_preview": "<div style=\"text-ali...[124]...et Inc.</span></div>",
-        "html_hash": "80825bb4",
-        "level": 0
+        "html_hash": "80825bb4"
     },
     {
         "cls_name": "TitleElement",
@@ -101,7 +101,7 @@
         "text_preview": "CONSOLIDATED STATEMENTS OF INCOME",
         "html_preview": "<div style=\"text-ali...[144]... INCOME</span></div>",
         "html_hash": "d9ee8e8f",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TextElement",
@@ -111,14 +111,14 @@
         "html_hash": "63d88c73"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "See accompanying notes.",
         "html_preview": "<div style=\"margin-t...[168]... notes.</span></div>",
         "html_hash": "5b20a1db"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "6",
         "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
@@ -139,19 +139,18 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
         "html_hash": "4c6ac0c7"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
         "html_preview": "<div style=\"text-ali...[124]...et Inc.</span></div>",
-        "html_hash": "80825bb4",
-        "level": 0
+        "html_hash": "80825bb4"
     },
     {
         "cls_name": "TitleElement",
@@ -159,7 +158,7 @@
         "text_preview": "CONSOLIDATED STATEME...[7]...COMPREHENSIVE INCOME",
         "html_preview": "<div style=\"text-ali...[158]... INCOME</span></div>",
         "html_hash": "0f950a2b",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TextElement",
@@ -169,14 +168,14 @@
         "html_hash": "401b0a62"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "See accompanying notes.",
         "html_preview": "<div style=\"margin-t...[168]... notes.</span></div>",
         "html_hash": "5b20a1db"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "7",
         "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
@@ -197,19 +196,18 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
         "html_hash": "4c6ac0c7"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
         "html_preview": "<div style=\"padding-...[178]...et Inc.</span></div>",
-        "html_hash": "56b6bed6",
-        "level": 0
+        "html_hash": "56b6bed6"
     },
     {
         "cls_name": "TitleElement",
@@ -217,10 +215,10 @@
         "text_preview": "CONSOLIDATED STATEME...[7]...STOCKHOLDERS\u2019 EQUITY",
         "html_preview": "<div style=\"text-ali...[158]... EQUITY</span></div>",
         "html_hash": "d81cd57a",
-        "level": 0
+        "level": 1
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "(in millions; unaudited)",
         "html_preview": "<div style=\"text-ali...[135]...udited)</span></div>",
@@ -231,7 +229,11 @@
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[581]...28)$196,845\u00a0$255,419",
         "html_preview": "<div style=\"text-ali...[28894]...></tr></table></div>",
-        "html_hash": "2efd38fd"
+        "html_hash": "2efd38fd",
+        "metrics": {
+            "rows": 8,
+            "numbers": 43
+        }
     },
     {
         "cls_name": "EmptyElement",
@@ -252,7 +254,11 @@
         "tag_name": "div",
         "text_preview": "Six Months Ended Jun...[584]...28)$196,845\u00a0$255,419",
         "html_preview": "<div style=\"text-ali...[28926]...></tr></table></div>",
-        "html_hash": "c143045b"
+        "html_hash": "c143045b",
+        "metrics": {
+            "rows": 8,
+            "numbers": 43
+        }
     },
     {
         "cls_name": "EmptyElement",
@@ -318,7 +324,7 @@
         "html_hash": "e3014cd7"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "8",
         "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
@@ -332,7 +338,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -343,7 +349,11 @@
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[572]...91)$200,884\u00a0$267,141",
         "html_preview": "<div style=\"text-ali...[28344]...></tr></table></div>",
-        "html_hash": "e9b25da9"
+        "html_hash": "e9b25da9",
+        "metrics": {
+            "rows": 8,
+            "numbers": 43
+        }
     },
     {
         "cls_name": "EmptyElement",
@@ -364,10 +374,14 @@
         "tag_name": "div",
         "text_preview": "Six Months Ended Jun...[583]...91)$200,884\u00a0$267,141",
         "html_preview": "<div style=\"text-ali...[28407]...></tr></table></div>",
-        "html_hash": "561915e8"
+        "html_hash": "561915e8",
+        "metrics": {
+            "rows": 8,
+            "numbers": 43
+        }
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "See accompanying notes.",
         "html_preview": "<div style=\"margin-t...[168]... notes.</span></div>",
@@ -395,7 +409,7 @@
         "html_hash": "8f98796f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "9",
         "html_preview": "<div style=\"height:4...[247]...n></div></div></div>",
@@ -416,19 +430,18 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
         "html_hash": "4c6ac0c7"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
         "html_preview": "<div style=\"text-ali...[124]...et Inc.</span></div>",
-        "html_hash": "80825bb4",
-        "level": 0
+        "html_hash": "80825bb4"
     },
     {
         "cls_name": "TitleElement",
@@ -436,7 +449,7 @@
         "text_preview": "CONSOLIDATED STATEMENTS OF CASH FLOWS",
         "html_preview": "<div style=\"text-ali...[148]...H FLOWS</span></div>",
         "html_hash": "283e0030",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TextElement",
@@ -446,14 +459,14 @@
         "html_hash": "b0ecc182"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "See accompanying notes.",
         "html_preview": "<div style=\"text-ali...[153]... notes.</span></div>",
         "html_hash": "547e9f3b"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "10",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -474,19 +487,18 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
         "html_hash": "4c6ac0c7"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Alphabet Inc.",
         "html_preview": "<div style=\"text-ali...[124]...et Inc.</span></div>",
-        "html_hash": "80825bb4",
-        "level": 0
+        "html_hash": "80825bb4"
     },
     {
         "cls_name": "TitleElement",
@@ -494,15 +506,14 @@
         "text_preview": "NOTES TO CONSOLIDATE...[2]...FINANCIAL STATEMENTS",
         "html_preview": "<div style=\"text-ali...[153]...TEMENTS</span></div>",
         "html_hash": "5675a0d1",
-        "level": 0
+        "level": 1
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "(Unaudited)",
         "html_preview": "<div style=\"text-ali...[122]...udited)</span></div>",
-        "html_hash": "beeae2a1",
-        "level": 0
+        "html_hash": "beeae2a1"
     },
     {
         "cls_name": "EmptyElement",
@@ -517,7 +528,7 @@
         "text_preview": "Note 1.    Summary o...[13]... Accounting Policies",
         "html_preview": "<div style=\"margin-t...[367]...umeric></span></div>",
         "html_hash": "bd4bdf89",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -527,7 +538,7 @@
         "html_hash": "35e08905"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "11",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -548,7 +559,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -560,7 +571,7 @@
         "text_preview": "Note 2.    Revenues",
         "html_preview": "<div style=\"margin-t...[324]...umeric></span></div>",
         "html_hash": "6f255aa0",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -591,7 +602,7 @@
         "html_hash": "8f98796f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "12",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -612,7 +623,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -624,7 +635,7 @@
         "text_preview": "Note 3.    Financial Instruments",
         "html_preview": "<div style=\"margin-t...[360]...umeric></span></div>",
         "html_hash": "c6b2c62c",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "EmptyElement",
@@ -641,7 +652,7 @@
         "html_hash": "89de0cde"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "13",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -655,7 +666,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -683,7 +694,7 @@
         "html_hash": "24a245b8"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "14",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -704,7 +715,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -725,7 +736,7 @@
         "html_hash": "8d0e8a5f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "15",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -746,7 +757,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -767,7 +778,7 @@
         "html_hash": "1db55d7f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "16",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -781,7 +792,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -809,7 +820,7 @@
         "html_hash": "3a2cf7b1"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "17",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -823,7 +834,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -837,7 +848,7 @@
         "html_hash": "3a70c030"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "18",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -851,7 +862,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -865,7 +876,7 @@
         "html_hash": "c72a8feb"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "19",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -879,7 +890,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -890,7 +901,11 @@
         "tag_name": "div",
         "text_preview": "Gains (Losses) Recog...[835]...)$654\u00a0$(228)$88\u00a0$286",
         "html_preview": "<div style=\"margin-t...[38628]...:continuation></div>",
-        "html_hash": "6e180b02"
+        "html_hash": "6e180b02",
+        "metrics": {
+            "rows": 17,
+            "numbers": 43
+        }
     },
     {
         "cls_name": "EmptyElement",
@@ -914,7 +929,7 @@
         "html_hash": "ad8fbe4d"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "20",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -928,7 +943,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -954,7 +969,7 @@
         "text_preview": "Note 4.    Variable ...[3]...erest Entities (VIE)",
         "html_preview": "<div style=\"margin-t...[348]...umeric></span></div>",
         "html_hash": "f5d3897e",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -976,7 +991,7 @@
         "text_preview": "Note 5.    Debt",
         "html_preview": "<div style=\"margin-t...[302]...umeric></span></div>",
         "html_hash": "e0275459",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -986,7 +1001,7 @@
         "html_hash": "69e016a1"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "21",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1000,7 +1015,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1026,7 +1041,7 @@
         "text_preview": "Note 6.    Supplemen...[15]...tatement Information",
         "html_preview": "<div style=\"margin-t...[364]...umeric></span></div>",
         "html_hash": "497a7641",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -1036,7 +1051,7 @@
         "html_hash": "5e66f8a1"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "22",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1050,7 +1065,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1064,7 +1079,7 @@
         "html_hash": "09f03acf"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "23",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1078,7 +1093,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1092,7 +1107,7 @@
         "html_hash": "4dcceae7"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "24",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1113,7 +1128,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1125,7 +1140,7 @@
         "text_preview": "Note 7.    Workforce...[12]...nd Other Initiatives",
         "html_preview": "<div style=\"margin-t...[369]...umeric></span></div>",
         "html_hash": "1252b955",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -1147,7 +1162,7 @@
         "text_preview": "Note 8.    Goodwill ...[7]...er Intangible Assets",
         "html_preview": "<div style=\"margin-t...[358]...umeric></span></div>",
         "html_hash": "e0d6a785",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -1157,7 +1172,7 @@
         "html_hash": "a4b73819"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "25",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1171,7 +1186,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1197,7 +1212,7 @@
         "text_preview": "Note 9.    Commitments and Contingencies",
         "html_preview": "<div style=\"margin-t...[351]...umeric></span></div>",
         "html_hash": "1e0ca9cb",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -1207,7 +1222,7 @@
         "html_hash": "7b582c1f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "26",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1221,7 +1236,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1235,7 +1250,7 @@
         "html_hash": "652ce0a4"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "27",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1249,7 +1264,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1263,7 +1278,7 @@
         "html_hash": "d4fb3494"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "28",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1284,7 +1299,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1296,7 +1311,7 @@
         "text_preview": "Note 10.    Stockholders' Equity",
         "html_preview": "<div style=\"margin-t...[339]...umeric></span></div>",
         "html_hash": "a84a4126",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -1318,7 +1333,7 @@
         "text_preview": "Note 11.    Net Income Per Share",
         "html_preview": "<div style=\"margin-t...[322]...umeric></span></div>",
         "html_hash": "f4e82f1f",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -1328,7 +1343,7 @@
         "html_hash": "b5dcd6f2"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "29",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1342,7 +1357,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1368,7 +1383,7 @@
         "text_preview": "Note 12.    Compensation Plans",
         "html_preview": "<div style=\"margin-t...[358]...umeric></span></div>",
         "html_hash": "b4da16dd",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -1378,7 +1393,7 @@
         "html_hash": "4da21eff"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "30",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1392,7 +1407,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1418,7 +1433,7 @@
         "text_preview": "Note 13.    Income Taxes",
         "html_preview": "<div style=\"margin-t...[318]...umeric></span></div>",
         "html_hash": "fef5e860",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -1447,7 +1462,7 @@
         "text_preview": "Note 14.    Informat...[19]...and Geographic Areas",
         "html_preview": "<div style=\"margin-t...[360]...umeric></span></div>",
         "html_hash": "56f1c49c",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -1457,7 +1472,7 @@
         "html_hash": "a1f6a809"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "31",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1471,7 +1486,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1485,7 +1500,7 @@
         "html_hash": "a093eda5"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "32",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1506,7 +1521,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1518,7 +1533,8 @@
         "text_preview": "ITEM 2.MANAGEMENT\u2019S ...[52]...ESULTS OF OPERATIONS",
         "html_preview": "<div style=\"margin-t...[391]...RATIONS</span></div>",
         "html_hash": "5fa98299",
-        "level": 1
+        "level": 1,
+        "identifier": "part1item2"
     },
     {
         "cls_name": "TextElement",
@@ -1540,7 +1556,7 @@
         "text_preview": "Understanding Alphab...[2]...\u2019s Financial Results",
         "html_preview": "<div style=\"margin-t...[169]...Results</span></div>",
         "html_hash": "6f707447",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -1562,7 +1578,7 @@
         "text_preview": "Revenues and Monetization Metrics",
         "html_preview": "<div style=\"margin-t...[293]...120%\"> </span></div>",
         "html_hash": "2c4793d7",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -1626,7 +1642,7 @@
         "text_preview": "Google Services",
         "html_preview": "<div style=\"margin-t...[179]...ervices</span></div>",
         "html_hash": "7496d068",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -1641,7 +1657,7 @@
         "text_preview": "Google Advertising",
         "html_preview": "<div style=\"margin-t...[208]...rtising</span></div>",
         "html_hash": "f166954a",
-        "level": 2
+        "level": 5
     },
     {
         "cls_name": "TextElement",
@@ -1686,7 +1702,7 @@
         "html_hash": "c206b9e7"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "33",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1700,7 +1716,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1775,7 +1791,7 @@
         "text_preview": "Google Other",
         "html_preview": "<div style=\"margin-t...[202]...e Other</span></div>",
         "html_hash": "0f1e0f22",
-        "level": 2
+        "level": 5
     },
     {
         "cls_name": "TextElement",
@@ -1825,7 +1841,7 @@
         "text_preview": "Google Cloud",
         "html_preview": "<div style=\"margin-t...[176]...e Cloud</span></div>",
         "html_hash": "ab267f59",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -1868,7 +1884,7 @@
         "text_preview": "Other Bets",
         "html_preview": "<div style=\"margin-t...[174]...er Bets</span></div>",
         "html_hash": "8cb33fbf",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -1890,7 +1906,7 @@
         "text_preview": "Costs and Expenses",
         "html_preview": "<div style=\"margin-t...[163]...xpenses</span></div>",
         "html_hash": "dd9ff285",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -1900,7 +1916,7 @@
         "html_hash": "30e2aa50"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "34",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -1914,7 +1930,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -1926,7 +1942,7 @@
         "text_preview": "Cost of Revenues",
         "html_preview": "<div style=\"margin-t...[180]...evenues</span></div>",
         "html_hash": "4aae7a25",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -1997,7 +2013,7 @@
         "text_preview": "Operating Expenses",
         "html_preview": "<div style=\"margin-t...[182]...xpenses</span></div>",
         "html_hash": "2c99b811",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -2096,7 +2112,7 @@
         "text_preview": "Other Income (Expense), Net",
         "html_preview": "<div style=\"margin-t...[173]...), Net </span></div>",
         "html_hash": "f963544f",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -2113,7 +2129,7 @@
         "html_hash": "2b00998b"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "35",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -2127,14 +2143,14 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
         "html_hash": "4c6ac0c7"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "the fiscal year ende...[125]...Report on Form 10-Q.",
         "html_preview": "<div style=\"margin-t...[292]...m 10-Q.</span></div>",
@@ -2153,7 +2169,7 @@
         "text_preview": "Provision for Income Taxes",
         "html_preview": "<div style=\"margin-t...[286]...120%\"> </span></div>",
         "html_hash": "a46f2834",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -2163,7 +2179,7 @@
         "html_hash": "b71558ca"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "For additional detai...[277]...Report on Form 10-Q.",
         "html_preview": "<div style=\"margin-t...[716]...m 10-Q.</span></div>",
@@ -2182,7 +2198,7 @@
         "text_preview": "Executive Overview",
         "html_preview": "<div style=\"margin-t...[145]...verview</span></div>",
         "html_hash": "7540e10e",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -2196,7 +2212,11 @@
         "tag_name": "div",
         "text_preview": "Three Months EndedJu...[380]....21\u00a0$1.44\u00a0$0.23\u00a019\u00a0%",
         "html_preview": "<div style=\"margin-t...[27369]...></tr></table></div>",
-        "html_hash": "d9b34b5e"
+        "html_hash": "d9b34b5e",
+        "metrics": {
+            "rows": 9,
+            "numbers": 35
+        }
     },
     {
         "cls_name": "TextElement",
@@ -2246,7 +2266,7 @@
         "text_preview": "Other Information",
         "html_preview": "<div style=\"margin-t...[162]...rmation</span></div>",
         "html_hash": "58e19ffb",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -2256,7 +2276,7 @@
         "html_hash": "6a4fe73c"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "36",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -2270,7 +2290,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -2319,7 +2339,7 @@
         "html_hash": "127f9ebe"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "37",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -2340,7 +2360,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -2352,7 +2372,7 @@
         "text_preview": "Financial Results",
         "html_preview": "<div style=\"margin-t...[145]...Results</span></div>",
         "html_hash": "6d0c0c89",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "EmptyElement",
@@ -2367,7 +2387,7 @@
         "text_preview": "Revenues",
         "html_preview": "<div style=\"margin-t...[153]...evenues</span></div>",
         "html_hash": "5761b2b2",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -2382,7 +2402,7 @@
         "text_preview": "Google Services",
         "html_preview": "<div style=\"margin-t...[179]...ervices</span></div>",
         "html_hash": "7496d068",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TitleElement",
@@ -2390,7 +2410,7 @@
         "text_preview": "Google advertising revenues",
         "html_preview": "<div style=\"margin-t...[217]...evenues</span></div>",
         "html_hash": "1b85d47e",
-        "level": 2
+        "level": 5
     },
     {
         "cls_name": "TitleElement",
@@ -2398,7 +2418,7 @@
         "text_preview": "Google Search & other",
         "html_preview": "<div style=\"margin-t...[189]...; other</span></div>",
         "html_hash": "e5c1679b",
-        "level": 2
+        "level": 6
     },
     {
         "cls_name": "TextElement",
@@ -2413,7 +2433,7 @@
         "text_preview": "YouTube ads",
         "html_preview": "<div style=\"margin-t...[175]...ube ads</span></div>",
         "html_hash": "9e2fb2ae",
-        "level": 2
+        "level": 6
     },
     {
         "cls_name": "TextElement",
@@ -2428,7 +2448,7 @@
         "text_preview": "Google Network",
         "html_preview": "<div style=\"margin-t...[178]...Network</span></div>",
         "html_hash": "d7e94ccf",
-        "level": 2
+        "level": 6
     },
     {
         "cls_name": "TextElement",
@@ -2443,7 +2463,7 @@
         "text_preview": "Monetization Metrics",
         "html_preview": "<div style=\"margin-t...[210]...Metrics</span></div>",
         "html_hash": "40e6721f",
-        "level": 2
+        "level": 5
     },
     {
         "cls_name": "TitleElement",
@@ -2451,7 +2471,7 @@
         "text_preview": "Paid clicks and cost-per-click",
         "html_preview": "<div style=\"margin-t...[175]...r-click</span></div>",
         "html_hash": "738d2c17",
-        "level": 2
+        "level": 6
     },
     {
         "cls_name": "TextElement",
@@ -2465,10 +2485,14 @@
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[71]...click change(3)%(5)%",
         "html_preview": "<div style=\"margin-t...[3406]...></tr></table></div>",
-        "html_hash": "6729a162"
+        "html_hash": "6729a162",
+        "metrics": {
+            "rows": 2,
+            "numbers": 8
+        }
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "38",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -2482,7 +2506,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -2508,7 +2532,7 @@
         "text_preview": "Impressions and cost-per-impression",
         "html_preview": "<div style=\"margin-t...[180]...ression</span></div>",
         "html_hash": "8b6a919c",
-        "level": 2
+        "level": 6
     },
     {
         "cls_name": "TextElement",
@@ -2522,7 +2546,11 @@
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[78]...ssion change(5)%(5)%",
         "html_preview": "<div style=\"margin-t...[3388]...></tr></table></div>",
-        "html_hash": "77aa93e4"
+        "html_hash": "77aa93e4",
+        "metrics": {
+            "rows": 2,
+            "numbers": 8
+        }
     },
     {
         "cls_name": "TextElement",
@@ -2544,7 +2572,7 @@
         "text_preview": "Google other revenues",
         "html_preview": "<div style=\"margin-t...[211]...evenues</span></div>",
         "html_hash": "3acb6bb9",
-        "level": 2
+        "level": 5
     },
     {
         "cls_name": "TextElement",
@@ -2559,7 +2587,7 @@
         "text_preview": "Google Cloud",
         "html_preview": "<div style=\"margin-t...[177]...e Cloud</span></div>",
         "html_hash": "81862e30",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -2569,7 +2597,7 @@
         "html_hash": "e9c17d0e"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "39",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -2590,7 +2618,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -2602,7 +2630,7 @@
         "text_preview": "Revenues by Geography",
         "html_preview": "<div style=\"margin-t...[166]...ography</span></div>",
         "html_hash": "25d4bff9",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -2612,7 +2640,7 @@
         "html_hash": "6f8abf27"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "For further details ...[124]...Report on Form 10-Q.",
         "html_preview": "<div style=\"margin-t...[310]...m 10-Q.</span></div>",
@@ -2624,7 +2652,7 @@
         "text_preview": "Use of Non-GAAP Cons...[5]...Currency Information",
         "html_preview": "<div style=\"margin-t...[209]...rmation</span></div>",
         "html_hash": "28096e06",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -2662,7 +2690,7 @@
         "html_hash": "2a8a6a66"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "40",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -2676,7 +2704,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -2694,7 +2722,11 @@
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[497]...5,747\u00a07\u00a0%(1)%(1)%9\u00a0%",
         "html_preview": "<div style=\"margin-t...[31346]...></tr></table></div>",
-        "html_hash": "45accbae"
+        "html_hash": "45accbae",
+        "metrics": {
+            "rows": 7,
+            "numbers": 49
+        }
     },
     {
         "cls_name": "TextElement",
@@ -2729,7 +2761,11 @@
         "tag_name": "div",
         "text_preview": "Six Months Ended Jun...[503]...47,624\u00a05\u00a0%0\u00a0%(3)%8\u00a0%",
         "html_preview": "<div style=\"margin-t...[31327]...></tr></table></div>",
-        "html_hash": "c65aae11"
+        "html_hash": "c65aae11",
+        "metrics": {
+            "rows": 7,
+            "numbers": 49
+        }
     },
     {
         "cls_name": "TextElement",
@@ -2760,7 +2796,7 @@
         "html_hash": "c7220eef"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "41",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -2781,7 +2817,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -2793,7 +2829,7 @@
         "text_preview": "Costs and Expenses",
         "html_preview": "<div style=\"margin-t...[163]...xpenses</span></div>",
         "html_hash": "c4e26b33",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "EmptyElement",
@@ -2808,7 +2844,7 @@
         "text_preview": "Cost of Revenues",
         "html_preview": "<div style=\"margin-t...[180]...evenues</span></div>",
         "html_hash": "4aae7a25",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -2858,7 +2894,7 @@
         "text_preview": "Research and Development",
         "html_preview": "<div style=\"margin-t...[188]...lopment</span></div>",
         "html_hash": "ad7141ce",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -2882,7 +2918,7 @@
         "html_hash": "1e893b54"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "42",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -2896,7 +2932,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -2922,7 +2958,7 @@
         "text_preview": "Sales and Marketing",
         "html_preview": "<div style=\"margin-t...[183]...rketing</span></div>",
         "html_hash": "dfa0cbc0",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -2936,7 +2972,11 @@
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[155]...evenues10\u00a0%9\u00a0%9\u00a0%9\u00a0%",
         "html_preview": "<div style=\"margin-t...[8566]...></tr></table></div>",
-        "html_hash": "ee399a4c"
+        "html_hash": "ee399a4c",
+        "metrics": {
+            "rows": 2,
+            "numbers": 14
+        }
     },
     {
         "cls_name": "TextElement",
@@ -2965,7 +3005,7 @@
         "text_preview": "General and Administrative",
         "html_preview": "<div style=\"margin-t...[190]...trative</span></div>",
         "html_hash": "0b467511",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3001,7 +3041,7 @@
         "text_preview": "Segment Profitability",
         "html_preview": "<div style=\"margin-t...[166]...ability</span></div>",
         "html_hash": "9ded6998",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3015,7 +3055,11 @@
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[280]...,838\u00a0$39,547\u00a0$39,253",
         "html_preview": "<div style=\"margin-t...[18103]...></tr></table></div>",
-        "html_hash": "471905fc"
+        "html_hash": "471905fc",
+        "metrics": {
+            "rows": 6,
+            "numbers": 27
+        }
     },
     {
         "cls_name": "TextElement",
@@ -3025,7 +3069,7 @@
         "html_hash": "737adce3"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "43",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -3039,7 +3083,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -3051,7 +3095,7 @@
         "text_preview": "Google Services",
         "html_preview": "<div style=\"margin-t...[179]...ervices</span></div>",
         "html_hash": "7496d068",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3066,7 +3110,7 @@
         "text_preview": "Google Cloud",
         "html_preview": "<div style=\"margin-t...[176]...e Cloud</span></div>",
         "html_hash": "ab267f59",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3081,7 +3125,7 @@
         "text_preview": "Other Bets",
         "html_preview": "<div style=\"margin-t...[174]...er Bets</span></div>",
         "html_hash": "8cb33fbf",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3103,7 +3147,7 @@
         "text_preview": "Other Income (Expense), Net",
         "html_preview": "<div style=\"margin-t...[172]...e), Net</span></div>",
         "html_hash": "84b29168",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3113,7 +3157,7 @@
         "html_hash": "622d3012"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[77]...439)$65\u00a0$(1,599)$855",
         "html_preview": "<div style=\"margin-t...[6618]...></tr></table></div>",
@@ -3134,14 +3178,14 @@
         "html_hash": "99d3d137"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "See Note 6 of the No...[102]...further information.",
         "html_preview": "<div style=\"margin-t...[288]...mation.</span></div>",
         "html_hash": "092b9138"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "44",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -3162,7 +3206,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -3174,7 +3218,7 @@
         "text_preview": "Provision for Income Taxes",
         "html_preview": "<div style=\"margin-t...[171]...e Taxes</span></div>",
         "html_hash": "afd6b407",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3188,7 +3232,11 @@
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[194]...\u00a0%16.1\u00a0%14.5\u00a0%16.7\u00a0%",
         "html_preview": "<div style=\"margin-t...[10831]...></tr></table></div>",
-        "html_hash": "572c28d4"
+        "html_hash": "572c28d4",
+        "metrics": {
+            "rows": 3,
+            "numbers": 18
+        }
     },
     {
         "cls_name": "TextElement",
@@ -3224,7 +3272,7 @@
         "text_preview": "Financial Condition",
         "html_preview": "<div style=\"margin-t...[146]...ndition</span></div>",
         "html_hash": "c48e4348",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TitleElement",
@@ -3232,7 +3280,7 @@
         "text_preview": "Cash, Cash Equivalen...[9]...arketable Securities",
         "html_preview": "<div style=\"margin-t...[194]...urities</span></div>",
         "html_hash": "2942d7c9",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3247,7 +3295,7 @@
         "text_preview": "Sources, Uses of Cash and Related Trends",
         "html_preview": "<div style=\"margin-t...[185]... Trends</span></div>",
         "html_hash": "cb7fe71d",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3268,7 +3316,11 @@
         "tag_name": "div",
         "text_preview": "Six Months EndedJune...[160]...es$(34,031)$(34,403)",
         "html_preview": "<div style=\"margin-t...[6276]...></tr></table></div>",
-        "html_hash": "24d56ba1"
+        "html_hash": "24d56ba1",
+        "metrics": {
+            "rows": 3,
+            "numbers": 9
+        }
     },
     {
         "cls_name": "TitleElement",
@@ -3276,7 +3328,7 @@
         "text_preview": "Cash Provided by Operating Activities",
         "html_preview": "<div style=\"margin-t...[201]...ivities</span></div>",
         "html_hash": "d0c52b12",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3300,7 +3352,7 @@
         "html_hash": "ad1b2124"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "45",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -3314,7 +3366,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -3333,7 +3385,7 @@
         "text_preview": "Cash Used in Investing Activities",
         "html_preview": "<div style=\"margin-t...[197]...ivities</span></div>",
         "html_hash": "7cac222c",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3355,7 +3407,7 @@
         "text_preview": "Cash Used in Financing Activities",
         "html_preview": "<div style=\"margin-t...[197]...ivities</span></div>",
         "html_hash": "9b87d345",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3377,7 +3429,7 @@
         "text_preview": "Liquidity and Material Cash Requirements",
         "html_preview": "<div style=\"margin-t...[185]...rements</span></div>",
         "html_hash": "1004505e",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3392,7 +3444,7 @@
         "text_preview": "Capital Expenditures and Leases",
         "html_preview": "<div style=\"margin-t...[195]... Leases</span></div>",
         "html_hash": "b02ab49a",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3407,7 +3459,7 @@
         "text_preview": "Capital Expenditures",
         "html_preview": "<div style=\"margin-t...[210]...ditures</span></div>",
         "html_hash": "91fd44d4",
-        "level": 2
+        "level": 5
     },
     {
         "cls_name": "TextElement",
@@ -3450,7 +3502,7 @@
         "text_preview": "Leases",
         "html_preview": "<div style=\"margin-t...[196]...>Leases</span></div>",
         "html_hash": "87fa75b5",
-        "level": 2
+        "level": 5
     },
     {
         "cls_name": "TextElement",
@@ -3460,7 +3512,7 @@
         "html_hash": "2336567f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "46",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -3474,7 +3526,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -3493,7 +3545,7 @@
         "text_preview": "Financing",
         "html_preview": "<div style=\"margin-t...[173]...nancing</span></div>",
         "html_hash": "1ce53fad",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3529,7 +3581,7 @@
         "text_preview": "Share Repurchase Program",
         "html_preview": "<div style=\"margin-t...[188]...Program</span></div>",
         "html_hash": "ccb8a948",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3546,7 +3598,7 @@
         "html_hash": "ffeaa096"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "See Note 10 of the N...[79]...Report on Form 10-Q.",
         "html_preview": "<div style=\"margin-t...[265]...m 10-Q.</span></div>",
@@ -3565,7 +3617,7 @@
         "text_preview": "European Commission Fines",
         "html_preview": "<div style=\"margin-t...[189]...n Fines</span></div>",
         "html_hash": "ec5eea09",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3587,7 +3639,7 @@
         "text_preview": "Taxes",
         "html_preview": "<div style=\"margin-t...[169]...\">Taxes</span></div>",
         "html_hash": "af1eb650",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3597,7 +3649,7 @@
         "html_hash": "6a7634ef"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "47",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -3611,7 +3663,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -3637,7 +3689,7 @@
         "text_preview": "Purchase Commitments",
         "html_preview": "<div style=\"margin-t...[185]...tments </span></div>",
         "html_hash": "c0e4a827",
-        "level": 1
+        "level": 4
     },
     {
         "cls_name": "TextElement",
@@ -3666,7 +3718,7 @@
         "text_preview": "Critical Accounting Estimates",
         "html_preview": "<div style=\"margin-t...[156]...timates</span></div>",
         "html_hash": "6f71655b",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -3688,7 +3740,7 @@
         "text_preview": "Available Information",
         "html_preview": "<div style=\"margin-t...[148]...rmation</span></div>",
         "html_hash": "fdd2e5b8",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -3717,7 +3769,8 @@
         "text_preview": "ITEM 3.QUANTITATIVE ...[25]...ES ABOUT MARKET RISK",
         "html_preview": "<div style=\"margin-t...[363]...ET RISK</span></div>",
         "html_hash": "2228fe07",
-        "level": 1
+        "level": 1,
+        "identifier": "part1item3"
     },
     {
         "cls_name": "TextElement",
@@ -3739,7 +3792,8 @@
         "text_preview": "ITEM 4.CONTROLS AND PROCEDURES",
         "html_preview": "<div style=\"margin-t...[328]...CEDURES</span></div>",
         "html_hash": "76504fd3",
-        "level": 1
+        "level": 1,
+        "identifier": "part1item4"
     },
     {
         "cls_name": "TitleElement",
@@ -3747,7 +3801,7 @@
         "text_preview": "Evaluation of Disclo...[8]...trols and Procedures",
         "html_preview": "<div style=\"margin-t...[175]...cedures</span></div>",
         "html_hash": "abd2988b",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -3764,7 +3818,7 @@
         "html_hash": "d3c38282"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "48",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -3778,7 +3832,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -3797,7 +3851,7 @@
         "text_preview": "Changes in Internal ...[12]... Financial Reporting",
         "html_preview": "<div style=\"margin-t...[179]...porting</span></div>",
         "html_hash": "7d2687b5",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -3812,7 +3866,7 @@
         "text_preview": "Limitations on Effec...[15]...trols and Procedures",
         "html_preview": "<div style=\"margin-t...[182]...cedures</span></div>",
         "html_hash": "c07c5e54",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -3822,7 +3876,7 @@
         "html_hash": "9c7444c7"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "49",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -3843,7 +3897,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -3855,7 +3909,8 @@
         "text_preview": "PART II. \u00a0\u00a0\u00a0\u00a0OTHER INFORMATION",
         "html_preview": "<div style=\"margin-t...[193]...RMATION</span></div>",
         "html_hash": "4dfcff59",
-        "level": 0
+        "level": 0,
+        "identifier": "part2"
     },
     {
         "cls_name": "EmptyElement",
@@ -3870,10 +3925,11 @@
         "text_preview": "ITEM 1.LEGAL PROCEEDINGS",
         "html_preview": "<div style=\"margin-t...[322]...EEDINGS</span></div>",
         "html_hash": "f5bf1446",
-        "level": 1
+        "level": 1,
+        "identifier": "part2item1"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "SupplementaryText",
         "tag_name": "div",
         "text_preview": "For a description of...[238]...herein by reference.",
         "html_preview": "<div style=\"margin-t...[424]...erence.</span></div>",
@@ -3892,7 +3948,8 @@
         "text_preview": "ITEM 1A.RISK FACTORS",
         "html_preview": "<div style=\"margin-t...[448]...\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span></div>",
         "html_hash": "1b4cd8ee",
-        "level": 1
+        "level": 1,
+        "identifier": "part2item1a"
     },
     {
         "cls_name": "TextElement",
@@ -3914,7 +3971,8 @@
         "text_preview": "ITEM 2.UNREGISTERED ...[26]... AND USE OF PROCEEDS",
         "html_preview": "<div style=\"margin-t...[364]...ROCEEDS</span></div>",
         "html_hash": "4ef1aa90",
-        "level": 1
+        "level": 1,
+        "identifier": "part2item2"
     },
     {
         "cls_name": "TitleElement",
@@ -3922,7 +3980,7 @@
         "text_preview": "Issuer Purchases of Equity Securities",
         "html_preview": "<div style=\"margin-t...[145]...urities</span></div>",
         "html_hash": "3f1c2288",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -3958,7 +4016,8 @@
         "text_preview": "ITEM 5.OTHER INFORMATION",
         "html_preview": "<div style=\"margin-t...[322]...RMATION</span></div>",
         "html_hash": "f9caf4a2",
-        "level": 1
+        "level": 1,
+        "identifier": "part2item5"
     },
     {
         "cls_name": "TitleElement",
@@ -3966,7 +4025,7 @@
         "text_preview": "10b5-1 Trading Plans",
         "html_preview": "<div style=\"margin-t...[128]...g Plans</span></div>",
         "html_hash": "bf732215",
-        "level": 0
+        "level": 3
     },
     {
         "cls_name": "TextElement",
@@ -4004,7 +4063,7 @@
         "html_hash": "2b32a799"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "50",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -4018,7 +4077,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -4032,7 +4091,7 @@
         "html_hash": "0128c4e7"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "51",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
@@ -4053,7 +4112,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1046]...</table></div></div>",
@@ -4065,14 +4124,19 @@
         "text_preview": "ITEM 6.EXHIBITS",
         "html_preview": "<div style=\"-sec-ext...[365]...XHIBITS</span></div>",
         "html_hash": "462906d4",
-        "level": 1
+        "level": 1,
+        "identifier": "part2item6"
     },
     {
         "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "ExhibitNumber\u00a0\u00a0Descr...[1478]...ined in Exhibit 101)",
         "html_preview": "<div style=\"margin-t...[16378]...></tr></table></div>",
-        "html_hash": "e996d290"
+        "html_hash": "e996d290",
+        "metrics": {
+            "rows": 14,
+            "numbers": 22
+        }
     },
     {
         "cls_name": "TextElement",
@@ -4089,7 +4153,7 @@
         "html_hash": "8f98796f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "52",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
@@ -4110,7 +4174,7 @@
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
@@ -4122,7 +4186,7 @@
         "text_preview": "SIGNATURES",
         "html_preview": "<div style=\"margin-t...[156]...NATURES</span></div>",
         "html_hash": "815c1dd8",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TextElement",
@@ -4139,14 +4203,14 @@
         "html_hash": "5007faa6"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "ALPHABET INC.July 25...[79]...ef Financial Officer",
         "html_preview": "<div style=\"margin-t...[2015]...></tr></table></div>",
         "html_hash": "530ba6bf"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "TextElement",
         "tag_name": "div",
         "text_preview": "ALPHABET INC.July 25...[113]...l Accounting Officer",
         "html_preview": "<div style=\"margin-t...[2049]...></tr></table></div>",
@@ -4160,7 +4224,7 @@
         "html_hash": "1db55d7f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IrrelevantElement",
         "tag_name": "div",
         "text_preview": "53",
         "html_preview": "<div style=\"height:4...[248]...n></div></div></div>",
