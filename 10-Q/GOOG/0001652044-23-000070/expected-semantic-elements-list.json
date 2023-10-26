@@ -47,11 +47,18 @@
         "level": 1
     },
     {
+        "cls_name": "SupplementaryText",
+        "tag_name": "span",
+        "text_preview": "(in millions, except...[9]...e per share amounts)",
+        "html_preview": "<span style=\"color:#...[123]...hare amounts)</span>",
+        "html_hash": "1727dfc0"
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(in millions, except...[1852]...ity$365,264\u00a0$383,044",
-        "html_preview": "<div style=\"text-ali...[59806]...></tr></table></div>",
-        "html_hash": "22291aa5"
+        "tag_name": "table",
+        "text_preview": "As of December 31, 2...[1803]...ity$365,264\u00a0$383,044",
+        "html_preview": "<table style=\"border...[59606]...\"></td></tr></table>",
+        "html_hash": "4c10e24b"
     },
     {
         "cls_name": "SupplementaryText",
@@ -104,11 +111,18 @@
         "level": 1
     },
     {
+        "cls_name": "SupplementaryText",
+        "tag_name": "span",
+        "text_preview": "(in millions, except...[10]... amounts; unaudited)",
+        "html_preview": "<span style=\"color:#...[124]...s; unaudited)</span>",
+        "html_hash": "8da3ac6f"
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(in millions, except...[801]...21\u00a0$1.44\u00a0$2.44\u00a0$2.61",
-        "html_preview": "<div style=\"text-ali...[45377]...></tr></table></div>",
-        "html_hash": "63d88c73"
+        "tag_name": "table",
+        "text_preview": "Three Months EndedSi...[751]...21\u00a0$1.44\u00a0$2.44\u00a0$2.61",
+        "html_preview": "<table style=\"border...[45176]...\"></td></tr></table>",
+        "html_hash": "026a728a"
     },
     {
         "cls_name": "SupplementaryText",
@@ -161,11 +175,18 @@
         "level": 1
     },
     {
+        "cls_name": "SupplementaryText",
+        "tag_name": "span",
+        "text_preview": "(in millions; unaudited)",
+        "html_preview": "<span style=\"color:#...[98]...s; unaudited)</span>",
+        "html_hash": "4792ba7e"
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(in millions; unaudi...[853]...,377\u00a0$28,233\u00a0$35,031",
-        "html_preview": "<div style=\"text-ali...[36852]...></tr></table></div>",
-        "html_hash": "401b0a62"
+        "tag_name": "table",
+        "text_preview": "Three Months EndedSi...[829]...,377\u00a0$28,233\u00a0$35,031",
+        "html_preview": "<table style=\"border...[36677]...\"></td></tr></table>",
+        "html_hash": "28c370cc"
     },
     {
         "cls_name": "SupplementaryText",
@@ -452,11 +473,18 @@
         "level": 1
     },
     {
+        "cls_name": "SupplementaryText",
+        "tag_name": "span",
+        "text_preview": "(in millions; unaudited)",
+        "html_preview": "<span style=\"color:#...[98]...s; unaudited)</span>",
+        "html_hash": "4792ba7e"
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(in millions; unaudi...[1727]...eriod$17,936\u00a0$25,929",
-        "html_preview": "<div style=\"text-ali...[52884]...></tr></table></div>",
-        "html_hash": "b0ecc182"
+        "tag_name": "table",
+        "text_preview": "Six Months EndedJune...[1703]...eriod$17,936\u00a0$25,929",
+        "html_preview": "<table style=\"border...[52709]...\"></td></tr></table>",
+        "html_hash": "a152606b"
     },
     {
         "cls_name": "SupplementaryText",
@@ -574,11 +602,61 @@
         "level": 3
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Disaggregated Revenues",
+        "html_preview": "<div style=\"margin-t...[149]...evenues</span></div>",
+        "html_hash": "09d31881",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Disaggregated Revenu...[2512]...ended June\u00a030, 2023.",
-        "html_preview": "<ix:continuation id=...[74755]...v></ix:continuation>",
-        "html_hash": "0f81a6be"
+        "tag_name": "span",
+        "text_preview": "The following table ...[34]... type (in millions):",
+        "html_preview": "<span style=\"color:#...[149]...n millions): </span>",
+        "html_hash": "44818d26"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Three Months EndedSi...[439]...04\u00a0$137,696\u00a0$144,391",
+        "html_preview": "<table style=\"border...[31794]...\"></td></tr></table>",
+        "html_hash": "8d088604"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "The following table ...[80]...omers (in millions):",
+        "html_preview": "<span style=\"color:#...[194]...in millions):</span>",
+        "html_hash": "00ccf69d"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Three Months EndedSi...[342]...\u00a0100\u00a0%$144,391\u00a0100\u00a0%",
+        "html_preview": "<table style=\"border...[37566]...n></td></tr></table>",
+        "html_hash": "9f69b874"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)\u00a0\u00a0\u00a0\u00a0Regions repre...[98]... (\"Other Americas\").",
+        "html_preview": "<div style=\"margin-t...[474]...icas\").</span></div>",
+        "html_hash": "333ade7d"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Revenue BacklogAs of...[931]...ts.Deferred Revenues",
+        "html_preview": "<ix:nonnumeric conte...[2496]...div></ix:nonnumeric>",
+        "html_hash": "a76247e0"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We record deferred r...[323]...ended June\u00a030, 2023.",
+        "html_preview": "<div style=\"margin-t...[1199]..., 2023.</span></div>",
+        "html_hash": "22704663"
     },
     {
         "cls_name": "EmptyElement",
@@ -645,11 +723,55 @@
         "html_hash": "2b485b19"
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Fair Value Measurements",
+        "html_preview": "<div style=\"margin-t...[170]...rements</span></div>",
+        "html_hash": "1d02aed0",
+        "level": 3
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Investments Measured...[15]...on a Recurring Basis",
+        "html_preview": "<div style=\"margin-t...[220]...g Basis</span></div>",
+        "html_hash": "2142a70f",
+        "level": 4
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Fair Value Measureme...[2423]... non-current assets.",
-        "html_preview": "<ix:continuation con...[62427]...c></ix:continuation>",
-        "html_hash": "89de0cde"
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Cash, cash equivalen...[824]...erivative contracts.",
+        "html_preview": "<ix:nonnumeric conte...[1390]...div></ix:nonnumeric>",
+        "html_hash": "b04c070d"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following tables...[103]...basis (in millions):",
+        "html_preview": "<div style=\"margin-t...[289]...lions):</span></div>",
+        "html_hash": "c64f346b"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of December 31, 2...[1026]...,201\u00a0$21,879\u00a0$91,883",
+        "html_preview": "<div style=\"margin-t...[58661]...></tr></table></div>",
+        "html_hash": "4e1e7658"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)Represents gross ...[86]...nsive income (AOCI).",
+        "html_preview": "<div style=\"padding-...[468]...(AOCI).</span></div>",
+        "html_hash": "44c28c44"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(2)The long-term por...[145]... non-current assets.",
+        "html_preview": "<div style=\"padding-...[701]...assets.</span></div>",
+        "html_hash": "455edf4f"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -681,10 +803,39 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "As of June 30, 2023F...[2212]...fied within Level 3.",
-        "html_preview": "<ix:continuation con...[61188]...v></ix:continuation>",
-        "html_hash": "a8b93866"
+        "tag_name": "div",
+        "text_preview": "As of June 30, 2023F...[1020]...,817\u00a0$25,929\u00a0$92,403",
+        "html_preview": "<div style=\"margin-t...[58248]...></tr></table></div>",
+        "html_hash": "a0036c2f"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)Represents gross ...[45]...es recorded to AOCI.",
+        "html_preview": "<div style=\"padding-...[427]...o AOCI.</span></div>",
+        "html_hash": "4939048d"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(2)The long-term por...[140]...r non-current assets",
+        "html_preview": "<div style=\"padding-...[893]...ation> </span></div>",
+        "html_hash": "493c8b23"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Investments Measured...[18]...a Nonrecurring Basis",
+        "html_preview": "<div style=\"margin-t...[204]... Basis </span></div>",
+        "html_hash": "df7d435f",
+        "level": 4
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Our non-marketable e...[826]...fied within Level 3.",
+        "html_preview": "<div style=\"margin-t...[1012]...evel 3.</span></div>",
+        "html_hash": "06455964"
     },
     {
         "cls_name": "TextElement",
@@ -722,11 +873,61 @@
         "html_hash": "4c6ac0c7"
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Debt Securities",
+        "html_preview": "<div style=\"margin-t...[142]...urities</span></div>",
+        "html_hash": "5839ab8d",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Debt SecuritiesThe f...[2021]...$(304)$(1,157)$(597)",
-        "html_preview": "<ix:continuation con...[74992]...v></ix:continuation>",
-        "html_hash": "0115256f"
+        "tag_name": "div",
+        "text_preview": "The following table ...[134]...dates (in millions):",
+        "html_preview": "<div style=\"margin-t...[341]...lions):</span></div>",
+        "html_hash": "942c61e4"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As ofJune 30, 2023Du...[118]...s13,686\u00a0Total$88,000",
+        "html_preview": "<div style=\"margin-t...[5458]...></tr></table></div>",
+        "html_hash": "3619af8c"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following tables...[185]...ition (in millions):",
+        "html_preview": "<div style=\"margin-t...[392]...lions):</span></div>",
+        "html_hash": "930e255f"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of December 31, 2...[362]...750)$75,519\u00a0$(4,779)",
+        "html_preview": "<div style=\"margin-t...[24434]...></tr></table></div>",
+        "html_hash": "c669388f"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of June 30, 2023\u00a0...[353]...955)$71,106\u00a0$(3,757)",
+        "html_preview": "<div style=\"margin-t...[24361]...></tr></table></div>",
+        "html_hash": "fdf55a38"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We determine realize...[223]..., net (in millions):",
+        "html_preview": "<div style=\"margin-t...[614]...umeric></span></div>",
+        "html_hash": "d95de604"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Three Months EndedSi...[384]...$(304)$(1,157)$(597)",
+        "html_preview": "<div style=\"margin-t...[18535]...:continuation></div>",
+        "html_hash": "0a5df01e"
     },
     {
         "cls_name": "EmptyElement",
@@ -764,11 +965,90 @@
         "html_hash": "4c6ac0c7"
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Equity Investments",
+        "html_preview": "<div style=\"margin-t...[145]...stments</span></div>",
+        "html_hash": "1bcd6387",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Equity InvestmentsTh...[3339]...)$477\u00a0$271\u00a0$907\u00a0$372",
-        "html_preview": "<ix:continuation con...[57032]...c></ix:continuation>",
-        "html_hash": "198904b9"
+        "tag_name": "div",
+        "text_preview": "The carrying value o...[293]...come (expense), net.",
+        "html_preview": "<div style=\"margin-t...[601]...uation></span></div>",
+        "html_hash": "a2b5f66f"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "The carrying values ...[67]...below (in millions):",
+        "html_preview": "<span style=\"color:#...[181]...in millions):</span>",
+        "html_hash": "63a250e7"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "As of December 31, 2...[322]...,295\u00a0$29,129\u00a0$34,424",
+        "html_preview": "<table style=\"border...[19488]...\"></td></tr></table>",
+        "html_hash": "9a02ea42"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)Non-marketable eq...[223]...as of June\u00a030, 2023.",
+        "html_preview": "<div style=\"padding-...[1537]..., 2023.</span></div>",
+        "html_hash": "4f992404"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Gains and Losses on ...[27]...le Equity Securities",
+        "html_preview": "<div style=\"margin-t...[212]...urities</span></div>",
+        "html_hash": "af34803d",
+        "level": 4
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Gains and losses (in...[134]...below (in millions):",
+        "html_preview": "<div style=\"margin-t...[320]...lions):</span></div>",
+        "html_hash": "b1c85086"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Three Months EndedSi...[371]...1)$(205)$(1,321)$172",
+        "html_preview": "<div style=\"padding-...[16039]...></tr></table></div>",
+        "html_hash": "f8d3d5ce"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)Unrealized gain (...[480]... 2023, respectively.",
+        "html_preview": "<div style=\"margin-t...[2671]...tively.</span></div>",
+        "html_hash": "b62a01f8"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "In the table above, ...[209]...hase date, if later.",
+        "html_preview": "<div style=\"margin-t...[395]... later.</span></div>",
+        "html_hash": "6f117807"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Cumulative net gains...[627]...d during the period.",
+        "html_preview": "<div style=\"margin-t...[813]...period.</span></div>",
+        "html_hash": "36f0884a"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Equity Securities So...[166]...)$477\u00a0$271\u00a0$907\u00a0$372",
+        "html_preview": "<div style=\"margin-t...[13577]...></tr></table></div>",
+        "html_hash": "f4dbf754"
     },
     {
         "cls_name": "EmptyElement",
@@ -842,10 +1122,73 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "The gross notional a...[1818]...01\u00a0$98\u00a0$1,870\u00a0$(208)",
-        "html_preview": "<ix:continuation con...[52536]...v></ix:continuation>",
-        "html_hash": "3a70c030"
+        "tag_name": "span",
+        "text_preview": "The gross notional a...[55]...llows (in millions):",
+        "html_preview": "<span style=\"color:#...[169]...in millions):</span>",
+        "html_hash": "1275a01f"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "As of December 31, 2...[294]...ntracts$7,932\u00a0$9,133",
+        "html_preview": "<table style=\"border...[10466]...\"></td></tr></table>",
+        "html_hash": "7b42725a"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "The fair values of o...[44]...llows (in millions):",
+        "html_preview": "<span style=\"color:#...[158]...in millions):</span>",
+        "html_hash": "d92ea316"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "As of December 31, 2...[348]...l$676\u00a0$810\u00a0$397\u00a0$404",
+        "html_preview": "<table style=\"border...[19217]...\"></td></tr></table>",
+        "html_hash": "77e4359f"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)\u00a0\u00a0\u00a0\u00a0Derivative as...[73]...ated Balance Sheets.",
+        "html_preview": "<div style=\"padding-...[434]...Sheets.</span></div>",
+        "html_hash": "b8dfd06a"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(2)\u00a0\u00a0\u00a0\u00a0Derivative li...[105]...ated Balance Sheets.",
+        "html_preview": "<div style=\"padding-...[466]...Sheets.</span></div>",
+        "html_hash": "43f8f293"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "The gains (losses) o...[69]...nships recognized in",
+        "html_preview": "<span style=\"color:#...[184]...ecognized in </span>",
+        "html_hash": "5a586d0e"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "other comprehensiv",
+        "html_preview": "<span style=\"backgro...[117]... comprehensiv</span>",
+        "html_hash": "43401ee5"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "e income (OCI) are s...[10]...below (in millions):",
+        "html_preview": "<span style=\"color:#...[124]...in millions):</span>",
+        "html_hash": "842051a1"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Gains (Losses) Recog...[477]...01\u00a0$98\u00a0$1,870\u00a0$(208)",
+        "html_preview": "<table style=\"border...[20045]...\"></td></tr></table>",
+        "html_hash": "f76a09d2"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -869,11 +1212,25 @@
         "html_hash": "4c6ac0c7"
     },
     {
+        "cls_name": "EmptyElement",
+        "tag_name": "span",
+        "text_preview": "",
+        "html_preview": "<span style=\"color:#...[74]...eight:120%\">\u00a0</span>",
+        "html_hash": "b4183321"
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The table below pres...[929]...es)$376\u00a0$(33)$4\u00a0$197",
-        "html_preview": "<div style=\"margin-t...[38997]...:continuation></div>",
-        "html_hash": "c72a8feb"
+        "tag_name": "span",
+        "text_preview": "The table below pres...[79]...come: (in millions):",
+        "html_preview": "<span style=\"color:#...[193]...in millions):</span>",
+        "html_hash": "4ba0c569"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Gains (Losses) Recog...[809]...es)$376\u00a0$(33)$4\u00a0$197",
+        "html_preview": "<table style=\"border...[38353]...\"></td></tr></table>",
+        "html_hash": "a93f2a20"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -915,11 +1272,33 @@
         "html_hash": "f2102d0b"
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Offsetting of Derivatives",
+        "html_preview": "<div style=\"margin-t...[172]...vatives</span></div>",
+        "html_hash": "702b0727",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Offsetting of Deriva...[1062]...$810\u00a0$(463)$(28)$319",
-        "html_preview": "<ix:continuation con...[16379]...c></ix:continuation>",
-        "html_hash": "af3bde12"
+        "tag_name": "div",
+        "text_preview": "We enter into master...[384]...ther current assets.",
+        "html_preview": "<div style=\"margin-t...[675]...assets.</span></div>",
+        "html_hash": "954672dc"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The gross amounts of...[178]...llows (in millions):",
+        "html_preview": "<div style=\"margin-t...[385]...lions):</span></div>",
+        "html_hash": "9924701e"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of December 31, 2...[395]...$810\u00a0$(463)$(28)$319",
+        "html_preview": "<div style=\"margin-t...[14566]...></tr></table></div>",
+        "html_hash": "585897e3"
     },
     {
         "cls_name": "EmptyElement",
@@ -951,10 +1330,17 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "As of June 30, 2023G...[553]... netting agreements.",
-        "html_preview": "<ix:continuation id=...[15268]...n></ix:continuation>",
-        "html_hash": "17b63bd7"
+        "tag_name": "div",
+        "text_preview": "As of June 30, 2023G...[391]...$404\u00a0$(138)$(34)$232",
+        "html_preview": "<div style=\"margin-t...[14560]...></tr></table></div>",
+        "html_hash": "a622c19c"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)The balances as o...[121]... netting agreements.",
+        "html_preview": "<div style=\"padding-...[446]...ements.</span></div>",
+        "html_hash": "1c492acd"
     },
     {
         "cls_name": "EmptyElement",
@@ -1022,11 +1408,62 @@
         "html_hash": "4c6ac0c7"
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Long-Term Debt",
+        "html_preview": "<div style=\"margin-t...[141]...rm Debt</span></div>",
+        "html_hash": "d504c612",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "Total outstanding de...[37]...except percentages):",
+        "html_preview": "<span style=\"color:#...[323]...x:nonnumeric></span>",
+        "html_hash": "075a9606"
+    },
+    {
         "cls_name": "TextElement",
         "tag_name": "ix:continuation",
-        "text_preview": "Long-Term Debt Total...[1853]...2 and June\u00a030, 2023.",
-        "html_preview": "<ix:continuation id=...[26069]...v></ix:continuation>",
-        "html_hash": "61207456"
+        "text_preview": "MaturityCoupon RateE...[456]... debt$14,701\u00a0$13,705",
+        "html_preview": "<ix:continuation con...[19478]...e></ix:continuation>",
+        "html_hash": "cd11abca"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "ix:continuation",
+        "text_preview": "(1)Future finance le...[162]...for further details.",
+        "html_preview": "<ix:continuation id=...[1030]...v></ix:continuation>",
+        "html_hash": "c6c559c4"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The notes in the tab...[261]...yable semi-annually.",
+        "html_preview": "<div style=\"margin-t...[447]...nually.</span></div>",
+        "html_hash": "44ce7b3c"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The total estimated ...[304]...air value hierarchy.",
+        "html_preview": "<div style=\"margin-t...[1326]...rarchy.</span></div>",
+        "html_hash": "7be22c19"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Credit Facility",
+        "html_preview": "<div style=\"margin-t...[167]...acility</span></div>",
+        "html_hash": "b5a7e369",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of June\u00a030, 2023,...[402]...2 and June\u00a030, 2023.",
+        "html_preview": "<div style=\"margin-t...[2750]..., 2023.</span></div>",
+        "html_hash": "f6d56c58"
     },
     {
         "cls_name": "EmptyElement",
@@ -1044,11 +1481,48 @@
         "level": 3
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Accounts Receivable",
+        "html_preview": "<div style=\"margin-t...[171]...eivable</span></div>",
+        "html_hash": "9a1205b7",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Accounts ReceivableT...[578]...net$112,668\u00a0$121,208",
-        "html_preview": "<ix:continuation con...[16540]...v></ix:continuation>",
-        "html_hash": "5e66f8a1"
+        "tag_name": "div",
+        "text_preview": "The allowance for cr...[105]... 2023, respectively.",
+        "html_preview": "<div style=\"margin-t...[1161]...tively.</span></div>",
+        "html_hash": "37a77301"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Property and Equipment, Net",
+        "html_preview": "<div style=\"margin-t...[179]...nt, Net</span></div>",
+        "html_hash": "8a1f0ad3",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "Property and equipment, net, co",
+        "html_preview": "<span style=\"backgro...[130]...ment, net, co</span>",
+        "html_hash": "4220e058"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "nsisted of the following (in millions):",
+        "html_preview": "<span style=\"color:#...[113]...in millions):</span>",
+        "html_hash": "f278b5c5"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "As of December 31, 2...[317]...net$112,668\u00a0$121,208",
+        "html_preview": "<table style=\"border...[14288]...\"></td></tr></table>",
+        "html_hash": "00ab3cef"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1072,11 +1546,69 @@
         "html_hash": "4c6ac0c7"
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Accrued Expenses and...[6]... Current Liabilities",
+        "html_preview": "<div style=\"margin-t...[173]...ilities</span></div>",
+        "html_hash": "012c01d6",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Accrued Expenses and...[2223]...$(2,691)$11\u00a0$(5,991)",
-        "html_preview": "<ix:continuation con...[55852]...v></ix:continuation>",
-        "html_hash": "09f03acf"
+        "tag_name": "span",
+        "text_preview": "Accrued expenses and...[48]...owing (in millions):",
+        "html_preview": "<span style=\"color:#...[162]...in millions):</span>",
+        "html_hash": "1f9b167a"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "As of December 31, 2...[347]...ities$37,866\u00a0$49,300",
+        "html_preview": "<table style=\"border...[12233]...\"></td></tr></table>",
+        "html_hash": "b0a9f7eb"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)\u00a0\u00a0\u00a0\u00a0While each EC...[283]...for further details.",
+        "html_preview": "<div style=\"margin-t...[659]...etails.</span></div>",
+        "html_hash": "16668255"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(2) \u00a0\u00a0\u00a0\u00a0Income taxes...[204]...nties in California.",
+        "html_preview": "<div style=\"padding-...[565]...fornia.</span></div>",
+        "html_hash": "d0b500a1"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Accumulated Other Co...[5]...ensive Income (Loss)",
+        "html_preview": "<div style=\"margin-t...[172]... (Loss)</span></div>",
+        "html_hash": "c407e433",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "Components of AOCI, ...[29]...llows (in millions):",
+        "html_preview": "<span style=\"color:#...[143]...in millions):</span>",
+        "html_hash": "2039fbbb"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Foreign Currency Tra...[499]...(2,787)$891\u00a0$(5,828)",
+        "html_preview": "<table style=\"border...[20491]...\"></td></tr></table>",
+        "html_hash": "bd8e807b"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Foreign Currency Tra...[481]...$(2,691)$11\u00a0$(5,991)",
+        "html_preview": "<div style=\"margin-t...[20373]...120%\"> </span></div>",
+        "html_hash": "1d022d31"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1101,10 +1633,46 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "The effects on net i...[1532]... 2023, respectively.",
-        "html_preview": "<ix:continuation id=...[59835]...c></ix:continuation>",
-        "html_hash": "4dcceae7"
+        "tag_name": "span",
+        "text_preview": "The effects on net i...[50]...llows (in millions):",
+        "html_preview": "<span style=\"color:#...[164]...in millions):</span>",
+        "html_hash": "3122c1fb"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Gains (Losses) Recla...[622]...03\u00a0$(193)$204\u00a0$(408)",
+        "html_preview": "<table style=\"border...[29467]...\"></td></tr></table>",
+        "html_hash": "80b47209"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Other Income (Expense), Net",
+        "html_preview": "<div style=\"margin-t...[154]...e), Net</span></div>",
+        "html_hash": "19fa3d12",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "Components of OI&E w...[9]...llows (in millions):",
+        "html_preview": "<span style=\"color:#...[127]...in millions):</span>",
+        "html_hash": "851bedc2"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Three Months EndedSi...[461]...439)$65\u00a0$(1,599)$855",
+        "html_preview": "<table style=\"border...[27977]...\"></td></tr></table>",
+        "html_hash": "18bb4376"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)Interest expense ...[201]... 2023, respectively.",
+        "html_preview": "<div style=\"padding-...[1262]...tively.</span></div>",
+        "html_hash": "0de27e04"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1144,10 +1712,73 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "We have a company-wi...[1957]...ated balance sheets.",
-        "html_preview": "<ix:continuation id=...[35527]...c></ix:continuation>",
-        "html_hash": "5c1487cb"
+        "tag_name": "div",
+        "text_preview": "We have a company-wi...[370]... 2023, respectively.",
+        "html_preview": "<div style=\"margin-t...[1197]...ively. </span></div>",
+        "html_hash": "1a5a8105"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "In addition, we are ...[350]...r real estate needs.",
+        "html_preview": "<div style=\"margin-t...[1290]... needs.</span></div>",
+        "html_hash": "6d6ca9ab"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "These severance and ...[84]...llows (in millions):",
+        "html_preview": "<div style=\"margin-t...[287]...lions):</span></div>",
+        "html_hash": "97931aa0"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Three Months Ended J...[322]...0\u00a0$1,995\u00a0$633\u00a0$2,628",
+        "html_preview": "<div style=\"padding-...[25097]...></tr></table></div>",
+        "html_hash": "8a341460"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)Severance include...[110]...k based compensation",
+        "html_preview": "<div style=\"padding-...[655]...nsation</span></div>",
+        "html_hash": "6acd0b1d"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For segment reportin...[96]...our segment results.",
+        "html_preview": "<div style=\"margin-t...[282]...esults.</span></div>",
+        "html_hash": "70d997b5"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For the six months e...[111]...llows (in millions):",
+        "html_preview": "<div style=\"margin-t...[297]...lions):</span></div>",
+        "html_hash": "6bc2942d"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Severance and Relate...[85]...June 30, 2023(2)$143",
+        "html_preview": "<div style=\"padding-...[4644]...></tr></table></div>",
+        "html_hash": "79b9a585"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)Excludes non-cash...[22]...ion of $429\u00a0million.",
+        "html_preview": "<div style=\"padding-...[615]...illion.</span></div>",
+        "html_hash": "73177690"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(2)Included in Accru...[44]...ated balance sheets.",
+        "html_preview": "<div style=\"padding-...[451]...sheets.</span></div>",
+        "html_hash": "9d297fdb"
     },
     {
         "cls_name": "EmptyElement",
@@ -1165,11 +1796,26 @@
         "level": 3
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Goodwill",
+        "html_preview": "<div style=\"margin-t...[135]...oodwill</span></div>",
+        "html_hash": "fa1b16bc",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "GoodwillChanges in t...[321]...\u00a0$7,206\u00a0$880\u00a0$29,210",
-        "html_preview": "<ix:continuation con...[15095]...c></ix:continuation>",
-        "html_hash": "a4b73819"
+        "tag_name": "div",
+        "text_preview": "Changes in the carry...[72]...llows (in millions):",
+        "html_preview": "<div style=\"margin-t...[258]...lions):</span></div>",
+        "html_hash": "0c88f8bf"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Google ServicesGoogl...[201]...\u00a0$7,206\u00a0$880\u00a0$29,210",
+        "html_preview": "<div style=\"margin-t...[14383]...></tr></table></div>",
+        "html_hash": "2ebbac69"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1193,11 +1839,47 @@
         "html_hash": "4c6ac0c7"
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Other Intangible Assets",
+        "html_preview": "<div style=\"margin-t...[150]... Assets</span></div>",
+        "html_hash": "b3ce8595",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Other Intangible Ass...[1000]...after248\u00a0Total$1,730",
-        "html_preview": "<ix:continuation id=...[38950]...c></ix:continuation>",
-        "html_hash": "f8487e21"
+        "tag_name": "span",
+        "text_preview": "Information regardin...[29]...llows (in millions):",
+        "html_preview": "<span style=\"color:#...[143]...in millions):</span>",
+        "html_hash": "538498e2"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "As of December 31, 2...[462]...4\u00a0$2,837\u00a0$871\u00a0$1,966",
+        "html_preview": "<table style=\"border...[30034]...\"></td></tr></table>",
+        "html_hash": "084dad90"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Amortization expense...[206]... 2023, respectively.",
+        "html_preview": "<div style=\"margin-t...[1606]...tively.</span></div>",
+        "html_hash": "bbd30484"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Expected amortizatio...[80]...llows (in millions):",
+        "html_preview": "<div style=\"margin-t...[266]...lions):</span></div>",
+        "html_hash": "aeb1d8c9"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Remainder of 2023$23...[39]...after248\u00a0Total$1,730",
+        "html_preview": "<div style=\"margin-t...[6102]...></tr></table></div>",
+        "html_hash": "79864c7e"
     },
     {
         "cls_name": "EmptyElement",
@@ -1314,11 +1996,54 @@
         "level": 3
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Share Repurchases",
+        "html_preview": "<div style=\"margin-t...[144]...rchases</span></div>",
+        "html_hash": "6eda8e03",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Share RepurchasesIn ...[1602]... an expiration date.",
-        "html_preview": "<ix:continuation id=...[16240]...v></ix:continuation>",
-        "html_hash": "118fb80b"
+        "tag_name": "div",
+        "text_preview": "In the three and six...[112]... and Class C shares.",
+        "html_preview": "<div style=\"margin-t...[678]...shares.</span></div>",
+        "html_hash": "d7557dda"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "In April 2022, the B...[453]...C share repurchases.",
+        "html_preview": "<div style=\"margin-t...[1218]...hases. </span></div>",
+        "html_hash": "644c0303"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The following table ...[67]...tired (in millions):",
+        "html_preview": "<div style=\"margin-t...[392]...lions):</span></div>",
+        "html_hash": "18b55c97"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Three Months Ended J...[187]...\u00a0$15,114\u00a0288\u00a0$30,238",
+        "html_preview": "<div style=\"margin-t...[12239]...></tr></table></div>",
+        "html_hash": "918c316d"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "(1)\u00a0\u00a0\u00a0\u00a0Shares repurc...[36]...as of June\u00a030, 2023.",
+        "html_preview": "<div style=\"margin-t...[412]..., 2023.</span></div>",
+        "html_hash": "649b7e8a"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Class A and Class C ...[528]... an expiration date.",
+        "html_preview": "<div style=\"margin-t...[714]...n date.</span></div>",
+        "html_hash": "59ab8065"
     },
     {
         "cls_name": "EmptyElement",
@@ -1337,10 +2062,17 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The following table ...[1281]...21\u00a0$1.44\u00a0$1.44\u00a0$1.44",
-        "html_preview": "<div style=\"margin-t...[73766]...:continuation></div>",
-        "html_hash": "b5dcd6f2"
+        "tag_name": "span",
+        "text_preview": "The following table ...[128]... per share amounts):",
+        "html_preview": "<span style=\"color:#...[242]...are amounts):</span>",
+        "html_hash": "1c9b9d41"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Three Months Ended J...[1113]...21\u00a0$1.44\u00a0$1.44\u00a0$1.44",
+        "html_preview": "<table style=\"border...[73116]...\"></td></tr></table>",
+        "html_hash": "e8c5579f"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1365,10 +2097,17 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Six Months Ended Jun...[1443]...ion of Alphabet Inc.",
-        "html_preview": "<ix:continuation id=...[73784]...v></ix:continuation>",
-        "html_hash": "1422dd69"
+        "tag_name": "div",
+        "text_preview": "Six Months Ended Jun...[1126]...44\u00a0$2.61\u00a0$2.61\u00a0$2.61",
+        "html_preview": "<div style=\"margin-t...[73208]...:continuation></div>",
+        "html_hash": "a8eade2a"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For the periods pres...[276]...ion of Alphabet Inc.",
+        "html_preview": "<div style=\"margin-t...[462]...et Inc.</span></div>",
+        "html_hash": "561649c5"
     },
     {
         "cls_name": "EmptyElement",
@@ -1386,11 +2125,48 @@
         "level": 3
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Stock-Based Compensation",
+        "html_preview": "<div style=\"margin-t...[151]...nsation</span></div>",
+        "html_hash": "b9bab963",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Stock-Based Compensa...[1205]... 30, 2023442\u00a0$102.97",
-        "html_preview": "<ix:continuation con...[14981]...v></ix:continuation>",
-        "html_hash": "4da21eff"
+        "tag_name": "div",
+        "text_preview": "For the three months...[448]...llion, respectively.",
+        "html_preview": "<div style=\"margin-t...[2217]...ively. </span></div>",
+        "html_hash": "513a052b"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "During the six month...[251]...further information.",
+        "html_preview": "<div style=\"margin-t...[1337]...ation. </span></div>",
+        "html_hash": "b237c31e"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Stock-Based Award Activities",
+        "html_preview": "<div style=\"margin-t...[155]...ivities</span></div>",
+        "html_hash": "1f9bc83f",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "The following table ...[137]... per share amounts):",
+        "html_preview": "<span style=\"color:#...[252]...re amounts): </span>",
+        "html_hash": "edf09ee7"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Unvested\u00a0Restricted\u00a0...[193]... 30, 2023442\u00a0$102.97",
+        "html_preview": "<table style=\"border...[10325]...\"></td></tr></table>",
+        "html_hash": "d009e28a"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1437,10 +2213,17 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "The following table ...[295]...\u00a0%16.1\u00a0%14.5\u00a0%16.7\u00a0%",
-        "html_preview": "<ix:continuation con...[13640]...c></ix:continuation>",
-        "html_hash": "0216f5ab"
+        "tag_name": "div",
+        "text_preview": "The following table ...[61]...effective tax rate):",
+        "html_preview": "<div style=\"margin-t...[228]... rate):</span></div>",
+        "html_hash": "297cec4a"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Three Months EndedSi...[194]...\u00a0%16.1\u00a0%14.5\u00a0%16.7\u00a0%",
+        "html_preview": "<div style=\"margin-t...[13100]...></tr></table></div>",
+        "html_hash": "2bddd9b0"
     },
     {
         "cls_name": "TextElement",
@@ -1494,10 +2277,45 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "The following table ...[970]...ets$127,049\u00a0$135,677",
-        "html_preview": "<ix:continuation id=...[45661]...v></ix:continuation>",
-        "html_hash": "a093eda5"
+        "tag_name": "span",
+        "text_preview": "The following table ...[34]...ments (in millions):",
+        "html_preview": "<span style=\"color:#...[148]...in millions):</span>",
+        "html_hash": "5ebfddc2"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Three Months EndedSi...[231]...04\u00a0$137,696\u00a0$144,391",
+        "html_preview": "<table style=\"border...[19085]...\"></td></tr></table>",
+        "html_hash": "c17e0cb1"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Three Months EndedSi...[277]...,838\u00a0$39,547\u00a0$39,253",
+        "html_preview": "<div style=\"margin-t...[18798]...></tr></table></div>",
+        "html_hash": "4205dd90"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "For revenues by geography, see Note 2.",
+        "html_preview": "<div style=\"margin-t...[184]...Note 2.</span></div>",
+        "html_hash": "fcb53a34"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "The following table ...[111]...ssets (in millions):",
+        "html_preview": "<span style=\"color:#...[225]...in millions):</span>",
+        "html_hash": "8ac977b0"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "As of December 31, 2...[115]...ets$127,049\u00a0$135,677",
+        "html_preview": "<table style=\"border...[6560]...\"></td></tr></table>",
+        "html_hash": "ea033683"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -2391,10 +3209,17 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The following table ...[502]...04\u00a0$137,696\u00a0$144,391",
-        "html_preview": "<div style=\"margin-t...[24639]...></tr></table></div>",
-        "html_hash": "40cb7129"
+        "tag_name": "span",
+        "text_preview": "The following table ...[20]... type (in millions):",
+        "html_preview": "<span style=\"color:#...[135]...n millions): </span>",
+        "html_hash": "45346c7e"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Three Months EndedSi...[440]...04\u00a0$137,696\u00a0$144,391",
+        "html_preview": "<table style=\"border...[24411]...\"></td></tr></table>",
+        "html_hash": "7a17b58a"
     },
     {
         "cls_name": "TitleElement",
@@ -2634,10 +3459,17 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The following table ...[288]...(losses)1\u00a0%0\u00a0%0\u00a0%0\u00a0%",
-        "html_preview": "<div style=\"margin-t...[15033]...></tr></table></div>",
-        "html_hash": "6f8abf27"
+        "tag_name": "span",
+        "text_preview": "The following table ...[91]...es of our customers:",
+        "html_preview": "<span style=\"color:#...[205]...ur customers:</span>",
+        "html_hash": "72146b31"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Three Months EndedSi...[157]...(losses)1\u00a0%0\u00a0%0\u00a0%0\u00a0%",
+        "html_preview": "<table style=\"border...[14735]...n></td></tr></table>",
+        "html_hash": "87238fdc"
     },
     {
         "cls_name": "SupplementaryText",
@@ -2848,10 +3680,17 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The following table ...[328]...nues43\u00a0%43\u00a0%43\u00a0%43\u00a0%",
-        "html_preview": "<div style=\"margin-t...[13761]...></tr></table></div>",
-        "html_hash": "9cbe281a"
+        "tag_name": "span",
+        "text_preview": "The following table ...[55]...except percentages):",
+        "html_preview": "<span style=\"color:#...[169]...percentages):</span>",
+        "html_hash": "16bd6b41"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Three Months EndedSi...[233]...nues43\u00a0%43\u00a0%43\u00a0%43\u00a0%",
+        "html_preview": "<table style=\"border...[13499]...n></td></tr></table>",
+        "html_hash": "1d496b85"
     },
     {
         "cls_name": "TextElement",
@@ -2898,10 +3737,17 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The following table ...[245]...nues14\u00a0%14\u00a0%14\u00a0%15\u00a0%",
-        "html_preview": "<div style=\"margin-t...[8793]...></tr></table></div>",
-        "html_hash": "f81f8604"
+        "tag_name": "span",
+        "text_preview": "The following table ...[36]...except percentages):",
+        "html_preview": "<span style=\"color:#...[154]...percentages):</span>",
+        "html_hash": "f1890e1c"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Three Months EndedSi...[169]...nues14\u00a0%14\u00a0%14\u00a0%15\u00a0%",
+        "html_preview": "<table style=\"border...[8546]...n></td></tr></table>",
+        "html_hash": "3f51e8ab"
     },
     {
         "cls_name": "TextElement",
@@ -3009,10 +3855,17 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The following table ...[265]...revenues5\u00a0%5\u00a0%5\u00a0%5\u00a0%",
-        "html_preview": "<div style=\"margin-t...[8807]...></tr></table></div>",
-        "html_hash": "eec2f2ac"
+        "tag_name": "span",
+        "text_preview": "The following table ...[59]...except percentages):",
+        "html_preview": "<span style=\"color:#...[173]...percentages):</span>",
+        "html_hash": "04fe65a0"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "Three Months EndedSi...[166]...revenues5\u00a0%5\u00a0%5\u00a0%5\u00a0%",
+        "html_preview": "<table style=\"border...[8541]...n></td></tr></table>",
+        "html_hash": "b99c33cc"
     },
     {
         "cls_name": "TextElement",
@@ -3984,10 +4837,17 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The following table ...[686]...,594\u00a0114,386\u00a0130,980",
-        "html_preview": "<div style=\"margin-t...[17465]...></tr></table></div>",
-        "html_hash": "9ce67b24"
+        "tag_name": "span",
+        "text_preview": "The following table ...[108]...ended June\u00a030, 2023.",
+        "html_preview": "<span style=\"color:#...[222]...une\u00a030, 2023.</span>",
+        "html_hash": "990f30eb"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "PeriodTotal Number o...[538]...,594\u00a0114,386\u00a0130,980",
+        "html_preview": "<table style=\"border...[17150]...\"></td></tr></table>",
+        "html_hash": "3eb25ef4"
     },
     {
         "cls_name": "TextElement",
@@ -4140,10 +5000,17 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "____________________...[89]...\u2021Furnished herewith.",
-        "html_preview": "<div style=\"margin-t...[1739]...></tr></table></div>",
-        "html_hash": "45eb8488"
+        "tag_name": "span",
+        "text_preview": "__________________________",
+        "html_preview": "<span style=\"color:#...[101]...____________\u00a0</span>",
+        "html_hash": "1d9485a1"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "table",
+        "text_preview": "\u2b25Indicates managemen...[62]...\u2021Furnished herewith.",
+        "html_preview": "<table style=\"border...[1564]...n></td></tr></table>",
+        "html_hash": "ec5e58f3"
     },
     {
         "cls_name": "EmptyElement",
