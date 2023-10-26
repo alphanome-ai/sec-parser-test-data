@@ -54,11 +54,15 @@
         "html_hash": "1727dfc0"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "As of December 31, 2...[1803]...ity$365,264\u00a0$383,044",
         "html_preview": "<table style=\"border...[59606]...\"></td></tr></table>",
-        "html_hash": "4c10e24b"
+        "html_hash": "4c10e24b",
+        "metrics": {
+            "rows": 40,
+            "numbers": 73
+        }
     },
     {
         "cls_name": "SupplementaryText",
@@ -118,11 +122,15 @@
         "html_hash": "8da3ac6f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months EndedSi...[751]...21\u00a0$1.44\u00a0$2.44\u00a0$2.61",
         "html_preview": "<table style=\"border...[45176]...\"></td></tr></table>",
-        "html_hash": "026a728a"
+        "html_hash": "026a728a",
+        "metrics": {
+            "rows": 14,
+            "numbers": 58
+        }
     },
     {
         "cls_name": "SupplementaryText",
@@ -182,11 +190,15 @@
         "html_hash": "4792ba7e"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months EndedSi...[829]...,377\u00a0$28,233\u00a0$35,031",
         "html_preview": "<table style=\"border...[36677]...\"></td></tr></table>",
-        "html_hash": "28c370cc"
+        "html_hash": "28c370cc",
+        "metrics": {
+            "rows": 13,
+            "numbers": 48
+        }
     },
     {
         "cls_name": "SupplementaryText",
@@ -480,11 +492,15 @@
         "html_hash": "4792ba7e"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Six Months EndedJune...[1703]...eriod$17,936\u00a0$25,929",
         "html_preview": "<table style=\"border...[52709]...\"></td></tr></table>",
-        "html_hash": "a152606b"
+        "html_hash": "a152606b",
+        "metrics": {
+            "rows": 38,
+            "numbers": 69
+        }
     },
     {
         "cls_name": "SupplementaryText",
@@ -617,11 +633,15 @@
         "html_hash": "44818d26"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months EndedSi...[439]...04\u00a0$137,696\u00a0$144,391",
         "html_preview": "<table style=\"border...[31794]...\"></td></tr></table>",
-        "html_hash": "8d088604"
+        "html_hash": "8d088604",
+        "metrics": {
+            "rows": 10,
+            "numbers": 46
+        }
     },
     {
         "cls_name": "TextElement",
@@ -631,11 +651,15 @@
         "html_hash": "00ccf69d"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months EndedSi...[342]...\u00a0100\u00a0%$144,391\u00a0100\u00a0%",
         "html_preview": "<table style=\"border...[37566]...n></td></tr></table>",
-        "html_hash": "9f69b874"
+        "html_hash": "9f69b874",
+        "metrics": {
+            "rows": 6,
+            "numbers": 57
+        }
     },
     {
         "cls_name": "TextElement",
@@ -753,11 +777,15 @@
         "html_hash": "c64f346b"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "As of December 31, 2...[1026]...,201\u00a0$21,879\u00a0$91,883",
         "html_preview": "<div style=\"margin-t...[58661]...></tr></table></div>",
-        "html_hash": "4e1e7658"
+        "html_hash": "4e1e7658",
+        "metrics": {
+            "rows": 16,
+            "numbers": 73
+        }
     },
     {
         "cls_name": "TextElement",
@@ -802,11 +830,15 @@
         "html_hash": "1645d77c"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "As of June 30, 2023F...[1020]...,817\u00a0$25,929\u00a0$92,403",
         "html_preview": "<div style=\"margin-t...[58248]...></tr></table></div>",
-        "html_hash": "a0036c2f"
+        "html_hash": "a0036c2f",
+        "metrics": {
+            "rows": 16,
+            "numbers": 73
+        }
     },
     {
         "cls_name": "TextElement",
@@ -888,11 +920,15 @@
         "html_hash": "942c61e4"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "As ofJune 30, 2023Du...[118]...s13,686\u00a0Total$88,000",
         "html_preview": "<div style=\"margin-t...[5458]...></tr></table></div>",
-        "html_hash": "3619af8c"
+        "html_hash": "3619af8c",
+        "metrics": {
+            "rows": 5,
+            "numbers": 10
+        }
     },
     {
         "cls_name": "TextElement",
@@ -902,18 +938,26 @@
         "html_hash": "930e255f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "As of December 31, 2...[362]...750)$75,519\u00a0$(4,779)",
         "html_preview": "<div style=\"margin-t...[24434]...></tr></table></div>",
-        "html_hash": "c669388f"
+        "html_hash": "c669388f",
+        "metrics": {
+            "rows": 4,
+            "numbers": 27
+        }
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "As of June 30, 2023\u00a0...[353]...955)$71,106\u00a0$(3,757)",
         "html_preview": "<div style=\"margin-t...[24361]...></tr></table></div>",
-        "html_hash": "fdf55a38"
+        "html_hash": "fdf55a38",
+        "metrics": {
+            "rows": 4,
+            "numbers": 27
+        }
     },
     {
         "cls_name": "TextElement",
@@ -923,11 +967,15 @@
         "html_hash": "d95de604"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[384]...$(304)$(1,157)$(597)",
         "html_preview": "<div style=\"margin-t...[18535]...:continuation></div>",
-        "html_hash": "0a5df01e"
+        "html_hash": "0a5df01e",
+        "metrics": {
+            "rows": 5,
+            "numbers": 26
+        }
     },
     {
         "cls_name": "EmptyElement",
@@ -987,11 +1035,15 @@
         "html_hash": "63a250e7"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "As of December 31, 2...[322]...,295\u00a0$29,129\u00a0$34,424",
         "html_preview": "<table style=\"border...[19488]...\"></td></tr></table>",
-        "html_hash": "9a02ea42"
+        "html_hash": "9a02ea42",
+        "metrics": {
+            "rows": 3,
+            "numbers": 21
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1016,11 +1068,15 @@
         "html_hash": "b1c85086"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[371]...1)$(205)$(1,321)$172",
         "html_preview": "<div style=\"padding-...[16039]...></tr></table></div>",
-        "html_hash": "f8d3d5ce"
+        "html_hash": "f8d3d5ce",
+        "metrics": {
+            "rows": 4,
+            "numbers": 23
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1044,11 +1100,15 @@
         "html_hash": "36f0884a"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Equity Securities So...[166]...)$477\u00a0$271\u00a0$907\u00a0$372",
         "html_preview": "<div style=\"margin-t...[13577]...></tr></table></div>",
-        "html_hash": "f4dbf754"
+        "html_hash": "f4dbf754",
+        "metrics": {
+            "rows": 3,
+            "numbers": 18
+        }
     },
     {
         "cls_name": "EmptyElement",
@@ -1128,11 +1188,15 @@
         "html_hash": "1275a01f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "As of December 31, 2...[294]...ntracts$7,932\u00a0$9,133",
         "html_preview": "<table style=\"border...[10466]...\"></td></tr></table>",
-        "html_hash": "7b42725a"
+        "html_hash": "7b42725a",
+        "metrics": {
+            "rows": 8,
+            "numbers": 12
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1142,11 +1206,15 @@
         "html_hash": "d92ea316"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "As of December 31, 2...[348]...l$676\u00a0$810\u00a0$397\u00a0$404",
         "html_preview": "<table style=\"border...[19217]...\"></td></tr></table>",
-        "html_hash": "77e4359f"
+        "html_hash": "77e4359f",
+        "metrics": {
+            "rows": 7,
+            "numbers": 26
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1184,11 +1252,15 @@
         "html_hash": "842051a1"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Gains (Losses) Recog...[477]...01\u00a0$98\u00a0$1,870\u00a0$(208)",
         "html_preview": "<table style=\"border...[20045]...\"></td></tr></table>",
-        "html_hash": "f76a09d2"
+        "html_hash": "f76a09d2",
+        "metrics": {
+            "rows": 8,
+            "numbers": 22
+        }
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1226,11 +1298,15 @@
         "html_hash": "4ba0c569"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Gains (Losses) Recog...[809]...es)$376\u00a0$(33)$4\u00a0$197",
         "html_preview": "<table style=\"border...[38353]...\"></td></tr></table>",
-        "html_hash": "a93f2a20"
+        "html_hash": "a93f2a20",
+        "metrics": {
+            "rows": 17,
+            "numbers": 43
+        }
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1294,11 +1370,15 @@
         "html_hash": "9924701e"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "As of December 31, 2...[395]...$810\u00a0$(463)$(28)$319",
         "html_preview": "<div style=\"margin-t...[14566]...></tr></table></div>",
-        "html_hash": "585897e3"
+        "html_hash": "585897e3",
+        "metrics": {
+            "rows": 2,
+            "numbers": 14
+        }
     },
     {
         "cls_name": "EmptyElement",
@@ -1329,11 +1409,15 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "As of June 30, 2023G...[391]...$404\u00a0$(138)$(34)$232",
         "html_preview": "<div style=\"margin-t...[14560]...></tr></table></div>",
-        "html_hash": "a622c19c"
+        "html_hash": "a622c19c",
+        "metrics": {
+            "rows": 2,
+            "numbers": 14
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1423,11 +1507,15 @@
         "html_hash": "075a9606"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "ix:continuation",
         "text_preview": "MaturityCoupon RateE...[456]... debt$14,701\u00a0$13,705",
         "html_preview": "<ix:continuation con...[19478]...e></ix:continuation>",
-        "html_hash": "cd11abca"
+        "html_hash": "cd11abca",
+        "metrics": {
+            "rows": 8,
+            "numbers": 23
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1518,11 +1606,15 @@
         "html_hash": "f278b5c5"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "As of December 31, 2...[317]...net$112,668\u00a0$121,208",
         "html_preview": "<table style=\"border...[14288]...\"></td></tr></table>",
-        "html_hash": "00ab3cef"
+        "html_hash": "00ab3cef",
+        "metrics": {
+            "rows": 8,
+            "numbers": 18
+        }
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1561,11 +1653,15 @@
         "html_hash": "1f9b167a"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "As of December 31, 2...[347]...ities$37,866\u00a0$49,300",
         "html_preview": "<table style=\"border...[12233]...\"></td></tr></table>",
-        "html_hash": "b0a9f7eb"
+        "html_hash": "b0a9f7eb",
+        "metrics": {
+            "rows": 7,
+            "numbers": 18
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1597,18 +1693,26 @@
         "html_hash": "2039fbbb"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Foreign Currency Tra...[499]...(2,787)$891\u00a0$(5,828)",
         "html_preview": "<table style=\"border...[20491]...\"></td></tr></table>",
-        "html_hash": "bd8e807b"
+        "html_hash": "bd8e807b",
+        "metrics": {
+            "rows": 6,
+            "numbers": 26
+        }
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Foreign Currency Tra...[481]...$(2,691)$11\u00a0$(5,991)",
         "html_preview": "<div style=\"margin-t...[20373]...120%\"> </span></div>",
-        "html_hash": "1d022d31"
+        "html_hash": "1d022d31",
+        "metrics": {
+            "rows": 6,
+            "numbers": 26
+        }
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1639,11 +1743,15 @@
         "html_hash": "3122c1fb"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Gains (Losses) Recla...[622]...03\u00a0$(193)$204\u00a0$(408)",
         "html_preview": "<table style=\"border...[29467]...\"></td></tr></table>",
-        "html_hash": "80b47209"
+        "html_hash": "80b47209",
+        "metrics": {
+            "rows": 6,
+            "numbers": 38
+        }
     },
     {
         "cls_name": "TitleElement",
@@ -1661,11 +1769,15 @@
         "html_hash": "851bedc2"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months EndedSi...[461]...439)$65\u00a0$(1,599)$855",
         "html_preview": "<table style=\"border...[27977]...\"></td></tr></table>",
-        "html_hash": "18bb4376"
+        "html_hash": "18bb4376",
+        "metrics": {
+            "rows": 9,
+            "numbers": 43
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1732,11 +1844,15 @@
         "html_hash": "97931aa0"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[322]...0\u00a0$1,995\u00a0$633\u00a0$2,628",
         "html_preview": "<div style=\"padding-...[25097]...></tr></table></div>",
-        "html_hash": "8a341460"
+        "html_hash": "8a341460",
+        "metrics": {
+            "rows": 5,
+            "numbers": 34
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1760,11 +1876,15 @@
         "html_hash": "6bc2942d"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Severance and Relate...[85]...June 30, 2023(2)$143",
         "html_preview": "<div style=\"padding-...[4644]...></tr></table></div>",
-        "html_hash": "79b9a585"
+        "html_hash": "79b9a585",
+        "metrics": {
+            "rows": 4,
+            "numbers": 7
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1811,11 +1931,15 @@
         "html_hash": "0c88f8bf"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Google ServicesGoogl...[201]...\u00a0$7,206\u00a0$880\u00a0$29,210",
         "html_preview": "<div style=\"margin-t...[14383]...></tr></table></div>",
-        "html_hash": "2ebbac69"
+        "html_hash": "2ebbac69",
+        "metrics": {
+            "rows": 4,
+            "numbers": 18
+        }
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1854,11 +1978,15 @@
         "html_hash": "538498e2"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "As of December 31, 2...[462]...4\u00a0$2,837\u00a0$871\u00a0$1,966",
         "html_preview": "<table style=\"border...[30034]...\"></td></tr></table>",
-        "html_hash": "084dad90"
+        "html_hash": "084dad90",
+        "metrics": {
+            "rows": 6,
+            "numbers": 38
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1875,11 +2003,15 @@
         "html_hash": "aeb1d8c9"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Remainder of 2023$23...[39]...after248\u00a0Total$1,730",
         "html_preview": "<div style=\"margin-t...[6102]...></tr></table></div>",
-        "html_hash": "79864c7e"
+        "html_hash": "79864c7e",
+        "metrics": {
+            "rows": 7,
+            "numbers": 12
+        }
     },
     {
         "cls_name": "EmptyElement",
@@ -2025,11 +2157,15 @@
         "html_hash": "18b55c97"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months Ended J...[187]...\u00a0$15,114\u00a0288\u00a0$30,238",
         "html_preview": "<div style=\"margin-t...[12239]...></tr></table></div>",
-        "html_hash": "918c316d"
+        "html_hash": "918c316d",
+        "metrics": {
+            "rows": 3,
+            "numbers": 15
+        }
     },
     {
         "cls_name": "TextElement",
@@ -2068,11 +2204,15 @@
         "html_hash": "1c9b9d41"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months Ended J...[1113]...21\u00a0$1.44\u00a0$1.44\u00a0$1.44",
         "html_preview": "<table style=\"border...[73116]...\"></td></tr></table>",
-        "html_hash": "e8c5579f"
+        "html_hash": "e8c5579f",
+        "metrics": {
+            "rows": 20,
+            "numbers": 75
+        }
     },
     {
         "cls_name": "IrrelevantElement",
@@ -2096,11 +2236,15 @@
         "html_hash": "4c6ac0c7"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Six Months Ended Jun...[1126]...44\u00a0$2.61\u00a0$2.61\u00a0$2.61",
         "html_preview": "<div style=\"margin-t...[73208]...:continuation></div>",
-        "html_hash": "a8eade2a"
+        "html_hash": "a8eade2a",
+        "metrics": {
+            "rows": 20,
+            "numbers": 75
+        }
     },
     {
         "cls_name": "TextElement",
@@ -2162,11 +2306,15 @@
         "html_hash": "edf09ee7"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Unvested\u00a0Restricted\u00a0...[193]... 30, 2023442\u00a0$102.97",
         "html_preview": "<table style=\"border...[10325]...\"></td></tr></table>",
-        "html_hash": "d009e28a"
+        "html_hash": "d009e28a",
+        "metrics": {
+            "rows": 5,
+            "numbers": 12
+        }
     },
     {
         "cls_name": "IrrelevantElement",
@@ -2219,11 +2367,15 @@
         "html_hash": "297cec4a"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[194]...\u00a0%16.1\u00a0%14.5\u00a0%16.7\u00a0%",
         "html_preview": "<div style=\"margin-t...[13100]...></tr></table></div>",
-        "html_hash": "2bddd9b0"
+        "html_hash": "2bddd9b0",
+        "metrics": {
+            "rows": 3,
+            "numbers": 18
+        }
     },
     {
         "cls_name": "TextElement",
@@ -2283,18 +2435,26 @@
         "html_hash": "5ebfddc2"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months EndedSi...[231]...04\u00a0$137,696\u00a0$144,391",
         "html_preview": "<table style=\"border...[19085]...\"></td></tr></table>",
-        "html_hash": "c17e0cb1"
+        "html_hash": "c17e0cb1",
+        "metrics": {
+            "rows": 6,
+            "numbers": 26
+        }
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedSi...[277]...,838\u00a0$39,547\u00a0$39,253",
         "html_preview": "<div style=\"margin-t...[18798]...></tr></table></div>",
-        "html_hash": "4205dd90"
+        "html_hash": "4205dd90",
+        "metrics": {
+            "rows": 6,
+            "numbers": 26
+        }
     },
     {
         "cls_name": "TextElement",
@@ -2311,11 +2471,15 @@
         "html_hash": "8ac977b0"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "As of December 31, 2...[115]...ets$127,049\u00a0$135,677",
         "html_preview": "<table style=\"border...[6560]...\"></td></tr></table>",
-        "html_hash": "ea033683"
+        "html_hash": "ea033683",
+        "metrics": {
+            "rows": 4,
+            "numbers": 8
+        }
     },
     {
         "cls_name": "IrrelevantElement",
@@ -3215,11 +3379,15 @@
         "html_hash": "45346c7e"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months EndedSi...[440]...04\u00a0$137,696\u00a0$144,391",
         "html_preview": "<table style=\"border...[24411]...\"></td></tr></table>",
-        "html_hash": "7a17b58a"
+        "html_hash": "7a17b58a",
+        "metrics": {
+            "rows": 10,
+            "numbers": 46
+        }
     },
     {
         "cls_name": "TitleElement",
@@ -3465,11 +3633,15 @@
         "html_hash": "72146b31"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months EndedSi...[157]...(losses)1\u00a0%0\u00a0%0\u00a0%0\u00a0%",
         "html_preview": "<table style=\"border...[14735]...n></td></tr></table>",
-        "html_hash": "87238fdc"
+        "html_hash": "87238fdc",
+        "metrics": {
+            "rows": 5,
+            "numbers": 26
+        }
     },
     {
         "cls_name": "SupplementaryText",
@@ -3686,11 +3858,15 @@
         "html_hash": "16bd6b41"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months EndedSi...[233]...nues43\u00a0%43\u00a0%43\u00a0%43\u00a0%",
         "html_preview": "<table style=\"border...[13499]...n></td></tr></table>",
-        "html_hash": "1d496b85"
+        "html_hash": "1d496b85",
+        "metrics": {
+            "rows": 4,
+            "numbers": 22
+        }
     },
     {
         "cls_name": "TextElement",
@@ -3743,11 +3919,15 @@
         "html_hash": "f1890e1c"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months EndedSi...[169]...nues14\u00a0%14\u00a0%14\u00a0%15\u00a0%",
         "html_preview": "<table style=\"border...[8546]...n></td></tr></table>",
-        "html_hash": "3f51e8ab"
+        "html_hash": "3f51e8ab",
+        "metrics": {
+            "rows": 2,
+            "numbers": 14
+        }
     },
     {
         "cls_name": "TextElement",
@@ -3861,11 +4041,15 @@
         "html_hash": "04fe65a0"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "Three Months EndedSi...[166]...revenues5\u00a0%5\u00a0%5\u00a0%5\u00a0%",
         "html_preview": "<table style=\"border...[8541]...n></td></tr></table>",
-        "html_hash": "b99c33cc"
+        "html_hash": "b99c33cc",
+        "metrics": {
+            "rows": 2,
+            "numbers": 14
+        }
     },
     {
         "cls_name": "TextElement",
@@ -4843,11 +5027,15 @@
         "html_hash": "990f30eb"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "PeriodTotal Number o...[538]...,594\u00a0114,386\u00a0130,980",
         "html_preview": "<table style=\"border...[17150]...\"></td></tr></table>",
-        "html_hash": "3eb25ef4"
+        "html_hash": "3eb25ef4",
+        "metrics": {
+            "rows": 5,
+            "numbers": 29
+        }
     },
     {
         "cls_name": "TextElement",
@@ -5006,11 +5194,15 @@
         "html_hash": "1d9485a1"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "table",
         "text_preview": "\u2b25Indicates managemen...[62]...\u2021Furnished herewith.",
         "html_preview": "<table style=\"border...[1564]...n></td></tr></table>",
-        "html_hash": "ec5e58f3"
+        "html_hash": "ec5e58f3",
+        "metrics": {
+            "rows": 3,
+            "numbers": 0
+        }
     },
     {
         "cls_name": "EmptyElement",

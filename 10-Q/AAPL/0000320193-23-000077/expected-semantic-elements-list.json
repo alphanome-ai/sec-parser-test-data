@@ -466,11 +466,15 @@
         "html_hash": "6c774f2a"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[420]...26\u00a0$1.20\u00a0$4.67\u00a0$4.82",
         "html_preview": "<div style=\"margin-t...[23063]...></tr></table></div>",
-        "html_hash": "93c0ea83"
+        "html_hash": "93c0ea83",
+        "metrics": {
+            "rows": 8,
+            "numbers": 28
+        }
     },
     {
         "cls_name": "TextElement",
@@ -523,11 +527,15 @@
         "html_hash": "7a6203dd"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[284]...59\u00a0$293,787\u00a0$304,182",
         "html_preview": "<div style=\"margin-t...[21046]...></tr></table></div>",
-        "html_hash": "685fe94d"
+        "html_hash": "685fe94d",
+        "metrics": {
+            "rows": 6,
+            "numbers": 28
+        }
     },
     {
         "cls_name": "TextElement",
@@ -581,11 +589,15 @@
         "html_hash": "31ab9fc0"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "July 1, 2023Adjusted...[877]...408\u00a0$34,074\u00a0$104,061",
         "html_preview": "<div style=\"margin-b...[72650]...></tr></table></div>",
-        "html_hash": "8281f119"
+        "html_hash": "8281f119",
+        "metrics": {
+            "rows": 16,
+            "numbers": 76
+        }
     },
     {
         "cls_name": "IrrelevantElement",
@@ -609,11 +621,15 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "September 24, 2022Ad...[880]...646\u00a0$24,658\u00a0$120,805",
         "html_preview": "<div style=\"margin-t...[71896]...></tr></table></div>",
-        "html_hash": "5ff6f59d"
+        "html_hash": "5ff6f59d",
+        "metrics": {
+            "rows": 16,
+            "numbers": 74
+        }
     },
     {
         "cls_name": "TextElement",
@@ -644,11 +660,15 @@
         "html_hash": "c24f09d8"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Due after 1 year thr...[90]...l fair value$104,061",
         "html_preview": "<div style=\"margin-t...[4069]...></tr></table></div>",
-        "html_hash": "0707128a"
+        "html_hash": "0707128a",
+        "metrics": {
+            "rows": 4,
+            "numbers": 7
+        }
     },
     {
         "cls_name": "TitleElement",
@@ -738,11 +758,15 @@
         "html_hash": "963ab9ec"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "July 1,2023September...[226]...acts$90,977\u00a0$185,381",
         "html_preview": "<div style=\"margin-t...[7566]...></tr></table></div>",
-        "html_hash": "bc9e53d6"
+        "html_hash": "bc9e53d6",
+        "metrics": {
+            "rows": 5,
+            "numbers": 8
+        }
     },
     {
         "cls_name": "TextElement",
@@ -752,11 +776,15 @@
         "html_hash": "89aa0d1c"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "September 24, 2022Fa...[289]...acts$1,367\u00a0$\u2014\u00a0$1,367",
         "html_preview": "<div style=\"margin-b...[12787]...></tr></table></div>",
-        "html_hash": "4ac4c911"
+        "html_hash": "4ac4c911",
+        "metrics": {
+            "rows": 5,
+            "numbers": 11
+        }
     },
     {
         "cls_name": "TextElement",
@@ -787,11 +815,15 @@
         "html_hash": "8576cfee"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "July 1,2023September...[128]...bt$(17,986)$(18,739)",
         "html_preview": "<div style=\"margin-t...[5166]...></tr></table></div>",
-        "html_hash": "d94df22b"
+        "html_hash": "d94df22b",
+        "metrics": {
+            "rows": 3,
+            "numbers": 6
+        }
     },
     {
         "cls_name": "IrrelevantElement",
@@ -852,11 +884,15 @@
         "level": 3
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "July 1,2023September...[68]...ntories$7,351\u00a0$4,946",
         "html_preview": "<div style=\"margin-t...[6249]...></tr></table></div>",
-        "html_hash": "4f6cbac0"
+        "html_hash": "4f6cbac0",
+        "metrics": {
+            "rows": 3,
+            "numbers": 8
+        }
     },
     {
         "cls_name": "TitleElement",
@@ -867,11 +903,15 @@
         "level": 3
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "July 1,2023September...[153]..., net$43,550\u00a0$42,117",
         "html_preview": "<div style=\"margin-t...[6398]...></tr></table></div>",
-        "html_hash": "f0f99a60"
+        "html_hash": "f0f99a60",
+        "metrics": {
+            "rows": 3,
+            "numbers": 8
+        }
     },
     {
         "cls_name": "TitleElement",
@@ -889,11 +929,15 @@
         "html_hash": "42672f8f"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[224]...265)$(10)$(594)$(97)",
         "html_preview": "<div style=\"margin-t...[14555]...></tr></table></div>",
-        "html_hash": "1951c015"
+        "html_hash": "1951c015",
+        "metrics": {
+            "rows": 4,
+            "numbers": 20
+        }
     },
     {
         "cls_name": "IrrelevantElement",
@@ -969,11 +1013,15 @@
         "html_hash": "482e9797"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Nine Months EndedJul...[340]...r, net$(5,971)$4,970",
         "html_preview": "<div style=\"margin-t...[11304]...:continuation></div>",
-        "html_hash": "2738ad90"
+        "html_hash": "2738ad90",
+        "metrics": {
+            "rows": 7,
+            "numbers": 13
+        }
     },
     {
         "cls_name": "TitleElement",
@@ -1064,11 +1112,15 @@
         "html_hash": "84ab1818"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Number ofRSUs(in tho...[241]...,716\u00a0$135.08\u00a0$35,829",
         "html_preview": "<div style=\"margin-t...[12318]...></tr></table></div>",
-        "html_hash": "da48c7ef"
+        "html_hash": "da48c7ef",
+        "metrics": {
+            "rows": 5,
+            "numbers": 13
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1093,11 +1145,15 @@
         "html_hash": "7da3a94c"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[193]...231)$(2,791)$(3,416)",
         "html_preview": "<div style=\"margin-t...[9442]...></tr></table></div>",
-        "html_hash": "133f4741"
+        "html_hash": "133f4741",
+        "metrics": {
+            "rows": 2,
+            "numbers": 12
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1137,11 +1193,15 @@
         "html_hash": "2e6da6ca"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "2023 (remaining thre...[64]...er8,198\u00a0Total$18,957",
         "html_preview": "<div style=\"margin-t...[6406]...:continuation></div>",
-        "html_hash": "b9fa2773"
+        "html_hash": "b9fa2773",
+        "metrics": {
+            "rows": 7,
+            "numbers": 12
+        }
     },
     {
         "cls_name": "TitleElement",
@@ -1202,11 +1262,15 @@
         "html_hash": "82485f0b"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[528]...$2,367\u00a0$9,447\u00a0$9,185",
         "html_preview": "<div style=\"margin-t...[41923]...></tr></table></div>",
-        "html_hash": "a0ec3d43"
+        "html_hash": "a0ec3d43",
+        "metrics": {
+            "rows": 15,
+            "numbers": 44
+        }
     },
     {
         "cls_name": "TextElement",
@@ -1216,11 +1280,15 @@
         "html_hash": "c0f1acb3"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "TableElement",
         "tag_name": "div",
         "text_preview": "Three Months EndedNi...[271]...,076\u00a0$87,332\u00a0$94,543",
         "html_preview": "<div style=\"margin-t...[14986]...></tr></table></div>",
-        "html_hash": "f509b24b"
+        "html_hash": "f509b24b",
+        "metrics": {
+            "rows": 4,
+            "numbers": 20
+        }
     },
     {
         "cls_name": "IrrelevantElement",
