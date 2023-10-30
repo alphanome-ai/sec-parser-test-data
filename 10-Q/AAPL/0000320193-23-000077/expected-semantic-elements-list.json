@@ -1445,9 +1445,9 @@
     {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "Weakness in foreign ...[889]...in the fall of 2023.",
-        "html_preview": "<sec-parser-merged-t...[4633]...-parser-merged-text>",
-        "html_hash": "20a865d1"
+        "text_preview": "Weakness in foreign ...[1040]...ird quarter of 2023.",
+        "html_preview": "<sec-parser-merged-t...[4955]...-parser-merged-text>",
+        "html_hash": "f64ceec1"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1469,13 +1469,6 @@
         "text_preview": "",
         "html_preview": "<div style=\"min-heig...[38]...></span></div></div>",
         "html_hash": "d140b877"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The Company repurcha...[111]...ird quarter of 2023.",
-        "html_preview": "<div style=\"margin-t...[282]...f 2023.</span></div>",
-        "html_hash": "2ea0defa"
     },
     {
         "cls_name": "TitleElement",
