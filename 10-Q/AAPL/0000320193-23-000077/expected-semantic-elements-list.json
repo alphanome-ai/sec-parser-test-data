@@ -437,11 +437,19 @@
         "level": 3
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Basis of Presentation and Preparation",
+        "html_preview": "<div style=\"margin-t...[167]...aration</span></div>",
+        "html_hash": "791e06c0",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Basis of Presentatio...[1183]... September\u00a024, 2022.",
-        "html_preview": "<ix:nonnumeric conte...[1650]...div></ix:nonnumeric>",
-        "html_hash": "bed2af26"
+        "tag_name": "div",
+        "text_preview": "The condensed consol...[1146]... September\u00a024, 2022.",
+        "html_preview": "<div style=\"margin-t...[1316]..., 2022.</span></div>",
+        "html_hash": "3f88de82"
     },
     {
         "cls_name": "TextElement",
@@ -539,24 +547,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Total net sales incl...[530]... September\u00a025, 2021.",
-        "html_preview": "<div style=\"margin-t...[1464]..., 2021.</span></div>",
-        "html_hash": "19f1fd78"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The Company\u2019s propor...[315]...ortion of net sales.",
-        "html_preview": "<div style=\"margin-t...[486]... sales.</span></div>",
-        "html_hash": "73b153de"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "As of July\u00a01, 2023 a...[291]...er than three years.",
-        "html_preview": "<div style=\"margin-t...[1474]... years.</span></div>",
-        "html_hash": "34a923b2"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "Total net sales incl...[1216]...er than three years.",
+        "html_preview": "<sec-parser-merged-t...[3553]...-parser-merged-text>",
+        "html_hash": "0f13cedd"
     },
     {
         "cls_name": "EmptyElement",
@@ -633,24 +627,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(1)Level 1 fair valu...[73]...sets or liabilities.",
-        "html_preview": "<div style=\"margin-t...[614]...umeric></span></div>",
-        "html_hash": "ffc3ae40"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(2)Level 2 fair valu...[332]...sets or liabilities.",
-        "html_preview": "<div style=\"margin-t...[768]...uation></span></div>",
-        "html_hash": "b3dab4fe"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(3)As of July\u00a01, 202...[218]...nd other agreements.",
-        "html_preview": "<div style=\"margin-t...[950]...ements.</span></div>",
-        "html_hash": "0e24dc23"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "(1)Level 1 fair valu...[703]...nd other agreements.",
+        "html_preview": "<sec-parser-merged-t...[2461]...-parser-merged-text>",
+        "html_hash": "034f3699"
     },
     {
         "cls_name": "TextElement",
@@ -695,17 +675,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "To protect gross mar...[342]...for up to 12 months.",
-        "html_preview": "<div style=\"margin-t...[662]...months.</span></div>",
-        "html_hash": "65911014"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "To protect the Compa...[473]...actions is 19 years.",
-        "html_preview": "<div style=\"margin-t...[793]... years.</span></div>",
-        "html_hash": "b66de3df"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "To protect gross mar...[855]...actions is 19 years.",
+        "html_preview": "<sec-parser-merged-t...[1544]...-parser-merged-text>",
+        "html_hash": "02f780e3"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -788,17 +761,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(1)Derivative assets...[140]...dated Balance Sheet.",
-        "html_preview": "<div style=\"margin-t...[503]... Sheet.</span></div>",
-        "html_hash": "240bcfb7"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "(2)Derivative liabil...[155]...dated Balance Sheet.",
-        "html_preview": "<div style=\"margin-t...[517]... Sheet.</span></div>",
-        "html_hash": "407afa6c"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "(1)Derivative assets...[335]...dated Balance Sheet.",
+        "html_preview": "<sec-parser-merged-t...[1109]...-parser-merged-text>",
+        "html_hash": "a0f77280"
     },
     {
         "cls_name": "TextElement",
@@ -847,11 +813,42 @@
         "html_hash": "d140b877"
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Accounts Receivable",
+        "html_preview": "<div style=\"margin-t...[150]...eivable</span></div>",
+        "html_hash": "819e6b6f",
+        "level": 3
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Trade Receivables",
+        "html_preview": "<div style=\"margin-t...[165]...ivables</span></div>",
+        "html_hash": "33643665",
+        "level": 4
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Accounts ReceivableT...[1737]...ted for 54% and 13%.",
-        "html_preview": "<ix:continuation id=...[5074]...v></ix:continuation>",
-        "html_hash": "9f077f89"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "The Company has cons...[1071]... September\u00a024, 2022.",
+        "html_preview": "<sec-parser-merged-t...[2470]...-parser-merged-text>",
+        "html_hash": "5030bbfe"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Vendor Non-Trade Receivables",
+        "html_preview": "<div style=\"margin-t...[177]...ivables</span></div>",
+        "html_hash": "ebc5d638",
+        "level": 4
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The Company has non-...[562]...ted for 54% and 13%.",
+        "html_preview": "<div style=\"margin-t...[1927]...tion>%.</span></div>",
+        "html_hash": "7bcd407f"
     },
     {
         "cls_name": "EmptyElement",
@@ -976,11 +973,19 @@
         "level": 3
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "European Commission State Aid Decision",
+        "html_preview": "<div style=\"margin-t...[168]...ecision</span></div>",
+        "html_hash": "07901520",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "European Commission ...[1187]... State Aid Decision.",
-        "html_preview": "<ix:continuation id=...[1791]...v></ix:continuation>",
-        "html_hash": "8b33692d"
+        "tag_name": "div",
+        "text_preview": "On August 30, 2016, ...[1149]... State Aid Decision.",
+        "html_preview": "<div style=\"margin-t...[1509]...cision.</span></div>",
+        "html_hash": "faee1cba"
     },
     {
         "cls_name": "EmptyElement",
@@ -1054,11 +1059,19 @@
         "level": 3
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Share Repurchase Program",
+        "html_preview": "<div style=\"margin-t...[154]...Program</span></div>",
+        "html_hash": "5f81e2b9",
+        "level": 3
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Share Repurchase Pro...[486]...of 1934, as amended.",
-        "html_preview": "<ix:continuation id=...[1278]...v></ix:continuation>",
-        "html_hash": "604c4383"
+        "tag_name": "div",
+        "text_preview": "During the nine mont...[462]...of 1934, as amended.",
+        "html_preview": "<div style=\"margin-t...[1010]...mended.</span></div>",
+        "html_hash": "6252e324"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1431,52 +1444,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Weakness in foreign ...[331]...t sales of Services.",
-        "html_preview": "<div style=\"margin-t...[501]...rvices.</span></div>",
-        "html_hash": "f2b78a26"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "During the third qua...[43]...lowing new products:",
-        "html_preview": "<div style=\"margin-t...[214]...oducts:</span></div>",
-        "html_hash": "479ca078"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "\u202215-inch MacBook Air...[6]...ered by the M2 chip;",
-        "html_preview": "<div style=\"margin-t...[639]...2 chip;</span></div>",
-        "html_hash": "c3bc6d7a"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "\u2022Mac Studio\u2122, powere...[27]...e new M2 Ultra chip;",
-        "html_preview": "<div style=\"padding-...[356]...a chip;</span></div>",
-        "html_hash": "bb60c742"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "\u2022Mac Pro\u00ae, powered b...[8]...w M2 Ultra chip; and",
-        "html_preview": "<div style=\"padding-...[626]...ip; and</span></div>",
-        "html_hash": "7f77165f"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "\u2022Apple Vision Pro\u2122, ...[99]... calendar year 2024.",
-        "html_preview": "<div style=\"padding-...[428]...r 2024.</span></div>",
-        "html_hash": "cfa48d1a"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The Company also ann...[135]...in the fall of 2023.",
-        "html_preview": "<div style=\"margin-t...[1580]...f 2023.</span></div>",
-        "html_hash": "41f38dd8"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "Weakness in foreign ...[889]...in the fall of 2023.",
+        "html_preview": "<sec-parser-merged-t...[4633]...-parser-merged-text>",
+        "html_hash": "20a865d1"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1833,17 +1804,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Products gross margi...[253]...ferent Products mix.",
-        "html_preview": "<div style=\"margin-t...[423]...ts mix.</span></div>",
-        "html_hash": "83aface5"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Products gross margi...[502]...ferent Products mix.",
-        "html_preview": "<div style=\"margin-t...[673]...ts mix.</span></div>",
-        "html_hash": "95bf7800"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "Products gross margi...[795]...ferent Products mix.",
+        "html_preview": "<sec-parser-merged-t...[1185]...-parser-merged-text>",
+        "html_hash": "0b8477d8"
     },
     {
         "cls_name": "TitleElement",
@@ -1855,24 +1819,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Services gross margi...[237]...gher Services costs.",
-        "html_preview": "<div style=\"margin-t...[407]... costs.</span></div>",
-        "html_hash": "4be2c8a7"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Services gross margi...[393]...y improved leverage.",
-        "html_preview": "<div style=\"margin-t...[564]...verage.</span></div>",
-        "html_hash": "6c23828c"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The Company\u2019s future...[237]...d downward pressure.",
-        "html_preview": "<div style=\"margin-t...[408]...essure.</span></div>",
-        "html_hash": "0337b6f8"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "Services gross margi...[947]...d downward pressure.",
+        "html_preview": "<sec-parser-merged-t...[1508]...-parser-merged-text>",
+        "html_hash": "23ec6cd3"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -1993,17 +1943,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The Company\u2019s effect...[351]... state income taxes.",
-        "html_preview": "<div style=\"margin-t...[526]... taxes.</span></div>",
-        "html_hash": "928056af"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The Company\u2019s effect...[633]...-based compensation.",
-        "html_preview": "<div style=\"margin-t...[804]...sation.</span></div>",
-        "html_hash": "0f132233"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "The Company\u2019s effect...[1024]...-based compensation.",
+        "html_preview": "<sec-parser-merged-t...[1419]...-parser-merged-text>",
+        "html_hash": "f3cacde3"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -2043,17 +1986,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The Company believes...[260]...2 months and beyond.",
-        "html_preview": "<div style=\"margin-t...[430]...beyond.</span></div>",
-        "html_hash": "2de9915a"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The Company\u2019s contra...[104]...urchase obligations.",
-        "html_preview": "<div style=\"margin-t...[275]...ations.</span></div>",
-        "html_hash": "0ade2854"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "The Company believes...[404]...urchase obligations.",
+        "html_preview": "<sec-parser-merged-t...[794]...-parser-merged-text>",
+        "html_hash": "8c8db710"
     },
     {
         "cls_name": "TitleElement",
@@ -2471,17 +2407,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "*\u00a0\u00a0\u00a0\u00a0Filed herewith.",
-        "html_preview": "<div style=\"margin-t...[206]...rewith.</span></div>",
-        "html_hash": "9ce41279"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "**\u00a0\u00a0\u00a0\u00a0Furnished herewith.",
-        "html_preview": "<div style=\"margin-t...[191]...rewith.</span></div>",
-        "html_hash": "fd61de73"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "*\u00a0\u00a0\u00a0\u00a0Filed herewith....[5]...\u00a0Furnished herewith.",
+        "html_preview": "<sec-parser-merged-t...[486]...-parser-merged-text>",
+        "html_hash": "762bd6dc"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -2521,17 +2450,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Pursuant to the requ...[144]...nto duly authorized.",
-        "html_preview": "<div style=\"margin-t...[315]...orized.</span></div>",
-        "html_hash": "55a8469c"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "Date: August\u00a03, 2023...[66]...ef Financial Officer",
-        "html_preview": "<div style=\"margin-t...[2458]...></tr></table></div>",
-        "html_hash": "32903796"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "Pursuant to the requ...[250]...ef Financial Officer",
+        "html_preview": "<sec-parser-merged-t...[2862]...-parser-merged-text>",
+        "html_hash": "8fd8756a"
     },
     {
         "cls_name": "IrrelevantElement",
