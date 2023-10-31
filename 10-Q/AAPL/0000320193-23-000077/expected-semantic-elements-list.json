@@ -429,11 +429,18 @@
         "html_hash": "f88de1fa"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 1 \u2013",
+        "html_preview": "<span>Note 1 \u2013 </span>",
+        "html_hash": "cc087668"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 1 \u2013 Summary of ...[11]... Accounting Policies",
-        "html_preview": "<div style=\"margin-t...[379]...umeric></span></div>",
-        "html_hash": "7b29b052",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Summary of Significa...[2]... Accounting Policies",
+        "html_preview": "<ix:nonnumeric conte...[199]...cies</ix:nonnumeric>",
+        "html_hash": "5a916c12",
         "level": 3
     },
     {
@@ -453,10 +460,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
+        "tag_name": "ix:nonnumeric",
         "text_preview": "The Company\u2019s fiscal...[548]... those fiscal years.",
-        "html_preview": "<div style=\"margin-t...[820]...umeric></span></div>",
-        "html_hash": "b40d7b9f"
+        "html_preview": "<ix:nonnumeric conte...[649]...ars.</ix:nonnumeric>",
+        "html_hash": "378bbd63"
     },
     {
         "cls_name": "TitleElement",
@@ -520,11 +527,18 @@
         "html_hash": "d140b877"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 2 \u2013",
+        "html_preview": "<span>Note 2 \u2013 </span>",
+        "html_hash": "4f7e936f"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 2 \u2013 Revenue",
-        "html_preview": "<div style=\"margin-t...[324]...umeric></span></div>",
-        "html_hash": "cc5c389c",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Revenue",
+        "html_preview": "<ix:nonnumeric conte...[144]...enue</ix:nonnumeric>",
+        "html_hash": "611f239f",
         "level": 3
     },
     {
@@ -560,11 +574,18 @@
         "html_hash": "0434c06b"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 3 \u2013",
+        "html_preview": "<span>Note 3 \u2013 </span>",
+        "html_hash": "d8848a9a"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 3 \u2013 Financial Instruments",
-        "html_preview": "<div style=\"margin-t...[337]...umeric></span></div>",
-        "html_hash": "2bca8aaa",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Financial Instruments",
+        "html_preview": "<ix:nonnumeric conte...[157]...ents</ix:nonnumeric>",
+        "html_hash": "4179f51f",
         "level": 3
     },
     {
@@ -626,11 +647,25 @@
         }
     },
     {
+        "cls_name": "EmptyElement",
+        "tag_name": "span",
+        "text_preview": "(1)",
+        "html_preview": "<span style=\"color:#...[80]...ght:120%\">(1)</span>",
+        "html_hash": "d9be1794"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Level 1 fair value e...[70]...sets or liabilities.",
+        "html_preview": "<ix:nonnumeric conte...[248]...ies.</ix:nonnumeric>",
+        "html_hash": "f4ea4e61"
+    },
+    {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "(1)Level 1 fair valu...[703]...nd other agreements.",
-        "html_preview": "<sec-parser-merged-t...[2461]...-parser-merged-text>",
-        "html_hash": "034f3699"
+        "text_preview": "(2)Level 2 fair valu...[590]...nd other agreements.",
+        "html_preview": "<sec-parser-merged-t...[1807]...-parser-merged-text>",
+        "html_hash": "a58c2adf"
     },
     {
         "cls_name": "TextElement",
@@ -676,9 +711,37 @@
     {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "To protect gross mar...[855]...actions is 19 years.",
-        "html_preview": "<sec-parser-merged-t...[1544]...-parser-merged-text>",
-        "html_hash": "02f780e3"
+        "text_preview": "To protect gross mar...[340]...y for up to  months.",
+        "html_preview": "<sec-parser-merged-t...[415]...-parser-merged-text>",
+        "html_hash": "cf173502"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "12",
+        "html_preview": "<ix:nonnumeric conte...[112]...\">12</ix:nonnumeric>",
+        "html_hash": "9a51439d"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "To protect the Compa...[463]...ency transactions is",
+        "html_preview": "<span>To protect the...[477]...nsactions is </span>",
+        "html_hash": "3dcae94e"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "19",
+        "html_preview": "<ix:nonnumeric conte...[111]...\">19</ix:nonnumeric>",
+        "html_hash": "97375e6d"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "years.",
+        "html_preview": "<span> years.</span>",
+        "html_hash": "5b42801a"
     },
     {
         "cls_name": "IrrelevantElement",
@@ -858,11 +921,18 @@
         "html_hash": "5276385b"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 4 \u2013",
+        "html_preview": "<span>Note 4 \u2013 </span>",
+        "html_hash": "8e733fa3"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 4 \u2013 Condensed C...[19]...al Statement Details",
-        "html_preview": "<div style=\"margin-t...[376]...umeric></span></div>",
-        "html_hash": "a2a863bb",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Condensed Consolidat...[10]...al Statement Details",
+        "html_preview": "<ix:nonnumeric conte...[196]...ails</ix:nonnumeric>",
+        "html_hash": "a68b4cca",
         "level": 3
     },
     {
@@ -965,11 +1035,18 @@
         "html_hash": "d140b877"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 5 \u2013",
+        "html_preview": "<span>Note 5 \u2013 </span>",
+        "html_hash": "09267d34"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 5 \u2013 Income Taxes",
-        "html_preview": "<div style=\"margin-t...[317]...umeric></span></div>",
-        "html_hash": "0e843be4",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Income Taxes",
+        "html_preview": "<ix:nonnumeric conte...[137]...axes</ix:nonnumeric>",
+        "html_hash": "05a3ed16",
         "level": 3
     },
     {
@@ -995,11 +1072,18 @@
         "html_hash": "4e28d94d"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 6 \u2013",
+        "html_preview": "<span>Note 6 \u2013 </span>",
+        "html_hash": "c58d5639"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 6 \u2013 Debt",
-        "html_preview": "<div style=\"margin-t...[304]...umeric></span></div>",
-        "html_hash": "b3fde8b0",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Debt",
+        "html_preview": "<ix:nonnumeric conte...[124]...Debt</ix:nonnumeric>",
+        "html_hash": "45957a33",
         "level": 3
     },
     {
@@ -1012,10 +1096,24 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The Company issues u...[542]... 2022 (in millions):",
-        "html_preview": "<div style=\"margin-t...[1212]...umeric></span></div>",
-        "html_hash": "482e9797"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "The Company issues u...[535]... 2022 (in millions):",
+        "html_preview": "<sec-parser-merged-t...[801]...-parser-merged-text>",
+        "html_hash": "d742cc53"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "4.0",
+        "html_preview": "<ix:nonfraction cont...[124]...4.0</ix:nonfraction>",
+        "html_hash": "713e2b33"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "10.0",
+        "html_preview": "<ix:nonfraction cont...[125]...0.0</ix:nonfraction>",
+        "html_hash": "4e88eb72"
     },
     {
         "cls_name": "TableElement",
@@ -1051,11 +1149,18 @@
         "html_hash": "0338bc52"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 7 \u2013",
+        "html_preview": "<span>Note 7 \u2013 </span>",
+        "html_hash": "a2a2ab2f"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 7 \u2013 Shareholders\u2019 Equity",
-        "html_preview": "<div style=\"margin-t...[338]...umeric></span></div>",
-        "html_hash": "df6877cf",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Shareholders\u2019 Equity",
+        "html_preview": "<ix:nonnumeric conte...[158]...uity</ix:nonnumeric>",
+        "html_hash": "6877c2e0",
         "level": 3
     },
     {
@@ -1102,11 +1207,18 @@
         "html_hash": "d140b877"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 8 \u2013",
+        "html_preview": "<span>Note 8 \u2013 </span>",
+        "html_hash": "41c1e377"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 8 \u2013 Benefit Plans",
-        "html_preview": "<div style=\"margin-t...[334]...umeric></span></div>",
-        "html_hash": "e00549f4",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Benefit Plans",
+        "html_preview": "<ix:nonnumeric conte...[154]...lans</ix:nonnumeric>",
+        "html_hash": "bfe44459",
         "level": 3
     },
     {
@@ -1170,10 +1282,31 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "As of July\u00a01, 2023, ...[169]...period of 2.7 years.",
-        "html_preview": "<div style=\"margin-t...[784]... years.</span></div>",
-        "html_hash": "5506f6e9"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "As of July\u00a01, 2023, ...[154]...ed-average period of",
+        "html_preview": "<sec-parser-merged-t...[230]...-parser-merged-text>",
+        "html_hash": "2a2020d4"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "20.9",
+        "html_preview": "<ix:nonfraction cont...[198]...0.9</ix:nonfraction>",
+        "html_hash": "fd88b536"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "2.7",
+        "html_preview": "<ix:nonnumeric conte...[173]...>2.7</ix:nonnumeric>",
+        "html_hash": "caf22e50"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "years.",
+        "html_preview": "<span> years.</span>",
+        "html_hash": "5b42801a"
     },
     {
         "cls_name": "EmptyElement",
@@ -1183,11 +1316,18 @@
         "html_hash": "7849b562"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 9 \u2013",
+        "html_preview": "<span>Note 9 \u2013 </span>",
+        "html_hash": "e57ebfb5"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 9 \u2013 Commitments and Contingencies",
-        "html_preview": "<div style=\"margin-t...[352]...umeric></span></div>",
-        "html_hash": "643384bd",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Commitments and Contingencies",
+        "html_preview": "<ix:nonnumeric conte...[172]...cies</ix:nonnumeric>",
+        "html_hash": "9174f647",
         "level": 3
     },
     {
@@ -1200,10 +1340,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
+        "tag_name": "sec-parser-merged-text",
         "text_preview": "The Company has ente...[447]...llows (in millions):",
-        "html_preview": "<div style=\"margin-t...[815]...umeric></span></div>",
-        "html_hash": "2e6da6ca"
+        "html_preview": "<sec-parser-merged-t...[707]...-parser-merged-text>",
+        "html_hash": "c08f35cc"
     },
     {
         "cls_name": "TableElement",
@@ -1260,11 +1400,18 @@
         "html_hash": "d140b877"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 10 \u2013",
+        "html_preview": "<span>Note 10 \u2013 </span>",
+        "html_hash": "92e9812a"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 10 \u2013 Segment In...[9]... and Geographic Data",
-        "html_preview": "<div style=\"margin-t...[352]...umeric></span></div>",
-        "html_hash": "8b33ebee",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Segment Information and Geographic Data",
+        "html_preview": "<ix:nonnumeric conte...[171]...Data</ix:nonnumeric>",
+        "html_hash": "fcc3053b",
         "level": 3
     },
     {
@@ -2344,11 +2491,18 @@
         "identifier": "part2item5"
     },
     {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "None.",
-        "html_preview": "<div style=\"margin-t...[619]...meric>.</span></div>",
-        "html_hash": "c9d1b42c"
+        "cls_name": "IrrelevantElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "None",
+        "html_preview": "<ix:nonnumeric conte...[86]...None</ix:nonnumeric>",
+        "html_hash": "9e10417b"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "span",
+        "text_preview": ".",
+        "html_preview": "<span>.</span>",
+        "html_hash": "92bbf70a"
     },
     {
         "cls_name": "IrrelevantElement",

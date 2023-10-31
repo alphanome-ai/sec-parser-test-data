@@ -567,11 +567,18 @@
         "html_hash": "b32da1a5"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 1.",
+        "html_preview": "<span>Note 1.    </span>",
+        "html_hash": "bb50092f"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 1.    Summary o...[13]... Accounting Policies",
-        "html_preview": "<div style=\"margin-t...[367]...umeric></span></div>",
-        "html_hash": "bd4bdf89",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Summary of Significa...[2]... Accounting Policies",
+        "html_preview": "<ix:nonnumeric conte...[189]...ies </ix:nonnumeric>",
+        "html_hash": "bbaa3676",
         "level": 2
     },
     {
@@ -590,12 +597,11 @@
         "html_hash": "5bac33bb"
     },
     {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
+        "cls_name": "IrrelevantElement",
+        "tag_name": "ix:nonnumeric",
         "text_preview": "Basis of Consolidation",
-        "html_preview": "<div style=\"margin-t...[314]...umeric></span></div>",
-        "html_hash": "97c4caae",
-        "level": 2
+        "html_preview": "<ix:nonnumeric conte...[147]...tion</ix:nonnumeric>",
+        "html_hash": "a653cef4"
     },
     {
         "cls_name": "TextElement",
@@ -636,10 +642,94 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "In January 2023, we ...[784]... 2023, respectively.",
-        "html_preview": "<div style=\"margin-t...[3008]...ively. </span></div>",
-        "html_hash": "e33f5251"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "In January 2023, we ...[591]...e of $ billion, or $",
+        "html_preview": "<sec-parser-merged-t...[983]...-parser-merged-text>",
+        "html_hash": "f4f42f34"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "to",
+        "html_preview": "<span> to </span>",
+        "html_hash": "59908059"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "six years",
+        "html_preview": "<ix:nonnumeric conte...[108]...ears</ix:nonnumeric>",
+        "html_hash": "21d71170"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "to",
+        "html_preview": "<span> to </span>",
+        "html_hash": "59908059"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "six years",
+        "html_preview": "<ix:nonnumeric conte...[108]...ears</ix:nonnumeric>",
+        "html_hash": "34c9cd26"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "966",
+        "html_preview": "<ix:nonfraction cont...[129]...966</ix:nonfraction>",
+        "html_hash": "123f37db"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "million and $",
+        "html_preview": "<span> million and $</span>",
+        "html_hash": "76bfea96"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "2.0",
+        "html_preview": "<ix:nonfraction cont...[129]...2.0</ix:nonfraction>",
+        "html_hash": "f2a7b27a"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "752",
+        "html_preview": "<ix:nonfraction cont...[121]...752</ix:nonfraction>",
+        "html_hash": "16cde7ae"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "million and $",
+        "html_preview": "<span> million and $</span>",
+        "html_hash": "76bfea96"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "1.5",
+        "html_preview": "<ix:nonfraction cont...[121]...1.5</ix:nonfraction>",
+        "html_hash": "d64b033b"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "0.06",
+        "html_preview": "<ix:nonfraction cont...[108]....06</ix:nonfraction>",
+        "html_hash": "4045d9d7"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "and $0.12 per basic ...[82]... 2023, respectively.",
+        "html_preview": "<sec-parser-merged-t...[822]...-parser-merged-text>",
+        "html_hash": "3ba3f952"
     },
     {
         "cls_name": "TitleElement",
@@ -685,11 +775,18 @@
         "html_hash": "4c6ac0c7"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 2.",
+        "html_preview": "<span>Note 2.    </span>",
+        "html_hash": "758ac32a"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 2.    Revenues",
-        "html_preview": "<div style=\"margin-t...[324]...umeric></span></div>",
-        "html_hash": "6f255aa0",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Revenues",
+        "html_preview": "<ix:nonnumeric conte...[146]...ues </ix:nonnumeric>",
+        "html_hash": "f3aa2d41",
         "level": 2
     },
     {
@@ -753,10 +850,38 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "As of June\u00a030, 2023,...[899]...ncellable contracts.",
-        "html_preview": "<div style=\"margin-t...[1947]...tracts.</span></div>",
-        "html_hash": "044fcef7"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "As of June\u00a030, 2023,...[604]...g as revenues over t",
+        "html_preview": "<sec-parser-merged-t...[1201]...-parser-merged-text>",
+        "html_hash": "12e502bf"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "he next",
+        "html_preview": "<span>he next </span>",
+        "html_hash": "2501023f"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "24",
+        "html_preview": "<ix:nonnumeric conte...[137]...\">24</ix:nonnumeric>",
+        "html_hash": "6d742391"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "months with the rema...[64]...ted deferred revenue",
+        "html_preview": "<span> months with t...[79]...rred revenue </span>",
+        "html_hash": "b3ff629c"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "currently recorded a...[139]...ncellable contracts.",
+        "html_preview": "<span style=\"color:#...[253]...le contracts.</span>",
+        "html_hash": "daddf8f1"
     },
     {
         "cls_name": "TitleElement",
@@ -823,11 +948,18 @@
         "html_hash": "4c6ac0c7"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 3.",
+        "html_preview": "<span>Note 3.    </span>",
+        "html_hash": "ec124c50"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 3.    Financial Instruments",
-        "html_preview": "<div style=\"margin-t...[360]...umeric></span></div>",
-        "html_hash": "c6b2c62c",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Financial Instruments",
+        "html_preview": "<ix:nonnumeric conte...[157]...ents</ix:nonnumeric>",
+        "html_hash": "1ddc4689",
         "level": 2
     },
     {
@@ -1045,10 +1177,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
+        "tag_name": "sec-parser-merged-text",
         "text_preview": "We determine realize...[223]..., net (in millions):",
-        "html_preview": "<div style=\"margin-t...[614]...umeric></span></div>",
-        "html_hash": "d95de604"
+        "html_preview": "<sec-parser-merged-t...[470]...-parser-merged-text>",
+        "html_hash": "50b37041"
     },
     {
         "cls_name": "TableElement",
@@ -1262,10 +1394,38 @@
     },
     {
         "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "We designate foreign...[196]...s have maturities of",
+        "html_preview": "<span style=\"color:#...[311]...aturities of </span>",
+        "html_hash": "82f89e26"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "24",
+        "html_preview": "<ix:nonnumeric conte...[93]...\">24</ix:nonnumeric>",
+        "html_hash": "626b7289"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "months",
+        "html_preview": "<span> months</span>",
+        "html_hash": "76f24936"
+    },
+    {
+        "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "We designate foreign...[912]... the next 12 months.",
-        "html_preview": "<sec-parser-merged-t...[2927]...-parser-merged-text>",
-        "html_hash": "8e69a812"
+        "text_preview": "or less.",
+        "html_preview": "<sec-parser-merged-t...[271]...-parser-merged-text>",
+        "html_hash": "48630e76"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "Cash flow hedge amou...[657]... the next 12 months.",
+        "html_preview": "<sec-parser-merged-t...[1963]...-parser-merged-text>",
+        "html_hash": "29e22700"
     },
     {
         "cls_name": "TitleElement",
@@ -1566,20 +1726,26 @@
         "html_hash": "5a5ef18f"
     },
     {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 4.    Variable ...[3]...erest Entities (VIE)",
-        "html_preview": "<div style=\"margin-t...[348]...umeric></span></div>",
-        "html_hash": "f5d3897e",
-        "level": 2
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 4.",
+        "html_preview": "<span>Note 4.    </span>",
+        "html_hash": "277f4d4a"
     },
     {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Consolidated VIEs",
-        "html_preview": "<div style=\"margin-t...[322]...umeric></span></div>",
-        "html_hash": "465a702c",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Variable Interest Entities (VIE)",
+        "html_preview": "<ix:nonnumeric conte...[170]...VIE)</ix:nonnumeric>",
+        "html_hash": "7bbd95f0",
         "level": 2
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Consolidated VIEs",
+        "html_preview": "<ix:nonnumeric conte...[155]...VIEs</ix:nonnumeric>",
+        "html_hash": "7a37235f"
     },
     {
         "cls_name": "TextElement",
@@ -1611,11 +1777,18 @@
         "html_hash": "9ae21ec3"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 5.",
+        "html_preview": "<span>Note 5.    </span>",
+        "html_hash": "3caa93cf"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 5.    Debt",
-        "html_preview": "<div style=\"margin-t...[302]...umeric></span></div>",
-        "html_hash": "e0275459",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Debt",
+        "html_preview": "<ix:nonnumeric conte...[124]...Debt</ix:nonnumeric>",
+        "html_hash": "59deb957",
         "level": 2
     },
     {
@@ -1664,10 +1837,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "span",
+        "tag_name": "ix:nonnumeric",
         "text_preview": "Total outstanding de...[37]...except percentages):",
-        "html_preview": "<span style=\"color:#...[323]...x:nonnumeric></span>",
-        "html_hash": "075a9606"
+        "html_preview": "<ix:nonnumeric conte...[208]...es):</ix:nonnumeric>",
+        "html_hash": "a0174beb"
     },
     {
         "cls_name": "TableElement",
@@ -1717,11 +1890,18 @@
         "html_hash": "a08c4e93"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 6.",
+        "html_preview": "<span>Note 6.    </span>",
+        "html_hash": "23f72af3"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 6.    Supplemen...[15]...tatement Information",
-        "html_preview": "<div style=\"margin-t...[364]...umeric></span></div>",
-        "html_hash": "497a7641",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Supplemental Financi...[4]...tatement Information",
+        "html_preview": "<ix:nonnumeric conte...[186]...ion </ix:nonnumeric>",
+        "html_hash": "efb5770b",
         "level": 2
     },
     {
@@ -1957,11 +2137,18 @@
         "html_hash": "4c6ac0c7"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 7.",
+        "html_preview": "<span>Note 7.    </span>",
+        "html_hash": "88393a6e"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 7.    Workforce...[12]...nd Other Initiatives",
-        "html_preview": "<div style=\"margin-t...[369]...umeric></span></div>",
-        "html_hash": "1252b955",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Workforce Reduction ...[1]...nd Other Initiatives",
+        "html_preview": "<ix:nonnumeric conte...[191]...ives</ix:nonnumeric>",
+        "html_hash": "4f85b9d2",
         "level": 2
     },
     {
@@ -2036,11 +2223,18 @@
         "html_hash": "81b8e31f"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 8.",
+        "html_preview": "<span>Note 8.    </span>",
+        "html_hash": "4b60bbad"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 8.    Goodwill ...[7]...er Intangible Assets",
-        "html_preview": "<div style=\"margin-t...[358]...umeric></span></div>",
-        "html_hash": "e0d6a785",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Goodwill and Other Intangible Assets",
+        "html_preview": "<ix:nonnumeric conte...[180]...sets</ix:nonnumeric>",
+        "html_hash": "b9360313",
         "level": 2
     },
     {
@@ -2149,11 +2343,18 @@
         "html_hash": "8628d774"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 9.",
+        "html_preview": "<span>Note 9.    </span>",
+        "html_hash": "c0ed16a1"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 9.    Commitments and Contingencies",
-        "html_preview": "<div style=\"margin-t...[351]...umeric></span></div>",
-        "html_hash": "1e0ca9cb",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Commitments and Contingencies",
+        "html_preview": "<ix:nonnumeric conte...[173]...cies</ix:nonnumeric>",
+        "html_hash": "0935c7c9",
         "level": 2
     },
     {
@@ -2367,11 +2568,18 @@
         "html_hash": "4c6ac0c7"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 10.",
+        "html_preview": "<span>Note 10.    </span>",
+        "html_hash": "4950ef34"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 10.    Stockholders' Equity",
-        "html_preview": "<div style=\"margin-t...[339]...umeric></span></div>",
-        "html_hash": "a84a4126",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Stockholders' Equity",
+        "html_preview": "<ix:nonnumeric conte...[160]...ity </ix:nonnumeric>",
+        "html_hash": "03f892ea",
         "level": 2
     },
     {
@@ -2429,11 +2637,18 @@
         "html_hash": "5d492668"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 11.",
+        "html_preview": "<span>Note 11.    </span>",
+        "html_hash": "080f1389"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 11.    Net Income Per Share",
-        "html_preview": "<div style=\"margin-t...[322]...umeric></span></div>",
-        "html_hash": "f4e82f1f",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Net Income Per Share",
+        "html_preview": "<ix:nonnumeric conte...[143]...hare</ix:nonnumeric>",
+        "html_hash": "546d4794",
         "level": 2
     },
     {
@@ -2501,11 +2716,18 @@
         "html_hash": "3002728e"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 12.",
+        "html_preview": "<span>Note 12.    </span>",
+        "html_hash": "6d9da602"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 12.    Compensation Plans",
-        "html_preview": "<div style=\"margin-t...[358]...umeric></span></div>",
-        "html_hash": "b4da16dd",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Compensation Plans",
+        "html_preview": "<ix:nonnumeric conte...[179]...lans</ix:nonnumeric>",
+        "html_hash": "af642603",
         "level": 2
     },
     {
@@ -2572,10 +2794,24 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "As of June\u00a030, 2023,...[150]...period of 2.8 years.",
-        "html_preview": "<div style=\"margin-t...[864]...n> \u00a0\u00a0\u00a0\u00a0</span></div>",
-        "html_hash": "c2d8da21"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "As of June\u00a030, 2023,...[143]...ge period of  years.",
+        "html_preview": "<sec-parser-merged-t...[231]...-parser-merged-text>",
+        "html_hash": "88d69f83"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "43.6",
+        "html_preview": "<ix:nonfraction cont...[200]...3.6</ix:nonfraction>",
+        "html_hash": "34f7f7d3"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "2.8",
+        "html_preview": "<ix:nonnumeric conte...[176]...>2.8</ix:nonnumeric>",
+        "html_hash": "57ab8cfe"
     },
     {
         "cls_name": "EmptyElement",
@@ -2585,11 +2821,18 @@
         "html_hash": "a56e6f73"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 13.",
+        "html_preview": "<span>Note 13.    </span>",
+        "html_hash": "e233a6cf"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 13.    Income Taxes",
-        "html_preview": "<div style=\"margin-t...[318]...umeric></span></div>",
-        "html_hash": "fef5e860",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Income Taxes",
+        "html_preview": "<ix:nonnumeric conte...[139]...xes </ix:nonnumeric>",
+        "html_hash": "8cd5919e",
         "level": 2
     },
     {
@@ -2625,11 +2868,18 @@
         "html_hash": "775b76a9"
     },
     {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "Note 14.",
+        "html_preview": "<span>Note 14.    </span>",
+        "html_hash": "5a7c3ba1"
+    },
+    {
         "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Note 14.    Informat...[19]...and Geographic Areas",
-        "html_preview": "<div style=\"margin-t...[360]...umeric></span></div>",
-        "html_hash": "56f1c49c",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "Information about Se...[7]...and Geographic Areas",
+        "html_preview": "<ix:nonnumeric conte...[181]...eas </ix:nonnumeric>",
+        "html_hash": "15bd9d27",
         "level": 2
     },
     {
@@ -4547,10 +4797,150 @@
     },
     {
         "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "During the fiscal qu...[171]...f the Exchange Act):",
+        "html_preview": "<div style=\"margin-t...[357]...e Act):</span></div>",
+        "html_hash": "c010b089"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "span",
+        "text_preview": "\u2022",
+        "html_preview": "<span style=\"color:#...[75]...eight:120%\">\u2022</span>",
+        "html_hash": "ea641c40"
+    },
+    {
+        "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "During the fiscal qu...[2062]...les and regulations.",
-        "html_preview": "<sec-parser-merged-t...[5404]...-parser-merged-text>",
-        "html_hash": "7cd35f35"
+        "text_preview": "Amie Thuener O\u2019Toole...[56]...nting Officeradopted",
+        "html_preview": "<sec-parser-merged-t...[401]...-parser-merged-text>",
+        "html_hash": "7486e758"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "span",
+        "text_preview": ",",
+        "html_preview": "<span>, </span>",
+        "html_hash": "865ea440"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "span",
+        "text_preview": ",",
+        "html_preview": "<span>, </span>",
+        "html_hash": "865ea440"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "a new trading plan on",
+        "html_preview": "<span> a new trading plan on </span>",
+        "html_hash": "9e9f421b"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "May 31, 2023",
+        "html_preview": "<ix:nonnumeric conte...[64]...2023</ix:nonnumeric>",
+        "html_hash": "bc6ef1c2"
+    },
+    {
+        "cls_name": "SupplementaryText",
+        "tag_name": "span",
+        "text_preview": "(with the first trad...[121]... an aggregate of (i)",
+        "html_preview": "<span> (with the fir...[136]...egate of (i) </span>",
+        "html_hash": "0c00bade"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "2,904",
+        "html_preview": "<ix:nonfraction cont...[139]...904</ix:nonfraction>",
+        "html_hash": "4cf9bd51"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "shares of Class C Ca...[162]...of tax withholding).",
+        "html_preview": "<sec-parser-merged-t...[238]...-parser-merged-text>",
+        "html_hash": "5fdf97d3"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "32,093",
+        "html_preview": "<ix:nonfraction cont...[140]...093</ix:nonfraction>",
+        "html_hash": "be2e96e6"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "span",
+        "text_preview": "\u2022",
+        "html_preview": "<span style=\"color:#...[75]...eight:120%\">\u2022</span>",
+        "html_hash": "ea641c40"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "Kent WalkerPresident...[458]...f tax withholding)*.",
+        "html_preview": "<sec-parser-merged-t...[976]...-parser-merged-text>",
+        "html_hash": "33dce1ae"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "span",
+        "text_preview": ",",
+        "html_preview": "<span>, </span>",
+        "html_hash": "865ea440"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "span",
+        "text_preview": "a new trading plan on",
+        "html_preview": "<span> a new trading plan on </span>",
+        "html_hash": "9e9f421b"
+    },
+    {
+        "cls_name": "IrrelevantElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "May 31, 2023",
+        "html_preview": "<ix:nonnumeric conte...[64]...2023</ix:nonnumeric>",
+        "html_hash": "eb07b5b9"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "ix:nonfraction",
+        "text_preview": "511,048",
+        "html_preview": "<ix:nonfraction cont...[141]...048</ix:nonfraction>",
+        "html_hash": "53ef37ed"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "*In accordance with ...[252]...trading arrangement.",
+        "html_preview": "<div style=\"margin-t...[438]...gement.</span></div>",
+        "html_hash": "15e9145f"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "There were",
+        "html_preview": "<span>There were </span>",
+        "html_hash": "1c312c38"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "ix:nonnumeric",
+        "text_preview": "no \u201cnon-Rule 10b5-1 ...[96]...dified or terminated",
+        "html_preview": "<ix:nonnumeric conte...[219]...ated</ix:nonnumeric>",
+        "html_hash": "2cd6750f"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "span",
+        "text_preview": "during the fiscal qu...[142]...licy Against Insider",
+        "html_preview": "<span> during the fi...[157]...inst Insider </span>",
+        "html_hash": "9a26c5b6"
     },
     {
         "cls_name": "EmptyElement",
@@ -4572,6 +4962,13 @@
         "text_preview": "Table of ContentsAlphabet Inc.",
         "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
         "html_hash": "4c6ac0c7"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Trading and actual s...[171]...les and regulations.",
+        "html_preview": "<div style=\"margin-t...[338]...ations.</span></div>",
+        "html_hash": "0128c4e7"
     },
     {
         "cls_name": "EmptyElement",
