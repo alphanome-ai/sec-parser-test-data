@@ -32,11 +32,12 @@
         "html_hash": "bac8f8d5"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
         "html_preview": "<div style=\"margin-t...[140]...le Inc.</span></div>",
-        "html_hash": "f2cdf5a5"
+        "html_hash": "f2cdf5a5",
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -79,11 +80,12 @@
         "html_hash": "dc30982e"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 1",
         "html_preview": "<div style=\"height:4...[268]...n></div></div></div>",
-        "html_hash": "8752b2f0"
+        "html_hash": "8752b2f0",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -107,11 +109,12 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
         "html_preview": "<div style=\"text-ali...[124]...le Inc.</span></div>",
-        "html_hash": "44c6dcf4"
+        "html_hash": "44c6dcf4",
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -154,11 +157,12 @@
         "html_hash": "dc30982e"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 2",
         "html_preview": "<div style=\"height:4...[268]...n></div></div></div>",
-        "html_hash": "f95c876f"
+        "html_hash": "f95c876f",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -182,11 +186,12 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
         "html_preview": "<div style=\"text-ali...[124]...le Inc.</span></div>",
-        "html_hash": "44c6dcf4"
+        "html_hash": "44c6dcf4",
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -229,11 +234,12 @@
         "html_hash": "dc30982e"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 3",
         "html_preview": "<div style=\"height:4...[268]...n></div></div></div>",
-        "html_hash": "9f6a72d9"
+        "html_hash": "9f6a72d9",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -257,11 +263,12 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
         "html_preview": "<div style=\"margin-t...[140]...le Inc.</span></div>",
-        "html_hash": "f2cdf5a5"
+        "html_hash": "f2cdf5a5",
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -304,11 +311,12 @@
         "html_hash": "dc30982e"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 4",
         "html_preview": "<div style=\"height:4...[268]...n></div></div></div>",
-        "html_hash": "8dfe4dc2"
+        "html_hash": "8dfe4dc2",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -332,11 +340,12 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
         "html_preview": "<div style=\"text-ali...[124]...le Inc.</span></div>",
-        "html_hash": "44c6dcf4"
+        "html_hash": "44c6dcf4",
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -379,11 +388,12 @@
         "html_hash": "dc30982e"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 5",
         "html_preview": "<div style=\"height:4...[268]...n></div></div></div>",
-        "html_hash": "716fa9b6"
+        "html_hash": "716fa9b6",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -407,11 +417,12 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
         "html_preview": "<div style=\"text-ali...[124]...le Inc.</span></div>",
-        "html_hash": "44c6dcf4"
+        "html_hash": "44c6dcf4",
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -429,41 +440,19 @@
         "html_hash": "f88de1fa"
     },
     {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "Note 1 \u2013",
-        "html_preview": "<span>Note 1 \u2013 </span>",
-        "html_hash": "cc087668"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Summary of Significa...[2]... Accounting Policies",
-        "html_preview": "<ix:nonnumeric conte...[199]...cies</ix:nonnumeric>",
-        "html_hash": "5a916c12",
-        "level": 3
-    },
-    {
         "cls_name": "TitleElement",
         "tag_name": "div",
-        "text_preview": "Basis of Presentation and Preparation",
-        "html_preview": "<div style=\"margin-t...[167]...aration</span></div>",
-        "html_hash": "791e06c0",
+        "text_preview": "Note 1 \u2013 Summary of ...[11]... Accounting Policies",
+        "html_preview": "<div style=\"margin-t...[379]...umeric></span></div>",
+        "html_hash": "7b29b052",
         "level": 3
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The condensed consol...[1146]... September\u00a024, 2022.",
-        "html_preview": "<div style=\"margin-t...[1316]..., 2022.</span></div>",
-        "html_hash": "3f88de82"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "The Company\u2019s fiscal...[548]... those fiscal years.",
-        "html_preview": "<ix:nonnumeric conte...[649]...ars.</ix:nonnumeric>",
-        "html_hash": "378bbd63"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "Basis of Presentatio...[1771]... those fiscal years.",
+        "html_preview": "<sec-parser-merged-t...[2559]...-parser-merged-text>",
+        "html_hash": "f7a2f69f"
     },
     {
         "cls_name": "TitleElement",
@@ -499,11 +488,12 @@
         "html_hash": "5f6a5aa3"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 6",
         "html_preview": "<div style=\"height:4...[268]...n></div></div></div>",
-        "html_hash": "992f2750"
+        "html_hash": "992f2750",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -527,18 +517,11 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "Note 2 \u2013",
-        "html_preview": "<span>Note 2 \u2013 </span>",
-        "html_hash": "4f7e936f"
-    },
-    {
         "cls_name": "TitleElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Revenue",
-        "html_preview": "<ix:nonnumeric conte...[144]...enue</ix:nonnumeric>",
-        "html_hash": "611f239f",
+        "tag_name": "div",
+        "text_preview": "Note 2 \u2013 Revenue",
+        "html_preview": "<div style=\"margin-t...[324]...umeric></span></div>",
+        "html_hash": "cc5c389c",
         "level": 3
     },
     {
@@ -574,18 +557,11 @@
         "html_hash": "0434c06b"
     },
     {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "Note 3 \u2013",
-        "html_preview": "<span>Note 3 \u2013 </span>",
-        "html_hash": "d8848a9a"
-    },
-    {
         "cls_name": "TitleElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Financial Instruments",
-        "html_preview": "<ix:nonnumeric conte...[157]...ents</ix:nonnumeric>",
-        "html_hash": "4179f51f",
+        "tag_name": "div",
+        "text_preview": "Note 3 \u2013 Financial Instruments",
+        "html_preview": "<div style=\"margin-t...[337]...umeric></span></div>",
+        "html_hash": "2bca8aaa",
         "level": 3
     },
     {
@@ -615,11 +591,12 @@
         }
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 7",
         "html_preview": "<div style=\"height:4...[268]...n></div></div></div>",
-        "html_hash": "93a7fa72"
+        "html_hash": "93a7fa72",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -647,25 +624,11 @@
         }
     },
     {
-        "cls_name": "EmptyElement",
-        "tag_name": "span",
-        "text_preview": "(1)",
-        "html_preview": "<span style=\"color:#...[80]...ght:120%\">(1)</span>",
-        "html_hash": "d9be1794"
-    },
-    {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Level 1 fair value e...[70]...sets or liabilities.",
-        "html_preview": "<ix:nonnumeric conte...[248]...ies.</ix:nonnumeric>",
-        "html_hash": "f4ea4e61"
-    },
-    {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "(2)Level 2 fair valu...[590]...nd other agreements.",
-        "html_preview": "<sec-parser-merged-t...[1807]...-parser-merged-text>",
-        "html_hash": "a58c2adf"
+        "text_preview": "(1)Level 1 fair valu...[703]...nd other agreements.",
+        "html_preview": "<sec-parser-merged-t...[2461]...-parser-merged-text>",
+        "html_hash": "034f3699"
     },
     {
         "cls_name": "TextElement",
@@ -711,44 +674,17 @@
     {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "To protect gross mar...[340]...y for up to  months.",
-        "html_preview": "<sec-parser-merged-t...[415]...-parser-merged-text>",
-        "html_hash": "cf173502"
+        "text_preview": "To protect gross mar...[855]...actions is 19 years.",
+        "html_preview": "<sec-parser-merged-t...[1544]...-parser-merged-text>",
+        "html_hash": "02f780e3"
     },
     {
-        "cls_name": "EmptyElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "12",
-        "html_preview": "<ix:nonnumeric conte...[112]...\">12</ix:nonnumeric>",
-        "html_hash": "9a51439d"
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "span",
-        "text_preview": "To protect the Compa...[463]...ency transactions is",
-        "html_preview": "<span>To protect the...[477]...nsactions is </span>",
-        "html_hash": "3dcae94e"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "19",
-        "html_preview": "<ix:nonnumeric conte...[111]...\">19</ix:nonnumeric>",
-        "html_hash": "97375e6d"
-    },
-    {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "years.",
-        "html_preview": "<span> years.</span>",
-        "html_hash": "5b42801a"
-    },
-    {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 8",
         "html_preview": "<div style=\"height:4...[268]...n></div></div></div>",
-        "html_hash": "cd2b98de"
+        "html_hash": "cd2b98de",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -855,11 +791,12 @@
         }
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 9",
         "html_preview": "<div style=\"height:4...[268]...n></div></div></div>",
-        "html_hash": "d0ca3a6b"
+        "html_hash": "d0ca3a6b",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -876,42 +813,11 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Accounts Receivable",
-        "html_preview": "<div style=\"margin-t...[150]...eivable</span></div>",
-        "html_hash": "819e6b6f",
-        "level": 3
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Trade Receivables",
-        "html_preview": "<div style=\"margin-t...[165]...ivables</span></div>",
-        "html_hash": "33643665",
-        "level": 4
-    },
-    {
         "cls_name": "TextElement",
-        "tag_name": "sec-parser-merged-text",
-        "text_preview": "The Company has cons...[1071]... September\u00a024, 2022.",
-        "html_preview": "<sec-parser-merged-t...[2470]...-parser-merged-text>",
-        "html_hash": "5030bbfe"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "div",
-        "text_preview": "Vendor Non-Trade Receivables",
-        "html_preview": "<div style=\"margin-t...[177]...ivables</span></div>",
-        "html_hash": "ebc5d638",
-        "level": 4
-    },
-    {
-        "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "The Company has non-...[562]...ted for 54% and 13%.",
-        "html_preview": "<div style=\"margin-t...[1927]...tion>%.</span></div>",
-        "html_hash": "7bcd407f"
+        "tag_name": "ix:continuation",
+        "text_preview": "Accounts ReceivableT...[1737]...ted for 54% and 13%.",
+        "html_preview": "<ix:continuation id=...[5074]...v></ix:continuation>",
+        "html_hash": "9f077f89"
     },
     {
         "cls_name": "EmptyElement",
@@ -921,18 +827,11 @@
         "html_hash": "5276385b"
     },
     {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "Note 4 \u2013",
-        "html_preview": "<span>Note 4 \u2013 </span>",
-        "html_hash": "8e733fa3"
-    },
-    {
         "cls_name": "TitleElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Condensed Consolidat...[10]...al Statement Details",
-        "html_preview": "<ix:nonnumeric conte...[196]...ails</ix:nonnumeric>",
-        "html_hash": "a68b4cca",
+        "tag_name": "div",
+        "text_preview": "Note 4 \u2013 Condensed C...[19]...al Statement Details",
+        "html_preview": "<div style=\"margin-t...[376]...umeric></span></div>",
+        "html_hash": "a2a863bb",
         "level": 3
     },
     {
@@ -1007,11 +906,12 @@
         }
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 10",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "5f8e7edd"
+        "html_hash": "5f8e7edd",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -1035,34 +935,19 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "Note 5 \u2013",
-        "html_preview": "<span>Note 5 \u2013 </span>",
-        "html_hash": "09267d34"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Income Taxes",
-        "html_preview": "<ix:nonnumeric conte...[137]...axes</ix:nonnumeric>",
-        "html_hash": "05a3ed16",
-        "level": 3
-    },
-    {
         "cls_name": "TitleElement",
         "tag_name": "div",
-        "text_preview": "European Commission State Aid Decision",
-        "html_preview": "<div style=\"margin-t...[168]...ecision</span></div>",
-        "html_hash": "07901520",
+        "text_preview": "Note 5 \u2013 Income Taxes",
+        "html_preview": "<div style=\"margin-t...[317]...umeric></span></div>",
+        "html_hash": "0e843be4",
         "level": 3
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "On August 30, 2016, ...[1149]... State Aid Decision.",
-        "html_preview": "<div style=\"margin-t...[1509]...cision.</span></div>",
-        "html_hash": "faee1cba"
+        "tag_name": "ix:continuation",
+        "text_preview": "European Commission ...[1187]... State Aid Decision.",
+        "html_preview": "<ix:continuation id=...[1791]...v></ix:continuation>",
+        "html_hash": "8b33692d"
     },
     {
         "cls_name": "EmptyElement",
@@ -1072,18 +957,11 @@
         "html_hash": "4e28d94d"
     },
     {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "Note 6 \u2013",
-        "html_preview": "<span>Note 6 \u2013 </span>",
-        "html_hash": "c58d5639"
-    },
-    {
         "cls_name": "TitleElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Debt",
-        "html_preview": "<ix:nonnumeric conte...[124]...Debt</ix:nonnumeric>",
-        "html_hash": "45957a33",
+        "tag_name": "div",
+        "text_preview": "Note 6 \u2013 Debt",
+        "html_preview": "<div style=\"margin-t...[304]...umeric></span></div>",
+        "html_hash": "b3fde8b0",
         "level": 3
     },
     {
@@ -1096,24 +974,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "sec-parser-merged-text",
-        "text_preview": "The Company issues u...[535]... 2022 (in millions):",
-        "html_preview": "<sec-parser-merged-t...[801]...-parser-merged-text>",
-        "html_hash": "d742cc53"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "ix:nonfraction",
-        "text_preview": "4.0",
-        "html_preview": "<ix:nonfraction cont...[124]...4.0</ix:nonfraction>",
-        "html_hash": "713e2b33"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "ix:nonfraction",
-        "text_preview": "10.0",
-        "html_preview": "<ix:nonfraction cont...[125]...0.0</ix:nonfraction>",
-        "html_hash": "4e88eb72"
+        "tag_name": "div",
+        "text_preview": "The Company issues u...[542]... 2022 (in millions):",
+        "html_preview": "<div style=\"margin-t...[1212]...umeric></span></div>",
+        "html_hash": "482e9797"
     },
     {
         "cls_name": "TableElement",
@@ -1149,41 +1013,27 @@
         "html_hash": "0338bc52"
     },
     {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "Note 7 \u2013",
-        "html_preview": "<span>Note 7 \u2013 </span>",
-        "html_hash": "a2a2ab2f"
-    },
-    {
-        "cls_name": "TitleElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Shareholders\u2019 Equity",
-        "html_preview": "<ix:nonnumeric conte...[158]...uity</ix:nonnumeric>",
-        "html_hash": "6877c2e0",
-        "level": 3
-    },
-    {
         "cls_name": "TitleElement",
         "tag_name": "div",
-        "text_preview": "Share Repurchase Program",
-        "html_preview": "<div style=\"margin-t...[154]...Program</span></div>",
-        "html_hash": "5f81e2b9",
+        "text_preview": "Note 7 \u2013 Shareholders\u2019 Equity",
+        "html_preview": "<div style=\"margin-t...[338]...umeric></span></div>",
+        "html_hash": "df6877cf",
         "level": 3
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "div",
-        "text_preview": "During the nine mont...[462]...of 1934, as amended.",
-        "html_preview": "<div style=\"margin-t...[1010]...mended.</span></div>",
-        "html_hash": "6252e324"
+        "tag_name": "ix:continuation",
+        "text_preview": "Share Repurchase Pro...[486]...of 1934, as amended.",
+        "html_preview": "<ix:continuation id=...[1278]...v></ix:continuation>",
+        "html_hash": "604c4383"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 11",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "2430ce4a"
+        "html_hash": "2430ce4a",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -1207,18 +1057,11 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "Note 8 \u2013",
-        "html_preview": "<span>Note 8 \u2013 </span>",
-        "html_hash": "41c1e377"
-    },
-    {
         "cls_name": "TitleElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Benefit Plans",
-        "html_preview": "<ix:nonnumeric conte...[154]...lans</ix:nonnumeric>",
-        "html_hash": "bfe44459",
+        "tag_name": "div",
+        "text_preview": "Note 8 \u2013 Benefit Plans",
+        "html_preview": "<div style=\"margin-t...[334]...umeric></span></div>",
+        "html_hash": "e00549f4",
         "level": 3
     },
     {
@@ -1282,31 +1125,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "sec-parser-merged-text",
-        "text_preview": "As of July\u00a01, 2023, ...[154]...ed-average period of",
-        "html_preview": "<sec-parser-merged-t...[230]...-parser-merged-text>",
-        "html_hash": "2a2020d4"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "ix:nonfraction",
-        "text_preview": "20.9",
-        "html_preview": "<ix:nonfraction cont...[198]...0.9</ix:nonfraction>",
-        "html_hash": "fd88b536"
-    },
-    {
-        "cls_name": "EmptyElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "2.7",
-        "html_preview": "<ix:nonnumeric conte...[173]...>2.7</ix:nonnumeric>",
-        "html_hash": "caf22e50"
-    },
-    {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "years.",
-        "html_preview": "<span> years.</span>",
-        "html_hash": "5b42801a"
+        "tag_name": "div",
+        "text_preview": "As of July\u00a01, 2023, ...[169]...period of 2.7 years.",
+        "html_preview": "<div style=\"margin-t...[784]... years.</span></div>",
+        "html_hash": "5506f6e9"
     },
     {
         "cls_name": "EmptyElement",
@@ -1316,18 +1138,11 @@
         "html_hash": "7849b562"
     },
     {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "Note 9 \u2013",
-        "html_preview": "<span>Note 9 \u2013 </span>",
-        "html_hash": "e57ebfb5"
-    },
-    {
         "cls_name": "TitleElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Commitments and Contingencies",
-        "html_preview": "<ix:nonnumeric conte...[172]...cies</ix:nonnumeric>",
-        "html_hash": "9174f647",
+        "tag_name": "div",
+        "text_preview": "Note 9 \u2013 Commitments and Contingencies",
+        "html_preview": "<div style=\"margin-t...[352]...umeric></span></div>",
+        "html_hash": "643384bd",
         "level": 3
     },
     {
@@ -1340,10 +1155,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "sec-parser-merged-text",
+        "tag_name": "div",
         "text_preview": "The Company has ente...[447]...llows (in millions):",
-        "html_preview": "<sec-parser-merged-t...[707]...-parser-merged-text>",
-        "html_hash": "c08f35cc"
+        "html_preview": "<div style=\"margin-t...[815]...umeric></span></div>",
+        "html_hash": "2e6da6ca"
     },
     {
         "cls_name": "TableElement",
@@ -1372,11 +1187,12 @@
         "html_hash": "1a4ded89"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 12",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "e387fb5e"
+        "html_hash": "e387fb5e",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -1400,18 +1216,11 @@
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "span",
-        "text_preview": "Note 10 \u2013",
-        "html_preview": "<span>Note 10 \u2013 </span>",
-        "html_hash": "92e9812a"
-    },
-    {
         "cls_name": "TitleElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "Segment Information and Geographic Data",
-        "html_preview": "<ix:nonnumeric conte...[171]...Data</ix:nonnumeric>",
-        "html_hash": "fcc3053b",
+        "tag_name": "div",
+        "text_preview": "Note 10 \u2013 Segment In...[9]... and Geographic Data",
+        "html_preview": "<div style=\"margin-t...[352]...umeric></span></div>",
+        "html_hash": "8b33ebee",
         "level": 3
     },
     {
@@ -1451,11 +1260,12 @@
         }
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 13",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "2de08696"
+        "html_hash": "2de08696",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -1592,16 +1402,17 @@
     {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "Weakness in foreign ...[1040]...ird quarter of 2023.",
-        "html_preview": "<sec-parser-merged-t...[4955]...-parser-merged-text>",
-        "html_hash": "f64ceec1"
+        "text_preview": "Weakness in foreign ...[889]...in the fall of 2023.",
+        "html_preview": "<sec-parser-merged-t...[4633]...-parser-merged-text>",
+        "html_hash": "20a865d1"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 14",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "8189866a"
+        "html_hash": "8189866a",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -1616,6 +1427,13 @@
         "text_preview": "",
         "html_preview": "<div style=\"min-heig...[38]...></span></div></div>",
         "html_hash": "d140b877"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The Company repurcha...[111]...ird quarter of 2023.",
+        "html_preview": "<div style=\"margin-t...[282]...f 2023.</span></div>",
+        "html_hash": "2ea0defa"
     },
     {
         "cls_name": "TitleElement",
@@ -1741,11 +1559,12 @@
         "html_hash": "8c438981"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 15",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "f9f5abd1"
+        "html_hash": "f9f5abd1",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -1870,11 +1689,12 @@
         "html_hash": "2967333d"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 16",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "ab04a7a1"
+        "html_hash": "ab04a7a1",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -1965,11 +1785,12 @@
         "html_hash": "23ec6cd3"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 17",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "cc372f20"
+        "html_hash": "cc372f20",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -2089,11 +1910,12 @@
         "html_hash": "f3cacde3"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 18",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "797adc37"
+        "html_hash": "797adc37",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -2253,11 +2075,12 @@
         "html_hash": "00baa1a8"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 19",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "dda9d0fc"
+        "html_hash": "dda9d0fc",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -2359,11 +2182,12 @@
         "html_hash": "8ad04281"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 20",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "aeb2c472"
+        "html_hash": "aeb2c472",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -2491,25 +2315,19 @@
         "identifier": "part2item5"
     },
     {
-        "cls_name": "IrrelevantElement",
-        "tag_name": "ix:nonnumeric",
-        "text_preview": "None",
-        "html_preview": "<ix:nonnumeric conte...[86]...None</ix:nonnumeric>",
-        "html_hash": "9e10417b"
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "None.",
+        "html_preview": "<div style=\"margin-t...[619]...meric>.</span></div>",
+        "html_hash": "c9d1b42c"
     },
     {
-        "cls_name": "EmptyElement",
-        "tag_name": "span",
-        "text_preview": ".",
-        "html_preview": "<span>.</span>",
-        "html_hash": "92bbf70a"
-    },
-    {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 21",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "a679dcae"
+        "html_hash": "a679dcae",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -2560,11 +2378,12 @@
         "html_hash": "762bd6dc"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 22",
         "html_preview": "<div style=\"height:4...[290]...n></div></div></div>",
-        "html_hash": "ee30f02f"
+        "html_hash": "ee30f02f",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -2603,10 +2422,11 @@
         "html_hash": "8fd8756a"
     },
     {
-        "cls_name": "IrrelevantElement",
+        "cls_name": "TitleElement",
         "tag_name": "div",
         "text_preview": "Apple Inc. | Q3 2023 Form 10-Q | 23",
         "html_preview": "<div style=\"height:4...[269]...n></div></div></div>",
-        "html_hash": "e0c0e536"
+        "html_hash": "e0c0e536",
+        "level": 2
     }
 ]
