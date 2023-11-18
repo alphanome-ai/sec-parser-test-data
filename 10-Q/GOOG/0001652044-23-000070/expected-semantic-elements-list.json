@@ -581,11 +581,86 @@
         "level": 2
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Nature of Operations",
+        "html_preview": "<div style=\"margin-t...[147]...rations</span></div>",
+        "html_hash": "36355ef7",
+        "level": 2
+    },
+    {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "Nature of Operations...[2800]...ontentsAlphabet Inc.",
-        "html_preview": "<sec-parser-merged-t...[8580]...-parser-merged-text>",
-        "html_hash": "7b0396e3"
+        "text_preview": "Google was incorpora...[582]...tion-based products.",
+        "html_preview": "<sec-parser-merged-t...[984]...-parser-merged-text>",
+        "html_hash": "5bac33bb"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Basis of Consolidation",
+        "html_preview": "<div style=\"margin-t...[314]...umeric></span></div>",
+        "html_hash": "97c4caae",
+        "level": 2
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "The consolidated fin...[176]...ave been eliminated.",
+        "html_preview": "<div style=\"margin-t...[437]...ation> </span></div>",
+        "html_hash": "2af77768"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Unaudited Interim Financial Information",
+        "html_preview": "<div style=\"margin-t...[166]...rmation</span></div>",
+        "html_hash": "d19bd9f1",
+        "level": 2
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "These unaudited inte...[575]...rom these estimates.",
+        "html_preview": "<div style=\"margin-t...[761]...imates.</span></div>",
+        "html_hash": "b5077eb5"
+    },
+    {
+        "cls_name": "SupplementaryText",
+        "tag_name": "div",
+        "text_preview": "These consolidated f...[251]... filed with the SEC.",
+        "html_preview": "<div style=\"margin-t...[437]...he SEC.</span></div>",
+        "html_hash": "14239bf0"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Change in Accounting Estimate",
+        "html_preview": "<div style=\"margin-t...[156]...stimate</span></div>",
+        "html_hash": "c1438dbb",
+        "level": 2
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "In January 2023, we ...[784]... 2023, respectively.",
+        "html_preview": "<div style=\"margin-t...[3008]...ively. </span></div>",
+        "html_hash": "e33f5251"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Prior Period Reclassifications",
+        "html_preview": "<div style=\"margin-t...[157]...cations</span></div>",
+        "html_hash": "4cfb46c5",
+        "level": 2
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Certain amounts in p...[60]...period presentation.",
+        "html_preview": "<div style=\"margin-t...[246]...tation.</span></div>",
+        "html_hash": "aabffd66"
     },
     {
         "cls_name": "EmptyElement",
@@ -607,6 +682,13 @@
         "text_preview": "",
         "html_preview": "<hr style=\"page-break-after:always\"/>",
         "html_hash": "45ab5d64"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
     },
     {
         "cls_name": "TitleElement",
@@ -668,11 +750,34 @@
         "html_hash": "333ade7d"
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Revenue Backlog",
+        "html_preview": "<div style=\"margin-t...[142]...Backlog</span></div>",
+        "html_hash": "98d07548",
+        "level": 2
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "sec-parser-merged-text",
-        "text_preview": "Revenue BacklogAs of...[1294]...ended June\u00a030, 2023.",
-        "html_preview": "<sec-parser-merged-t...[3784]...-parser-merged-text>",
-        "html_hash": "0fcaff56"
+        "tag_name": "div",
+        "text_preview": "As of June\u00a030, 2023,...[899]...ncellable contracts.",
+        "html_preview": "<div style=\"margin-t...[1947]...tracts.</span></div>",
+        "html_hash": "044fcef7"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Deferred Revenues",
+        "html_preview": "<div style=\"margin-t...[144]...evenues</span></div>",
+        "html_hash": "9e09241f",
+        "level": 2
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We record deferred r...[323]...ended June\u00a030, 2023.",
+        "html_preview": "<div style=\"margin-t...[1199]..., 2023.</span></div>",
+        "html_hash": "22704663"
     },
     {
         "cls_name": "EmptyElement",
@@ -756,10 +861,10 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "ix:nonnumeric",
+        "tag_name": "sec-parser-merged-text",
         "text_preview": "Cash, cash equivalen...[824]...erivative contracts.",
-        "html_preview": "<ix:nonnumeric conte...[1390]...div></ix:nonnumeric>",
-        "html_hash": "b04c070d"
+        "html_preview": "<sec-parser-merged-t...[1265]...-parser-merged-text>",
+        "html_hash": "84cf43f6"
     },
     {
         "cls_name": "TextElement",
@@ -1104,10 +1209,25 @@
     },
     {
         "cls_name": "TextElement",
-        "tag_name": "sec-parser-merged-text",
-        "text_preview": "Table of ContentsAlp...[4364]...ontentsAlphabet Inc.",
-        "html_preview": "<sec-parser-merged-t...[11480]...-parser-merged-text>",
-        "html_hash": "5024df6b"
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Equity Securities Ac...[15]...er the Equity Method",
+        "html_preview": "<div style=\"margin-t...[200]... Method</span></div>",
+        "html_hash": "a22468a9",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "As of December\u00a031, 2...[345]...come (expense), net.",
+        "html_preview": "<div style=\"margin-t...[939]...), net.</span></div>",
+        "html_hash": "aea94660"
     },
     {
         "cls_name": "EmptyElement",
@@ -1115,6 +1235,81 @@
         "text_preview": "",
         "html_preview": "<div id=\"i9cf7463c22...[13]...8adbae2ee_58\"></div>",
         "html_hash": "92e4ae81"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Derivative Financial Instruments",
+        "html_preview": "<div style=\"margin-t...[159]...ruments</span></div>",
+        "html_hash": "f88718c5",
+        "level": 2
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "We use derivative in...[869]...d hedge designation.",
+        "html_preview": "<sec-parser-merged-t...[1292]...-parser-merged-text>",
+        "html_hash": "361b32a8"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Cash Flow Hedges",
+        "html_preview": "<div style=\"margin-t...[161]... Hedges</span></div>",
+        "html_hash": "4bb960fb",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "We designate foreign...[912]... the next 12 months.",
+        "html_preview": "<sec-parser-merged-t...[2927]...-parser-merged-text>",
+        "html_hash": "8e69a812"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Fair Value Hedges",
+        "html_preview": "<div style=\"margin-t...[187]... Hedges</span></div>",
+        "html_hash": "911b0b65",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We designate foreign...[487]...come (expense), net.",
+        "html_preview": "<div style=\"margin-t...[673]...), net.</span></div>",
+        "html_hash": "d8664b89"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Net Investment Hedges",
+        "html_preview": "<div style=\"margin-t...[166]... Hedges</span></div>",
+        "html_hash": "866655d5",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We designate foreign...[426]...come (expense), net.",
+        "html_preview": "<div style=\"margin-t...[612]...), net.</span></div>",
+        "html_hash": "6940a426"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Other Derivatives",
+        "html_preview": "<div style=\"margin-t...[162]...vatives</span></div>",
+        "html_hash": "8243f73f",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "We enter into foreig...[907]...for further details.",
+        "html_preview": "<sec-parser-merged-t...[1328]...-parser-merged-text>",
+        "html_hash": "80a60b87"
     },
     {
         "cls_name": "EmptyElement",
@@ -1129,6 +1324,13 @@
         "text_preview": "",
         "html_preview": "<hr style=\"page-break-after:always\"/>",
         "html_hash": "45ab5d64"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
     },
     {
         "cls_name": "TextElement",
@@ -1371,11 +1573,34 @@
         "level": 2
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Consolidated VIEs",
+        "html_preview": "<div style=\"margin-t...[322]...umeric></span></div>",
+        "html_hash": "465a702c",
+        "level": 2
+    },
+    {
         "cls_name": "TextElement",
-        "tag_name": "ix:continuation",
-        "text_preview": "Consolidated VIEsWe ...[2347]...as of June\u00a030, 2023.",
-        "html_preview": "<ix:continuation id=...[6803]...v></ix:continuation>",
-        "html_hash": "6ab5df54"
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "We consolidate VIEs ...[1137]...her details on OI&E.",
+        "html_preview": "<sec-parser-merged-t...[3471]...-parser-merged-text>",
+        "html_hash": "fa9722ea"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Unconsolidated VIEs",
+        "html_preview": "<div style=\"margin-t...[146]...ed VIEs</span></div>",
+        "html_hash": "e343d992",
+        "level": 2
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "We have investments ...[1134]...as of June\u00a030, 2023.",
+        "html_preview": "<sec-parser-merged-t...[2768]...-parser-merged-text>",
+        "html_hash": "876161a0"
     },
     {
         "cls_name": "EmptyElement",
@@ -1393,11 +1618,19 @@
         "level": 2
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Short-Term Debt",
+        "html_preview": "<div style=\"margin-t...[142]...rm Debt</span></div>",
+        "html_hash": "c852b6a0",
+        "level": 2
+    },
+    {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "Short-Term DebtWe ha...[345]...ontentsAlphabet Inc.",
-        "html_preview": "<sec-parser-merged-t...[3319]...-parser-merged-text>",
-        "html_hash": "8c82c2f4"
+        "text_preview": "We have a debt finan...[300]...tain long-term debt.",
+        "html_preview": "<sec-parser-merged-t...[1971]...-parser-merged-text>",
+        "html_hash": "a34ccd4c"
     },
     {
         "cls_name": "EmptyElement",
@@ -1412,6 +1645,13 @@
         "text_preview": "",
         "html_preview": "<hr style=\"page-break-after:always\"/>",
         "html_hash": "45ab5d64"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
     },
     {
         "cls_name": "TitleElement",
@@ -1430,10 +1670,10 @@
     },
     {
         "cls_name": "TableElement",
-        "tag_name": "ix:continuation",
+        "tag_name": "table",
         "text_preview": "MaturityCoupon RateE...[456]... debt$14,701\u00a0$13,705",
-        "html_preview": "<ix:continuation con...[19478]...e></ix:continuation>",
-        "html_hash": "cd11abca",
+        "html_preview": "<table style=\"border...[19356]...\"></td></tr></table>",
+        "html_hash": "03dcd646",
         "metrics": {
             "rows": 8,
             "numbers": 23
@@ -1442,9 +1682,16 @@
     {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "(1)Future finance le...[807]...air value hierarchy.",
-        "html_preview": "<sec-parser-merged-t...[2932]...-parser-merged-text>",
-        "html_hash": "77a5b7f9"
+        "text_preview": "(1)Future finance le...[162]...for further details.",
+        "html_preview": "<sec-parser-merged-t...[1005]...-parser-merged-text>",
+        "html_hash": "ddb202d7"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "The notes in the tab...[605]...air value hierarchy.",
+        "html_preview": "<sec-parser-merged-t...[1862]...-parser-merged-text>",
+        "html_hash": "475be589"
     },
     {
         "cls_name": "TitleElement",
@@ -1909,11 +2156,34 @@
         "level": 2
     },
     {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Commitments",
+        "html_preview": "<div style=\"margin-t...[138]...itments</span></div>",
+        "html_hash": "10bdaa53",
+        "level": 2
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "We have content lice...[170]...rst quarter of 2030.",
+        "html_preview": "<div style=\"margin-t...[772]...f 2030.</span></div>",
+        "html_hash": "94cb35e5"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Indemnifications",
+        "html_preview": "<div style=\"margin-t...[168]...cations</span></div>",
+        "html_hash": "0fb06f9f",
+        "level": 2
+    },
+    {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "CommitmentsWe have c...[11971]...ontentsAlphabet Inc.",
-        "html_preview": "<sec-parser-merged-t...[24847]...-parser-merged-text>",
-        "html_hash": "ed47c467"
+        "text_preview": "In the normal course...[1511]...reasonably possible.",
+        "html_preview": "<sec-parser-merged-t...[2118]...-parser-merged-text>",
+        "html_hash": "2607d33d"
     },
     {
         "cls_name": "EmptyElement",
@@ -1930,6 +2200,57 @@
         "html_hash": "45ab5d64"
     },
     {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Legal Matters",
+        "html_preview": "<div style=\"margin-t...[165]...Matters</span></div>",
+        "html_hash": "959d6598",
+        "level": 2
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "We record a liabilit...[1120]...h they are incurred.",
+        "html_preview": "<sec-parser-merged-t...[1856]...-parser-merged-text>",
+        "html_hash": "6ac3786e"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Antitrust Investigations",
+        "html_preview": "<div style=\"margin-t...[169]...gations</span></div>",
+        "html_hash": "5184f846",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "On November 30, 2010...[3815]...y. On June 14, 2023,",
+        "html_preview": "<sec-parser-merged-t...[7915]...-parser-merged-text>",
+        "html_hash": "df674b5d"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[35]...n><br/></span></div>",
+        "html_hash": "83f3b6b4"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[16]...n><br/></span></div>",
+        "html_hash": "5dd1f9dd"
+    },
+    {
         "cls_name": "EmptyElement",
         "tag_name": "div",
         "text_preview": "27",
@@ -1942,6 +2263,79 @@
         "text_preview": "",
         "html_preview": "<hr style=\"page-break-after:always\"/>",
         "html_hash": "45ab5d64"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "the EC issued a Stat...[953]...rs around the world.",
+        "html_preview": "<sec-parser-merged-t...[1740]...-parser-merged-text>",
+        "html_hash": "4072e977"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[16]...n><br/></span></div>",
+        "html_hash": "5dd1f9dd"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "div",
+        "text_preview": "",
+        "html_preview": "<div style=\"text-ali...[16]...n><br/></span></div>",
+        "html_hash": "5dd1f9dd"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Patent and Intellectual Property Claims",
+        "html_preview": "<div style=\"margin-t...[209]... Claims</span></div>",
+        "html_hash": "e6023d89",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "We have had patent, ...[1655]...affect our business.",
+        "html_preview": "<sec-parser-merged-t...[2126]...-parser-merged-text>",
+        "html_hash": "0619696d"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Other",
+        "html_preview": "<div style=\"margin-t...[175]...\">Other</span></div>",
+        "html_hash": "d990c64f",
+        "level": 3
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "We are subject to cl...[1396]...rial adverse effect.",
+        "html_preview": "<sec-parser-merged-t...[1867]...-parser-merged-text>",
+        "html_hash": "b9ba64df"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "div",
+        "text_preview": "Non-Income Taxes",
+        "html_preview": "<div style=\"margin-t...[168]...e Taxes</span></div>",
+        "html_hash": "91054f08",
+        "level": 2
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "We are under audit b...[856]...encies, see Note 13.",
+        "html_preview": "<sec-parser-merged-t...[1302]...-parser-merged-text>",
+        "html_hash": "85f86834"
     },
     {
         "cls_name": "EmptyElement",
@@ -1963,6 +2357,13 @@
         "text_preview": "",
         "html_preview": "<hr style=\"page-break-after:always\"/>",
         "html_hash": "45ab5d64"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
     },
     {
         "cls_name": "TitleElement",
@@ -2226,9 +2627,9 @@
     {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "We report our segmen...[2988]...ontentsAlphabet Inc.",
-        "html_preview": "<sec-parser-merged-t...[6456]...-parser-merged-text>",
-        "html_hash": "ae009e4f"
+        "text_preview": "We report our segmen...[2958]...g asset information.",
+        "html_preview": "<sec-parser-merged-t...[5163]...-parser-merged-text>",
+        "html_hash": "fcb77c15"
     },
     {
         "cls_name": "EmptyElement",
@@ -2243,6 +2644,13 @@
         "text_preview": "",
         "html_preview": "<hr style=\"page-break-after:always\"/>",
         "html_hash": "45ab5d64"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "div",
+        "text_preview": "Table of ContentsAlphabet Inc.",
+        "html_preview": "<div style=\"min-heig...[1004]...</table></div></div>",
+        "html_hash": "4c6ac0c7"
     },
     {
         "cls_name": "TextElement",
