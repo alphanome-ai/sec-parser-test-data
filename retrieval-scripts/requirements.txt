@@ -2,6 +2,6 @@ jupyter
 ipywidgets
 jupyter-black
 python-dotenv
-sec-downloader
-sec-api-io
+sec-downloader>=0.10.1
+sec-api-io>=0.0.17
 tqdm

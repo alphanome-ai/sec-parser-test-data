@@ -9,6 +9,12 @@ This repository complements the [sec-parser](https://github.com/alphanome-ai/sec
 
 Keeping this data separate ensures a clean and manageable main code repository, aiding in maintenance and efficiency.
 
+## How To Add New Items
+
+Add new lines in `00_report-list.csv`, then run `00_download-reports-from-report-list.ipynb`. 
+- The first CSV column values (`comment`) are ignored.
+- The `query` column value has to be in the format `AAPL` to download the latest 10-Q report (will work only if the folder doesn't exist), or `AAPL/0000320193-23-000077` for a specific report.
+
 ## Contributing
 
 When submitting changes, please include the git hash of the `sec-parser` repository in your commit message or pull request for version tracking.
