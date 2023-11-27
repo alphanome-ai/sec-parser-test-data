@@ -384,10 +384,10 @@
     },
     {
         "cls_name": "TableElement",
-        "tag_name": "div",
+        "tag_name": "table",
         "text_preview": "PagePart IItem 1.Fin...[469]...n21Item 6.Exhibits22",
-        "html_preview": "style=\"text-align:ju...[16812]...v></td></tr></table>",
-        "html_hash": "247649d7",
+        "html_preview": "style=\"border-collap...[16770]...pan></div></td></tr>",
+        "html_hash": "f2976395",
         "metrics": {
             "rows": 13,
             "numbers": 22
@@ -423,10 +423,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "PART I  \u2014  FINANCIAL INFORMATION",
-        "html_preview": "style=\"margin-top:18...[152]...L INFORMATION</span>",
-        "html_hash": "24b13340",
+        "html_preview": "style=\"color:#000000...[96]...INANCIAL INFORMATION",
+        "html_hash": "b901c4f3",
         "level": 0,
         "section_type": "part1"
     },
@@ -439,10 +439,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "Item 1.\u00a0\u00a0\u00a0\u00a0Financial Statements",
-        "html_preview": "style=\"margin-top:12...[151]...al Statements</span>",
-        "html_hash": "8e7d8121",
+        "html_preview": "style=\"color:#000000...[95]...Financial Statements",
+        "html_hash": "7ac3f59a",
         "level": 1,
         "section_type": "part1item1"
     },
@@ -1774,10 +1774,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "Item 2.\u00a0\u00a0\u00a0\u00a0Managemen...[56]...esults of Operations",
-        "html_preview": "style=\"margin-top:9p...[251]...of Operations</span>",
-        "html_hash": "409b474e",
+        "html_preview": "style=\"color:#000000...[160]...esults of Operations",
+        "html_hash": "ee74ed25",
         "level": 1,
         "section_type": "part1item2"
     },
@@ -2498,10 +2498,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "Item 3.\u00a0\u00a0\u00a0\u00a0Quantitat...[29]...es About Market Risk",
-        "html_preview": "style=\"margin-top:18...[225]...t Market Risk</span>",
-        "html_hash": "c4c1db46",
+        "html_preview": "style=\"color:#000000...[133]...es About Market Risk",
+        "html_hash": "739fc427",
         "level": 1,
         "section_type": "part1item3"
     },
@@ -2521,10 +2521,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "Item 4.\u00a0\u00a0\u00a0\u00a0Controls and Procedures",
-        "html_preview": "style=\"margin-top:18...[190]...nd Procedures</span>",
-        "html_hash": "85e59b85",
+        "html_preview": "style=\"color:#000000...[98]...trols and Procedures",
+        "html_hash": "9d730087",
         "level": 1,
         "section_type": "part1item4"
     },
@@ -2589,10 +2589,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "PART II  \u2014  OTHER INFORMATION",
-        "html_preview": "style=\"margin-top:18...[149]...R INFORMATION</span>",
-        "html_hash": "9827cb18",
+        "html_preview": "style=\"color:#000000...[93]...\u2014  OTHER INFORMATION",
+        "html_hash": "39de36ed",
         "level": 0,
         "section_type": "part2"
     },
@@ -2605,10 +2605,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "Item 1.\u00a0\u00a0\u00a0\u00a0Legal Proceedings",
-        "html_preview": "style=\"margin-top:12...[184]...l Proceedings</span>",
-        "html_hash": "d6590a11",
+        "html_preview": "style=\"color:#000000...[92]...\u00a0\u00a0\u00a0Legal Proceedings",
+        "html_hash": "fbf36dda",
         "level": 1,
         "section_type": "part2item1"
     },
@@ -2651,10 +2651,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "Item 1A.\u00a0\u00a0\u00a0\u00a0Risk Factors",
-        "html_preview": "style=\"margin-top:18...[180]...\u00a0Risk Factors</span>",
-        "html_hash": "fa6ecc70",
+        "html_preview": "style=\"color:#000000...[88]... 1A.\u00a0\u00a0\u00a0\u00a0Risk Factors",
+        "html_hash": "2e4d661c",
         "level": 1,
         "section_type": "part2item1a"
     },
@@ -2696,10 +2696,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "Item 2.\u00a0\u00a0\u00a0\u00a0Unregiste...[70]...of Equity Securities",
-        "html_preview": "style=\"margin-top:18...[266]...ty Securities</span>",
-        "html_hash": "28497f1c",
+        "html_preview": "style=\"color:#000000...[174]...of Equity Securities",
+        "html_hash": "fca3e106",
         "level": 1,
         "section_type": "part2item2"
     },
@@ -2745,10 +2745,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "Item 3.\u00a0\u00a0\u00a0\u00a0Defaults ...[2]...on Senior Securities",
-        "html_preview": "style=\"margin-top:18...[198]...or Securities</span>",
-        "html_hash": "93965fa9",
+        "html_preview": "style=\"color:#000000...[106]...on Senior Securities",
+        "html_hash": "37f2f5d4",
         "level": 1,
         "section_type": "part2item3"
     },
@@ -2768,10 +2768,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "Item 4.\u00a0\u00a0\u00a0\u00a0Mine Safety Disclosures",
-        "html_preview": "style=\"margin-top:18...[190]...y Disclosures</span>",
-        "html_hash": "df1916a2",
+        "html_preview": "style=\"color:#000000...[98]...e Safety Disclosures",
+        "html_hash": "c3381b2f",
         "level": 1,
         "section_type": "part2item4"
     },
@@ -2791,10 +2791,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "Item 5.\u00a0\u00a0\u00a0\u00a0Other Information",
-        "html_preview": "style=\"margin-top:18...[184]...r Information</span>",
-        "html_hash": "abb61fda",
+        "html_preview": "style=\"color:#000000...[92]...\u00a0\u00a0\u00a0Other Information",
+        "html_hash": "87e0b1fb",
         "level": 1,
         "section_type": "part2item5"
     },
@@ -2836,10 +2836,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "Item 6.\u00a0\u00a0\u00a0\u00a0Exhibits",
-        "html_preview": "style=\"-sec-extract:...[196]....\u00a0\u00a0\u00a0\u00a0Exhibits</span>",
-        "html_hash": "326b6af4",
+        "html_preview": "style=\"color:#000000...[83]...>Item 6.\u00a0\u00a0\u00a0\u00a0Exhibits",
+        "html_hash": "4a79ef73",
         "level": 1,
         "section_type": "part2item6"
     },

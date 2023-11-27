@@ -431,10 +431,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "PART I.\u00a0\u00a0\u00a0\u00a0FINANCIAL INFORMATION",
-        "html_preview": "style=\"padding-left:...[169]...L INFORMATION</span>",
-        "html_hash": "8a373fd3",
+        "html_preview": "style=\"color:#000000...[93]...INANCIAL INFORMATION",
+        "html_hash": "4ef3d22f",
         "level": 0,
         "section_type": "part1"
     },
@@ -447,12 +447,20 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
-        "text_preview": "ITEM 1.FINANCIAL STATEMENTS",
-        "html_preview": "style=\"margin-top:3p...[314]...AL STATEMENTS</span>",
-        "html_hash": "5987b79e",
+        "tag_name": "span",
+        "text_preview": "ITEM 1.",
+        "html_preview": "style=\"color:#000000...[68]...height:120%\">ITEM 1.",
+        "html_hash": "e6cef692",
         "level": 1,
         "section_type": "part1item1"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "span",
+        "text_preview": "FINANCIAL STATEMENTS",
+        "html_preview": "style=\"color:#000000...[102]...FINANCIAL STATEMENTS",
+        "html_hash": "7ce7b232",
+        "level": 2
     },
     {
         "cls_name": "EmptyElement",
@@ -3201,12 +3209,20 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
-        "text_preview": "ITEM 2.MANAGEMENT\u2019S ...[52]...ESULTS OF OPERATIONS",
-        "html_preview": "style=\"margin-top:14...[380]...OF OPERATIONS</span>",
-        "html_hash": "5fa98299",
+        "tag_name": "span",
+        "text_preview": "ITEM 2.",
+        "html_preview": "style=\"color:#000000...[68]...height:120%\">ITEM 2.",
+        "html_hash": "cd1adadf",
         "level": 1,
         "section_type": "part1item2"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "span",
+        "text_preview": "MANAGEMENT\u2019S DISCUSS...[45]...ESULTS OF OPERATIONS",
+        "html_preview": "style=\"color:#000000...[167]...ESULTS OF OPERATIONS",
+        "html_hash": "198efa09",
+        "level": 2
     },
     {
         "cls_name": "TextElement",
@@ -4605,9 +4621,23 @@
     {
         "cls_name": "TextElement",
         "tag_name": "sec-parser-merged-text",
-        "text_preview": "We have a short-term...[1459]...Report on Form 10-Q.",
-        "html_preview": "<div style=\"margin-t...[2873]...120%\">.</span></div>",
-        "html_hash": "0f20786a"
+        "text_preview": "We have a short-term...[861]...rmation on our debt.",
+        "html_preview": "<div style=\"margin-t...[1836]...r debt.</span></div>",
+        "html_hash": "d115bef4"
+    },
+    {
+        "cls_name": "TextElement",
+        "tag_name": "sec-parser-merged-text",
+        "text_preview": "We primarily utilize...[557]... Report on Form 10-Q",
+        "html_preview": "<span style=\"color:#...[810]... on Form 10-Q</span>",
+        "html_hash": "e257ab94"
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "span",
+        "text_preview": ".",
+        "html_preview": "style=\"color:#000000...[62]...;line-height:120%\">.",
+        "html_hash": "5060290e"
     },
     {
         "cls_name": "TitleElement",
@@ -4758,12 +4788,20 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
-        "text_preview": "ITEM 3.QUANTITATIVE ...[25]...ES ABOUT MARKET RISK",
-        "html_preview": "style=\"margin-top:6p...[352]...T MARKET RISK</span>",
-        "html_hash": "2228fe07",
+        "tag_name": "span",
+        "text_preview": "ITEM 3.",
+        "html_preview": "style=\"color:#000000...[68]...height:120%\">ITEM 3.",
+        "html_hash": "3349ed72",
         "level": 1,
         "section_type": "part1item3"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "span",
+        "text_preview": "QUANTITATIVE AND QUA...[18]...ES ABOUT MARKET RISK",
+        "html_preview": "style=\"color:#000000...[140]...ES ABOUT MARKET RISK",
+        "html_hash": "bff58799",
+        "level": 2
     },
     {
         "cls_name": "TextElement",
@@ -4781,12 +4819,20 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
-        "text_preview": "ITEM 4.CONTROLS AND PROCEDURES",
-        "html_preview": "style=\"margin-top:6p...[317]...ND PROCEDURES</span>",
-        "html_hash": "76504fd3",
+        "tag_name": "span",
+        "text_preview": "ITEM 4.",
+        "html_preview": "style=\"color:#000000...[68]...height:120%\">ITEM 4.",
+        "html_hash": "a542868f",
         "level": 1,
         "section_type": "part1item4"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "span",
+        "text_preview": "CONTROLS AND PROCEDURES",
+        "html_preview": "style=\"color:#000000...[105]...TROLS AND PROCEDURES",
+        "html_hash": "efe0b25f",
+        "level": 2
     },
     {
         "cls_name": "TitleElement",
@@ -4886,10 +4932,10 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
+        "tag_name": "span",
         "text_preview": "PART II. \u00a0\u00a0\u00a0\u00a0OTHER INFORMATION",
-        "html_preview": "style=\"margin-top:6p...[182]...R INFORMATION</span>",
-        "html_hash": "4dfcff59",
+        "html_preview": "style=\"color:#000000...[91]...\u00a0\u00a0\u00a0OTHER INFORMATION",
+        "html_hash": "06fa70fd",
         "level": 0,
         "section_type": "part2"
     },
@@ -4902,12 +4948,20 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
-        "text_preview": "ITEM 1.LEGAL PROCEEDINGS",
-        "html_preview": "style=\"margin-top:6p...[311]...L PROCEEDINGS</span>",
-        "html_hash": "f5bf1446",
+        "tag_name": "span",
+        "text_preview": "ITEM 1.",
+        "html_preview": "style=\"color:#000000...[68]...height:120%\">ITEM 1.",
+        "html_hash": "e6cef692",
         "level": 1,
         "section_type": "part2item1"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "span",
+        "text_preview": "LEGAL PROCEEDINGS",
+        "html_preview": "style=\"color:#000000...[99]...t\">LEGAL PROCEEDINGS",
+        "html_hash": "4018cfb8",
+        "level": 2
     },
     {
         "cls_name": "SupplementaryText",
@@ -4925,12 +4979,27 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
-        "text_preview": "ITEM 1A.RISK FACTORS",
-        "html_preview": "style=\"margin-top:6p...[437]...\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0</span>",
-        "html_hash": "1b4cd8ee",
+        "tag_name": "span",
+        "text_preview": "ITEM 1A.",
+        "html_preview": "style=\"color:#000000...[69]...eight:120%\">ITEM 1A.",
+        "html_hash": "90e9ccfd",
         "level": 1,
         "section_type": "part2item1a"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "span",
+        "text_preview": "RISK FACTORS",
+        "html_preview": "style=\"color:#000000...[94]...9.82pt\">RISK FACTORS",
+        "html_hash": "42a3bff1",
+        "level": 2
+    },
+    {
+        "cls_name": "EmptyElement",
+        "tag_name": "span",
+        "text_preview": "",
+        "html_preview": "style=\"color:#000000...[61]...0;line-height:120%\">",
+        "html_hash": "68832a1b"
     },
     {
         "cls_name": "TextElement",
@@ -4948,12 +5017,20 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
-        "text_preview": "ITEM 2.UNREGISTERED ...[26]... AND USE OF PROCEEDS",
-        "html_preview": "style=\"margin-top:6p...[353]...E OF PROCEEDS</span>",
-        "html_hash": "4ef1aa90",
+        "tag_name": "span",
+        "text_preview": "ITEM 2.",
+        "html_preview": "style=\"color:#000000...[68]...height:120%\">ITEM 2.",
+        "html_hash": "cd1adadf",
         "level": 1,
         "section_type": "part2item2"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "span",
+        "text_preview": "UNREGISTERED SALES O...[19]... AND USE OF PROCEEDS",
+        "html_preview": "style=\"color:#000000...[141]... AND USE OF PROCEEDS",
+        "html_hash": "cea5a971",
+        "level": 2
     },
     {
         "cls_name": "TitleElement",
@@ -4997,12 +5074,20 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
-        "text_preview": "ITEM 5.OTHER INFORMATION",
-        "html_preview": "style=\"margin-top:6p...[311]...R INFORMATION</span>",
-        "html_hash": "f9caf4a2",
+        "tag_name": "span",
+        "text_preview": "ITEM 5.",
+        "html_preview": "style=\"color:#000000...[68]...height:120%\">ITEM 5.",
+        "html_hash": "66ddb6d4",
         "level": 1,
         "section_type": "part2item5"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "span",
+        "text_preview": "OTHER INFORMATION",
+        "html_preview": "style=\"color:#000000...[99]...t\">OTHER INFORMATION",
+        "html_hash": "46e66fd3",
+        "level": 2
     },
     {
         "cls_name": "TitleElement",
@@ -5072,12 +5157,20 @@
     },
     {
         "cls_name": "TopLevelSectionTitle",
-        "tag_name": "div",
-        "text_preview": "ITEM 6.EXHIBITS",
-        "html_preview": "style=\"-sec-extract:...[354]...4pt\">EXHIBITS</span>",
-        "html_hash": "462906d4",
+        "tag_name": "span",
+        "text_preview": "ITEM 6.",
+        "html_preview": "style=\"background-co...[93]...height:120%\">ITEM 6.",
+        "html_hash": "0e4ecb3c",
         "level": 1,
         "section_type": "part2item6"
+    },
+    {
+        "cls_name": "TitleElement",
+        "tag_name": "span",
+        "text_preview": "EXHIBITS",
+        "html_preview": "style=\"background-co...[115]...ft:37.04pt\">EXHIBITS",
+        "html_hash": "ef025d7a",
+        "level": 2
     },
     {
         "cls_name": "TableElement",
