@@ -11,10 +11,16 @@ Keeping this data separate ensures a clean and manageable main code repository, 
 
 ## How To Add New Items
 
+### Auto-download filings
+
 1. Add new lines in `00_report-list.csv`, then run `00_download-reports-from-report-list.ipynb`. 
     - The first CSV column values (`comment`) are ignored.
     - The `query` column value has to be in the format `AAPL` to download the latest 10-Q report (will work only if the folder doesn't exist), or `AAPL/0000320193-23-000077` for a specific report.
 2. Add the new reports to the `.yaml` files in the `sec-parser` repository (e.g. [`e2e_test_data.yaml`](https://github.com/alphanome-ai/sec-parser/blob/c101a1a6b0ccd6c38efa7ad24de497ef3d2a0afb/tests/e2e/e2e_test_data.yaml), to include them in the tests.
+
+### Copy paste filings
+
+1. Download the filings yourself and copy-paste it to the repo, while keeping the correct format.
 
 ## Contributing
 
