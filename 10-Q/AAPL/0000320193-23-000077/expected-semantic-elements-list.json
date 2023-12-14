@@ -1,421 +1,391 @@
 [
     {
-        "cls_name": "TextElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "false2023Q3000032019...[12507]...2021-09-262022-06-25",
         "html_preview": "style=\"display:none\"...[81220]...sources></ix:header>",
         "html_hash": "1b269f3d"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "id=\"i89a6f703d15142c...[1]...bed03bbbc5198dc5_1\">",
         "html_hash": "fdbe3ecf"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"min-height:42...[27]...n><br/></span></div>",
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"text-align:ce...[342]...\"></td></tr></table>",
         "html_hash": "3380ab89"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "UNITED STATES",
         "html_preview": "style=\"margin-top:7p...[132]...UNITED STATES</span>",
-        "html_hash": "3a1ef47a",
-        "level": 0
+        "html_hash": "3a1ef47a"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "SECURITIES AND EXCHANGE COMMISSION",
         "html_preview": "style=\"text-align:ce...[138]...GE COMMISSION</span>",
-        "html_hash": "cb496701",
-        "level": 0
+        "html_hash": "cb496701"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Washington, D.C. 20549",
         "html_preview": "style=\"text-align:ce...[126]...n, D.C. 20549</span>",
-        "html_hash": "632c60bc",
-        "level": 1
+        "html_hash": "632c60bc"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"margin-top:6p...[328]...\"></td></tr></table>",
         "html_hash": "50e31387"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "FORM 10-Q",
         "html_preview": "style=\"margin-top:7p...[209]...x:nonnumeric></span>",
-        "html_hash": "f87b7200",
-        "level": 0
+        "html_hash": "f87b7200"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"margin-top:3p...[325]...\"></td></tr></table>",
         "html_hash": "39180c7d"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "(Mark One)",
         "html_preview": "<span style=\"color:#...[87]...%\">(Mark One)</span>",
         "html_hash": "127c4ad7"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "\u2612 QUARTERLY REPORT P...[49]...EXCHANGE ACT OF 1934",
         "html_preview": "style=\"margin-top:3p...[572]...E ACT OF 1934</span>",
-        "html_hash": "95ce7028",
-        "level": 0
+        "html_hash": "95ce7028"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "For the quarterly pe...[3]...d ended July\u00a01, 2023",
         "html_preview": "style=\"margin-top:2p...[291]...x:nonnumeric></span>",
-        "html_hash": "df6d9ec7",
-        "level": 2
+        "html_hash": "df6d9ec7"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "or",
         "html_preview": "style=\"margin-top:2p...[120]...ight:120%\">or</span>",
-        "html_hash": "a5046a0e",
-        "level": 2
+        "html_hash": "a5046a0e"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "\u2610 TRANSITION REPORT ...[50]...EXCHANGE ACT OF 1934",
         "html_preview": "style=\"margin-top:2p...[574]...E ACT OF 1934</span>",
-        "html_hash": "f6227fc4",
-        "level": 0
+        "html_hash": "f6227fc4"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "For the transition p...[20]...\u00a0\u00a0\u00a0 to \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0.",
         "html_preview": "style=\"margin-top:4p...[698]...eight:120%\">.</span>",
-        "html_hash": "86bead7f",
-        "level": 2
+        "html_hash": "86bead7f"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Commission File Number: 001-36743",
         "html_preview": "style=\"margin-top:3p...[353]...x:nonnumeric></span>",
-        "html_hash": "92183eed",
-        "level": 2
+        "html_hash": "92183eed"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"margin-top:3p...[328]...\"></td></tr></table>",
         "html_hash": "31e91d34"
     },
     {
-        "cls_name": "ImageElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"margin-top:1p...[133]...bottom;width:36px\"/>",
         "html_hash": "f994be77"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
         "html_preview": "style=\"margin-top:3p...[218]...x:nonnumeric></span>",
-        "html_hash": "fa864aca",
-        "level": 1
+        "html_hash": "fa864aca"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "(Exact name of Regis...[14]...fied in its charter)",
         "html_preview": "style=\"margin-top:3p...[172]... its charter)</span>",
         "html_hash": "6dfebec1"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"margin-top:6p...[325]...\"></td></tr></table>",
         "html_hash": "233d3c1f"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "California94-2404110...[171]...e offices)(Zip Code)",
         "html_preview": "style=\"text-align:ju...[3548]...n></td></tr></table>",
-        "html_hash": "8206b562",
-        "metrics": {
-            "rows": 5,
-            "numbers": 2
-        }
+        "html_hash": "8206b562"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "(408) 996-1010",
         "html_preview": "style=\"margin-top:2p...[300]...x:nonnumeric></span>",
-        "html_hash": "533fdba8",
-        "level": 1
+        "html_hash": "533fdba8"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "(Registrant\u2019s teleph...[12]...including area code)",
         "html_preview": "style=\"text-align:ce...[155]...ng area code)</span>",
         "html_hash": "01d65cc2"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"margin-top:5p...[328]...\"></td></tr></table>",
         "html_hash": "cbee9661"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Securities registere...[19]...on 12(b) of the Act:",
         "html_preview": "style=\"margin-top:5p...[177]...) of the Act:</span>",
-        "html_hash": "61c36d58",
-        "level": 2
+        "html_hash": "61c36d58"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Title of each classT...[551]...daq Stock Market LLC",
         "html_preview": "style=\"margin-top:6p...[12994]...v></td></tr></table>",
-        "html_hash": "732e2038",
-        "metrics": {
-            "rows": 11,
-            "numbers": 10
-        }
+        "html_hash": "732e2038"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"margin-top:3p...[325]...\"></td></tr></table>",
         "html_hash": "39180c7d"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Indicate by check ma...[304]...or the past 90 days.",
         "html_preview": "style=\"margin-top:4p...[463]...past 90 days.</span>",
         "html_hash": "79febedf"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
         "html_preview": "style=\"margin-top:3p...[599]...eight:120%\">\u2610</span>",
-        "html_hash": "a2295ff2",
-        "level": 2
+        "html_hash": "a2295ff2"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"margin-top:9p...[20]...\"><span><br/></span>",
         "html_hash": "ac56ac81"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Indicate by check ma...[268]... submit such files).",
         "html_preview": "style=\"text-align:ju...[412]... such files).</span>",
         "html_hash": "4ba7b979"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Yes\u00a0\u00a0\u2612\u00a0\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2610",
         "html_preview": "style=\"margin-top:3p...[599]...eight:120%\">\u2610</span>",
-        "html_hash": "ad38573c",
-        "level": 2
+        "html_hash": "ad38573c"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Indicate by check ma...[307]...of the Exchange Act.",
         "html_preview": "style=\"margin-top:9p...[466]...Exchange Act.</span>",
         "html_hash": "6999130f"
     },
     {
-        "cls_name": "TableElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Large accelerated fi...[74]...ging growth company\u2610",
         "html_preview": "style=\"margin-top:6p...[3802]...n></td></tr></table>",
-        "html_hash": "0be0ee61",
-        "metrics": {
-            "rows": 2,
-            "numbers": 0
-        }
+        "html_hash": "0be0ee61"
     },
     {
-        "cls_name": "TextElement",
-        "tag_name": "sec-parser-merged-text",
-        "text_preview": "If an emerging growt...[333]...f the Exchange Act).",
-        "html_preview": "<div style=\"margin-t...[799]...e Act).</span></div>",
-        "html_hash": "5d2a828f"
+        "cls_name": "IntroductorySectionElement",
+        "tag_name": "div",
+        "text_preview": "If an emerging growt...[221]...ange Act.          \u2610",
+        "html_preview": "style=\"margin-top:7p...[505]...eight:120%\">\u2610</span>",
+        "html_hash": "7c4b8f50"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
+        "tag_name": "div",
+        "text_preview": "Indicate by check ma...[72]...f the Exchange Act).",
+        "html_preview": "style=\"margin-top:10...[232]...xchange Act).</span>",
+        "html_hash": "7f420368"
+    },
+    {
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Yes\u00a0\u00a0\u2610\u00a0\u00a0\u00a0\u00a0\u00a0No\u00a0\u00a0\u2612",
         "html_preview": "style=\"margin-top:3p...[620]...eight:120%\">\u2612</span>",
-        "html_hash": "8ce4d2e2",
-        "level": 2
+        "html_hash": "8ce4d2e2"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "15,634,232,000 share...[46]...as of July\u00a021, 2023.",
         "html_preview": "style=\"margin-bottom...[516]...eight:120%\">.</span>",
-        "html_hash": "cba1a98f",
-        "level": 2
+        "html_hash": "cba1a98f"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"margin-top:3p...[357]...\"></td></tr></table>",
         "html_hash": "16343d71"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"height:42.75p...[98]...></span></div></div>",
         "html_hash": "ce4996b8"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "id=\"i89a6f703d15142c...[1]...bed03bbbc5198dc5_7\">",
         "html_hash": "87c302ff"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "hr",
         "text_preview": "",
         "html_preview": "style=\"page-break-after:always\"/>",
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"min-height:42...[27]...n><br/></span></div>",
         "html_hash": "d140b877"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Apple Inc.",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
-        "html_hash": "44c6dcf4",
-        "level": 1
+        "html_hash": "44c6dcf4"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"text-align:ce...[4]...\"><span><br/></span>",
         "html_hash": "e3014cd7"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "Form 10-Q",
         "html_preview": "style=\"text-align:ce...[112]...0%\">Form 10-Q</span>",
-        "html_hash": "b516902f",
-        "level": 1
+        "html_hash": "b516902f"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "For the Fiscal Quart...[1]...r Ended July\u00a01, 2023",
         "html_preview": "style=\"margin-top:6p...[160]...July\u00a01, 2023 </span>",
-        "html_hash": "793294ef",
-        "level": 1
+        "html_hash": "793294ef"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "TABLE OF CONTENTS",
         "html_preview": "style=\"margin-top:6p...[135]...E OF CONTENTS</span>",
-        "html_hash": "acd6741d",
-        "level": 0
+        "html_hash": "acd6741d"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"margin-top:6p...[19]...\"><span><br/></span>",
         "html_hash": "262e860a"
     },
     {
-        "cls_name": "TableOfContentsElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "table",
         "text_preview": "PagePart IItem 1.Fin...[469]...n21Item 6.Exhibits22",
         "html_preview": "style=\"border-collap...[16770]...pan></div></td></tr>",
-        "html_hash": "f2976395",
-        "metrics": {
-            "rows": 13,
-            "numbers": 22
-        }
+        "html_hash": "f2976395"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"height:42.75p...[98]...></span></div></div>",
         "html_hash": "ce4996b8"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "id=\"i89a6f703d15142c...[2]...ed03bbbc5198dc5_10\">",
         "html_hash": "e90e04fd"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "hr",
         "text_preview": "",
         "html_preview": "style=\"page-break-after:always\"/>",
         "html_hash": "45ab5d64"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "tag_name": "div",
         "text_preview": "",
         "html_preview": "style=\"min-height:42...[27]...n><br/></span></div>",
@@ -459,7 +429,7 @@
         "text_preview": "Apple Inc.",
         "html_preview": "style=\"margin-top:12...[129]...%\">Apple Inc.</span>",
         "html_hash": "f2cdf5a5",
-        "level": 1
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -467,7 +437,7 @@
         "text_preview": "CONDENSED CONSOLIDAT...[19]...ERATIONS (Unaudited)",
         "html_preview": "style=\"margin-top:9p...[177]...S (Unaudited)</span>",
         "html_hash": "b04b2bfc",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "SupplementaryText",
@@ -536,7 +506,7 @@
         "text_preview": "Apple Inc.",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
         "html_hash": "44c6dcf4",
-        "level": 1
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -544,7 +514,7 @@
         "text_preview": "CONDENSED CONSOLIDAT...[29]...E INCOME (Unaudited)",
         "html_preview": "style=\"margin-top:9p...[187]...E (Unaudited)</span>",
         "html_hash": "5a341fdc",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "SupplementaryText",
@@ -613,7 +583,7 @@
         "text_preview": "Apple Inc.",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
         "html_hash": "44c6dcf4",
-        "level": 1
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -621,7 +591,7 @@
         "text_preview": "CONDENSED CONSOLIDAT...[9]...E SHEETS (Unaudited)",
         "html_preview": "style=\"margin-top:9p...[167]...S (Unaudited)</span>",
         "html_hash": "c43d1e60",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "SupplementaryText",
@@ -690,7 +660,7 @@
         "text_preview": "Apple Inc.",
         "html_preview": "style=\"margin-top:12...[129]...%\">Apple Inc.</span>",
         "html_hash": "f2cdf5a5",
-        "level": 1
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -698,7 +668,7 @@
         "text_preview": "CONDENSED CONSOLIDAT...[29]...\u2019 EQUITY (Unaudited)",
         "html_preview": "style=\"margin-top:9p...[187]...Y (Unaudited)</span>",
         "html_hash": "6ea764a4",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "SupplementaryText",
@@ -767,7 +737,7 @@
         "text_preview": "Apple Inc.",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
         "html_hash": "44c6dcf4",
-        "level": 1
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -775,7 +745,7 @@
         "text_preview": "CONDENSED CONSOLIDAT...[19]...SH FLOWS (Unaudited)",
         "html_preview": "style=\"margin-top:9p...[177]...S (Unaudited)</span>",
         "html_hash": "366dea13",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "SupplementaryText",
@@ -844,7 +814,7 @@
         "text_preview": "Apple Inc.",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
         "html_hash": "44c6dcf4",
-        "level": 1
+        "level": 0
     },
     {
         "cls_name": "TitleElement",
@@ -852,7 +822,7 @@
         "text_preview": "Notes to Condensed C...[24]...atements (Unaudited)",
         "html_preview": "style=\"margin-top:9p...[182]...s (Unaudited)</span>",
         "html_hash": "5cb54760",
-        "level": 1
+        "level": 0
     },
     {
         "cls_name": "EmptyElement",
@@ -2896,7 +2866,7 @@
         "text_preview": "SIGNATURE",
         "html_preview": "style=\"text-align:ce...[112]...0%\">SIGNATURE</span>",
         "html_hash": "e59dfda6",
-        "level": 0
+        "level": 1
     },
     {
         "cls_name": "TextElement",
