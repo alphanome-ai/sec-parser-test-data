@@ -1,0 +1,18 @@
+{
+    "num_filings": "1",
+    "average_metrics": {
+        "f1_score": "93.33%",
+        "precision": "87.50%",
+        "recall": "100.00%"
+    },
+    "average_elements": {
+        "expected": "203",
+        "actual": "232",
+        "missing": "0",
+        "unexpected": "29"
+    },
+    "total_missing": {},
+    "total_unexpected": {
+        "TitleElement": 29
+    }
+}
