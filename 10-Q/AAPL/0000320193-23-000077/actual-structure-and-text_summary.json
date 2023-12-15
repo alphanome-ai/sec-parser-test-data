@@ -1,0 +1,179 @@
+{
+    "metrics": {
+        "total_expected": 203,
+        "total_actual": 232,
+        "total_missing": 1,
+        "total_unexpected": 30,
+        "precision": "87.07%",
+        "recall": "99.51%",
+        "f1_score": "92.87%",
+        "missing_elements_by_type": {
+            "TopLevelSectionTitle": 1
+        },
+        "unexpected_elements_by_type": {
+            "TopLevelSectionTitle": 1,
+            "TitleElement": 29
+        }
+    },
+    "missing_elements": [
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 0,
+            "section_type": "part1",
+            "text_content": "xPART I  —  FINANCIAL INFORMATION"
+        }
+    ],
+    "unexpected_elements": [
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 0,
+            "text_content": "PART I  —  FINANCIAL INFORMATION",
+            "section_type": "part1"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "Apple Inc."
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 1"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "Apple Inc."
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 2"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "Apple Inc."
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 3"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "Apple Inc."
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 4"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "Apple Inc."
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 5"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "Apple Inc."
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 6"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 7"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 8"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 9"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 10"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 11"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 12"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 13"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 14"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 15"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 16"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 17"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 18"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 19"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 20"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 21"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 22"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 23"
+        }
+    ]
+}
