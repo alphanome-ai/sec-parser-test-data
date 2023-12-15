@@ -2,34 +2,18 @@
     "metrics": {
         "total_expected": 203,
         "total_actual": 232,
-        "total_missing": 1,
-        "total_unexpected": 30,
-        "precision": "87.07%",
-        "recall": "99.51%",
-        "f1_score": "92.87%",
-        "missing_elements_by_type": {
-            "TopLevelSectionTitle": 1
-        },
+        "total_missing": 0,
+        "total_unexpected": 29,
+        "precision": "87.50%",
+        "recall": "100.00%",
+        "f1_score": "93.33%",
+        "missing_elements_by_type": {},
         "unexpected_elements_by_type": {
-            "TopLevelSectionTitle": 1,
             "TitleElement": 29
         }
     },
-    "missing_elements": [
-        {
-            "cls_name": "TopLevelSectionTitle",
-            "level": 0,
-            "section_type": "part1",
-            "text_content": "PART I  —  FINANCIAL INFORMATION"
-        }
-    ],
+    "missing_elements": [],
     "unexpected_elements": [
-        {
-            "cls_name": "TopLevelSectionTitle",
-            "level": 0,
-            "text_content": "PART I  —  FINANCIAL INFORMATION",
-            "section_type": "part1"
-        },
         {
             "cls_name": "TitleElement",
             "level": 0,
