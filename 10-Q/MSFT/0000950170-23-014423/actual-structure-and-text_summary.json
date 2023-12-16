@@ -1,0 +1,15 @@
+{
+    "metrics": {
+        "total_expected": 599,
+        "total_actual": 599,
+        "total_missing": 0,
+        "total_unexpected": 0,
+        "precision": "100.00%",
+        "recall": "100.00%",
+        "f1_score": "100.00%",
+        "missing_elements_by_type": {},
+        "unexpected_elements_by_type": {}
+    },
+    "missing_elements": [],
+    "unexpected_elements": []
+}
