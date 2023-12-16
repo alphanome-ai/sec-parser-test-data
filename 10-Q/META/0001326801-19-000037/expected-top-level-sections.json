@@ -1,0 +1,46 @@
+[
+    {
+        "identifier": "part1item1",
+        "character_count": 673342
+    },
+    {
+        "identifier": "part1item2",
+        "character_count": 235569
+    },
+    {
+        "identifier": "part1item3",
+        "character_count": 5192
+    },
+    {
+        "identifier": "part1item4",
+        "character_count": 4340
+    },
+    {
+        "identifier": "part2item1",
+        "character_count": 5187
+    },
+    {
+        "identifier": "part2item1a",
+        "character_count": 211336
+    },
+    {
+        "identifier": "part2item2",
+        "character_count": 21232
+    },
+    {
+        "identifier": "part2item3",
+        "character_count": 0
+    },
+    {
+        "identifier": "part2item4",
+        "character_count": 0
+    },
+    {
+        "identifier": "part2item5",
+        "character_count": 0
+    },
+    {
+        "identifier": "part2item6",
+        "character_count": 77192
+    }
+]
