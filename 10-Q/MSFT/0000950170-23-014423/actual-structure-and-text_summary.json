@@ -1,23 +1,128 @@
 {
     "metrics": {
-        "total_expected": 533,
+        "total_expected": 397,
         "total_actual": 599,
-        "total_missing": 0,
-        "total_unexpected": 66,
-        "precision": "88.98%",
-        "recall": "100.00%",
-        "f1_score": "94.17%",
-        "missing_elements_by_type": {},
+        "total_missing": 10,
+        "total_unexpected": 212,
+        "precision": "64.61%",
+        "recall": "97.48%",
+        "f1_score": "77.71%",
+        "missing_elements_by_type": {
+            "TopLevelSectionTitle": 8,
+            "TitleElement": 2
+        },
         "unexpected_elements_by_type": {
-            "TitleElement": 66
+            "TopLevelSectionTitle": 8,
+            "TitleElement": 204
         }
     },
-    "missing_elements": [],
+    "missing_elements": [
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 0,
+            "section_type": "part1",
+            "text_content": "PART I. FINANCIAL INFORMATION"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "section_type": "part1item1",
+            "text_content": "ITEM 1. FINANCIAL STATEMENTS"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "section_type": "part1item2",
+            "text_content": "ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "section_type": "part1item3",
+            "text_content": "ITEM 3. QUANTITATIVE AND QUALITATI"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "section_type": "part1item4",
+            "text_content": "ITEM 4. CONTROLS AND PROCEDURES"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "section_type": "part2item1",
+            "text_content": "PART II. OTHER INFORMATION"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "ITEM 1. LEGAL PROCEEDINGS"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "section_type": "part2item1a",
+            "text_content": "ITEM 1A. RISK FACTORS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "section_type": "part2item6",
+            "text_content": "ITEM 6. EXHIBITS"
+        }
+    ],
     "unexpected_elements": [
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 0,
+            "text_content": "PART I",
+            "section_type": "part1"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "text_content": "Item 1",
+            "section_type": "part1item1"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "PART I. FINANCI"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "AL INFORMATION"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "ITEM 1. FINANCI"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "AL STATEMENTS"
+        },
         {
             "cls_name": "TitleElement",
             "level": 1,
             "text_content": "3"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -26,8 +131,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "5"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -36,8 +161,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "7"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -46,8 +191,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "9"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -56,8 +221,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "11"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -66,8 +251,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "13"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -76,8 +281,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "15"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -86,8 +311,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "17"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -96,8 +341,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "19"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -106,8 +371,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "21"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -116,8 +401,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "23"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -126,8 +431,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "25"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -136,8 +461,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "27"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -146,8 +491,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "29"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
@@ -156,8 +521,34 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 1"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "31"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "text_content": "Item 2",
+            "section_type": "part1item2"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF"
         },
         {
             "cls_name": "TitleElement",
@@ -166,8 +557,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "33"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
@@ -176,8 +587,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "35"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
@@ -186,8 +617,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "37"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
@@ -196,8 +647,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "39"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
@@ -206,8 +677,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "41"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
@@ -216,8 +707,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "43"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
@@ -226,8 +737,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "45"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
@@ -236,8 +767,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "47"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
@@ -246,13 +797,87 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "Item 2"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "49"
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "text_content": "Item 3, 4",
+            "section_type": "part1item3"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "ITEM 3. QUANTITATIVE AND QUALITATI"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "text_content": "ITEM 4. CONTROLS",
+            "section_type": "part1item4"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "AND PROCEDURES"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "50"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "text_content": "Item 1, 1A",
+            "section_type": "part2item1"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "PART II. OTHER"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "INFORMATION"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "ITEM 1. LEGAL"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "PROCEEDINGS"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "text_content": "ITEM 1A. RI",
+            "section_type": "part2item1a"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "SK FACTORS"
         },
         {
             "cls_name": "TitleElement",
@@ -261,8 +886,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "52"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
         },
         {
             "cls_name": "TitleElement",
@@ -271,8 +916,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "54"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
         },
         {
             "cls_name": "TitleElement",
@@ -281,8 +946,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "56"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
         },
         {
             "cls_name": "TitleElement",
@@ -291,8 +976,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "58"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
         },
         {
             "cls_name": "TitleElement",
@@ -301,8 +1006,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "60"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
         },
         {
             "cls_name": "TitleElement",
@@ -311,8 +1036,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "62"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
         },
         {
             "cls_name": "TitleElement",
@@ -321,8 +1066,28 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "64"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 9,
+            "text_content": "Item 1A"
         },
         {
             "cls_name": "TitleElement",
@@ -331,8 +1096,44 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "ITEM 2. UNREGISTERED SALES OF EQUI"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "TY SECURITIES AND USE OF PROCEEDS"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 1,
             "text_content": "66"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "PART II"
+        },
+        {
+            "cls_name": "TopLevelSectionTitle",
+            "level": 1,
+            "text_content": "Item 6",
+            "section_type": "part2item6"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "ITEM 6. E"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "XHIBITS"
         },
         {
             "cls_name": "TitleElement",
