@@ -1,18 +1,18 @@
 {
     "num_filings": "5",
     "average_metrics": {
-        "f1_score": "98.67%",
-        "precision": "97.50%",
+        "f1_score": "97.50%",
+        "precision": "95.30%",
         "recall": "100.00%"
     },
     "average_elements": {
-        "expected": "435.8",
+        "expected": "422.6",
         "actual": "441.6",
         "missing": "0",
-        "unexpected": "5.8"
+        "unexpected": "19"
     },
     "total_missing": {},
     "total_unexpected": {
-        "TitleElement": 29
+        "TitleElement": 95
     }
 }
