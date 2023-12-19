@@ -1,6 +1,6 @@
 ```
 # Step 0 (run .py)
-original
+original sec-parser output as JSON
 + .py script
 = postprocess_expected_structure_and_text.py.original_step0.json
 
