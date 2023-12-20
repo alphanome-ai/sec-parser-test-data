@@ -1,22 +1,23 @@
 {
-    "num_filings": "2",
+    "num_filings": "5",
     "average_metrics": {
-        "f1_score": "85.52%",
-        "precision": "76.06%",
-        "recall": "98.74%"
+        "f1_score": "90.03%",
+        "precision": "82.86%",
+        "recall": "99.50%"
     },
     "average_elements": {
-        "expected": "300",
-        "actual": "415.5",
-        "missing": "5",
-        "unexpected": "120.5"
+        "expected": "358.4",
+        "actual": "441.6",
+        "missing": "2",
+        "unexpected": "85.2"
     },
     "total_missing": {
         "TopLevelSectionTitle": 8,
         "TitleElement": 2
     },
     "total_unexpected": {
-        "TitleElement": 233,
+        "TitleElement": 343,
+        "TextElement": 75,
         "TopLevelSectionTitle": 8
     }
 }
