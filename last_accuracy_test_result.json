@@ -1,5 +1,11 @@
 {
-    "num_filings": "5",
+    "num_filings": {
+        "total": 5,
+        "perfect_f1_score": 0,
+        "perfect_recall": 0,
+        "ratio_perfect_f1_score": "0.00%",
+        "ratio_perfect_recall": "0.00%"
+    },
     "average_metrics": {
         "f1_score": "90.03%",
         "precision": "82.86%",
