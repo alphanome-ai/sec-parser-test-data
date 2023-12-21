@@ -398,10 +398,11 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "PageHeaderElement",
+        "cls_name": "SupplementaryText",
         "html_hash": "0c07db60",
         "html_preview": "style=\"text-indent:0...[453]...t-content;'> </span>",
-        "tag_name": "p"
+        "tag_name": "p",
+        "text_content": "Refer to accompanying notes."
     },
     {
         "cls_name": "PageNumberElement",
@@ -464,10 +465,11 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "PageHeaderElement",
+        "cls_name": "SupplementaryText",
         "html_hash": "0c07db60",
         "html_preview": "style=\"text-indent:0...[453]...t-content;'> </span>",
-        "tag_name": "p"
+        "tag_name": "p",
+        "text_content": "Refer to accompanying notes."
     },
     {
         "cls_name": "PageNumberElement",
@@ -530,10 +532,11 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "PageHeaderElement",
+        "cls_name": "SupplementaryText",
         "html_hash": "dc33becd",
         "html_preview": "style=\"text-indent:0...[299]...anying notes.</span>",
-        "tag_name": "p"
+        "tag_name": "p",
+        "text_content": "Refer to accompanying notes."
     },
     {
         "cls_name": "PageNumberElement",
@@ -596,10 +599,11 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "PageHeaderElement",
+        "cls_name": "SupplementaryText",
         "html_hash": "dc33becd",
         "html_preview": "style=\"text-indent:0...[299]...anying notes.</span>",
-        "tag_name": "p"
+        "tag_name": "p",
+        "text_content": "Refer to accompanying notes."
     },
     {
         "cls_name": "PageNumberElement",
@@ -662,10 +666,11 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "PageHeaderElement",
+        "cls_name": "SupplementaryText",
         "html_hash": "dc33becd",
         "html_preview": "style=\"text-indent:0...[299]...anying notes.</span>",
-        "tag_name": "p"
+        "tag_name": "p",
+        "text_content": "Refer to accompanying notes."
     },
     {
         "cls_name": "PageNumberElement",

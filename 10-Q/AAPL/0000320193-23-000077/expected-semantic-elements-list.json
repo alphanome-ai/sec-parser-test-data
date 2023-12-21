@@ -403,10 +403,11 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageHeaderElement",
+        "cls_name": "SupplementaryText",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
-        "tag_name": "div"
+        "tag_name": "div",
+        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
     },
     {
         "cls_name": "PageNumberElement",
@@ -470,10 +471,11 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageHeaderElement",
+        "cls_name": "SupplementaryText",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
-        "tag_name": "div"
+        "tag_name": "div",
+        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
     },
     {
         "cls_name": "PageNumberElement",
@@ -537,10 +539,11 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageHeaderElement",
+        "cls_name": "SupplementaryText",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
-        "tag_name": "div"
+        "tag_name": "div",
+        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
     },
     {
         "cls_name": "PageNumberElement",
@@ -604,10 +607,11 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageHeaderElement",
+        "cls_name": "SupplementaryText",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
-        "tag_name": "div"
+        "tag_name": "div",
+        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
     },
     {
         "cls_name": "PageNumberElement",
@@ -671,10 +675,11 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageHeaderElement",
+        "cls_name": "SupplementaryText",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
-        "tag_name": "div"
+        "tag_name": "div",
+        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
     },
     {
         "cls_name": "PageNumberElement",
