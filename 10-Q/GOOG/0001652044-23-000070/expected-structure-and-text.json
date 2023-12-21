@@ -18,7 +18,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "CONSOLIDATED BALANCE SHEETS"
     },
     {
@@ -29,12 +29,8 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "See accompanying notes."
-    },
-    {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "CONSOLIDATED STATEMENTS OF INCOME"
     },
     {
@@ -45,12 +41,8 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "See accompanying notes."
-    },
-    {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME"
     },
     {
@@ -61,12 +53,8 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "See accompanying notes."
-    },
-    {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "CONSOLIDATED STATEMENTS OF STOCKHOLDERS\u2019 EQUITY"
     },
     {
@@ -86,12 +74,8 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "See accompanying notes."
-    },
-    {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "CONSOLIDATED STATEMENTS OF CASH FLOWS"
     },
     {
@@ -102,12 +86,8 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "See accompanying notes."
-    },
-    {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS"
     },
     {
@@ -116,12 +96,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 1.    Summary of Significant Accounting Policies"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Nature of Operations"
     },
     {
@@ -130,7 +110,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Basis of Consolidation"
     },
     {
@@ -139,7 +119,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Unaudited Interim Financial Information"
     },
     {
@@ -152,7 +132,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Change in Accounting Estimate"
     },
     {
@@ -161,7 +141,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Prior Period Reclassifications"
     },
     {
@@ -170,12 +150,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 2.    Revenues"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Disaggregated Revenues"
     },
     {
@@ -198,7 +178,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Revenue Backlog"
     },
     {
@@ -207,7 +187,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Deferred Revenues"
     },
     {
@@ -216,17 +196,17 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 3.    Financial Instruments"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Fair Value Measurements"
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Investments Measured at Fair Value on a Recurring Basis"
     },
     {
@@ -257,7 +237,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Investments Measured at Fair Value on a Nonrecurring Basis"
     },
     {
@@ -266,11 +246,11 @@
     },
     {
         "cls_name": "TextElement",
-        "text_content": "As of June 30, 2023 the carrying value of our non-marketable equity securities was $29.1 billion, of which $1.5 billion were remeasured at fair value during the three months ended June 30, 2023 and primarily classified as Level 3.Table of ContentsAlphabet Inc."
+        "text_content": "As of June 30, 2023 the carrying value of our non-marketable equity securities was $29.1 billion, of which $1.5 billion were remeasured at fair value during the three months ended June 30, 2023 and primarily classified as Level 3."
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Debt Securities"
     },
     {
@@ -299,7 +279,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Equity Investments"
     },
     {
@@ -319,7 +299,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Gains and Losses on Marketable and Non-marketable Equity Securities"
     },
     {
@@ -342,7 +322,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Equity Securities Accounted for Under the Equity Method"
     },
     {
@@ -351,7 +331,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Derivative Financial Instruments"
     },
     {
@@ -360,7 +340,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Cash Flow Hedges"
     },
     {
@@ -369,7 +349,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Fair Value Hedges"
     },
     {
@@ -378,7 +358,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Net Investment Hedges"
     },
     {
@@ -387,7 +367,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Other Derivatives"
     },
     {
@@ -431,7 +411,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Offsetting of Derivatives"
     },
     {
@@ -454,12 +434,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 4.    Variable Interest Entities (VIE)"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Consolidated VIEs"
     },
     {
@@ -468,7 +448,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Unconsolidated VIEs"
     },
     {
@@ -477,12 +457,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 5.    Debt"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Short-Term Debt"
     },
     {
@@ -491,7 +471,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Long-Term Debt"
     },
     {
@@ -511,7 +491,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Credit Facility"
     },
     {
@@ -520,12 +500,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 6.    Supplemental Financial Statement Information"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Accounts Receivable"
     },
     {
@@ -534,7 +514,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Property and Equipment, Net"
     },
     {
@@ -546,7 +526,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Accrued Expenses and Other Current Liabilities"
     },
     {
@@ -562,7 +542,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Accumulated Other Comprehensive Income (Loss)"
     },
     {
@@ -584,7 +564,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Other Income (Expense), Net"
     },
     {
@@ -600,7 +580,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 7.    Workforce Reduction and Other Initiatives"
     },
     {
@@ -635,12 +615,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 8.    Goodwill and Other Intangible Assets"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Goodwill"
     },
     {
@@ -652,7 +632,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Other Intangible Assets"
     },
     {
@@ -675,12 +655,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 9.    Commitments and Contingencies"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Commitments"
     },
     {
@@ -689,7 +669,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Indemnifications"
     },
     {
@@ -698,7 +678,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Legal Matters"
     },
     {
@@ -707,7 +687,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Antitrust Investigations"
     },
     {
@@ -720,7 +700,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Patent and Intellectual Property Claims"
     },
     {
@@ -729,7 +709,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Other"
     },
     {
@@ -738,7 +718,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Non-Income Taxes"
     },
     {
@@ -747,12 +727,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 10.    Stockholders' Equity"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Share Repurchases"
     },
     {
@@ -776,7 +756,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 11.    Net Income Per Share"
     },
     {
@@ -795,12 +775,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 12.    Compensation Plans"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Stock-Based Compensation"
     },
     {
@@ -809,7 +789,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Stock-Based Award Activities"
     },
     {
@@ -821,11 +801,11 @@
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Table of ContentsAlphabet Inc.As of June\u00a030, 2023, there was $43.6 billion of unrecognized compensation cost related to unvested RSUs. This amount is expected to be recognized over a weighted-average period of 2.8 years."
+        "text_content": "As of June\u00a030, 2023, there was $43.6 billion of unrecognized compensation cost related to unvested RSUs. This amount is expected to be recognized over a weighted-average period of 2.8 years."
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 13.    Income Taxes"
     },
     {
@@ -841,7 +821,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Note 14.    Information about Segments and Geographic Areas"
     },
     {
@@ -886,7 +866,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Understanding Alphabet\u2019s Financial Results"
     },
     {
@@ -895,7 +875,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Revenues and Monetization Metrics"
     },
     {
@@ -904,7 +884,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Google Services"
     },
     {
@@ -913,16 +893,16 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 5,
+        "level": 4,
         "text_content": "Google Advertising"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Google advertising revenues are comprised of the following: \u2022Google Search & other, which includes revenues generated on Google search properties (including revenues from traffic generated by search distribution partners who use Google.com as their default search in browsers, toolbars, etc.), and other Google owned and operated properties like Gmail, Google Maps, and Google Play;\u2022YouTube ads, which includes revenues generated on YouTube properties; and\u2022Google Network, which includes revenues generated on Google Network properties participating in AdMob, AdSense, and Google Ad Manager.We use certain metrics to track how well traffic across various properties is monetized as it relates to our advertising revenues: paid clicks and cost-per-click pertain to traffic on Google Search & other properties, while impressions and cost-per-impression pertain to traffic on our Google Network properties.Paid clicks represent engagement by users and include clicks on advertisements by end-users on Google search properties and other Google owned and operated properties including Gmail, Google Maps, and Google Table of ContentsAlphabet Inc.Play. Cost-per-click is defined as click-driven revenues divided by our total number of paid clicks and represents the average amount we charge advertisers for each engagement by users.Impressions include impressions displayed to users on Google Network properties participating primarily in AdMob, AdSense, and Google Ad Manager. Cost-per-impression is defined as impression-based and click-based revenues divided by our total number of impressions, and represents the average amount we charge advertisers for each impression displayed to users.As our business evolves, we periodically review, refine, and update our methodologies for monitoring, gathering, and counting the number of paid clicks and the number of impressions, and for identifying the revenues generated by the corresponding click and impression activity.Fluctuations in our advertising revenues, as well as the change in paid clicks and cost-per-click on Google Search & other properties and the change in impressions and cost-per-impression on Google Network properties and the correlation between these items have been and may continue to be affected by additional factors, such as:\u2022advertiser competition for keywords;\u2022changes in advertising quality, formats, delivery or policy;\u2022changes in device mix;\u2022seasonal fluctuations in internet usage, advertising expenditures, and underlying business trends, such as traditional retail seasonality; and\u2022traffic growth in emerging markets compared to more mature markets and across various verticals and channels."
+        "text_content": "Google advertising revenues are comprised of the following: \u2022Google Search & other, which includes revenues generated on Google search properties (including revenues from traffic generated by search distribution partners who use Google.com as their default search in browsers, toolbars, etc.), and other Google owned and operated properties like Gmail, Google Maps, and Google Play;\u2022YouTube ads, which includes revenues generated on YouTube properties; and\u2022Google Network, which includes revenues generated on Google Network properties participating in AdMob, AdSense, and Google Ad Manager.We use certain metrics to track how well traffic across various properties is monetized as it relates to our advertising revenues: paid clicks and cost-per-click pertain to traffic on Google Search & other properties, while impressions and cost-per-impression pertain to traffic on our Google Network properties.Paid clicks represent engagement by users and include clicks on advertisements by end-users on Google search properties and other Google owned and operated properties including Gmail, Google Maps, and Google Play. Cost-per-click is defined as click-driven revenues divided by our total number of paid clicks and represents the average amount we charge advertisers for each engagement by users.Impressions include impressions displayed to users on Google Network properties participating primarily in AdMob, AdSense, and Google Ad Manager. Cost-per-impression is defined as impression-based and click-based revenues divided by our total number of impressions, and represents the average amount we charge advertisers for each impression displayed to users.As our business evolves, we periodically review, refine, and update our methodologies for monitoring, gathering, and counting the number of paid clicks and the number of impressions, and for identifying the revenues generated by the corresponding click and impression activity.Fluctuations in our advertising revenues, as well as the change in paid clicks and cost-per-click on Google Search & other properties and the change in impressions and cost-per-impression on Google Network properties and the correlation between these items have been and may continue to be affected by additional factors, such as:\u2022advertiser competition for keywords;\u2022changes in advertising quality, formats, delivery or policy;\u2022changes in device mix;\u2022seasonal fluctuations in internet usage, advertising expenditures, and underlying business trends, such as traditional retail seasonality; and\u2022traffic growth in emerging markets compared to more mature markets and across various verticals and channels."
     },
     {
         "cls_name": "TitleElement",
-        "level": 5,
+        "level": 4,
         "text_content": "Google Other"
     },
     {
@@ -931,7 +911,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Google Cloud"
     },
     {
@@ -940,7 +920,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Other Bets"
     },
     {
@@ -949,16 +929,16 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Costs and Expenses"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Our cost structure has two components: cost of revenues and operating expenses. Our operating expenses include costs related to R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated with the operation of our technical infrastructure as well as components of our operating expenses, are generally less variable in nature and may not correlate to changes in revenue.Table of ContentsAlphabet Inc."
+        "text_content": "Our cost structure has two components: cost of revenues and operating expenses. Our operating expenses include costs related to R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated with the operation of our technical infrastructure as well as components of our operating expenses, are generally less variable in nature and may not correlate to changes in revenue."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Cost of Revenues"
     },
     {
@@ -967,7 +947,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Operating Expenses"
     },
     {
@@ -976,12 +956,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Other Income (Expense), Net"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Other income (expense), net primarily consists of interest income (expense), the effect of foreign currency exchange gains (losses), net gains (losses) and impairment on our marketable and non-marketable securities, performance fees, and income (loss) and impairment from our equity method investments.For additional details, including how we account for our investments and factors that can drive fluctuations in the value of our investments, see Note 1 of the Notes to Consolidated Financial Statements included in Part II, Item 8 and Item 7A, \u201cQuantitative and Qualitative Disclosures About Market Risk\u201d in our Annual Report on Form 10-K for Table of ContentsAlphabet Inc."
+        "text_content": "Other income (expense), net primarily consists of interest income (expense), the effect of foreign currency exchange gains (losses), net gains (losses) and impairment on our marketable and non-marketable securities, performance fees, and income (loss) and impairment from our equity method investments.For additional details, including how we account for our investments and factors that can drive fluctuations in the value of our investments, see Note 1 of the Notes to Consolidated Financial Statements included in Part II, Item 8 and Item 7A, \u201cQuantitative and Qualitative Disclosures About Market Risk\u201d in our Annual Report on Form 10-K for"
     },
     {
         "cls_name": "SupplementaryText",
@@ -989,7 +969,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Provision for Income Taxes"
     },
     {
@@ -1002,7 +982,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Executive Overview"
     },
     {
@@ -1018,21 +998,21 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Other Information"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "\u2022In January 2023, we announced a reduction of our workforce, and as a result we recorded employee severance and related charges of $2.0 billion for the six months ended June 30, 2023. In addition, we are taking actions to optimize our global office space. As a result, total charges recorded during the six months ended June 30, 2023 were $633 million, of which $564 million and $69 million were recorded during the three months ended March 31, 2023 and June 30, 2023, respectively. We may incur additional charges in Table of ContentsAlphabet Inc.the future as we further evaluate our real estate needs. For additional information, see Note 7 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.\u2022In January 2023, we completed an assessment of the useful lives of our servers and network equipment, resulting in a change in the estimated useful life of our servers and certain network equipment to six years. The effect of this change was a reduction in depreciation expense of $966 million and $2.0 billion for the three and six months ended June 30, 2023, respectively, recognized primarily in cost of revenues and R&D expenses. For additional information, see Note 1 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.\u2022Repurchases of Class A and Class C shares were $15.1 billion for the three months ended June 30, 2023. See Note 10 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q for additional information.\u2022Operating cash flow was $28.7 billion for the three months ended June 30, 2023, and was affected by the 2023 IRS payment deferral relief made available to tax payers headquartered in designated counties in California.\u2022Capital expenditures, which primarily reflected investments in technical infrastructure, were $6.9 billion for the three months ended June 30, 2023.\u2022As of June\u00a030, 2023, we had 181,798 employees. The substantial majority of the employees affected by the reduction of our workforce are no longer included in our headcount as of June 30, 2023. We expect most of the remaining employees affected will no longer be reflected in our headcount by the end of 2023, subject to local law and consultation requirements.Table of ContentsAlphabet Inc."
+        "text_content": "\u2022In January 2023, we announced a reduction of our workforce, and as a result we recorded employee severance and related charges of $2.0 billion for the six months ended June 30, 2023. In addition, we are taking actions to optimize our global office space. As a result, total charges recorded during the six months ended June 30, 2023 were $633 million, of which $564 million and $69 million were recorded during the three months ended March 31, 2023 and June 30, 2023, respectively. We may incur additional charges in the future as we further evaluate our real estate needs. For additional information, see Note 7 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.\u2022In January 2023, we completed an assessment of the useful lives of our servers and network equipment, resulting in a change in the estimated useful life of our servers and certain network equipment to six years. The effect of this change was a reduction in depreciation expense of $966 million and $2.0 billion for the three and six months ended June 30, 2023, respectively, recognized primarily in cost of revenues and R&D expenses. For additional information, see Note 1 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.\u2022Repurchases of Class A and Class C shares were $15.1 billion for the three months ended June 30, 2023. See Note 10 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q for additional information.\u2022Operating cash flow was $28.7 billion for the three months ended June 30, 2023, and was affected by the 2023 IRS payment deferral relief made available to tax payers headquartered in designated counties in California.\u2022Capital expenditures, which primarily reflected investments in technical infrastructure, were $6.9 billion for the three months ended June 30, 2023.\u2022As of June\u00a030, 2023, we had 181,798 employees. The substantial majority of the employees affected by the reduction of our workforce are no longer included in our headcount as of June 30, 2023. We expect most of the remaining employees affected will no longer be reflected in our headcount by the end of 2023, subject to local law and consultation requirements."
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Financial Results"
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Revenues"
     },
     {
@@ -1044,17 +1024,17 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Google Services"
     },
     {
         "cls_name": "TitleElement",
-        "level": 5,
+        "level": 4,
         "text_content": "Google advertising revenues"
     },
     {
         "cls_name": "TitleElement",
-        "level": 6,
+        "level": 5,
         "text_content": "Google Search & other"
     },
     {
@@ -1063,7 +1043,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 6,
+        "level": 5,
         "text_content": "YouTube ads"
     },
     {
@@ -1072,7 +1052,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 6,
+        "level": 5,
         "text_content": "Google Network"
     },
     {
@@ -1081,12 +1061,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 5,
+        "level": 4,
         "text_content": "Monetization Metrics"
     },
     {
         "cls_name": "TitleElement",
-        "level": 6,
+        "level": 5,
         "text_content": "Paid clicks and cost-per-click"
     },
     {
@@ -1098,11 +1078,11 @@
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Table of ContentsAlphabet Inc.Paid clicks increased from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023 driven by a number of interrelated factors, including an increase in search queries resulting from growth in user adoption and usage on mobile devices; growth in advertiser spending; and ongoing product and policy changes.Cost-per-click decreased from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023 driven by a number of interrelated factors including changes in device mix, geographic mix, advertiser spending, ongoing product and policy changes, and property mix. Additionally, cost-per-click was adversely affected by changes in foreign currency exchange rates for the six months ended June 30, 2023 and, to a lesser extent, for the three months ended June 30, 2023."
+        "text_content": "Paid clicks increased from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023 driven by a number of interrelated factors, including an increase in search queries resulting from growth in user adoption and usage on mobile devices; growth in advertiser spending; and ongoing product and policy changes.Cost-per-click decreased from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023 driven by a number of interrelated factors including changes in device mix, geographic mix, advertiser spending, ongoing product and policy changes, and property mix. Additionally, cost-per-click was adversely affected by changes in foreign currency exchange rates for the six months ended June 30, 2023 and, to a lesser extent, for the three months ended June 30, 2023."
     },
     {
         "cls_name": "TitleElement",
-        "level": 6,
+        "level": 5,
         "text_content": "Impressions and cost-per-impression"
     },
     {
@@ -1118,7 +1098,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 5,
+        "level": 4,
         "text_content": "Google other revenues"
     },
     {
@@ -1127,16 +1107,16 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Google Cloud"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Google Cloud revenues increased $1.8 billion and $3.4 billion from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023, respectively. Growth was primarily driven by Google Cloud Platform followed by Google Workspace offerings. Google Cloud's infrastructure and platform services were the largest drivers of growth in Google Cloud Platform.Table of ContentsAlphabet Inc."
+        "text_content": "Google Cloud revenues increased $1.8 billion and $3.4 billion from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023, respectively. Growth was primarily driven by Google Cloud Platform followed by Google Workspace offerings. Google Cloud's infrastructure and platform services were the largest drivers of growth in Google Cloud Platform."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Revenues by Geography"
     },
     {
@@ -1152,12 +1132,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Use of Non-GAAP Constant Currency Information"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "International revenues, which represent a significant portion of our revenues, are generally transacted in multiple currencies and\u00a0therefore are affected by fluctuations in foreign currency exchange rates.The effect of currency exchange rates on our business is an important factor in understanding period-to-period comparisons. We use non-GAAP constant currency revenues (\"constant currency revenues\") and non-GAAP percentage change in constant currency revenues (\"percentage change in constant currency revenues\") for financial and operational decision-making and as a means to evaluate period-to-period comparisons. We believe the presentation of results on a constant currency basis in addition to GAAP results helps improve the ability to understand our performance, because it excludes the effects of foreign currency volatility that are not indicative of our core operating results.Constant currency information compares results between periods as if exchange rates had remained constant period over period. We define constant currency revenues as revenues excluding the effect of foreign currency exchange rate movements (\"FX Effect\") as well as hedging activities, which are recognized at the consolidated level. We use constant currency revenues to determine the constant currency revenue percentage change on a year-on-year basis. Constant currency revenues are calculated by translating current period revenues using prior year comparable period exchange rates, as well as excluding any hedging effects realized in the current period.Constant currency revenue percentage change is calculated by determining the change in current period revenues over prior year comparable period revenues where current period foreign currency revenues are translated using prior year comparable period exchange rates and hedging effects are excluded from revenues of both periods.These results should be considered in addition to, not as a substitute for, results reported in accordance with GAAP. Results on a constant currency basis, as we present them, may not be comparable to similarly titled measures used by other companies and are not a measure of performance presented in accordance with GAAP.Table of ContentsAlphabet Inc.The following table presents the foreign currency exchange effect on international revenues and total revenues (in millions, except percentages):"
+        "text_content": "International revenues, which represent a significant portion of our revenues, are generally transacted in multiple currencies and\u00a0therefore are affected by fluctuations in foreign currency exchange rates.The effect of currency exchange rates on our business is an important factor in understanding period-to-period comparisons. We use non-GAAP constant currency revenues (\"constant currency revenues\") and non-GAAP percentage change in constant currency revenues (\"percentage change in constant currency revenues\") for financial and operational decision-making and as a means to evaluate period-to-period comparisons. We believe the presentation of results on a constant currency basis in addition to GAAP results helps improve the ability to understand our performance, because it excludes the effects of foreign currency volatility that are not indicative of our core operating results.Constant currency information compares results between periods as if exchange rates had remained constant period over period. We define constant currency revenues as revenues excluding the effect of foreign currency exchange rate movements (\"FX Effect\") as well as hedging activities, which are recognized at the consolidated level. We use constant currency revenues to determine the constant currency revenue percentage change on a year-on-year basis. Constant currency revenues are calculated by translating current period revenues using prior year comparable period exchange rates, as well as excluding any hedging effects realized in the current period.Constant currency revenue percentage change is calculated by determining the change in current period revenues over prior year comparable period revenues where current period foreign currency revenues are translated using prior year comparable period exchange rates and hedging effects are excluded from revenues of both periods.These results should be considered in addition to, not as a substitute for, results reported in accordance with GAAP. Results on a constant currency basis, as we present them, may not be comparable to similarly titled measures used by other companies and are not a measure of performance presented in accordance with GAAP.The following table presents the foreign currency exchange effect on international revenues and total revenues (in millions, except percentages):"
     },
     {
         "cls_name": "TableElement"
@@ -1171,16 +1151,16 @@
     },
     {
         "cls_name": "TextElement",
-        "text_content": "(1)Total constant currency revenues of $147.6 billion for the six months ended June 30, 2023 increased $10.6 billion compared to $137.0 billion in revenues, excluding hedging effect, for the six months ended June 30, 2022.EMEA revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the British pound and the Euro.APAC revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Japanese yen.Other Americas revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Argentine peso.Table of ContentsAlphabet Inc."
+        "text_content": "(1)Total constant currency revenues of $147.6 billion for the six months ended June 30, 2023 increased $10.6 billion compared to $137.0 billion in revenues, excluding hedging effect, for the six months ended June 30, 2022.EMEA revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the British pound and the Euro.APAC revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Japanese yen.Other Americas revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Argentine peso."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Costs and Expenses"
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Cost of Revenues"
     },
     {
@@ -1196,7 +1176,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Research and Development"
     },
     {
@@ -1208,11 +1188,11 @@
     },
     {
         "cls_name": "TextElement",
-        "text_content": "R&D expenses increased $747 million from the three months ended June 30, 2022 to the three months ended June 30, 2023 primarily driven by an increase in compensation expenses of $356 million and an increase in depreciation of $168 million. The $356 million increase in compensation expenses was largely the result of a 6% increase in average headcount, after adjusting for roles affected by the reduction in workforce, partially offset by a reduction in valuation-based compensation liabilities related to certain Other Bets. The $168 million increase in depreciation includes the benefit of the change in the estimated useful lives of our servers and network equipment.R&D expenses increased $3.1 billion from the six months ended June 30, 2022 to the six months ended June 30, 2023 primarily driven by an increase in compensation expenses of $2.0 billion and an increase in depreciation of $294 million. The $2.0 billion increase in compensation expenses was largely the result of a 10% increase in average headcount, after adjusting for roles affected by the reduction in workforce, and $832 million in employee Table of ContentsAlphabet Inc.severance charges associated with the reduction of our workforce. The $294 million increase in depreciation includes the benefit of the change in the estimated useful lives of our servers and network equipment."
+        "text_content": "R&D expenses increased $747 million from the three months ended June 30, 2022 to the three months ended June 30, 2023 primarily driven by an increase in compensation expenses of $356 million and an increase in depreciation of $168 million. The $356 million increase in compensation expenses was largely the result of a 6% increase in average headcount, after adjusting for roles affected by the reduction in workforce, partially offset by a reduction in valuation-based compensation liabilities related to certain Other Bets. The $168 million increase in depreciation includes the benefit of the change in the estimated useful lives of our servers and network equipment.R&D expenses increased $3.1 billion from the six months ended June 30, 2022 to the six months ended June 30, 2023 primarily driven by an increase in compensation expenses of $2.0 billion and an increase in depreciation of $294 million. The $2.0 billion increase in compensation expenses was largely the result of a 10% increase in average headcount, after adjusting for roles affected by the reduction in workforce, and $832 million in employee severance charges associated with the reduction of our workforce. The $294 million increase in depreciation includes the benefit of the change in the estimated useful lives of our servers and network equipment."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Sales and Marketing"
     },
     {
@@ -1228,7 +1208,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "General and Administrative"
     },
     {
@@ -1244,7 +1224,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Segment Profitability"
     },
     {
@@ -1256,11 +1236,11 @@
     },
     {
         "cls_name": "TextElement",
-        "text_content": "(1)In addition to the Alphabet-level costs included in unallocated corporate costs, hedging gains (losses) related to revenue were $375 million and $3 million for the three months ended June 30, 2022 and 2023, respectively, and $653 million and $87 million for the six months ended June 30, 2022 and 2023, respectively. For the three and six months ended June 30, 2023, unallocated corporate costs include charges related to the reductions in our workforce and office space totaling $70 million and $2.6 billion, respectively. Table of ContentsAlphabet Inc."
+        "text_content": "(1)In addition to the Alphabet-level costs included in unallocated corporate costs, hedging gains (losses) related to revenue were $375 million and $3 million for the three months ended June 30, 2022 and 2023, respectively, and $653 million and $87 million for the six months ended June 30, 2022 and 2023, respectively. For the three and six months ended June 30, 2023, unallocated corporate costs include charges related to the reductions in our workforce and office space totaling $70 million and $2.6 billion, respectively."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Google Services"
     },
     {
@@ -1269,7 +1249,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Google Cloud"
     },
     {
@@ -1278,7 +1258,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Other Bets"
     },
     {
@@ -1287,7 +1267,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Other Income (Expense), Net"
     },
     {
@@ -1300,7 +1280,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Provision for Income Taxes"
     },
     {
@@ -1316,12 +1296,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Financial Condition"
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Cash, Cash Equivalents, and Marketable Securities"
     },
     {
@@ -1330,7 +1310,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Sources, Uses of Cash and Related Trends"
     },
     {
@@ -1342,16 +1322,16 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Cash Provided by Operating Activities"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Our largest source of cash provided by operations are advertising revenues generated by Google Search & other properties, Google Network properties, and YouTube properties. Additionally, we generate cash through sales of apps and in-app purchases, and hardware; and licensing and service fees, including fees received for Google Cloud offerings and subscription-based products.Our primary uses of cash from operating activities include payments to distribution and Google Network partners, to employees for compensation, and to content providers. Other uses of cash from operating activities include payments to suppliers for hardware, to tax authorities for income taxes, and other general corporate expenditures.Net cash provided by operating activities increased from the six months ended June 30, 2022 to the six months ended June 30, 2023 due to the 2023 IRS payment deferral relief made available to taxpayers Table of ContentsAlphabet Inc.headquartered in designated counties in California, partially offset by increased cash payments for costs and expenses."
+        "text_content": "Our largest source of cash provided by operations are advertising revenues generated by Google Search & other properties, Google Network properties, and YouTube properties. Additionally, we generate cash through sales of apps and in-app purchases, and hardware; and licensing and service fees, including fees received for Google Cloud offerings and subscription-based products.Our primary uses of cash from operating activities include payments to distribution and Google Network partners, to employees for compensation, and to content providers. Other uses of cash from operating activities include payments to suppliers for hardware, to tax authorities for income taxes, and other general corporate expenditures.Net cash provided by operating activities increased from the six months ended June 30, 2022 to the six months ended June 30, 2023 due to the 2023 IRS payment deferral relief made available to taxpayers headquartered in designated counties in California, partially offset by increased cash payments for costs and expenses."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Cash Used in Investing Activities"
     },
     {
@@ -1360,7 +1340,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Cash Used in Financing Activities"
     },
     {
@@ -1369,7 +1349,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Liquidity and Material Cash Requirements"
     },
     {
@@ -1378,7 +1358,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Capital Expenditures and Leases"
     },
     {
@@ -1387,7 +1367,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 5,
+        "level": 4,
         "text_content": "Capital Expenditures"
     },
     {
@@ -1396,16 +1376,16 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 5,
+        "level": 4,
         "text_content": "Leases"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "For the six months ended June 30, 2022 and 2023, we recognized total operating lease assets of $2.2 billion and $1.7 billion, respectively. As of June\u00a030, 2023, the amount of total future lease payments under operating leases, which had a weighted average remaining lease term of 8.2 years, was $18.2 billion. As of June\u00a030, 2023, we have entered into leases that have not yet commenced with future lease payments of $2.9 billion, that are not yet recorded on our Consolidated Balance Sheets. These leases will commence between 2023 and 2027 with non-cancelable lease terms of 1 to 34 years. As of June\u00a030, 2023 our actions to optimize our office space did not affect our operating lease obligations.Table of ContentsAlphabet Inc.For the six months ended June 30, 2022 and 2023, our operating lease expenses (including variable lease costs) were $1.8 billion and $2.2 billion, respectively. Finance lease costs were not material for the six months ended June 30, 2022 and 2023."
+        "text_content": "For the six months ended June 30, 2022 and 2023, we recognized total operating lease assets of $2.2 billion and $1.7 billion, respectively. As of June\u00a030, 2023, the amount of total future lease payments under operating leases, which had a weighted average remaining lease term of 8.2 years, was $18.2 billion. As of June\u00a030, 2023, we have entered into leases that have not yet commenced with future lease payments of $2.9 billion, that are not yet recorded on our Consolidated Balance Sheets. These leases will commence between 2023 and 2027 with non-cancelable lease terms of 1 to 34 years. As of June\u00a030, 2023 our actions to optimize our office space did not affect our operating lease obligations.For the six months ended June 30, 2022 and 2023, our operating lease expenses (including variable lease costs) were $1.8 billion and $2.2 billion, respectively. Finance lease costs were not material for the six months ended June 30, 2022 and 2023."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Financing"
     },
     {
@@ -1418,7 +1398,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Share Repurchase Program"
     },
     {
@@ -1435,7 +1415,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "European Commission Fines"
     },
     {
@@ -1444,16 +1424,16 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Taxes"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "As of\u00a0June\u00a030, 2023, we had short-term and long-term income taxes payable of $3.6\u00a0billion and $2.2\u00a0billion related to a one-time transition tax payable incurred as a result of the U.S. Tax Cuts and Jobs Act (\"Tax Act\"). As Table of ContentsAlphabet Inc.permitted by the Tax Act, we will pay the transition tax in annual interest-free installments through 2025. We also have long-term taxes payable of $6.6\u00a0billion primarily related to uncertain tax positions as of June\u00a030, 2023. As a result of the 2023 IRS payment deferral relief made available to taxpayers headquartered in designated counties in California, we are postponing our second and third quarter tax payments until the fourth quarter of 2023. See Note 6 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q."
+        "text_content": "As of\u00a0June\u00a030, 2023, we had short-term and long-term income taxes payable of $3.6\u00a0billion and $2.2\u00a0billion related to a one-time transition tax payable incurred as a result of the U.S. Tax Cuts and Jobs Act (\"Tax Act\"). As permitted by the Tax Act, we will pay the transition tax in annual interest-free installments through 2025. We also have long-term taxes payable of $6.6\u00a0billion primarily related to uncertain tax positions as of June\u00a030, 2023. As a result of the 2023 IRS payment deferral relief made available to taxpayers headquartered in designated counties in California, we are postponing our second and third quarter tax payments until the fourth quarter of 2023. See Note 6 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Purchase Commitments"
     },
     {
@@ -1462,7 +1442,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Critical Accounting Estimates"
     },
     {
@@ -1471,7 +1451,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Available Information"
     },
     {
@@ -1506,16 +1486,16 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Evaluation of Disclosure Controls and Procedures"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Our management, with the participation of our chief executive officer and chief financial officer, evaluated the effectiveness of our disclosure controls and procedures pursuant to Rule 13a-15 under the Exchange Act, as of the end of the period covered by this Quarterly Report on Form 10-Q.Based on\u00a0this evaluation, our chief executive officer and chief financial officer concluded that, as of June\u00a030, 2023, our disclosure controls and procedures are designed at a reasonable assurance level and are effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC\u2019s rules and forms, and that such information is accumulated and communicated to our management, including our Table of ContentsAlphabet Inc.chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure."
+        "text_content": "Our management, with the participation of our chief executive officer and chief financial officer, evaluated the effectiveness of our disclosure controls and procedures pursuant to Rule 13a-15 under the Exchange Act, as of the end of the period covered by this Quarterly Report on Form 10-Q.Based on\u00a0this evaluation, our chief executive officer and chief financial officer concluded that, as of June\u00a030, 2023, our disclosure controls and procedures are designed at a reasonable assurance level and are effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC\u2019s rules and forms, and that such information is accumulated and communicated to our management, including our chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure."
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Changes in Internal Control over Financial Reporting"
     },
     {
@@ -1524,12 +1504,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Limitations on Effectiveness of Controls and Procedures"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs.Table of ContentsAlphabet Inc."
+        "text_content": "In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs."
     },
     {
         "cls_name": "TopLevelSectionTitle",
@@ -1580,7 +1560,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Issuer Purchases of Equity Securities"
     },
     {
@@ -1607,12 +1587,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "10b5-1 Trading Plans"
     },
     {
         "cls_name": "TextElement",
-        "text_content": "During the fiscal quarter ended June 30, 2023, the following Section 16 officers adopted, modified or terminated \u201cRule 10b5-1 trading arrangements\u201d (as defined in Item 408 of Regulation S-K of the Exchange Act):\u2022Amie Thuener O\u2019Toole, Vice President, Corporate Controller and Principal Accounting Officer, adopted a new trading plan on May 31, 2023 (with the first trade under the new plan scheduled for September 5, 2023). The trading plan will be effective until September 9, 2024 to sell an aggregate of (i) 2,904 shares of Class C Capital Stock, plus (ii) 50% of the (net) shares resulting from the vesting of 32,093 additional (gross) Class C Capital Stock during the plan period (net shares are net of tax withholding). \u2022Kent Walker, President, Global Affairs, Chief Legal Officer and Secretary, effected a trading plan modification by terminating a trading plan on May 30, 2023, originally adopted on May 28, 2022, and adopting a new trading plan on May 31, 2023 (with the first trade under the new plan scheduled for September 5, 2023). The trading plan will be effective until February 27, 2026 to sell 100% of the (net) shares resulting from the vesting of 511,048 (gross) Class C Capital Stock during the plan period (net shares are net of tax withholding)*.*In accordance with new SEC rules adopted on December 14, 2022, any modification or change to the amount, price, or timing of the purchase or sale of securities constitutes a termination of an existing Rule 10b5-1 trading arrangement and the adoption of a new Rule 10b5-1 trading arrangement.There were no \u201cnon-Rule 10b5-1 trading arrangements\u201d (as defined in Item 408 of Regulation S-K of the Exchange Act) adopted, modified or terminated during the fiscal quarter ended June 30, 2023 by our directors and Section 16 officers. Each of the Rule 10b5-1 trading arrangements are in accordance with our Policy Against Insider Table of ContentsAlphabet Inc.Trading and actual sale transactions made pursuant to such trading arrangements will be disclosed publicly in Section 16 filings with the SEC in accordance with applicable securities laws, rules and regulations.Table of ContentsAlphabet Inc."
+        "text_content": "During the fiscal quarter ended June 30, 2023, the following Section 16 officers adopted, modified or terminated \u201cRule 10b5-1 trading arrangements\u201d (as defined in Item 408 of Regulation S-K of the Exchange Act):\u2022Amie Thuener O\u2019Toole, Vice President, Corporate Controller and Principal Accounting Officer, adopted a new trading plan on May 31, 2023 (with the first trade under the new plan scheduled for September 5, 2023). The trading plan will be effective until September 9, 2024 to sell an aggregate of (i) 2,904 shares of Class C Capital Stock, plus (ii) 50% of the (net) shares resulting from the vesting of 32,093 additional (gross) Class C Capital Stock during the plan period (net shares are net of tax withholding). \u2022Kent Walker, President, Global Affairs, Chief Legal Officer and Secretary, effected a trading plan modification by terminating a trading plan on May 30, 2023, originally adopted on May 28, 2022, and adopting a new trading plan on May 31, 2023 (with the first trade under the new plan scheduled for September 5, 2023). The trading plan will be effective until February 27, 2026 to sell 100% of the (net) shares resulting from the vesting of 511,048 (gross) Class C Capital Stock during the plan period (net shares are net of tax withholding)*.*In accordance with new SEC rules adopted on December 14, 2022, any modification or change to the amount, price, or timing of the purchase or sale of securities constitutes a termination of an existing Rule 10b5-1 trading arrangement and the adoption of a new Rule 10b5-1 trading arrangement.There were no \u201cnon-Rule 10b5-1 trading arrangements\u201d (as defined in Item 408 of Regulation S-K of the Exchange Act) adopted, modified or terminated during the fiscal quarter ended June 30, 2023 by our directors and Section 16 officers. Each of the Rule 10b5-1 trading arrangements are in accordance with our Policy Against Insider Trading and actual sale transactions made pursuant to such trading arrangements will be disclosed publicly in Section 16 filings with the SEC in accordance with applicable securities laws, rules and regulations."
     },
     {
         "cls_name": "TopLevelSectionTitle",
@@ -1633,7 +1613,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "SIGNATURES"
     },
     {

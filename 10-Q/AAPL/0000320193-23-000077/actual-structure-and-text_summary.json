@@ -1,7 +1,7 @@
 {
     "metrics": {
-        "total_expected": 208,
-        "total_actual": 208,
+        "total_expected": 197,
+        "total_actual": 197,
         "total_missing": 0,
         "total_unexpected": 0,
         "precision": "100.00%",

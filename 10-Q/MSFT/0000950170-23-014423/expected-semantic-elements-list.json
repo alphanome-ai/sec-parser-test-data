@@ -398,11 +398,10 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "0c07db60",
         "html_preview": "style=\"text-indent:0...[453]...t-content;'> </span>",
-        "tag_name": "p",
-        "text_content": "Refer to accompanying notes."
+        "tag_name": "p"
     },
     {
         "cls_name": "PageNumberElement",
@@ -417,20 +416,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -469,11 +464,10 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "0c07db60",
         "html_preview": "style=\"text-indent:0...[453]...t-content;'> </span>",
-        "tag_name": "p",
-        "text_content": "Refer to accompanying notes."
+        "tag_name": "p"
     },
     {
         "cls_name": "PageNumberElement",
@@ -488,20 +482,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -540,11 +530,10 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "dc33becd",
         "html_preview": "style=\"text-indent:0...[299]...anying notes.</span>",
-        "tag_name": "p",
-        "text_content": "Refer to accompanying notes."
+        "tag_name": "p"
     },
     {
         "cls_name": "PageNumberElement",
@@ -559,20 +548,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -611,11 +596,10 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "dc33becd",
         "html_preview": "style=\"text-indent:0...[299]...anying notes.</span>",
-        "tag_name": "p",
-        "text_content": "Refer to accompanying notes."
+        "tag_name": "p"
     },
     {
         "cls_name": "PageNumberElement",
@@ -630,20 +614,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -682,11 +662,10 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "dc33becd",
         "html_preview": "style=\"text-indent:0...[299]...anying notes.</span>",
-        "tag_name": "p",
-        "text_content": "Refer to accompanying notes."
+        "tag_name": "p"
     },
     {
         "cls_name": "PageNumberElement",
@@ -701,20 +680,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -762,7 +737,7 @@
         "cls_name": "TitleElement",
         "html_hash": "312787d8",
         "html_preview": "style=\"text-indent:0...[291]...l Instruments</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Financial Instruments"
     },
@@ -770,7 +745,7 @@
         "cls_name": "TitleElement",
         "html_hash": "d60b2a44",
         "html_preview": "style=\"text-indent:0...[298]...'>Investments</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Investments"
     },
@@ -794,20 +769,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -833,7 +804,7 @@
         "cls_name": "TitleElement",
         "html_hash": "25d6f739",
         "html_preview": "style=\"text-indent:0...[293]... Measurements</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Fair Value Measurements"
     },
@@ -857,20 +828,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -905,20 +872,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -1018,7 +981,7 @@
         "cls_name": "TitleElement",
         "html_hash": "ed68c6f8",
         "html_preview": "style=\"text-indent:0...[465]...t-content;'> </span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Net Recognized Gains (Losses) on Investments"
     },
@@ -1064,20 +1027,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -1133,20 +1092,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -1166,7 +1121,7 @@
         "cls_name": "TitleElement",
         "html_hash": "662ebabf",
         "html_preview": "style=\"text-indent:0...[290]...nt Components</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Investment Components"
     },
@@ -1212,20 +1167,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -1269,20 +1220,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -1301,7 +1248,7 @@
         "cls_name": "TitleElement",
         "html_hash": "bc3db629",
         "html_preview": "style=\"text-indent:0...[459]...t-content;'> </span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Unrealized Losses on Debt Investments"
     },
@@ -1361,7 +1308,7 @@
         "cls_name": "TitleElement",
         "html_hash": "7ae320f8",
         "html_preview": "style=\"text-indent:0...[448]...t-content;'> </span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Debt Investment Maturities"
     },
@@ -1400,20 +1347,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -1440,7 +1383,7 @@
         "cls_name": "TitleElement",
         "html_hash": "59f21907",
         "html_preview": "style=\"text-indent:0...[440]...t-content;'> </span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Foreign Currencies"
     },
@@ -1455,7 +1398,7 @@
         "cls_name": "TitleElement",
         "html_hash": "4ce9d4f4",
         "html_preview": "style=\"text-indent:0...[435]...t-content;'> </span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Interest Rate"
     },
@@ -1470,7 +1413,7 @@
         "cls_name": "TitleElement",
         "html_hash": "2b2e030b",
         "html_preview": "style=\"text-indent:0...[428]...t-content;'> </span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Equity"
     },
@@ -1485,7 +1428,7 @@
         "cls_name": "TitleElement",
         "html_hash": "02f67837",
         "html_preview": "style=\"text-indent:0...[446]...t-content;'> </span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Credit"
     },
@@ -1500,7 +1443,7 @@
         "cls_name": "TitleElement",
         "html_hash": "8abe2e8f",
         "html_preview": "style=\"text-indent:0...[461]...t-content;'> </span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Credit-Risk-Related Contingent Features"
     },
@@ -1524,20 +1467,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -1578,7 +1517,7 @@
         "cls_name": "TitleElement",
         "html_hash": "43d4bb7d",
         "html_preview": "style=\"text-indent:0...[306]...e Instruments</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Fair Values of Derivative Instruments"
     },
@@ -1660,20 +1599,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -1795,20 +1730,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -1828,7 +1759,7 @@
         "cls_name": "TitleElement",
         "html_hash": "aec33b4b",
         "html_preview": "style=\"text-indent:0...[293]...cations, Inc.</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Nuance Communications, Inc."
     },
@@ -1914,7 +1845,7 @@
         "cls_name": "TitleElement",
         "html_hash": "d71da34a",
         "html_preview": "style=\"text-indent:0...[291]...lizzard, Inc.</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Activision Blizzard, Inc."
     },
@@ -1975,20 +1906,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -2089,20 +2016,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -2167,20 +2090,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -2236,7 +2155,7 @@
         "cls_name": "TitleElement",
         "html_hash": "3287240c",
         "html_preview": "style=\"text-indent:0...[287]...tive Tax Rate</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Effective Tax Rate"
     },
@@ -2251,7 +2170,7 @@
         "cls_name": "TitleElement",
         "html_hash": "7107477a",
         "html_preview": "style=\"text-indent:0...[293]...Tax Positions</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Uncertain Tax Positions"
     },
@@ -2275,20 +2194,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -2433,20 +2348,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -2554,20 +2465,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -2601,7 +2508,7 @@
         "cls_name": "TitleElement",
         "html_hash": "345a5f38",
         "html_preview": "style=\"text-indent:0...[286]...e Repurchases</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Share Repurchases"
     },
@@ -2625,20 +2532,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -2686,7 +2589,7 @@
         "cls_name": "TitleElement",
         "html_hash": "f4551d70",
         "html_preview": "style=\"text-indent:0...[279]...t;'>Dividends</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Dividends"
     },
@@ -2745,20 +2648,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -2816,20 +2715,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -2856,7 +2751,7 @@
         "cls_name": "TitleElement",
         "html_hash": "254180e2",
         "html_preview": "style=\"text-indent:0...[305]...ess Processes</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Productivity and Business Processes"
     },
@@ -2871,7 +2766,7 @@
         "cls_name": "TitleElement",
         "html_hash": "208b7314",
         "html_preview": "style=\"text-indent:0...[287]...lligent Cloud</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Intelligent Cloud"
     },
@@ -2886,7 +2781,7 @@
         "cls_name": "TitleElement",
         "html_hash": "bdb4d89a",
         "html_preview": "style=\"text-indent:0...[293]...nal Computing</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "More Personal Computing"
     },
@@ -2910,20 +2805,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3022,20 +2913,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3099,20 +2986,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3124,7 +3007,7 @@
         "cls_name": "TitleElement",
         "html_hash": "33f24794",
         "html_preview": "id=\"report_independe...[591]...COUNTING FIRM</span>",
-        "level": 5,
+        "level": 4,
         "tag_name": "p",
         "text_content": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM"
     },
@@ -3145,7 +3028,7 @@
         "cls_name": "TitleElement",
         "html_hash": "e9610657",
         "html_preview": "style=\"margin-left:1...[358]...l Information</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Results of Review of Interim Financial Information"
     },
@@ -3172,7 +3055,7 @@
         "cls_name": "TitleElement",
         "html_hash": "89988561",
         "html_preview": "style=\"margin-left:1...[332]...eview Results</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Basis for Review Results"
     },
@@ -3199,7 +3082,7 @@
         "cls_name": "TitleElement",
         "html_hash": "bd3f252d",
         "html_preview": "style=\"margin-left:1...[1440]...ontent;'> LLP</span>",
-        "level": 6,
+        "level": 5,
         "tag_name": "p",
         "text_content": "/S/ DELOITTE & TOUCHE LLP"
     },
@@ -3229,12 +3112,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
         "cls_name": "TopLevelSectionTitle",
@@ -3271,7 +3152,7 @@
         "cls_name": "TitleElement",
         "html_hash": "28655e59",
         "html_preview": "style=\"text-indent:0...[305]...ng Statements</span>",
-        "level": 7,
+        "level": 6,
         "tag_name": "p",
         "text_content": "Note About Forward-Looking Statements"
     },
@@ -3310,20 +3191,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3335,7 +3212,7 @@
         "cls_name": "TitleElement",
         "html_hash": "0091ca9f",
         "html_preview": "style=\"text-indent:0...[285]...dustry Trends</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Industry Trends"
     },
@@ -3350,7 +3227,7 @@
         "cls_name": "TitleElement",
         "html_hash": "811c81a0",
         "html_preview": "style=\"text-indent:0...[312]...es, and Risks</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Economic Conditions, Challenges, and Risks"
     },
@@ -3365,7 +3242,7 @@
         "cls_name": "TitleElement",
         "html_hash": "5ae2fb5f",
         "html_preview": "style=\"text-indent:0...[281]...'>Seasonality</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Seasonality"
     },
@@ -3389,20 +3266,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3414,7 +3287,7 @@
         "cls_name": "TitleElement",
         "html_hash": "1293e149",
         "html_preview": "style=\"text-indent:0...[299]...ting Estimate</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Change in Accounting Estimate"
     },
@@ -3429,7 +3302,7 @@
         "cls_name": "TitleElement",
         "html_hash": "a7d6c43a",
         "html_preview": "style=\"text-indent:0...[289]...able Segments</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Reportable Segments"
     },
@@ -3451,7 +3324,7 @@
         "cls_name": "TitleElement",
         "html_hash": "03e268cf",
         "html_preview": "style=\"text-indent:0...[277]...ent;'>Metrics</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Metrics"
     },
@@ -3466,7 +3339,7 @@
         "cls_name": "TitleElement",
         "html_hash": "0279a8b2",
         "html_preview": "style=\"text-indent:0...[298]...;'>Commercial</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Commercial"
     },
@@ -3512,20 +3385,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3537,7 +3406,7 @@
         "cls_name": "TitleElement",
         "html_hash": "d0da15c8",
         "html_preview": "style=\"text-indent:0...[344]...lligent Cloud</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Productivity and Business Processes and Intelligent Cloud"
     },
@@ -3574,7 +3443,7 @@
         "cls_name": "TitleElement",
         "html_hash": "b67ce9e5",
         "html_preview": "style=\"text-indent:0...[310]...nal Computing</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "More Personal Computing"
     },
@@ -3620,20 +3489,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3673,25 +3538,16 @@
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "7a825cfe",
-        "html_preview": "style=\"text-indent:0...[1247]...t-content;'> </span>",
-        "tag_name": "p",
-        "text_content": "Adjusted gross margin, operating income, net income, and diluted earnings per share (“EPS”) are non-GAAP financial measures. Current year non-GAAP financial measures exclude the impact of the Q2 charge, which includes employee severance expenses, impairment charges resulting from changes to our hardware portfolio, and costs related to lease consolidation activities. Prior year non-GAAP financial measures exclude the net income tax benefit related to transfer of intangible properties in the first quarter of fiscal year 2022. Refer to Note 11 – Income Taxes of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for further discussion. Refer to the Non-GAAP Financial Measures section below for a reconciliation of our financial results reported in accordance with GAAP to non-GAAP financial results."
+        "html_hash": "a3b36981",
+        "html_preview": "<p style=\"text-inden...[7645]....</span></div></div>",
+        "tag_name": "sec-parser-merged-text",
+        "text_content": "Adjusted gross margin, operating income, net income, and diluted earnings per share (“EPS”) are non-GAAP financial measures. Current year non-GAAP financial measures exclude the impact of the Q2 charge, which includes employee severance expenses, impairment charges resulting from changes to our hardware portfolio, and costs related to lease consolidation activities. Prior year non-GAAP financial measures exclude the net income tax benefit related to transfer of intangible properties in the first quarter of fiscal year 2022. Refer to Note 11 – Income Taxes of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for further discussion. Refer to the Non-GAAP Financial Measures section below for a reconciliation of our financial results reported in accordance with GAAP to non-GAAP financial results. Revenue increased $3.5 billion or 7% driven by growth in Intelligent Cloud and Productivity and Business Processes, offset in part by a decline in More Personal Computing. Intelligent Cloud revenue increased driven by Azure and other cloud services. Productivity and Business Processes revenue increased driven by Office 365 Commercial. More Personal Computing revenue decreased driven by Windows and Devices.Cost of revenue increased $513 million or 3% driven by growth in Microsoft Cloud, offset in part by a reduction in depreciation expense due to the change in accounting estimate for the useful lives of our server and network equipment.Gross margin increased $3.0 billion or 9% driven by growth in Intelligent Cloud and Productivity and Business Processes and the change in accounting estimate, offset in part by a decline in More Personal Computing.•Gross margin percentage increased. Excluding the impact of the change in accounting estimate, gross margin percentage decreased slightly driven by reductions in Intelligent Cloud, offset in part by sales mix shift.•Microsoft Cloud gross margin percentage increased 2 points to 72%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage decreased slightly driven by reductions in Azure and other cloud services.Operating expenses increased $996 million or 7% driven by 2 points of growth from the Nuance and Xandr acquisitions and investments in cloud engineering and LinkedIn.Key changes in operating expenses were:•Research and development expenses increased $678 million or 11% driven by investments in cloud engineering and LinkedIn.•Sales and marketing expenses increased $155 million or 3% driven by 3 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales, offset in part by declines in Windows and Devices advertising."
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "6465a436",
         "html_preview": "style=\"text-indent:0...[369]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "html_hash": "0c811fc1",
-        "html_preview": "<p style=\"text-inden...[6351]....</span></div></div>",
-        "tag_name": "sec-parser-merged-text",
-        "text_content": "Revenue increased $3.5 billion or 7% driven by growth in Intelligent Cloud and Productivity and Business Processes, offset in part by a decline in More Personal Computing. Intelligent Cloud revenue increased driven by Azure and other cloud services. Productivity and Business Processes revenue increased driven by Office 365 Commercial. More Personal Computing revenue decreased driven by Windows and Devices.Cost of revenue increased $513 million or 3% driven by growth in Microsoft Cloud, offset in part by a reduction in depreciation expense due to the change in accounting estimate for the useful lives of our server and network equipment.Gross margin increased $3.0 billion or 9% driven by growth in Intelligent Cloud and Productivity and Business Processes and the change in accounting estimate, offset in part by a decline in More Personal Computing.•Gross margin percentage increased. Excluding the impact of the change in accounting estimate, gross margin percentage decreased slightly driven by reductions in Intelligent Cloud, offset in part by sales mix shift.•Microsoft Cloud gross margin percentage increased 2 points to 72%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage decreased slightly driven by reductions in Azure and other cloud services.Operating expenses increased $996 million or 7% driven by 2 points of growth from the Nuance and Xandr acquisitions and investments in cloud engineering and LinkedIn.Key changes in operating expenses were:•Research and development expenses increased $678 million or 11% driven by investments in cloud engineering and LinkedIn.•Sales and marketing expenses increased $155 million or 3% driven by 3 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales, offset in part by declines in Windows and Devices advertising."
+        "tag_name": "p"
     },
     {
         "cls_name": "PageNumberElement",
@@ -3706,20 +3562,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3729,25 +3581,16 @@
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "f9580a5f",
-        "html_preview": "<div style=\"margin-l...[1993]...ct of 2%.</span></p>",
+        "html_hash": "9247b823",
+        "html_preview": "<div style=\"margin-l...[11183]...ectively.</span></p>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "•General and administrative expenses increased $163 million or 11% driven by acquisition-related expenses and investments in corporate functions. General and administrative included a favorable foreign currency impact of 2%.Operating income increased $2.0 billion or 10% driven by growth in Productivity and Business Processes and Intelligent Cloud and the change in accounting estimate, offset in part by a decline in More Personal Computing.Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 3%, 4%, and 5%, respectively. Cost of revenue and operating expenses both included a favorable foreign currency impact of 2%."
+        "text_content": "•General and administrative expenses increased $163 million or 11% driven by acquisition-related expenses and investments in corporate functions. General and administrative included a favorable foreign currency impact of 2%.Operating income increased $2.0 billion or 10% driven by growth in Productivity and Business Processes and Intelligent Cloud and the change in accounting estimate, offset in part by a decline in More Personal Computing.Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 3%, 4%, and 5%, respectively. Cost of revenue and operating expenses both included a favorable foreign currency impact of 2%.Revenue increased $9.3 billion or 6% driven by growth in Intelligent Cloud and Productivity and Business Processes, offset in part by a decline in More Personal Computing. Intelligent Cloud revenue increased driven by Azure and other cloud services. Productivity and Business Processes revenue increased driven by Office 365 Commercial and LinkedIn. More Personal Computing revenue decreased driven by Windows and Devices.Cost of revenue increased $2.8 billion or 6% driven by growth in Microsoft Cloud, offset in part by the change in accounting estimate.Gross margin increased $6.5 billion or 6% driven by growth in Intelligent Cloud and Productivity and Business Processes and the change in accounting estimate, offset in part by a decline in More Personal Computing.•Gross margin percentage was relatively unchanged. Excluding the impact of the change in accounting estimate, gross margin percentage decreased 2 points driven by reductions in More Personal Computing and Intelligent Cloud, offset in part by sales mix shift.•Microsoft Cloud gross margin percentage increased 2 points to 72%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage decreased 1 point driven by sales mix shift to Azure and other cloud services and higher energy costs.Operating expenses increased $5.1 billion or 14% driven by investments in cloud engineering, 3 points of growth from the Nuance and Xandr acquisitions, employee severance expenses, LinkedIn, and commercial sales.Key changes in operating expenses were:•Research and development expenses increased $2.8 billion or 16% driven by investments in cloud engineering and LinkedIn.•Sales and marketing expenses increased $1.0 billion or 7% driven by 4 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales. Sales and marketing included a favorable foreign currency impact of 3%.•General and administrative expenses increased $1.2 billion or 30% driven by employee severance expenses. General and administrative included a favorable foreign currency impact of 2%.Operating income increased $1.4 billion or 2% driven by growth in Productivity and Business Processes and Intelligent Cloud and the change in accounting estimate, offset in part by a decline in More Personal Computing.Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 5%, 6%, and 8%, respectively. Cost of revenue and operating expenses both included a favorable foreign currency impact of 2%.Current year gross margin, operating income, net income, and diluted EPS were negatively impacted by the Q2 charge, which resulted in decreases of $152 million, $1.2 billion, $946 million, and $0.13, respectively. Prior year net income and diluted EPS were positively impacted by the net tax benefit related to the transfer of intangible properties, which resulted in an increase to net income and diluted EPS of $3.3 billion and $0.43, respectively."
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a06077df",
         "html_preview": "style=\"text-indent:0...[367]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "html_hash": "1cc2c65e",
-        "html_preview": "<p style=\"text-inden...[9150]...ectively.</span></p>",
-        "tag_name": "sec-parser-merged-text",
-        "text_content": "Revenue increased $9.3 billion or 6% driven by growth in Intelligent Cloud and Productivity and Business Processes, offset in part by a decline in More Personal Computing. Intelligent Cloud revenue increased driven by Azure and other cloud services. Productivity and Business Processes revenue increased driven by Office 365 Commercial and LinkedIn. More Personal Computing revenue decreased driven by Windows and Devices.Cost of revenue increased $2.8 billion or 6% driven by growth in Microsoft Cloud, offset in part by the change in accounting estimate.Gross margin increased $6.5 billion or 6% driven by growth in Intelligent Cloud and Productivity and Business Processes and the change in accounting estimate, offset in part by a decline in More Personal Computing.•Gross margin percentage was relatively unchanged. Excluding the impact of the change in accounting estimate, gross margin percentage decreased 2 points driven by reductions in More Personal Computing and Intelligent Cloud, offset in part by sales mix shift.•Microsoft Cloud gross margin percentage increased 2 points to 72%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage decreased 1 point driven by sales mix shift to Azure and other cloud services and higher energy costs.Operating expenses increased $5.1 billion or 14% driven by investments in cloud engineering, 3 points of growth from the Nuance and Xandr acquisitions, employee severance expenses, LinkedIn, and commercial sales.Key changes in operating expenses were:•Research and development expenses increased $2.8 billion or 16% driven by investments in cloud engineering and LinkedIn.•Sales and marketing expenses increased $1.0 billion or 7% driven by 4 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales. Sales and marketing included a favorable foreign currency impact of 3%.•General and administrative expenses increased $1.2 billion or 30% driven by employee severance expenses. General and administrative included a favorable foreign currency impact of 2%.Operating income increased $1.4 billion or 2% driven by growth in Productivity and Business Processes and Intelligent Cloud and the change in accounting estimate, offset in part by a decline in More Personal Computing.Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 5%, 6%, and 8%, respectively. Cost of revenue and operating expenses both included a favorable foreign currency impact of 2%.Current year gross margin, operating income, net income, and diluted EPS were negatively impacted by the Q2 charge, which resulted in decreases of $152 million, $1.2 billion, $946 million, and $0.13, respectively. Prior year net income and diluted EPS were positively impacted by the net tax benefit related to the transfer of intangible properties, which resulted in an increase to net income and diluted EPS of $3.3 billion and $0.43, respectively."
+        "tag_name": "p"
     },
     {
         "cls_name": "PageNumberElement",
@@ -3762,20 +3605,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3817,23 +3656,21 @@
         "cls_name": "TitleElement",
         "html_hash": "2e7cba78",
         "html_preview": "style=\"text-indent:0...[288]...able Segments</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Reportable Segments"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "72ae6eed",
         "html_preview": "style=\"text-indent:0...[368]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
+        "tag_name": "p"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "2f0bf4a1",
         "html_preview": "style=\"text-indent:0...[324]...ess Processes</span>",
-        "level": 8,
+        "level": 7,
         "tag_name": "p",
         "text_content": "Productivity and Business Processes"
     },
@@ -3848,7 +3685,7 @@
         "cls_name": "TitleElement",
         "html_hash": "c07a5be4",
         "html_preview": "style=\"text-indent:0...[307]...lligent Cloud</span>",
-        "level": 8,
+        "level": 7,
         "tag_name": "p",
         "text_content": "Intelligent Cloud"
     },
@@ -3872,20 +3709,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3904,7 +3737,7 @@
         "cls_name": "TitleElement",
         "html_hash": "992a1e6a",
         "html_preview": "style=\"text-indent:0...[485]...t-content;'> </span>",
-        "level": 8,
+        "level": 7,
         "tag_name": "p",
         "text_content": "More Personal Computing"
     },
@@ -3916,18 +3749,16 @@
         "text_content": "Revenue decreased $1.3 billion or 9%.•Windows revenue decreased $741 million or 12% driven by a decrease in Windows OEM, offset in part by growth in Windows Commercial. Windows OEM revenue decreased 28% as elevated channel inventory levels continued to drive additional weakness beyond declining PC demand. Windows Commercial products and cloud services revenue increased 14% driven by strong renewal execution and an increase in agreements that carry higher in-period revenue recognition.•Devices revenue decreased $553 million or 30% as elevated channel inventory levels continued to drive additional weakness beyond declining PC demand.•Gaming revenue decreased $133 million or 4% driven by a decline in Xbox hardware. Xbox hardware revenue decreased 30% on a strong prior year comparable, driven by lower volume of consoles sold. Xbox content and services revenue increased 3% driven by growth in Xbox Game Pass.•Search and news advertising revenue increased $100 million or 3%. Search and news advertising revenue excluding traffic acquisition costs increased 10% driven by higher search volume and the Xandr acquisition.Operating income decreased $551 million or 12%.•Gross margin decreased $705 million or 9% driven by a decline in Windows. Gross margin percentage increased slightly.•Operating expenses decreased $154 million or 5% driven by a decline in Devices, offset in part by 3 points of growth from the Xandr acquisition.Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 2%, 4%, and 5%, respectively. Operating expenses included a favorable foreign currency impact of 2%."
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a06077df",
         "html_preview": "style=\"text-indent:0...[367]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
+        "tag_name": "p"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "2f0bf4a1",
         "html_preview": "style=\"text-indent:0...[324]...ess Processes</span>",
-        "level": 8,
+        "level": 7,
         "tag_name": "p",
         "text_content": "Productivity and Business Processes"
     },
@@ -3951,20 +3782,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3983,7 +3810,7 @@
         "cls_name": "TitleElement",
         "html_hash": "c07a5be4",
         "html_preview": "style=\"text-indent:0...[307]...lligent Cloud</span>",
-        "level": 8,
+        "level": 7,
         "tag_name": "p",
         "text_content": "Intelligent Cloud"
     },
@@ -3998,7 +3825,7 @@
         "cls_name": "TitleElement",
         "html_hash": "992a1e6a",
         "html_preview": "style=\"text-indent:0...[485]...t-content;'> </span>",
-        "level": 8,
+        "level": 7,
         "tag_name": "p",
         "text_content": "More Personal Computing"
     },
@@ -4022,20 +3849,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -4062,7 +3885,7 @@
         "cls_name": "TitleElement",
         "html_hash": "77d70aa0",
         "html_preview": "style=\"text-indent:0...[293]...d Development</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Research and Development"
     },
@@ -4090,46 +3913,28 @@
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "a32cfa85",
-        "html_preview": "style=\"text-indent:0...[689]...ices content.</span>",
-        "tag_name": "p",
-        "text_content": "Research and development expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with product development. Research and development expenses also include third-party development and programming costs, localization costs incurred to translate software for international markets, and the amortization of purchased software code and services content."
+        "html_hash": "88a1485f",
+        "html_preview": "<p style=\"text-inden...[1572]...LinkedIn.</span></p>",
+        "tag_name": "sec-parser-merged-text",
+        "text_content": "Research and development expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with product development. Research and development expenses also include third-party development and programming costs, localization costs incurred to translate software for international markets, and the amortization of purchased software code and services content.Research and development expenses increased $678 million or 11% driven by investments in cloud engineering and LinkedIn.Research and development expenses increased $2.8 billion or 16% driven by investments in cloud engineering and LinkedIn."
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "6465a436",
         "html_preview": "style=\"text-indent:0...[369]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
+        "tag_name": "p"
     },
     {
-        "cls_name": "TextElement",
-        "html_hash": "d1bf4139",
-        "html_preview": "style=\"text-indent:0...[391]...and LinkedIn.</span>",
-        "tag_name": "p",
-        "text_content": "Research and development expenses increased $678 million or 11% driven by investments in cloud engineering and LinkedIn."
-    },
-    {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a06077df",
         "html_preview": "style=\"text-indent:0...[367]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "html_hash": "e3a148e3",
-        "html_preview": "style=\"text-indent:0...[391]...and LinkedIn.</span>",
-        "tag_name": "p",
-        "text_content": "Research and development expenses increased $2.8 billion or 16% driven by investments in cloud engineering and LinkedIn."
+        "tag_name": "p"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "2dbcc2b4",
         "html_preview": "style=\"text-indent:0...[289]...and Marketing</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Sales and Marketing"
     },
@@ -4157,46 +3962,28 @@
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "212a09b9",
-        "html_preview": "style=\"text-indent:0...[538]...her programs.</span>",
-        "tag_name": "p",
-        "text_content": "Sales and marketing expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with sales and marketing personnel, and the costs of advertising, promotions, trade shows, seminars, and other programs."
+        "html_hash": "fab0380b",
+        "html_preview": "<p style=\"text-inden...[1640]...ct of 3%.</span></p>",
+        "tag_name": "sec-parser-merged-text",
+        "text_content": "Sales and marketing expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with sales and marketing personnel, and the costs of advertising, promotions, trade shows, seminars, and other programs.Sales and marketing expenses increased $155 million or 3% driven by 3 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales, offset in part by declines in Windows and Devices advertising.Sales and marketing expenses increased $1.0 billion or 7% driven by 4 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales. Sales and marketing included a favorable foreign currency impact of 3%."
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "6465a436",
         "html_preview": "style=\"text-indent:0...[369]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
+        "tag_name": "p"
     },
     {
-        "cls_name": "TextElement",
-        "html_hash": "89fb401c",
-        "html_preview": "style=\"text-indent:0...[496]... advertising.</span>",
-        "tag_name": "p",
-        "text_content": "Sales and marketing expenses increased $155 million or 3% driven by 3 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales, offset in part by declines in Windows and Devices advertising."
-    },
-    {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a06077df",
         "html_preview": "style=\"text-indent:0...[367]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "html_hash": "d38570d2",
-        "html_preview": "style=\"text-indent:0...[505]...impact of 3%.</span>",
-        "tag_name": "p",
-        "text_content": "Sales and marketing expenses increased $1.0 billion or 7% driven by 4 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales. Sales and marketing included a favorable foreign currency impact of 3%."
+        "tag_name": "p"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "844d8654",
         "html_preview": "style=\"text-indent:0...[296]...dministrative</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "General and Administrative"
     },
@@ -4235,20 +4022,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -4264,40 +4047,22 @@
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "42bb3ee0",
-        "html_preview": "style=\"text-indent:0...[641]...trative fees.</span>",
-        "tag_name": "p",
-        "text_content": "General and administrative expenses include payroll, employee benefits, stock-based compensation expense, employee severance expense incurred as part of a corporate program, and other headcount-related expenses associated with finance, legal, facilities, certain human resources and other administrative personnel, certain taxes, and legal and other administrative fees."
+        "html_hash": "ce83d676",
+        "html_preview": "<p style=\"text-inden...[1690]...ct of 2%.</span></p>",
+        "tag_name": "sec-parser-merged-text",
+        "text_content": "General and administrative expenses include payroll, employee benefits, stock-based compensation expense, employee severance expense incurred as part of a corporate program, and other headcount-related expenses associated with finance, legal, facilities, certain human resources and other administrative personnel, certain taxes, and legal and other administrative fees.General and administrative expenses increased $163 million or 11% driven by acquisition-related expenses and investments in corporate functions. General and administrative included a favorable foreign currency impact of 2%.General and administrative expenses increased $1.2 billion or 30% driven by employee severance expenses. General and administrative included a favorable foreign currency impact of 2%."
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "6465a436",
         "html_preview": "style=\"text-indent:0...[369]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
+        "tag_name": "p"
     },
     {
-        "cls_name": "TextElement",
-        "html_hash": "bd8c7618",
-        "html_preview": "style=\"text-indent:0...[494]...impact of 2%.</span>",
-        "tag_name": "p",
-        "text_content": "General and administrative expenses increased $163 million or 11% driven by acquisition-related expenses and investments in corporate functions. General and administrative included a favorable foreign currency impact of 2%."
-    },
-    {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a06077df",
         "html_preview": "style=\"text-indent:0...[367]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "html_hash": "2c183f60",
-        "html_preview": "style=\"text-indent:0...[454]...impact of 2%.</span>",
-        "tag_name": "p",
-        "text_content": "General and administrative expenses increased $1.2 billion or 30% driven by employee severance expenses. General and administrative included a favorable foreign currency impact of 2%."
+        "tag_name": "p"
     },
     {
         "cls_name": "TitleElement",
@@ -4338,40 +4103,22 @@
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "1165fd4c",
-        "html_preview": "style=\"text-indent:0...[624]...xpense), net.</span>",
-        "tag_name": "p",
-        "text_content": "We use derivative instruments to manage risks related to foreign currencies, equity prices, interest rates, and credit; enhance investment returns; and facilitate portfolio diversification. Gains and losses from changes in fair values of derivatives that are not designated as hedging instruments are primarily recognized in other income (expense), net."
+        "html_hash": "498bc77b",
+        "html_preview": "<p style=\"text-inden...[2064]...estments.</span></p>",
+        "tag_name": "sec-parser-merged-text",
+        "text_content": "We use derivative instruments to manage risks related to foreign currencies, equity prices, interest rates, and credit; enhance investment returns; and facilitate portfolio diversification. Gains and losses from changes in fair values of derivatives that are not designated as hedging instruments are primarily recognized in other income (expense), net.Interest and dividends income increased due to higher yields, offset in part by lower portfolio balances. Interest expense decreased due to a decrease in outstanding long-term debt due to debt maturities. Net recognized gains on investments increased due to gains on equity securities in the current period compared to losses in the prior period.Interest and dividends income increased due to higher yields, offset in part by lower portfolio balances. Interest expense decreased due to a decrease in outstanding long-term debt due to debt maturities. Net recognized gains on investments decreased due to lower gains on equity securities and higher losses on fixed income securities in the current period. Net losses on derivatives increased due to losses related to managing strategic investments."
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "6465a436",
         "html_preview": "style=\"text-indent:0...[369]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
+        "tag_name": "p"
     },
     {
-        "cls_name": "TextElement",
-        "html_hash": "e125a403",
-        "html_preview": "style=\"text-indent:0...[617]...prior period.</span>",
-        "tag_name": "p",
-        "text_content": "Interest and dividends income increased due to higher yields, offset in part by lower portfolio balances. Interest expense decreased due to a decrease in outstanding long-term debt due to debt maturities. Net recognized gains on investments increased due to gains on equity securities in the current period compared to losses in the prior period."
-    },
-    {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a06077df",
         "html_preview": "style=\"text-indent:0...[367]...arch 31, 2022</span>",
-        "level": 4,
-        "tag_name": "p",
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "html_hash": "7095ac85",
-        "html_preview": "style=\"text-indent:0...[722]... investments.</span>",
-        "tag_name": "p",
-        "text_content": "Interest and dividends income increased due to higher yields, offset in part by lower portfolio balances. Interest expense decreased due to a decrease in outstanding long-term debt due to debt maturities. Net recognized gains on investments decreased due to lower gains on equity securities and higher losses on fixed income securities in the current period. Net losses on derivatives increased due to losses related to managing strategic investments."
+        "tag_name": "p"
     },
     {
         "cls_name": "PageNumberElement",
@@ -4386,20 +4133,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -4419,7 +4162,7 @@
         "cls_name": "TitleElement",
         "html_hash": "3287240c",
         "html_preview": "style=\"text-indent:0...[287]...tive Tax Rate</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Effective Tax Rate"
     },
@@ -4434,7 +4177,7 @@
         "cls_name": "TitleElement",
         "html_hash": "7107477a",
         "html_preview": "style=\"text-indent:0...[293]...Tax Positions</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Uncertain Tax Positions"
     },
@@ -4473,20 +4216,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -4549,7 +4288,7 @@
         "cls_name": "TitleElement",
         "html_hash": "2b862511",
         "html_preview": "style=\"text-indent:0...[309]...d Investments</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Cash, Cash Equivalents, and Investments"
     },
@@ -4573,20 +4312,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -4598,7 +4333,7 @@
         "cls_name": "TitleElement",
         "html_hash": "75ab2791",
         "html_preview": "style=\"text-indent:0...[279]...t;'>Valuation</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Valuation"
     },
@@ -4613,7 +4348,7 @@
         "cls_name": "TitleElement",
         "html_hash": "e04c2e67",
         "html_preview": "style=\"text-indent:0...[280]...;'>Cash Flows</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Cash Flows"
     },
@@ -4628,7 +4363,7 @@
         "cls_name": "TitleElement",
         "html_hash": "cd212ca2",
         "html_preview": "style=\"text-indent:0...[283]...Debt Proceeds</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Debt Proceeds"
     },
@@ -4643,7 +4378,7 @@
         "cls_name": "TitleElement",
         "html_hash": "7ecc9440",
         "html_preview": "style=\"text-indent:0...[286]...arned Revenue</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Unearned Revenue"
     },
@@ -4667,20 +4402,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -4728,7 +4459,7 @@
         "cls_name": "TitleElement",
         "html_hash": "709fdb66",
         "html_preview": "style=\"text-indent:0...[318]...r Obligations</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Material Cash Requirements and Other Obligations"
     },
@@ -4736,7 +4467,7 @@
         "cls_name": "TitleElement",
         "html_hash": "4bd2c17e",
         "html_preview": "style=\"text-indent:0...[299]...>Income Taxes</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Income Taxes"
     },
@@ -4751,7 +4482,7 @@
         "cls_name": "TitleElement",
         "html_hash": "891b317d",
         "html_preview": "style=\"text-indent:0...[305]...e Repurchases</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Share Repurchases"
     },
@@ -4766,7 +4497,7 @@
         "cls_name": "TitleElement",
         "html_hash": "8eed7f57",
         "html_preview": "style=\"text-indent:0...[297]...t;'>Dividends</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Dividends"
     },
@@ -4781,7 +4512,7 @@
         "cls_name": "TitleElement",
         "html_hash": "0bd864a5",
         "html_preview": "style=\"text-indent:0...[317]...es of Capital</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Other Planned Uses of Capital"
     },
@@ -4805,20 +4536,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -4852,7 +4579,7 @@
         "cls_name": "TitleElement",
         "html_hash": "481e983e",
         "html_preview": "style=\"text-indent:0...[289]...e Recognition</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Revenue Recognition"
     },
@@ -4876,20 +4603,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -4901,7 +4624,7 @@
         "cls_name": "TitleElement",
         "html_hash": "d8d622c7",
         "html_preview": "style=\"text-indent:0...[305]...nt Securities</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Impairment of Investment Securities"
     },
@@ -4916,7 +4639,7 @@
         "cls_name": "TitleElement",
         "html_hash": "d348966d",
         "html_preview": "style=\"text-indent:0...[278]...nt;'>Goodwill</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Goodwill"
     },
@@ -4931,7 +4654,7 @@
         "cls_name": "TitleElement",
         "html_hash": "a4ddb715",
         "html_preview": "style=\"text-indent:0...[300]...lopment Costs</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Research and Development Costs"
     },
@@ -4946,7 +4669,7 @@
         "cls_name": "TitleElement",
         "html_hash": "847b2d4e",
         "html_preview": "style=\"text-indent:0...[299]...Contingencies</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Legal and Other Contingencies"
     },
@@ -4970,20 +4693,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 2,
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -4995,7 +4714,7 @@
         "cls_name": "TitleElement",
         "html_hash": "f9a9f72d",
         "html_preview": "style=\"text-indent:0...[282]...>Income Taxes</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Income Taxes"
     },
@@ -5010,7 +4729,7 @@
         "cls_name": "TitleElement",
         "html_hash": "40f33c87",
         "html_preview": "style=\"text-indent:0...[281]...'>Inventories</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Inventories"
     },
@@ -5034,12 +4753,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
         "cls_name": "TopLevelSectionTitle",
@@ -5091,7 +4808,7 @@
         "cls_name": "TitleElement",
         "html_hash": "368e5063",
         "html_preview": "style=\"text-indent:0...[288]...gn Currencies</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Foreign Currencies"
     },
@@ -5106,7 +4823,7 @@
         "cls_name": "TitleElement",
         "html_hash": "4a5be23a",
         "html_preview": "style=\"text-indent:0...[283]...Interest Rate</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Interest Rate"
     },
@@ -5121,7 +4838,7 @@
         "cls_name": "TitleElement",
         "html_hash": "b94ded4a",
         "html_preview": "style=\"text-indent:0...[276]...tent;'>Credit</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Credit"
     },
@@ -5136,7 +4853,7 @@
         "cls_name": "TitleElement",
         "html_hash": "7dfc9e31",
         "html_preview": "style=\"text-indent:0...[276]...tent;'>Equity</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Equity"
     },
@@ -5319,7 +5036,7 @@
         "cls_name": "TitleElement",
         "html_hash": "aa8091be",
         "html_preview": "style=\"text-indent:0...[400]...ting margins.</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins."
     },
@@ -5327,7 +5044,7 @@
         "cls_name": "TitleElement",
         "html_hash": "d330c8b7",
         "html_preview": "style=\"text-indent:0...[323]...nology sector</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Competition in the technology sector"
     },
@@ -5342,7 +5059,7 @@
         "cls_name": "TitleElement",
         "html_hash": "69fd09dc",
         "html_preview": "style=\"text-indent:0...[331]...ed ecosystems</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Competition among platform-based ecosystems"
     },
@@ -5366,20 +5083,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -5398,7 +5111,7 @@
         "cls_name": "TitleElement",
         "html_hash": "c3e6b5ca",
         "html_preview": "style=\"text-indent:0...[314]...l competition</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Business model competition"
     },
@@ -5422,20 +5135,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -5478,20 +5187,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -5518,7 +5223,7 @@
         "cls_name": "TitleElement",
         "html_hash": "b90afffb",
         "html_preview": "style=\"text-indent:0...[427]...ive position.</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Cyberattacks and security vulnerabilities could lead to reduced revenue, increased costs, liability claims, or harm to our reputation or competitive position."
     },
@@ -5526,7 +5231,7 @@
         "cls_name": "TitleElement",
         "html_hash": "74c8e34e",
         "html_preview": "style=\"text-indent:0...[325]...on technology</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Security of our information technology"
     },
@@ -5550,20 +5255,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -5582,7 +5283,7 @@
         "cls_name": "TitleElement",
         "html_hash": "2d8ed64e",
         "html_preview": "style=\"text-indent:0...[352]...stomers’ data</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Security of our products, services, devices, and customers’ data"
     },
@@ -5606,20 +5307,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -5638,7 +5335,7 @@
         "cls_name": "TitleElement",
         "html_hash": "16bd27d0",
         "html_preview": "style=\"text-indent:0...[336]...sive measures</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Development and deployment of defensive measures"
     },
@@ -5662,20 +5359,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -5694,7 +5387,7 @@
         "cls_name": "TitleElement",
         "html_hash": "178a3224",
         "html_preview": "style=\"text-indent:0...[336]...r engagement.</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Abuse of our platforms may harm our reputation or user engagement."
     },
@@ -5702,7 +5395,7 @@
         "cls_name": "TitleElement",
         "html_hash": "79a787a7",
         "html_preview": "style=\"text-indent:0...[353]...atform abuses</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Advertising, professional, marketplace, and gaming platform abuses"
     },
@@ -5717,7 +5410,7 @@
         "cls_name": "TitleElement",
         "html_hash": "5d33a30b",
         "html_preview": "style=\"text-indent:0...[315]...safety abuses</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Other digital safety abuses"
     },
@@ -5741,20 +5434,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -5805,20 +5494,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -5846,20 +5531,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -5878,7 +5559,7 @@
         "cls_name": "TitleElement",
         "html_hash": "d2f0d26b",
         "html_preview": "style=\"text-indent:0...[612]...t-content;'> </span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Laws and regulations relating to the handling of personal data may impede the adoption of our services or result in increased costs, legal claims, fines against us, or reputational damage."
     },
@@ -5886,7 +5567,7 @@
         "cls_name": "TitleElement",
         "html_hash": "acc09c01",
         "html_preview": "style=\"text-indent:0...[477]...t-content;'> </span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Cross-border transfer of personal data"
     },
@@ -5910,20 +5591,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -5935,7 +5612,7 @@
         "cls_name": "TitleElement",
         "html_hash": "d7e669a0",
         "html_preview": "style=\"text-indent:0...[356]...personal data</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "p",
         "text_content": "Other laws and regulations relating to the handling of personal data"
     },
@@ -5959,20 +5636,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -6015,20 +5688,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -6071,20 +5740,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -6112,20 +5777,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "level": 9,
-        "tag_name": "span",
-        "text_content": "Item 1A"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -6153,12 +5814,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
         "cls_name": "TopLevelSectionTitle",
@@ -6277,12 +5936,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 1,
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
         "cls_name": "TopLevelSectionTitle",
@@ -6354,7 +6011,7 @@
         "cls_name": "TitleElement",
         "html_hash": "1f373622",
         "html_preview": "style=\"text-indent:0...[328]...been omitted.</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "p",
         "text_content": "Items 3, 4, and 5 are not applicable and have been omitted."
     },

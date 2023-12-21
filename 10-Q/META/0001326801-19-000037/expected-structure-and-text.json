@@ -21,15 +21,7 @@
         "text_content": "(In millions, except for number of shares and par value)"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "(Unaudited)"
-    },
-    {
         "cls_name": "TableElement"
-    },
-    {
-        "cls_name": "SupplementaryText",
-        "text_content": "See Accompanying Notes to Condensed Consolidated Financial Statements."
     },
     {
         "cls_name": "TitleElement",
@@ -41,15 +33,7 @@
         "text_content": "(In millions, except per share amounts)"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "(Unaudited)"
-    },
-    {
         "cls_name": "TableElement"
-    },
-    {
-        "cls_name": "SupplementaryText",
-        "text_content": "See Accompanying Notes to Condensed Consolidated Financial Statements."
     },
     {
         "cls_name": "TitleElement",
@@ -61,15 +45,7 @@
         "text_content": "(In millions)"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "(Unaudited)"
-    },
-    {
         "cls_name": "TableElement"
-    },
-    {
-        "cls_name": "SupplementaryText",
-        "text_content": "See Accompanying Notes to Condensed Consolidated Financial Statements."
     },
     {
         "cls_name": "TitleElement",
@@ -81,15 +57,7 @@
         "text_content": "(In millions)"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "(Unaudited)"
-    },
-    {
         "cls_name": "TableElement"
-    },
-    {
-        "cls_name": "SupplementaryText",
-        "text_content": "See Accompanying Notes to Condensed Consolidated Financial Statements."
     },
     {
         "cls_name": "TitleElement",
@@ -101,15 +69,7 @@
         "text_content": "(In millions)"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "(Unaudited)"
-    },
-    {
         "cls_name": "TableElement"
-    },
-    {
-        "cls_name": "SupplementaryText",
-        "text_content": "See Accompanying Notes to Condensed Consolidated Financial Statements."
     },
     {
         "cls_name": "TitleElement",
@@ -121,15 +81,7 @@
         "text_content": "(In millions)"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "(Unaudited)"
-    },
-    {
         "cls_name": "TableElement"
-    },
-    {
-        "cls_name": "SupplementaryText",
-        "text_content": "See Accompanying Notes to Condensed Consolidated Financial Statements."
     },
     {
         "cls_name": "TitleElement",

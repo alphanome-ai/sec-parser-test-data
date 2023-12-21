@@ -20,20 +20,12 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "Refer to accompanying notes."
-    },
-    {
         "cls_name": "TitleElement",
         "level": 0,
         "text_content": "COMPREHENSIVE INCOME STATEMENTS"
     },
     {
         "cls_name": "TableElement"
-    },
-    {
-        "cls_name": "SupplementaryText",
-        "text_content": "Refer to accompanying notes."
     },
     {
         "cls_name": "TitleElement",
@@ -44,10 +36,6 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "Refer to accompanying notes."
-    },
-    {
         "cls_name": "TitleElement",
         "level": 0,
         "text_content": "CASH FLOWS STATEMENTS"
@@ -56,20 +44,12 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "Refer to accompanying notes."
-    },
-    {
         "cls_name": "TitleElement",
         "level": 0,
         "text_content": "STOCKHOLDERS\u2019 EQUITY STATEMENTS"
     },
     {
         "cls_name": "TableElement"
-    },
-    {
-        "cls_name": "SupplementaryText",
-        "text_content": "Refer to accompanying notes."
     },
     {
         "cls_name": "TitleElement",
@@ -82,7 +62,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 1 \u2014 ACCOUNTING POLICIES"
     },
     {
@@ -91,12 +71,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Financial Instruments"
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Investments"
     },
     {
@@ -113,7 +93,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Fair Value Measurements"
     },
     {
@@ -130,7 +110,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 2 \u2014 EARNINGS PER SHARE"
     },
     {
@@ -150,7 +130,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 3 \u2014 OTHER INCOME (EXPENSE), NET"
     },
     {
@@ -162,7 +142,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Net Recognized Gains (Losses) on Investments"
     },
     {
@@ -181,12 +161,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 4 \u2014 INVESTMENTS"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Investment Components"
     },
     {
@@ -209,7 +189,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Unrealized Losses on Debt Investments"
     },
     {
@@ -228,7 +208,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Debt Investment Maturities"
     },
     {
@@ -236,7 +216,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 5 \u2014 DERIVATIVES"
     },
     {
@@ -245,7 +225,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Foreign Currencies"
     },
     {
@@ -254,7 +234,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Interest Rate"
     },
     {
@@ -263,7 +243,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Equity"
     },
     {
@@ -272,7 +252,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Credit"
     },
     {
@@ -281,7 +261,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Credit-Risk-Related Contingent Features"
     },
     {
@@ -297,7 +277,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Fair Values of Derivative Instruments"
     },
     {
@@ -334,7 +314,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 6 \u2014 INVENTORIES"
     },
     {
@@ -346,12 +326,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 7 \u2014 BUSINESS COMBINATIONS"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Nuance Communications, Inc."
     },
     {
@@ -378,7 +358,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Activision Blizzard, Inc."
     },
     {
@@ -387,7 +367,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 8 \u2014 GOODWILL"
     },
     {
@@ -403,7 +383,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 9 \u2014 INTANGIBLE ASSETS"
     },
     {
@@ -426,7 +406,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 10 \u2014 DEBT"
     },
     {
@@ -453,12 +433,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 11 \u2014 INCOME TAXES"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Effective Tax Rate"
     },
     {
@@ -467,7 +447,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Uncertain Tax Positions"
     },
     {
@@ -480,7 +460,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 12 \u2014 UNEARNED REVENUE"
     },
     {
@@ -503,7 +483,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 13 \u2014 LEASES"
     },
     {
@@ -548,12 +528,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 15 \u2014 STOCKHOLDERS\u2019 EQUITY"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Share Repurchases"
     },
     {
@@ -573,7 +553,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Dividends"
     },
     {
@@ -589,7 +569,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 16 \u2014 ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)"
     },
     {
@@ -601,7 +581,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NOTE 17 \u2014 SEGMENT INFORMATION AND GEOGRAPHIC DATA"
     },
     {
@@ -610,7 +590,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Productivity and Business Processes"
     },
     {
@@ -619,7 +599,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Intelligent Cloud"
     },
     {
@@ -628,7 +608,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "More Personal Computing"
     },
     {
@@ -674,7 +654,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 5,
+        "level": 4,
         "text_content": "REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM"
     },
     {
@@ -683,7 +663,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Results of Review of Interim Financial Information"
     },
     {
@@ -692,7 +672,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Basis for Review Results"
     },
     {
@@ -701,7 +681,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 6,
+        "level": 5,
         "text_content": "/S/ DELOITTE & TOUCHE LLP"
     },
     {
@@ -712,16 +692,11 @@
         "cls_name": "TopLevelSectionTitle",
         "level": 1,
         "section_type": "part1item2",
-        "text_content": "ITEM 2. MANAGEMENT\u2019S DISCUSSION AND ANALYSIS OF"
+        "text_content": "ITEM 2. MANAGEMENT\u2019S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS"
     },
     {
         "cls_name": "TitleElement",
-        "level": 0,
-        "text_content": "FINANCIAL CONDITION AND RESULTS OF OPERATIONS"
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 7,
+        "level": 6,
         "text_content": "Note About Forward-Looking Statements"
     },
     {
@@ -730,7 +705,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "OVERVIEW"
     },
     {
@@ -739,7 +714,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Industry Trends"
     },
     {
@@ -748,7 +723,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Economic Conditions, Challenges, and Risks"
     },
     {
@@ -757,7 +732,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Seasonality"
     },
     {
@@ -766,7 +741,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Change in Accounting Estimate"
     },
     {
@@ -775,7 +750,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Reportable Segments"
     },
     {
@@ -788,7 +763,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Metrics"
     },
     {
@@ -797,7 +772,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Commercial"
     },
     {
@@ -809,7 +784,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Productivity and Business Processes and Intelligent Cloud"
     },
     {
@@ -821,7 +796,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "More Personal Computing"
     },
     {
@@ -833,7 +808,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "SUMMARY RESULTS OF OPERATIONS"
     },
     {
@@ -841,33 +816,15 @@
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Adjusted gross margin, operating income, net income, and diluted earnings per share (\u201cEPS\u201d) are non-GAAP financial measures. Current year non-GAAP financial measures exclude the impact of the Q2 charge, which includes employee severance expenses, impairment charges resulting from changes to our hardware portfolio, and costs related to lease consolidation activities. Prior year non-GAAP financial measures exclude the net income tax benefit related to transfer of intangible properties in the first quarter of fiscal year 2022. Refer to Note 11 \u2013 Income Taxes of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for further discussion. Refer to the Non-GAAP Financial Measures section below for a reconciliation of our financial results reported in accordance with GAAP to non-GAAP financial results."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
+        "text_content": "Adjusted gross margin, operating income, net income, and diluted earnings per share (\u201cEPS\u201d) are non-GAAP financial measures. Current year non-GAAP financial measures exclude the impact of the Q2 charge, which includes employee severance expenses, impairment charges resulting from changes to our hardware portfolio, and costs related to lease consolidation activities. Prior year non-GAAP financial measures exclude the net income tax benefit related to transfer of intangible properties in the first quarter of fiscal year 2022. Refer to Note 11 \u2013 Income Taxes of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for further discussion. Refer to the Non-GAAP Financial Measures section below for a reconciliation of our financial results reported in accordance with GAAP to non-GAAP financial results. Revenue increased $3.5 billion or 7% driven by growth in Intelligent Cloud and Productivity and Business Processes, offset in part by a decline in More Personal Computing. Intelligent Cloud revenue increased driven by Azure and other cloud services. Productivity and Business Processes revenue increased driven by Office 365 Commercial. More Personal Computing revenue decreased driven by Windows and Devices.Cost of revenue increased $513 million or 3% driven by growth in Microsoft Cloud, offset in part by a reduction in depreciation expense due to the change in accounting estimate for the useful lives of our server and network equipment.Gross margin increased $3.0 billion or 9% driven by growth in Intelligent Cloud and Productivity and Business Processes and the change in accounting estimate, offset in part by a decline in More Personal Computing.\u2022Gross margin percentage increased. Excluding the impact of the change in accounting estimate, gross margin percentage decreased slightly driven by reductions in Intelligent Cloud, offset in part by sales mix shift.\u2022Microsoft Cloud gross margin percentage increased 2 points to 72%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage decreased slightly driven by reductions in Azure and other cloud services.Operating expenses increased $996 million or 7% driven by 2 points of growth from the Nuance and Xandr acquisitions and investments in cloud engineering and LinkedIn.Key changes in operating expenses were:\u2022Research and development expenses increased $678 million or 11% driven by investments in cloud engineering and LinkedIn.\u2022Sales and marketing expenses increased $155 million or 3% driven by 3 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales, offset in part by declines in Windows and Devices advertising."
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Revenue increased $3.5 billion or 7% driven by growth in Intelligent Cloud and Productivity and Business Processes, offset in part by a decline in More Personal Computing. Intelligent Cloud revenue increased driven by Azure and other cloud services. Productivity and Business Processes revenue increased driven by Office 365 Commercial. More Personal Computing revenue decreased driven by Windows and Devices.Cost of revenue increased $513 million or 3% driven by growth in Microsoft Cloud, offset in part by a reduction in depreciation expense due to the change in accounting estimate for the useful lives of our server and network equipment.Gross margin increased $3.0 billion or 9% driven by growth in Intelligent Cloud and Productivity and Business Processes and the change in accounting estimate, offset in part by a decline in More Personal Computing.\u2022Gross margin percentage increased. Excluding the impact of the change in accounting estimate, gross margin percentage decreased slightly driven by reductions in Intelligent Cloud, offset in part by sales mix shift.\u2022Microsoft Cloud gross margin percentage increased 2 points to 72%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage decreased slightly driven by reductions in Azure and other cloud services.Operating expenses increased $996 million or 7% driven by 2 points of growth from the Nuance and Xandr acquisitions and investments in cloud engineering and LinkedIn.Key changes in operating expenses were:\u2022Research and development expenses increased $678 million or 11% driven by investments in cloud engineering and LinkedIn.\u2022Sales and marketing expenses increased $155 million or 3% driven by 3 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales, offset in part by declines in Windows and Devices advertising."
-    },
-    {
-        "cls_name": "TextElement",
-        "text_content": "\u2022General and administrative expenses increased $163 million or 11% driven by acquisition-related expenses and investments in corporate functions. General and administrative included a favorable foreign currency impact of 2%.Operating income increased $2.0 billion or 10% driven by growth in Productivity and Business Processes and Intelligent Cloud and the change in accounting estimate, offset in part by a decline in More Personal Computing.Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 3%, 4%, and 5%, respectively. Cost of revenue and operating expenses both included a favorable foreign currency impact of 2%."
+        "text_content": "\u2022General and administrative expenses increased $163 million or 11% driven by acquisition-related expenses and investments in corporate functions. General and administrative included a favorable foreign currency impact of 2%.Operating income increased $2.0 billion or 10% driven by growth in Productivity and Business Processes and Intelligent Cloud and the change in accounting estimate, offset in part by a decline in More Personal Computing.Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 3%, 4%, and 5%, respectively. Cost of revenue and operating expenses both included a favorable foreign currency impact of 2%.Revenue increased $9.3 billion or 6% driven by growth in Intelligent Cloud and Productivity and Business Processes, offset in part by a decline in More Personal Computing. Intelligent Cloud revenue increased driven by Azure and other cloud services. Productivity and Business Processes revenue increased driven by Office 365 Commercial and LinkedIn. More Personal Computing revenue decreased driven by Windows and Devices.Cost of revenue increased $2.8 billion or 6% driven by growth in Microsoft Cloud, offset in part by the change in accounting estimate.Gross margin increased $6.5 billion or 6% driven by growth in Intelligent Cloud and Productivity and Business Processes and the change in accounting estimate, offset in part by a decline in More Personal Computing.\u2022Gross margin percentage was relatively unchanged. Excluding the impact of the change in accounting estimate, gross margin percentage decreased 2 points driven by reductions in More Personal Computing and Intelligent Cloud, offset in part by sales mix shift.\u2022Microsoft Cloud gross margin percentage increased 2 points to 72%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage decreased 1 point driven by sales mix shift to Azure and other cloud services and higher energy costs.Operating expenses increased $5.1 billion or 14% driven by investments in cloud engineering, 3 points of growth from the Nuance and Xandr acquisitions, employee severance expenses, LinkedIn, and commercial sales.Key changes in operating expenses were:\u2022Research and development expenses increased $2.8 billion or 16% driven by investments in cloud engineering and LinkedIn.\u2022Sales and marketing expenses increased $1.0 billion or 7% driven by 4 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales. Sales and marketing included a favorable foreign currency impact of 3%.\u2022General and administrative expenses increased $1.2 billion or 30% driven by employee severance expenses. General and administrative included a favorable foreign currency impact of 2%.Operating income increased $1.4 billion or 2% driven by growth in Productivity and Business Processes and Intelligent Cloud and the change in accounting estimate, offset in part by a decline in More Personal Computing.Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 5%, 6%, and 8%, respectively. Cost of revenue and operating expenses both included a favorable foreign currency impact of 2%.Current year gross margin, operating income, net income, and diluted EPS were negatively impacted by the Q2 charge, which resulted in decreases of $152 million, $1.2 billion, $946 million, and $0.13, respectively. Prior year net income and diluted EPS were positively impacted by the net tax benefit related to the transfer of intangible properties, which resulted in an increase to net income and diluted EPS of $3.3 billion and $0.43, respectively."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "text_content": "Revenue increased $9.3 billion or 6% driven by growth in Intelligent Cloud and Productivity and Business Processes, offset in part by a decline in More Personal Computing. Intelligent Cloud revenue increased driven by Azure and other cloud services. Productivity and Business Processes revenue increased driven by Office 365 Commercial and LinkedIn. More Personal Computing revenue decreased driven by Windows and Devices.Cost of revenue increased $2.8 billion or 6% driven by growth in Microsoft Cloud, offset in part by the change in accounting estimate.Gross margin increased $6.5 billion or 6% driven by growth in Intelligent Cloud and Productivity and Business Processes and the change in accounting estimate, offset in part by a decline in More Personal Computing.\u2022Gross margin percentage was relatively unchanged. Excluding the impact of the change in accounting estimate, gross margin percentage decreased 2 points driven by reductions in More Personal Computing and Intelligent Cloud, offset in part by sales mix shift.\u2022Microsoft Cloud gross margin percentage increased 2 points to 72%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage decreased 1 point driven by sales mix shift to Azure and other cloud services and higher energy costs.Operating expenses increased $5.1 billion or 14% driven by investments in cloud engineering, 3 points of growth from the Nuance and Xandr acquisitions, employee severance expenses, LinkedIn, and commercial sales.Key changes in operating expenses were:\u2022Research and development expenses increased $2.8 billion or 16% driven by investments in cloud engineering and LinkedIn.\u2022Sales and marketing expenses increased $1.0 billion or 7% driven by 4 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales. Sales and marketing included a favorable foreign currency impact of 3%.\u2022General and administrative expenses increased $1.2 billion or 30% driven by employee severance expenses. General and administrative included a favorable foreign currency impact of 2%.Operating income increased $1.4 billion or 2% driven by growth in Productivity and Business Processes and Intelligent Cloud and the change in accounting estimate, offset in part by a decline in More Personal Computing.Revenue, gross margin, and operating income included an unfavorable foreign currency impact of 5%, 6%, and 8%, respectively. Cost of revenue and operating expenses both included a favorable foreign currency impact of 2%.Current year gross margin, operating income, net income, and diluted EPS were negatively impacted by the Q2 charge, which resulted in decreases of $152 million, $1.2 billion, $946 million, and $0.13, respectively. Prior year net income and diluted EPS were positively impacted by the net tax benefit related to the transfer of intangible properties, which resulted in an increase to net income and diluted EPS of $3.3 billion and $0.43, respectively."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "SEGMENT RESULTS OF OPERATIONS"
     },
     {
@@ -875,17 +832,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Reportable Segments"
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 8,
+        "level": 7,
         "text_content": "Productivity and Business Processes"
     },
     {
@@ -894,7 +846,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 8,
+        "level": 7,
         "text_content": "Intelligent Cloud"
     },
     {
@@ -907,7 +859,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 8,
+        "level": 7,
         "text_content": "More Personal Computing"
     },
     {
@@ -916,12 +868,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 8,
+        "level": 7,
         "text_content": "Productivity and Business Processes"
     },
     {
@@ -934,7 +881,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 8,
+        "level": 7,
         "text_content": "Intelligent Cloud"
     },
     {
@@ -943,7 +890,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 8,
+        "level": 7,
         "text_content": "More Personal Computing"
     },
     {
@@ -956,12 +903,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "OPERATING EXPENSES"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Research and Development"
     },
     {
@@ -969,29 +916,11 @@
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Research and development expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with product development. Research and development expenses also include third-party development and programming costs, localization costs incurred to translate software for international markets, and the amortization of purchased software code and services content."
+        "text_content": "Research and development expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with product development. Research and development expenses also include third-party development and programming costs, localization costs incurred to translate software for international markets, and the amortization of purchased software code and services content.Research and development expenses increased $678 million or 11% driven by investments in cloud engineering and LinkedIn.Research and development expenses increased $2.8 billion or 16% driven by investments in cloud engineering and LinkedIn."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "text_content": "Research and development expenses increased $678 million or 11% driven by investments in cloud engineering and LinkedIn."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "text_content": "Research and development expenses increased $2.8 billion or 16% driven by investments in cloud engineering and LinkedIn."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Sales and Marketing"
     },
     {
@@ -999,29 +928,11 @@
     },
     {
         "cls_name": "TextElement",
-        "text_content": "Sales and marketing expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with sales and marketing personnel, and the costs of advertising, promotions, trade shows, seminars, and other programs."
+        "text_content": "Sales and marketing expenses include payroll, employee benefits, stock-based compensation expense, and other headcount-related expenses associated with sales and marketing personnel, and the costs of advertising, promotions, trade shows, seminars, and other programs.Sales and marketing expenses increased $155 million or 3% driven by 3 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales, offset in part by declines in Windows and Devices advertising.Sales and marketing expenses increased $1.0 billion or 7% driven by 4 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales. Sales and marketing included a favorable foreign currency impact of 3%."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "text_content": "Sales and marketing expenses increased $155 million or 3% driven by 3 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales, offset in part by declines in Windows and Devices advertising."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "text_content": "Sales and marketing expenses increased $1.0 billion or 7% driven by 4 points of growth from the Nuance and Xandr acquisitions and investments in commercial sales. Sales and marketing included a favorable foreign currency impact of 3%."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "General and Administrative"
     },
     {
@@ -1029,29 +940,11 @@
     },
     {
         "cls_name": "TextElement",
-        "text_content": "General and administrative expenses include payroll, employee benefits, stock-based compensation expense, employee severance expense incurred as part of a corporate program, and other headcount-related expenses associated with finance, legal, facilities, certain human resources and other administrative personnel, certain taxes, and legal and other administrative fees."
+        "text_content": "General and administrative expenses include payroll, employee benefits, stock-based compensation expense, employee severance expense incurred as part of a corporate program, and other headcount-related expenses associated with finance, legal, facilities, certain human resources and other administrative personnel, certain taxes, and legal and other administrative fees.General and administrative expenses increased $163 million or 11% driven by acquisition-related expenses and investments in corporate functions. General and administrative included a favorable foreign currency impact of 2%.General and administrative expenses increased $1.2 billion or 30% driven by employee severance expenses. General and administrative included a favorable foreign currency impact of 2%."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "text_content": "General and administrative expenses increased $163 million or 11% driven by acquisition-related expenses and investments in corporate functions. General and administrative included a favorable foreign currency impact of 2%."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "text_content": "General and administrative expenses increased $1.2 billion or 30% driven by employee severance expenses. General and administrative included a favorable foreign currency impact of 2%."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "OTHER INCOME (EXPENSE), NET"
     },
     {
@@ -1063,34 +956,16 @@
     },
     {
         "cls_name": "TextElement",
-        "text_content": "We use derivative instruments to manage risks related to foreign currencies, equity prices, interest rates, and credit; enhance investment returns; and facilitate portfolio diversification. Gains and losses from changes in fair values of derivatives that are not designated as hedging instruments are primarily recognized in other income (expense), net."
+        "text_content": "We use derivative instruments to manage risks related to foreign currencies, equity prices, interest rates, and credit; enhance investment returns; and facilitate portfolio diversification. Gains and losses from changes in fair values of derivatives that are not designated as hedging instruments are primarily recognized in other income (expense), net.Interest and dividends income increased due to higher yields, offset in part by lower portfolio balances. Interest expense decreased due to a decrease in outstanding long-term debt due to debt maturities. Net recognized gains on investments increased due to gains on equity securities in the current period compared to losses in the prior period.Interest and dividends income increased due to higher yields, offset in part by lower portfolio balances. Interest expense decreased due to a decrease in outstanding long-term debt due to debt maturities. Net recognized gains on investments decreased due to lower gains on equity securities and higher losses on fixed income securities in the current period. Net losses on derivatives increased due to losses related to managing strategic investments."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Three Months Ended March 31, 2023 Compared with Three Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "text_content": "Interest and dividends income increased due to higher yields, offset in part by lower portfolio balances. Interest expense decreased due to a decrease in outstanding long-term debt due to debt maturities. Net recognized gains on investments increased due to gains on equity securities in the current period compared to losses in the prior period."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 4,
-        "text_content": "Nine Months Ended March 31, 2023 Compared with Nine Months Ended March 31, 2022"
-    },
-    {
-        "cls_name": "TextElement",
-        "text_content": "Interest and dividends income increased due to higher yields, offset in part by lower portfolio balances. Interest expense decreased due to a decrease in outstanding long-term debt due to debt maturities. Net recognized gains on investments decreased due to lower gains on equity securities and higher losses on fixed income securities in the current period. Net losses on derivatives increased due to losses related to managing strategic investments."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "INCOME TAXES"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Effective Tax Rate"
     },
     {
@@ -1099,7 +974,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Uncertain Tax Positions"
     },
     {
@@ -1108,7 +983,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "NON-GAAP FINANCIAL MEASURES"
     },
     {
@@ -1128,7 +1003,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "LIQUIDITY AND CAPITAL RESOURCES"
     },
     {
@@ -1137,7 +1012,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Cash, Cash Equivalents, and Investments"
     },
     {
@@ -1146,7 +1021,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Valuation"
     },
     {
@@ -1155,7 +1030,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Cash Flows"
     },
     {
@@ -1164,7 +1039,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Debt Proceeds"
     },
     {
@@ -1173,7 +1048,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Unearned Revenue"
     },
     {
@@ -1193,12 +1068,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Material Cash Requirements and Other Obligations"
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Income Taxes"
     },
     {
@@ -1207,7 +1082,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Share Repurchases"
     },
     {
@@ -1216,7 +1091,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Dividends"
     },
     {
@@ -1225,7 +1100,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Other Planned Uses of Capital"
     },
     {
@@ -1238,7 +1113,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "CRITICAL ACCOUNTING ESTIMATES"
     },
     {
@@ -1247,7 +1122,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Revenue Recognition"
     },
     {
@@ -1256,7 +1131,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Impairment of Investment Securities"
     },
     {
@@ -1265,7 +1140,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Goodwill"
     },
     {
@@ -1274,7 +1149,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Research and Development Costs"
     },
     {
@@ -1283,7 +1158,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Legal and Other Contingencies"
     },
     {
@@ -1292,7 +1167,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Income Taxes"
     },
     {
@@ -1301,7 +1176,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Inventories"
     },
     {
@@ -1312,16 +1187,11 @@
         "cls_name": "TopLevelSectionTitle",
         "level": 1,
         "section_type": "part1item3",
-        "text_content": "ITEM 3. QUANTITATIVE AND QUALITATI"
+        "text_content": "ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"
     },
     {
         "cls_name": "TitleElement",
-        "level": 0,
-        "text_content": "VE DISCLOSURES ABOUT MARKET RISK"
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "RISKS"
     },
     {
@@ -1330,7 +1200,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Foreign Currencies"
     },
     {
@@ -1339,7 +1209,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Interest Rate"
     },
     {
@@ -1348,7 +1218,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Credit"
     },
     {
@@ -1357,7 +1227,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Equity"
     },
     {
@@ -1366,7 +1236,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "SENSITIVITY ANALYSIS"
     },
     {
@@ -1390,17 +1260,12 @@
         "cls_name": "TopLevelSectionTitle",
         "level": 0,
         "section_type": "part2",
-        "text_content": "PART II"
+        "text_content": "PART II. OTHER INFORMATION"
     },
     {
         "cls_name": "TopLevelSectionTitle",
         "level": 1,
         "section_type": "part2item1",
-        "text_content": "PART II. OTHER INFORMATION"
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 0,
         "text_content": "ITEM 1. LEGAL PROCEEDINGS"
     },
     {
@@ -1419,17 +1284,17 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "STRATEGIC AND COMPETITIVE RISKS"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Competition in the technology sector"
     },
     {
@@ -1438,7 +1303,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Competition among platform-based ecosystems"
     },
     {
@@ -1451,7 +1316,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Business model competition"
     },
     {
@@ -1464,7 +1329,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "RISKS RELATING TO THE EVOLUTION OF OUR BUSINESS"
     },
     {
@@ -1477,17 +1342,17 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "CYBERSECURITY, DATA PRIVACY, AND PLATFORM ABUSE RISKS"
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Cyberattacks and security vulnerabilities could lead to reduced revenue, increased costs, liability claims, or harm to our reputation or competitive position."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Security of our information technology"
     },
     {
@@ -1500,7 +1365,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Security of our products, services, devices, and customers\u2019 data"
     },
     {
@@ -1513,7 +1378,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Development and deployment of defensive measures"
     },
     {
@@ -1526,12 +1391,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Abuse of our platforms may harm our reputation or user engagement."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Advertising, professional, marketplace, and gaming platform abuses"
     },
     {
@@ -1540,7 +1405,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Other digital safety abuses"
     },
     {
@@ -1549,7 +1414,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "OPERATIONAL RISKS"
     },
     {
@@ -1558,7 +1423,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "LEGAL, REGULATORY, AND LITIGATION RISKS"
     },
     {
@@ -1575,12 +1440,12 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Laws and regulations relating to the handling of personal data may impede the adoption of our services or result in increased costs, legal claims, fines against us, or reputational damage."
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Cross-border transfer of personal data"
     },
     {
@@ -1589,7 +1454,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 4,
+        "level": 3,
         "text_content": "Other laws and regulations relating to the handling of personal data"
     },
     {
@@ -1602,7 +1467,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "INTELLECTUAL PROPERTY RISKS"
     },
     {
@@ -1615,7 +1480,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "GENERAL RISKS"
     },
     {
@@ -1634,16 +1499,11 @@
         "cls_name": "TopLevelSectionTitle",
         "level": 1,
         "section_type": "part2item2",
-        "text_content": "Item 2"
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 0,
         "text_content": "ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS"
     },
     {
         "cls_name": "TitleElement",
-        "level": 2,
+        "level": 1,
         "text_content": "SHARE REPURCHASES AND DIVIDENDS"
     },
     {
@@ -1679,7 +1539,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 3,
+        "level": 2,
         "text_content": "Items 3, 4, and 5 are not applicable and have been omitted."
     },
     {

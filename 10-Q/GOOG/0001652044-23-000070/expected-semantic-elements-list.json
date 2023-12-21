@@ -596,18 +596,16 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "f675085e",
         "html_preview": "style=\"margin-top:3p...[128]...Alphabet Inc.</span>",
-        "level": 1,
-        "tag_name": "div",
-        "text_content": "Alphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "920ead1a",
         "html_preview": "style=\"text-align:ce...[127]...ALANCE SHEETS</span>",
-        "level": 2,
+        "level": 1,
         "tag_name": "div",
         "text_content": "CONSOLIDATED BALANCE SHEETS"
     },
@@ -629,11 +627,10 @@
         "tag_name": "table"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "a00502cf",
         "html_preview": "style=\"margin-top:3p...[138]...anying notes.</span>",
-        "tag_name": "div",
-        "text_content": "See accompanying notes."
+        "tag_name": "div"
     },
     {
         "cls_name": "PageNumberElement",
@@ -654,25 +651,22 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "80825bb4",
         "html_preview": "style=\"text-align:ce...[113]...Alphabet Inc.</span>",
-        "level": 1,
-        "tag_name": "div",
-        "text_content": "Alphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "d9ee8e8f",
         "html_preview": "style=\"text-align:ce...[133]...NTS OF INCOME</span>",
-        "level": 2,
+        "level": 1,
         "tag_name": "div",
         "text_content": "CONSOLIDATED STATEMENTS OF INCOME"
     },
@@ -694,11 +688,10 @@
         "tag_name": "table"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "5b20a1db",
         "html_preview": "style=\"margin-top:9p...[157]...anying notes.</span>",
-        "tag_name": "div",
-        "text_content": "See accompanying notes."
+        "tag_name": "div"
     },
     {
         "cls_name": "PageNumberElement",
@@ -719,25 +712,22 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "80825bb4",
         "html_preview": "style=\"text-align:ce...[113]...Alphabet Inc.</span>",
-        "level": 1,
-        "tag_name": "div",
-        "text_content": "Alphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "0f950a2b",
         "html_preview": "style=\"text-align:ce...[147]...ENSIVE INCOME</span>",
-        "level": 2,
+        "level": 1,
         "tag_name": "div",
         "text_content": "CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME"
     },
@@ -759,11 +749,10 @@
         "tag_name": "table"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "5b20a1db",
         "html_preview": "style=\"margin-top:9p...[157]...anying notes.</span>",
-        "tag_name": "div",
-        "text_content": "See accompanying notes."
+        "tag_name": "div"
     },
     {
         "cls_name": "PageNumberElement",
@@ -784,25 +773,22 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "56b6bed6",
         "html_preview": "style=\"padding-left:...[167]...Alphabet Inc.</span>",
-        "level": 1,
-        "tag_name": "div",
-        "text_content": "Alphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "d81cd57a",
         "html_preview": "style=\"text-align:ce...[147]...LDERS’ EQUITY</span>",
-        "level": 2,
+        "level": 1,
         "tag_name": "div",
         "text_content": "CONSOLIDATED STATEMENTS OF STOCKHOLDERS’ EQUITY"
     },
@@ -912,11 +898,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TableElement",
@@ -951,11 +936,10 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "5b20a1db",
         "html_preview": "style=\"margin-top:9p...[157]...anying notes.</span>",
-        "tag_name": "div",
-        "text_content": "See accompanying notes."
+        "tag_name": "div"
     },
     {
         "cls_name": "EmptyElement",
@@ -994,25 +978,22 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "80825bb4",
         "html_preview": "style=\"text-align:ce...[113]...Alphabet Inc.</span>",
-        "level": 1,
-        "tag_name": "div",
-        "text_content": "Alphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "283e0030",
         "html_preview": "style=\"text-align:ce...[137]...OF CASH FLOWS</span>",
-        "level": 2,
+        "level": 1,
         "tag_name": "div",
         "text_content": "CONSOLIDATED STATEMENTS OF CASH FLOWS"
     },
@@ -1034,11 +1015,10 @@
         "tag_name": "table"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "547e9f3b",
         "html_preview": "style=\"text-align:ce...[142]...anying notes.</span>",
-        "tag_name": "div",
-        "text_content": "See accompanying notes."
+        "tag_name": "div"
     },
     {
         "cls_name": "PageNumberElement",
@@ -1059,25 +1039,22 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "80825bb4",
         "html_preview": "style=\"text-align:ce...[113]...Alphabet Inc.</span>",
-        "level": 1,
-        "tag_name": "div",
-        "text_content": "Alphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "5675a0d1",
         "html_preview": "style=\"text-align:ce...[142]...AL STATEMENTS</span>",
-        "level": 2,
+        "level": 1,
         "tag_name": "div",
         "text_content": "NOTES TO CONSOLIDATED FINANCIAL STATEMENTS"
     },
@@ -1098,7 +1075,7 @@
         "cls_name": "TitleElement",
         "html_hash": "bd4bdf89",
         "html_preview": "style=\"margin-top:6p...[356]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 1.    Summary of Significant Accounting Policies"
     },
@@ -1106,7 +1083,7 @@
         "cls_name": "TitleElement",
         "html_hash": "36355ef7",
         "html_preview": "style=\"margin-top:6p...[136]...of Operations</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Nature of Operations"
     },
@@ -1121,7 +1098,7 @@
         "cls_name": "TitleElement",
         "html_hash": "97c4caae",
         "html_preview": "style=\"margin-top:6p...[303]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Basis of Consolidation"
     },
@@ -1136,7 +1113,7 @@
         "cls_name": "TitleElement",
         "html_hash": "d19bd9f1",
         "html_preview": "style=\"margin-top:6p...[155]...l Information</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Unaudited Interim Financial Information"
     },
@@ -1158,7 +1135,7 @@
         "cls_name": "TitleElement",
         "html_hash": "c1438dbb",
         "html_preview": "style=\"margin-top:6p...[145]...ting Estimate</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Change in Accounting Estimate"
     },
@@ -1173,7 +1150,7 @@
         "cls_name": "TitleElement",
         "html_hash": "4cfb46c5",
         "html_preview": "style=\"margin-top:6p...[146]...assifications</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Prior Period Reclassifications"
     },
@@ -1203,17 +1180,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "6f255aa0",
         "html_preview": "style=\"margin-top:6p...[313]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 2.    Revenues"
     },
@@ -1221,7 +1197,7 @@
         "cls_name": "TitleElement",
         "html_hash": "09d31881",
         "html_preview": "style=\"margin-top:6p...[138]...ated Revenues</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Disaggregated Revenues"
     },
@@ -1270,7 +1246,7 @@
         "cls_name": "TitleElement",
         "html_hash": "98d07548",
         "html_preview": "style=\"margin-top:6p...[131]...venue Backlog</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Revenue Backlog"
     },
@@ -1285,7 +1261,7 @@
         "cls_name": "TitleElement",
         "html_hash": "9e09241f",
         "html_preview": "style=\"margin-top:6p...[133]...rred Revenues</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Deferred Revenues"
     },
@@ -1333,17 +1309,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "c6b2c62c",
         "html_preview": "style=\"margin-top:6p...[349]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 3.    Financial Instruments"
     },
@@ -1357,7 +1332,7 @@
         "cls_name": "TitleElement",
         "html_hash": "1d02aed0",
         "html_preview": "style=\"margin-top:6p...[159]... Measurements</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Fair Value Measurements"
     },
@@ -1365,7 +1340,7 @@
         "cls_name": "TitleElement",
         "html_hash": "2142a70f",
         "html_preview": "style=\"margin-top:6p...[209]...curring Basis</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Investments Measured at Fair Value on a Recurring Basis"
     },
@@ -1413,11 +1388,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "EmptyElement",
@@ -1453,7 +1427,7 @@
         "cls_name": "TitleElement",
         "html_hash": "df7d435f",
         "html_preview": "style=\"margin-top:6p...[193]...urring Basis </span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Investments Measured at Fair Value on a Nonrecurring Basis"
     },
@@ -1466,10 +1440,10 @@
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "dd87b399",
-        "html_preview": "<div style=\"margin-t...[1946]...</table></div></div>",
-        "tag_name": "sec-parser-merged-text",
-        "text_content": "As of June 30, 2023 the carrying value of our non-marketable equity securities was $29.1 billion, of which $1.5 billion were remeasured at fair value during the three months ended June 30, 2023 and primarily classified as Level 3.Table of ContentsAlphabet Inc."
+        "html_hash": "24a245b8",
+        "html_preview": "style=\"margin-top:6p...[891]...ontinuation>.</span>",
+        "tag_name": "div",
+        "text_content": "As of June 30, 2023 the carrying value of our non-marketable equity securities was $29.1 billion, of which $1.5 billion were remeasured at fair value during the three months ended June 30, 2023 and primarily classified as Level 3."
     },
     {
         "cls_name": "PageNumberElement",
@@ -1490,10 +1464,16 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TitleElement",
         "html_hash": "5839ab8d",
         "html_preview": "style=\"margin-top:6p...[131]...bt Securities</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Debt Securities"
     },
@@ -1583,17 +1563,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "1bcd6387",
         "html_preview": "style=\"margin-top:6p...[134]...y Investments</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Equity Investments"
     },
@@ -1632,7 +1611,7 @@
         "cls_name": "TitleElement",
         "html_hash": "af34803d",
         "html_preview": "style=\"margin-top:6p...[201]...ty Securities</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Gains and Losses on Marketable and Non-marketable Equity Securities"
     },
@@ -1696,17 +1675,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "a22468a9",
         "html_preview": "style=\"margin-top:6p...[189]...Equity Method</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Equity Securities Accounted for Under the Equity Method"
     },
@@ -1727,7 +1705,7 @@
         "cls_name": "TitleElement",
         "html_hash": "f88718c5",
         "html_preview": "style=\"margin-top:6p...[148]...l Instruments</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Derivative Financial Instruments"
     },
@@ -1742,7 +1720,7 @@
         "cls_name": "TitleElement",
         "html_hash": "4bb960fb",
         "html_preview": "style=\"margin-top:6p...[150]...h Flow Hedges</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Cash Flow Hedges"
     },
@@ -1757,7 +1735,7 @@
         "cls_name": "TitleElement",
         "html_hash": "911b0b65",
         "html_preview": "style=\"margin-top:6p...[176]... Value Hedges</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Fair Value Hedges"
     },
@@ -1772,7 +1750,7 @@
         "cls_name": "TitleElement",
         "html_hash": "866655d5",
         "html_preview": "style=\"margin-top:6p...[155]...stment Hedges</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Net Investment Hedges"
     },
@@ -1787,7 +1765,7 @@
         "cls_name": "TitleElement",
         "html_hash": "8243f73f",
         "html_preview": "style=\"margin-top:6p...[151]...r Derivatives</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Other Derivatives"
     },
@@ -1811,11 +1789,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TextElement",
@@ -1888,11 +1865,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "EmptyElement",
@@ -1930,11 +1906,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TableElement",
@@ -1956,7 +1931,7 @@
         "cls_name": "TitleElement",
         "html_hash": "702b0727",
         "html_preview": "style=\"margin-top:6p...[161]...f Derivatives</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Offsetting of Derivatives"
     },
@@ -2003,11 +1978,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TableElement",
@@ -2036,7 +2010,7 @@
         "cls_name": "TitleElement",
         "html_hash": "f5d3897e",
         "html_preview": "style=\"margin-top:6p...[337]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 4.    Variable Interest Entities (VIE)"
     },
@@ -2044,7 +2018,7 @@
         "cls_name": "TitleElement",
         "html_hash": "465a702c",
         "html_preview": "style=\"margin-top:6p...[311]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Consolidated VIEs"
     },
@@ -2059,7 +2033,7 @@
         "cls_name": "TitleElement",
         "html_hash": "e343d992",
         "html_preview": "style=\"margin-top:6p...[135]...olidated VIEs</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Unconsolidated VIEs"
     },
@@ -2080,7 +2054,7 @@
         "cls_name": "TitleElement",
         "html_hash": "e0275459",
         "html_preview": "style=\"margin-top:6p...[291]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 5.    Debt"
     },
@@ -2088,7 +2062,7 @@
         "cls_name": "TitleElement",
         "html_hash": "c852b6a0",
         "html_preview": "style=\"margin-top:6p...[131]...ort-Term Debt</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Short-Term Debt"
     },
@@ -2112,17 +2086,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "d504c612",
         "html_preview": "style=\"margin-top:6p...[130]...ong-Term Debt</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Long-Term Debt"
     },
@@ -2161,7 +2134,7 @@
         "cls_name": "TitleElement",
         "html_hash": "b5a7e369",
         "html_preview": "style=\"margin-top:6p...[156]...edit Facility</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Credit Facility"
     },
@@ -2182,7 +2155,7 @@
         "cls_name": "TitleElement",
         "html_hash": "497a7641",
         "html_preview": "style=\"margin-top:6p...[353]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 6.    Supplemental Financial Statement Information"
     },
@@ -2190,7 +2163,7 @@
         "cls_name": "TitleElement",
         "html_hash": "9a1205b7",
         "html_preview": "style=\"margin-top:6p...[160]...ts Receivable</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Accounts Receivable"
     },
@@ -2205,7 +2178,7 @@
         "cls_name": "TitleElement",
         "html_hash": "8a1f0ad3",
         "html_preview": "style=\"margin-top:6p...[168]...quipment, Net</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Property and Equipment, Net"
     },
@@ -2239,17 +2212,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "012c01d6",
         "html_preview": "style=\"margin-top:6p...[162]...t Liabilities</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Accrued Expenses and Other Current Liabilities"
     },
@@ -2281,7 +2253,7 @@
         "cls_name": "TitleElement",
         "html_hash": "c407e433",
         "html_preview": "style=\"margin-top:6p...[161]...Income (Loss)</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Accumulated Other Comprehensive Income (Loss)"
     },
@@ -2325,11 +2297,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TextElement",
@@ -2352,7 +2323,7 @@
         "cls_name": "TitleElement",
         "html_hash": "19fa3d12",
         "html_preview": "style=\"margin-top:6p...[143]...Expense), Net</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Other Income (Expense), Net"
     },
@@ -2399,17 +2370,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "1252b955",
         "html_preview": "style=\"margin-top:6p...[358]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 7.    Workforce Reduction and Other Initiatives"
     },
@@ -2485,7 +2455,7 @@
         "cls_name": "TitleElement",
         "html_hash": "e0d6a785",
         "html_preview": "style=\"margin-top:6p...[347]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 8.    Goodwill and Other Intangible Assets"
     },
@@ -2493,7 +2463,7 @@
         "cls_name": "TitleElement",
         "html_hash": "fa1b16bc",
         "html_preview": "style=\"margin-top:6p...[124]...20%\">Goodwill</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Goodwill"
     },
@@ -2527,17 +2497,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "b3ce8595",
         "html_preview": "style=\"margin-top:6p...[139]...ngible Assets</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Other Intangible Assets"
     },
@@ -2592,7 +2561,7 @@
         "cls_name": "TitleElement",
         "html_hash": "1e0ca9cb",
         "html_preview": "style=\"margin-top:6p...[340]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 9.    Commitments and Contingencies"
     },
@@ -2600,7 +2569,7 @@
         "cls_name": "TitleElement",
         "html_hash": "10bdaa53",
         "html_preview": "style=\"margin-top:6p...[127]...\">Commitments</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Commitments"
     },
@@ -2615,7 +2584,7 @@
         "cls_name": "TitleElement",
         "html_hash": "0fb06f9f",
         "html_preview": "style=\"margin-top:6p...[157]...emnifications</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Indemnifications"
     },
@@ -2639,17 +2608,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "959d6598",
         "html_preview": "style=\"margin-top:6p...[154]...Legal Matters</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Legal Matters"
     },
@@ -2664,7 +2632,7 @@
         "cls_name": "TitleElement",
         "html_hash": "5184f846",
         "html_preview": "style=\"margin-top:6p...[158]...nvestigations</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Antitrust Investigations"
     },
@@ -2700,11 +2668,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TextElement",
@@ -2729,7 +2696,7 @@
         "cls_name": "TitleElement",
         "html_hash": "e6023d89",
         "html_preview": "style=\"margin-top:6p...[198]...operty Claims</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Patent and Intellectual Property Claims"
     },
@@ -2744,7 +2711,7 @@
         "cls_name": "TitleElement",
         "html_hash": "d990c64f",
         "html_preview": "style=\"margin-top:6p...[164]...t:120%\">Other</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Other"
     },
@@ -2759,7 +2726,7 @@
         "cls_name": "TitleElement",
         "html_hash": "91054f08",
         "html_preview": "style=\"margin-top:6p...[157]...-Income Taxes</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Non-Income Taxes"
     },
@@ -2789,17 +2756,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "a84a4126",
         "html_preview": "style=\"margin-top:6p...[328]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 10.    Stockholders' Equity"
     },
@@ -2807,7 +2773,7 @@
         "cls_name": "TitleElement",
         "html_hash": "6eda8e03",
         "html_preview": "style=\"margin-top:6p...[133]...e Repurchases</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Share Repurchases"
     },
@@ -2859,7 +2825,7 @@
         "cls_name": "TitleElement",
         "html_hash": "f4e82f1f",
         "html_preview": "style=\"margin-top:6p...[311]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 11.    Net Income Per Share"
     },
@@ -2893,11 +2859,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TableElement",
@@ -2926,7 +2891,7 @@
         "cls_name": "TitleElement",
         "html_hash": "b4da16dd",
         "html_preview": "style=\"margin-top:6p...[347]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 12.    Compensation Plans"
     },
@@ -2934,7 +2899,7 @@
         "cls_name": "TitleElement",
         "html_hash": "b9bab963",
         "html_preview": "style=\"margin-top:6p...[140]... Compensation</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Stock-Based Compensation"
     },
@@ -2949,7 +2914,7 @@
         "cls_name": "TitleElement",
         "html_hash": "1f9bc83f",
         "html_preview": "style=\"margin-top:6p...[144]...rd Activities</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Stock-Based Award Activities"
     },
@@ -2983,11 +2948,17 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TextElement",
-        "html_hash": "7f7bd9a9",
-        "html_preview": "<div style=\"min-heig...[1908]...n>     </span></div>",
-        "tag_name": "sec-parser-merged-text",
-        "text_content": "Table of ContentsAlphabet Inc.As of June 30, 2023, there was $43.6 billion of unrecognized compensation cost related to unvested RSUs. This amount is expected to be recognized over a weighted-average period of 2.8 years."
+        "html_hash": "c2d8da21",
+        "html_preview": "style=\"margin-top:6p...[853]...nuation>     </span>",
+        "tag_name": "div",
+        "text_content": "As of June 30, 2023, there was $43.6 billion of unrecognized compensation cost related to unvested RSUs. This amount is expected to be recognized over a weighted-average period of 2.8 years."
     },
     {
         "cls_name": "EmptyElement",
@@ -2999,7 +2970,7 @@
         "cls_name": "TitleElement",
         "html_hash": "fef5e860",
         "html_preview": "style=\"margin-top:6p...[307]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 13.    Income Taxes"
     },
@@ -3037,7 +3008,7 @@
         "cls_name": "TitleElement",
         "html_hash": "56f1c49c",
         "html_preview": "style=\"margin-top:6p...[349]...x:nonnumeric></span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Note 14.    Information about Segments and Geographic Areas"
     },
@@ -3061,11 +3032,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TextElement",
@@ -3137,11 +3107,10 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TopLevelSectionTitle",
@@ -3177,7 +3146,7 @@
         "cls_name": "TitleElement",
         "html_hash": "6f707447",
         "html_preview": "style=\"margin-top:6p...[158]...ncial Results</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Understanding Alphabet’s Financial Results"
     },
@@ -3198,7 +3167,7 @@
         "cls_name": "TitleElement",
         "html_hash": "2c4793d7",
         "html_preview": "style=\"margin-top:6p...[282]...eight:120%\"> </span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Revenues and Monetization Metrics"
     },
@@ -3213,7 +3182,7 @@
         "cls_name": "TitleElement",
         "html_hash": "7496d068",
         "html_preview": "style=\"margin-top:6p...[168]...ogle Services</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Google Services"
     },
@@ -3228,16 +3197,16 @@
         "cls_name": "TitleElement",
         "html_hash": "f166954a",
         "html_preview": "style=\"margin-top:6p...[197]...e Advertising</span>",
-        "level": 5,
+        "level": 4,
         "tag_name": "div",
         "text_content": "Google Advertising"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "8343ad87",
-        "html_preview": "<div style=\"margin-t...[7633]...annels.</span></div>",
+        "html_hash": "4496afa9",
+        "html_preview": "<div style=\"margin-t...[6589]...annels.</span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "Google advertising revenues are comprised of the following: •Google Search & other, which includes revenues generated on Google search properties (including revenues from traffic generated by search distribution partners who use Google.com as their default search in browsers, toolbars, etc.), and other Google owned and operated properties like Gmail, Google Maps, and Google Play;•YouTube ads, which includes revenues generated on YouTube properties; and•Google Network, which includes revenues generated on Google Network properties participating in AdMob, AdSense, and Google Ad Manager.We use certain metrics to track how well traffic across various properties is monetized as it relates to our advertising revenues: paid clicks and cost-per-click pertain to traffic on Google Search & other properties, while impressions and cost-per-impression pertain to traffic on our Google Network properties.Paid clicks represent engagement by users and include clicks on advertisements by end-users on Google search properties and other Google owned and operated properties including Gmail, Google Maps, and Google Table of ContentsAlphabet Inc.Play. Cost-per-click is defined as click-driven revenues divided by our total number of paid clicks and represents the average amount we charge advertisers for each engagement by users.Impressions include impressions displayed to users on Google Network properties participating primarily in AdMob, AdSense, and Google Ad Manager. Cost-per-impression is defined as impression-based and click-based revenues divided by our total number of impressions, and represents the average amount we charge advertisers for each impression displayed to users.As our business evolves, we periodically review, refine, and update our methodologies for monitoring, gathering, and counting the number of paid clicks and the number of impressions, and for identifying the revenues generated by the corresponding click and impression activity.Fluctuations in our advertising revenues, as well as the change in paid clicks and cost-per-click on Google Search & other properties and the change in impressions and cost-per-impression on Google Network properties and the correlation between these items have been and may continue to be affected by additional factors, such as:•advertiser competition for keywords;•changes in advertising quality, formats, delivery or policy;•changes in device mix;•seasonal fluctuations in internet usage, advertising expenditures, and underlying business trends, such as traditional retail seasonality; and•traffic growth in emerging markets compared to more mature markets and across various verticals and channels."
+        "text_content": "Google advertising revenues are comprised of the following: •Google Search & other, which includes revenues generated on Google search properties (including revenues from traffic generated by search distribution partners who use Google.com as their default search in browsers, toolbars, etc.), and other Google owned and operated properties like Gmail, Google Maps, and Google Play;•YouTube ads, which includes revenues generated on YouTube properties; and•Google Network, which includes revenues generated on Google Network properties participating in AdMob, AdSense, and Google Ad Manager.We use certain metrics to track how well traffic across various properties is monetized as it relates to our advertising revenues: paid clicks and cost-per-click pertain to traffic on Google Search & other properties, while impressions and cost-per-impression pertain to traffic on our Google Network properties.Paid clicks represent engagement by users and include clicks on advertisements by end-users on Google search properties and other Google owned and operated properties including Gmail, Google Maps, and Google Play. Cost-per-click is defined as click-driven revenues divided by our total number of paid clicks and represents the average amount we charge advertisers for each engagement by users.Impressions include impressions displayed to users on Google Network properties participating primarily in AdMob, AdSense, and Google Ad Manager. Cost-per-impression is defined as impression-based and click-based revenues divided by our total number of impressions, and represents the average amount we charge advertisers for each impression displayed to users.As our business evolves, we periodically review, refine, and update our methodologies for monitoring, gathering, and counting the number of paid clicks and the number of impressions, and for identifying the revenues generated by the corresponding click and impression activity.Fluctuations in our advertising revenues, as well as the change in paid clicks and cost-per-click on Google Search & other properties and the change in impressions and cost-per-impression on Google Network properties and the correlation between these items have been and may continue to be affected by additional factors, such as:•advertiser competition for keywords;•changes in advertising quality, formats, delivery or policy;•changes in device mix;•seasonal fluctuations in internet usage, advertising expenditures, and underlying business trends, such as traditional retail seasonality; and•traffic growth in emerging markets compared to more mature markets and across various verticals and channels."
     },
     {
         "cls_name": "PageNumberElement",
@@ -3252,10 +3221,16 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TitleElement",
         "html_hash": "0f1e0f22",
         "html_preview": "style=\"margin-top:6p...[191]...>Google Other</span>",
-        "level": 5,
+        "level": 4,
         "tag_name": "div",
         "text_content": "Google Other"
     },
@@ -3270,7 +3245,7 @@
         "cls_name": "TitleElement",
         "html_hash": "ab267f59",
         "html_preview": "style=\"margin-top:6p...[165]...>Google Cloud</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Google Cloud"
     },
@@ -3285,7 +3260,7 @@
         "cls_name": "TitleElement",
         "html_hash": "8cb33fbf",
         "html_preview": "style=\"margin-top:6p...[163]...%\">Other Bets</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Other Bets"
     },
@@ -3306,16 +3281,16 @@
         "cls_name": "TitleElement",
         "html_hash": "dd9ff285",
         "html_preview": "style=\"margin-top:6p...[152]... and Expenses</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Costs and Expenses"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "cb1de266",
-        "html_preview": "<div style=\"margin-t...[1634]...</table></div></div>",
-        "tag_name": "sec-parser-merged-text",
-        "text_content": "Our cost structure has two components: cost of revenues and operating expenses. Our operating expenses include costs related to R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated with the operation of our technical infrastructure as well as components of our operating expenses, are generally less variable in nature and may not correlate to changes in revenue.Table of ContentsAlphabet Inc."
+        "html_hash": "30e2aa50",
+        "html_preview": "style=\"margin-top:6p...[579]...s in revenue.</span>",
+        "tag_name": "div",
+        "text_content": "Our cost structure has two components: cost of revenues and operating expenses. Our operating expenses include costs related to R&D, sales and marketing, and general and administrative functions. Certain of our costs and expenses, including those associated with the operation of our technical infrastructure as well as components of our operating expenses, are generally less variable in nature and may not correlate to changes in revenue."
     },
     {
         "cls_name": "PageNumberElement",
@@ -3330,10 +3305,16 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TitleElement",
         "html_hash": "4aae7a25",
         "html_preview": "style=\"margin-top:6p...[169]...t of Revenues</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Cost of Revenues"
     },
@@ -3348,7 +3329,7 @@
         "cls_name": "TitleElement",
         "html_hash": "2c99b811",
         "html_preview": "style=\"margin-top:6p...[171]...ting Expenses</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Operating Expenses"
     },
@@ -3369,16 +3350,16 @@
         "cls_name": "TitleElement",
         "html_hash": "f963544f",
         "html_preview": "style=\"margin-top:6p...[162]...xpense), Net </span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Other Income (Expense), Net"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "b93ccf20",
-        "html_preview": "<div style=\"margin-t...[2274]...</table></div></div>",
+        "html_hash": "25e6be51",
+        "html_preview": "<div style=\"margin-t...[1230]...-K for </span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "Other income (expense), net primarily consists of interest income (expense), the effect of foreign currency exchange gains (losses), net gains (losses) and impairment on our marketable and non-marketable securities, performance fees, and income (loss) and impairment from our equity method investments.For additional details, including how we account for our investments and factors that can drive fluctuations in the value of our investments, see Note 1 of the Notes to Consolidated Financial Statements included in Part II, Item 8 and Item 7A, “Quantitative and Qualitative Disclosures About Market Risk” in our Annual Report on Form 10-K for Table of ContentsAlphabet Inc."
+        "text_content": "Other income (expense), net primarily consists of interest income (expense), the effect of foreign currency exchange gains (losses), net gains (losses) and impairment on our marketable and non-marketable securities, performance fees, and income (loss) and impairment from our equity method investments.For additional details, including how we account for our investments and factors that can drive fluctuations in the value of our investments, see Note 1 of the Notes to Consolidated Financial Statements included in Part II, Item 8 and Item 7A, “Quantitative and Qualitative Disclosures About Market Risk” in our Annual Report on Form 10-K for"
     },
     {
         "cls_name": "PageNumberElement",
@@ -3391,6 +3372,12 @@
         "html_hash": "45ab5d64",
         "html_preview": "style=\"page-break-after:always\"/>",
         "tag_name": "hr"
+    },
+    {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
     },
     {
         "cls_name": "SupplementaryText",
@@ -3409,7 +3396,7 @@
         "cls_name": "TitleElement",
         "html_hash": "a46f2834",
         "html_preview": "style=\"margin-top:6p...[275]...eight:120%\"> </span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Provision for Income Taxes"
     },
@@ -3437,7 +3424,7 @@
         "cls_name": "TitleElement",
         "html_hash": "7540e10e",
         "html_preview": "style=\"margin-top:6p...[134]...tive Overview</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Executive Overview"
     },
@@ -3469,16 +3456,16 @@
         "cls_name": "TitleElement",
         "html_hash": "58e19ffb",
         "html_preview": "style=\"margin-top:6p...[151]...r Information</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Other Information"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "ef465c72",
-        "html_preview": "<div style=\"margin-t...[8435]...</table></div></div>",
+        "html_hash": "d982b501",
+        "html_preview": "<div style=\"margin-t...[6347]...ements.</span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "•In January 2023, we announced a reduction of our workforce, and as a result we recorded employee severance and related charges of $2.0 billion for the six months ended June 30, 2023. In addition, we are taking actions to optimize our global office space. As a result, total charges recorded during the six months ended June 30, 2023 were $633 million, of which $564 million and $69 million were recorded during the three months ended March 31, 2023 and June 30, 2023, respectively. We may incur additional charges in Table of ContentsAlphabet Inc.the future as we further evaluate our real estate needs. For additional information, see Note 7 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.•In January 2023, we completed an assessment of the useful lives of our servers and network equipment, resulting in a change in the estimated useful life of our servers and certain network equipment to six years. The effect of this change was a reduction in depreciation expense of $966 million and $2.0 billion for the three and six months ended June 30, 2023, respectively, recognized primarily in cost of revenues and R&D expenses. For additional information, see Note 1 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.•Repurchases of Class A and Class C shares were $15.1 billion for the three months ended June 30, 2023. See Note 10 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q for additional information.•Operating cash flow was $28.7 billion for the three months ended June 30, 2023, and was affected by the 2023 IRS payment deferral relief made available to tax payers headquartered in designated counties in California.•Capital expenditures, which primarily reflected investments in technical infrastructure, were $6.9 billion for the three months ended June 30, 2023.•As of June 30, 2023, we had 181,798 employees. The substantial majority of the employees affected by the reduction of our workforce are no longer included in our headcount as of June 30, 2023. We expect most of the remaining employees affected will no longer be reflected in our headcount by the end of 2023, subject to local law and consultation requirements.Table of ContentsAlphabet Inc."
+        "text_content": "•In January 2023, we announced a reduction of our workforce, and as a result we recorded employee severance and related charges of $2.0 billion for the six months ended June 30, 2023. In addition, we are taking actions to optimize our global office space. As a result, total charges recorded during the six months ended June 30, 2023 were $633 million, of which $564 million and $69 million were recorded during the three months ended March 31, 2023 and June 30, 2023, respectively. We may incur additional charges in the future as we further evaluate our real estate needs. For additional information, see Note 7 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.•In January 2023, we completed an assessment of the useful lives of our servers and network equipment, resulting in a change in the estimated useful life of our servers and certain network equipment to six years. The effect of this change was a reduction in depreciation expense of $966 million and $2.0 billion for the three and six months ended June 30, 2023, respectively, recognized primarily in cost of revenues and R&D expenses. For additional information, see Note 1 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q.•Repurchases of Class A and Class C shares were $15.1 billion for the three months ended June 30, 2023. See Note 10 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q for additional information.•Operating cash flow was $28.7 billion for the three months ended June 30, 2023, and was affected by the 2023 IRS payment deferral relief made available to tax payers headquartered in designated counties in California.•Capital expenditures, which primarily reflected investments in technical infrastructure, were $6.9 billion for the three months ended June 30, 2023.•As of June 30, 2023, we had 181,798 employees. The substantial majority of the employees affected by the reduction of our workforce are no longer included in our headcount as of June 30, 2023. We expect most of the remaining employees affected will no longer be reflected in our headcount by the end of 2023, subject to local law and consultation requirements."
     },
     {
         "cls_name": "PageNumberElement",
@@ -3491,6 +3478,12 @@
         "html_hash": "45ab5d64",
         "html_preview": "style=\"page-break-after:always\"/>",
         "tag_name": "hr"
+    },
+    {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
     },
     {
         "cls_name": "PageNumberElement",
@@ -3511,10 +3504,16 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TitleElement",
         "html_hash": "6d0c0c89",
         "html_preview": "style=\"margin-top:6p...[134]...ncial Results</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Financial Results"
     },
@@ -3528,7 +3527,7 @@
         "cls_name": "TitleElement",
         "html_hash": "5761b2b2",
         "html_preview": "style=\"margin-top:6p...[142]...20%\">Revenues</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Revenues"
     },
@@ -3553,7 +3552,7 @@
         "cls_name": "TitleElement",
         "html_hash": "7496d068",
         "html_preview": "style=\"margin-top:6p...[168]...ogle Services</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Google Services"
     },
@@ -3561,7 +3560,7 @@
         "cls_name": "TitleElement",
         "html_hash": "1b85d47e",
         "html_preview": "style=\"margin-top:6p...[206]...sing revenues</span>",
-        "level": 5,
+        "level": 4,
         "tag_name": "div",
         "text_content": "Google advertising revenues"
     },
@@ -3569,7 +3568,7 @@
         "cls_name": "TitleElement",
         "html_hash": "e5c1679b",
         "html_preview": "style=\"margin-top:6p...[178]...h &amp; other</span>",
-        "level": 6,
+        "level": 5,
         "tag_name": "div",
         "text_content": "Google Search & other"
     },
@@ -3584,7 +3583,7 @@
         "cls_name": "TitleElement",
         "html_hash": "9e2fb2ae",
         "html_preview": "style=\"margin-top:6p...[164]...\">YouTube ads</span>",
-        "level": 6,
+        "level": 5,
         "tag_name": "div",
         "text_content": "YouTube ads"
     },
@@ -3599,7 +3598,7 @@
         "cls_name": "TitleElement",
         "html_hash": "d7e94ccf",
         "html_preview": "style=\"margin-top:6p...[167]...oogle Network</span>",
-        "level": 6,
+        "level": 5,
         "tag_name": "div",
         "text_content": "Google Network"
     },
@@ -3614,7 +3613,7 @@
         "cls_name": "TitleElement",
         "html_hash": "40e6721f",
         "html_preview": "style=\"margin-top:6p...[199]...ation Metrics</span>",
-        "level": 5,
+        "level": 4,
         "tag_name": "div",
         "text_content": "Monetization Metrics"
     },
@@ -3622,7 +3621,7 @@
         "cls_name": "TitleElement",
         "html_hash": "738d2c17",
         "html_preview": "style=\"margin-top:6p...[164]...ost-per-click</span>",
-        "level": 6,
+        "level": 5,
         "tag_name": "div",
         "text_content": "Paid clicks and cost-per-click"
     },
@@ -3656,17 +3655,23 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TextElement",
-        "html_hash": "f2196286",
-        "html_preview": "<div style=\"min-heig...[2211]..., 2023.</span></div>",
+        "html_hash": "2242ecc5",
+        "html_preview": "<div style=\"margin-t...[1167]..., 2023.</span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "Table of ContentsAlphabet Inc.Paid clicks increased from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023 driven by a number of interrelated factors, including an increase in search queries resulting from growth in user adoption and usage on mobile devices; growth in advertiser spending; and ongoing product and policy changes.Cost-per-click decreased from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023 driven by a number of interrelated factors including changes in device mix, geographic mix, advertiser spending, ongoing product and policy changes, and property mix. Additionally, cost-per-click was adversely affected by changes in foreign currency exchange rates for the six months ended June 30, 2023 and, to a lesser extent, for the three months ended June 30, 2023."
+        "text_content": "Paid clicks increased from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023 driven by a number of interrelated factors, including an increase in search queries resulting from growth in user adoption and usage on mobile devices; growth in advertiser spending; and ongoing product and policy changes.Cost-per-click decreased from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023 driven by a number of interrelated factors including changes in device mix, geographic mix, advertiser spending, ongoing product and policy changes, and property mix. Additionally, cost-per-click was adversely affected by changes in foreign currency exchange rates for the six months ended June 30, 2023 and, to a lesser extent, for the three months ended June 30, 2023."
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "8b6a919c",
         "html_preview": "style=\"margin-top:6p...[169]...er-impression</span>",
-        "level": 6,
+        "level": 5,
         "tag_name": "div",
         "text_content": "Impressions and cost-per-impression"
     },
@@ -3698,7 +3703,7 @@
         "cls_name": "TitleElement",
         "html_hash": "3acb6bb9",
         "html_preview": "style=\"margin-top:6p...[200]...ther revenues</span>",
-        "level": 5,
+        "level": 4,
         "tag_name": "div",
         "text_content": "Google other revenues"
     },
@@ -3713,16 +3718,16 @@
         "cls_name": "TitleElement",
         "html_hash": "81862e30",
         "html_preview": "style=\"margin-top:6p...[166]...>Google Cloud</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Google Cloud"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "6b8fce7f",
-        "html_preview": "<div style=\"margin-t...[1571]...</table></div></div>",
-        "tag_name": "sec-parser-merged-text",
-        "text_content": "Google Cloud revenues increased $1.8 billion and $3.4 billion from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023, respectively. Growth was primarily driven by Google Cloud Platform followed by Google Workspace offerings. Google Cloud's infrastructure and platform services were the largest drivers of growth in Google Cloud Platform.Table of ContentsAlphabet Inc."
+        "html_hash": "e9c17d0e",
+        "html_preview": "style=\"margin-top:6p...[516]...oud Platform.</span>",
+        "tag_name": "div",
+        "text_content": "Google Cloud revenues increased $1.8 billion and $3.4 billion from the three and six months ended June 30, 2022 to the three and six months ended June 30, 2023, respectively. Growth was primarily driven by Google Cloud Platform followed by Google Workspace offerings. Google Cloud's infrastructure and platform services were the largest drivers of growth in Google Cloud Platform."
     },
     {
         "cls_name": "PageNumberElement",
@@ -3743,10 +3748,16 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TitleElement",
         "html_hash": "25d4bff9",
         "html_preview": "style=\"margin-top:6p...[155]... by Geography</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Revenues by Geography"
     },
@@ -3778,16 +3789,16 @@
         "cls_name": "TitleElement",
         "html_hash": "28096e06",
         "html_preview": "style=\"margin-top:6p...[198]...y Information</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Use of Non-GAAP Constant Currency Information"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "77e309b6",
-        "html_preview": "<div style=\"margin-t...[4601]...tages):</span></div>",
+        "html_hash": "971c7405",
+        "html_preview": "<div style=\"margin-t...[3557]...tages):</span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "International revenues, which represent a significant portion of our revenues, are generally transacted in multiple currencies and therefore are affected by fluctuations in foreign currency exchange rates.The effect of currency exchange rates on our business is an important factor in understanding period-to-period comparisons. We use non-GAAP constant currency revenues (\"constant currency revenues\") and non-GAAP percentage change in constant currency revenues (\"percentage change in constant currency revenues\") for financial and operational decision-making and as a means to evaluate period-to-period comparisons. We believe the presentation of results on a constant currency basis in addition to GAAP results helps improve the ability to understand our performance, because it excludes the effects of foreign currency volatility that are not indicative of our core operating results.Constant currency information compares results between periods as if exchange rates had remained constant period over period. We define constant currency revenues as revenues excluding the effect of foreign currency exchange rate movements (\"FX Effect\") as well as hedging activities, which are recognized at the consolidated level. We use constant currency revenues to determine the constant currency revenue percentage change on a year-on-year basis. Constant currency revenues are calculated by translating current period revenues using prior year comparable period exchange rates, as well as excluding any hedging effects realized in the current period.Constant currency revenue percentage change is calculated by determining the change in current period revenues over prior year comparable period revenues where current period foreign currency revenues are translated using prior year comparable period exchange rates and hedging effects are excluded from revenues of both periods.These results should be considered in addition to, not as a substitute for, results reported in accordance with GAAP. Results on a constant currency basis, as we present them, may not be comparable to similarly titled measures used by other companies and are not a measure of performance presented in accordance with GAAP.Table of ContentsAlphabet Inc.The following table presents the foreign currency exchange effect on international revenues and total revenues (in millions, except percentages):"
+        "text_content": "International revenues, which represent a significant portion of our revenues, are generally transacted in multiple currencies and therefore are affected by fluctuations in foreign currency exchange rates.The effect of currency exchange rates on our business is an important factor in understanding period-to-period comparisons. We use non-GAAP constant currency revenues (\"constant currency revenues\") and non-GAAP percentage change in constant currency revenues (\"percentage change in constant currency revenues\") for financial and operational decision-making and as a means to evaluate period-to-period comparisons. We believe the presentation of results on a constant currency basis in addition to GAAP results helps improve the ability to understand our performance, because it excludes the effects of foreign currency volatility that are not indicative of our core operating results.Constant currency information compares results between periods as if exchange rates had remained constant period over period. We define constant currency revenues as revenues excluding the effect of foreign currency exchange rate movements (\"FX Effect\") as well as hedging activities, which are recognized at the consolidated level. We use constant currency revenues to determine the constant currency revenue percentage change on a year-on-year basis. Constant currency revenues are calculated by translating current period revenues using prior year comparable period exchange rates, as well as excluding any hedging effects realized in the current period.Constant currency revenue percentage change is calculated by determining the change in current period revenues over prior year comparable period revenues where current period foreign currency revenues are translated using prior year comparable period exchange rates and hedging effects are excluded from revenues of both periods.These results should be considered in addition to, not as a substitute for, results reported in accordance with GAAP. Results on a constant currency basis, as we present them, may not be comparable to similarly titled measures used by other companies and are not a measure of performance presented in accordance with GAAP.The following table presents the foreign currency exchange effect on international revenues and total revenues (in millions, except percentages):"
     },
     {
         "cls_name": "PageNumberElement",
@@ -3800,6 +3811,12 @@
         "html_hash": "45ab5d64",
         "html_preview": "style=\"page-break-after:always\"/>",
         "tag_name": "hr"
+    },
+    {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
     },
     {
         "cls_name": "TableElement",
@@ -3830,10 +3847,10 @@
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "70fc363c",
-        "html_preview": "<div style=\"padding-...[2696]...</table></div></div>",
+        "html_hash": "0c63d2d2",
+        "html_preview": "<div style=\"padding-...[1652]...e peso.</span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "(1)Total constant currency revenues of $147.6 billion for the six months ended June 30, 2023 increased $10.6 billion compared to $137.0 billion in revenues, excluding hedging effect, for the six months ended June 30, 2022.EMEA revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the British pound and the Euro.APAC revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Japanese yen.Other Americas revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Argentine peso.Table of ContentsAlphabet Inc."
+        "text_content": "(1)Total constant currency revenues of $147.6 billion for the six months ended June 30, 2023 increased $10.6 billion compared to $137.0 billion in revenues, excluding hedging effect, for the six months ended June 30, 2022.EMEA revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the British pound and the Euro.APAC revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Japanese yen.Other Americas revenue growth was unfavorably affected by changes in foreign currency exchange rates, primarily due to the U.S. dollar strengthening relative to the Argentine peso."
     },
     {
         "cls_name": "PageNumberElement",
@@ -3854,10 +3871,16 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TitleElement",
         "html_hash": "c4e26b33",
         "html_preview": "style=\"margin-top:9p...[152]... and Expenses</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Costs and Expenses"
     },
@@ -3871,7 +3894,7 @@
         "cls_name": "TitleElement",
         "html_hash": "4aae7a25",
         "html_preview": "style=\"margin-top:6p...[169]...t of Revenues</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Cost of Revenues"
     },
@@ -3909,7 +3932,7 @@
         "cls_name": "TitleElement",
         "html_hash": "ad7141ce",
         "html_preview": "style=\"margin-top:6p...[177]...d Development</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Research and Development"
     },
@@ -3932,10 +3955,10 @@
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "f30ec1da",
-        "html_preview": "<div style=\"margin-t...[3268]...ipment.</span></div>",
+        "html_hash": "99172ae1",
+        "html_preview": "<div style=\"margin-t...[2224]...ipment.</span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "R&D expenses increased $747 million from the three months ended June 30, 2022 to the three months ended June 30, 2023 primarily driven by an increase in compensation expenses of $356 million and an increase in depreciation of $168 million. The $356 million increase in compensation expenses was largely the result of a 6% increase in average headcount, after adjusting for roles affected by the reduction in workforce, partially offset by a reduction in valuation-based compensation liabilities related to certain Other Bets. The $168 million increase in depreciation includes the benefit of the change in the estimated useful lives of our servers and network equipment.R&D expenses increased $3.1 billion from the six months ended June 30, 2022 to the six months ended June 30, 2023 primarily driven by an increase in compensation expenses of $2.0 billion and an increase in depreciation of $294 million. The $2.0 billion increase in compensation expenses was largely the result of a 10% increase in average headcount, after adjusting for roles affected by the reduction in workforce, and $832 million in employee Table of ContentsAlphabet Inc.severance charges associated with the reduction of our workforce. The $294 million increase in depreciation includes the benefit of the change in the estimated useful lives of our servers and network equipment."
+        "text_content": "R&D expenses increased $747 million from the three months ended June 30, 2022 to the three months ended June 30, 2023 primarily driven by an increase in compensation expenses of $356 million and an increase in depreciation of $168 million. The $356 million increase in compensation expenses was largely the result of a 6% increase in average headcount, after adjusting for roles affected by the reduction in workforce, partially offset by a reduction in valuation-based compensation liabilities related to certain Other Bets. The $168 million increase in depreciation includes the benefit of the change in the estimated useful lives of our servers and network equipment.R&D expenses increased $3.1 billion from the six months ended June 30, 2022 to the six months ended June 30, 2023 primarily driven by an increase in compensation expenses of $2.0 billion and an increase in depreciation of $294 million. The $2.0 billion increase in compensation expenses was largely the result of a 10% increase in average headcount, after adjusting for roles affected by the reduction in workforce, and $832 million in employee severance charges associated with the reduction of our workforce. The $294 million increase in depreciation includes the benefit of the change in the estimated useful lives of our servers and network equipment."
     },
     {
         "cls_name": "PageNumberElement",
@@ -3950,6 +3973,12 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "EmptyElement",
         "html_hash": "ef890cb7",
         "html_preview": "id=\"i9cf7463c22154dd...[3]...a2edb8adbae2ee_160\">",
@@ -3959,7 +3988,7 @@
         "cls_name": "TitleElement",
         "html_hash": "dfa0cbc0",
         "html_preview": "style=\"margin-top:6p...[172]...and Marketing</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Sales and Marketing"
     },
@@ -3997,7 +4026,7 @@
         "cls_name": "TitleElement",
         "html_hash": "0b467511",
         "html_preview": "style=\"margin-top:6p...[179]...dministrative</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "General and Administrative"
     },
@@ -4035,7 +4064,7 @@
         "cls_name": "TitleElement",
         "html_hash": "9ded6998",
         "html_preview": "style=\"margin-top:6p...[155]...Profitability</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Segment Profitability"
     },
@@ -4058,10 +4087,10 @@
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "2ed222b5",
-        "html_preview": "<div style=\"padding-...[2968]...</table></div></div>",
-        "tag_name": "sec-parser-merged-text",
-        "text_content": "(1)In addition to the Alphabet-level costs included in unallocated corporate costs, hedging gains (losses) related to revenue were $375 million and $3 million for the three months ended June 30, 2022 and 2023, respectively, and $653 million and $87 million for the six months ended June 30, 2022 and 2023, respectively. For the three and six months ended June 30, 2023, unallocated corporate costs include charges related to the reductions in our workforce and office space totaling $70 million and $2.6 billion, respectively. Table of ContentsAlphabet Inc."
+        "html_hash": "737adce3",
+        "html_preview": "style=\"padding-left:...[1913]...espectively. </span>",
+        "tag_name": "div",
+        "text_content": "(1)In addition to the Alphabet-level costs included in unallocated corporate costs, hedging gains (losses) related to revenue were $375 million and $3 million for the three months ended June 30, 2022 and 2023, respectively, and $653 million and $87 million for the six months ended June 30, 2022 and 2023, respectively. For the three and six months ended June 30, 2023, unallocated corporate costs include charges related to the reductions in our workforce and office space totaling $70 million and $2.6 billion, respectively."
     },
     {
         "cls_name": "PageNumberElement",
@@ -4076,10 +4105,16 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TitleElement",
         "html_hash": "7496d068",
         "html_preview": "style=\"margin-top:6p...[168]...ogle Services</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Google Services"
     },
@@ -4094,7 +4129,7 @@
         "cls_name": "TitleElement",
         "html_hash": "ab267f59",
         "html_preview": "style=\"margin-top:6p...[165]...>Google Cloud</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Google Cloud"
     },
@@ -4109,7 +4144,7 @@
         "cls_name": "TitleElement",
         "html_hash": "8cb33fbf",
         "html_preview": "style=\"margin-top:6p...[163]...%\">Other Bets</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Other Bets"
     },
@@ -4130,7 +4165,7 @@
         "cls_name": "TitleElement",
         "html_hash": "84b29168",
         "html_preview": "style=\"margin-top:6p...[161]...Expense), Net</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Other Income (Expense), Net"
     },
@@ -4167,17 +4202,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "afd6b407",
         "html_preview": "style=\"margin-top:6p...[160]... Income Taxes</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Provision for Income Taxes"
     },
@@ -4215,7 +4249,7 @@
         "cls_name": "TitleElement",
         "html_hash": "c48e4348",
         "html_preview": "style=\"margin-top:6p...[135]...ial Condition</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Financial Condition"
     },
@@ -4223,7 +4257,7 @@
         "cls_name": "TitleElement",
         "html_hash": "2942d7c9",
         "html_preview": "style=\"margin-top:6p...[183]...le Securities</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Cash, Cash Equivalents, and Marketable Securities"
     },
@@ -4238,7 +4272,7 @@
         "cls_name": "TitleElement",
         "html_hash": "cb7fe71d",
         "html_preview": "style=\"margin-top:6p...[174]...elated Trends</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Sources, Uses of Cash and Related Trends"
     },
@@ -4263,16 +4297,16 @@
         "cls_name": "TitleElement",
         "html_hash": "d0c52b12",
         "html_preview": "style=\"margin-top:6p...[190]...ng Activities</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Cash Provided by Operating Activities"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "b423cded",
-        "html_preview": "<div style=\"margin-t...[2768]...penses.</span></div>",
+        "html_hash": "f34981ce",
+        "html_preview": "<div style=\"margin-t...[1724]...penses.</span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "Our largest source of cash provided by operations are advertising revenues generated by Google Search & other properties, Google Network properties, and YouTube properties. Additionally, we generate cash through sales of apps and in-app purchases, and hardware; and licensing and service fees, including fees received for Google Cloud offerings and subscription-based products.Our primary uses of cash from operating activities include payments to distribution and Google Network partners, to employees for compensation, and to content providers. Other uses of cash from operating activities include payments to suppliers for hardware, to tax authorities for income taxes, and other general corporate expenditures.Net cash provided by operating activities increased from the six months ended June 30, 2022 to the six months ended June 30, 2023 due to the 2023 IRS payment deferral relief made available to taxpayers Table of ContentsAlphabet Inc.headquartered in designated counties in California, partially offset by increased cash payments for costs and expenses."
+        "text_content": "Our largest source of cash provided by operations are advertising revenues generated by Google Search & other properties, Google Network properties, and YouTube properties. Additionally, we generate cash through sales of apps and in-app purchases, and hardware; and licensing and service fees, including fees received for Google Cloud offerings and subscription-based products.Our primary uses of cash from operating activities include payments to distribution and Google Network partners, to employees for compensation, and to content providers. Other uses of cash from operating activities include payments to suppliers for hardware, to tax authorities for income taxes, and other general corporate expenditures.Net cash provided by operating activities increased from the six months ended June 30, 2022 to the six months ended June 30, 2023 due to the 2023 IRS payment deferral relief made available to taxpayers headquartered in designated counties in California, partially offset by increased cash payments for costs and expenses."
     },
     {
         "cls_name": "PageNumberElement",
@@ -4287,10 +4321,16 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TitleElement",
         "html_hash": "7cac222c",
         "html_preview": "style=\"margin-top:6p...[186]...ng Activities</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Cash Used in Investing Activities"
     },
@@ -4305,7 +4345,7 @@
         "cls_name": "TitleElement",
         "html_hash": "9b87d345",
         "html_preview": "style=\"margin-top:6p...[186]...ng Activities</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Cash Used in Financing Activities"
     },
@@ -4320,7 +4360,7 @@
         "cls_name": "TitleElement",
         "html_hash": "1004505e",
         "html_preview": "style=\"margin-top:6p...[174]... Requirements</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Liquidity and Material Cash Requirements"
     },
@@ -4335,7 +4375,7 @@
         "cls_name": "TitleElement",
         "html_hash": "b02ab49a",
         "html_preview": "style=\"margin-top:6p...[184]...es and Leases</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Capital Expenditures and Leases"
     },
@@ -4350,7 +4390,7 @@
         "cls_name": "TitleElement",
         "html_hash": "91fd44d4",
         "html_preview": "style=\"margin-top:6p...[199]... Expenditures</span>",
-        "level": 5,
+        "level": 4,
         "tag_name": "div",
         "text_content": "Capital Expenditures"
     },
@@ -4365,16 +4405,16 @@
         "cls_name": "TitleElement",
         "html_hash": "87fa75b5",
         "html_preview": "style=\"margin-top:6p...[185]...rline\">Leases</span>",
-        "level": 5,
+        "level": 4,
         "tag_name": "div",
         "text_content": "Leases"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "836a6e93",
-        "html_preview": "<div style=\"margin-t...[3727]...d 2023.</span></div>",
+        "html_hash": "ad874972",
+        "html_preview": "<div style=\"margin-t...[2683]...d 2023.</span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "For the six months ended June 30, 2022 and 2023, we recognized total operating lease assets of $2.2 billion and $1.7 billion, respectively. As of June 30, 2023, the amount of total future lease payments under operating leases, which had a weighted average remaining lease term of 8.2 years, was $18.2 billion. As of June 30, 2023, we have entered into leases that have not yet commenced with future lease payments of $2.9 billion, that are not yet recorded on our Consolidated Balance Sheets. These leases will commence between 2023 and 2027 with non-cancelable lease terms of 1 to 34 years. As of June 30, 2023 our actions to optimize our office space did not affect our operating lease obligations.Table of ContentsAlphabet Inc.For the six months ended June 30, 2022 and 2023, our operating lease expenses (including variable lease costs) were $1.8 billion and $2.2 billion, respectively. Finance lease costs were not material for the six months ended June 30, 2022 and 2023."
+        "text_content": "For the six months ended June 30, 2022 and 2023, we recognized total operating lease assets of $2.2 billion and $1.7 billion, respectively. As of June 30, 2023, the amount of total future lease payments under operating leases, which had a weighted average remaining lease term of 8.2 years, was $18.2 billion. As of June 30, 2023, we have entered into leases that have not yet commenced with future lease payments of $2.9 billion, that are not yet recorded on our Consolidated Balance Sheets. These leases will commence between 2023 and 2027 with non-cancelable lease terms of 1 to 34 years. As of June 30, 2023 our actions to optimize our office space did not affect our operating lease obligations.For the six months ended June 30, 2022 and 2023, our operating lease expenses (including variable lease costs) were $1.8 billion and $2.2 billion, respectively. Finance lease costs were not material for the six months ended June 30, 2022 and 2023."
     },
     {
         "cls_name": "PageNumberElement",
@@ -4389,10 +4429,16 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TitleElement",
         "html_hash": "1ce53fad",
         "html_preview": "style=\"margin-top:6p...[162]...0%\">Financing</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Financing"
     },
@@ -4420,7 +4466,7 @@
         "cls_name": "TitleElement",
         "html_hash": "ccb8a948",
         "html_preview": "style=\"margin-top:6p...[177]...chase Program</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Share Repurchase Program"
     },
@@ -4449,7 +4495,7 @@
         "cls_name": "TitleElement",
         "html_hash": "ec5eea09",
         "html_preview": "style=\"margin-top:6p...[178]...mission Fines</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "European Commission Fines"
     },
@@ -4464,16 +4510,16 @@
         "cls_name": "TitleElement",
         "html_hash": "af1eb650",
         "html_preview": "style=\"margin-top:6p...[158]...t:120%\">Taxes</span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Taxes"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "64ed0f2f",
-        "html_preview": "<div style=\"margin-t...[2789]...m 10-Q.</span></div>",
+        "html_hash": "ed50f3c7",
+        "html_preview": "<div style=\"margin-t...[1745]...m 10-Q.</span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "As of June 30, 2023, we had short-term and long-term income taxes payable of $3.6 billion and $2.2 billion related to a one-time transition tax payable incurred as a result of the U.S. Tax Cuts and Jobs Act (\"Tax Act\"). As Table of ContentsAlphabet Inc.permitted by the Tax Act, we will pay the transition tax in annual interest-free installments through 2025. We also have long-term taxes payable of $6.6 billion primarily related to uncertain tax positions as of June 30, 2023. As a result of the 2023 IRS payment deferral relief made available to taxpayers headquartered in designated counties in California, we are postponing our second and third quarter tax payments until the fourth quarter of 2023. See Note 6 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q."
+        "text_content": "As of June 30, 2023, we had short-term and long-term income taxes payable of $3.6 billion and $2.2 billion related to a one-time transition tax payable incurred as a result of the U.S. Tax Cuts and Jobs Act (\"Tax Act\"). As permitted by the Tax Act, we will pay the transition tax in annual interest-free installments through 2025. We also have long-term taxes payable of $6.6 billion primarily related to uncertain tax positions as of June 30, 2023. As a result of the 2023 IRS payment deferral relief made available to taxpayers headquartered in designated counties in California, we are postponing our second and third quarter tax payments until the fourth quarter of 2023. See Note 6 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q."
     },
     {
         "cls_name": "PageNumberElement",
@@ -4488,10 +4534,16 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TitleElement",
         "html_hash": "c0e4a827",
         "html_preview": "style=\"margin-top:6p...[174]... Commitments </span>",
-        "level": 4,
+        "level": 3,
         "tag_name": "div",
         "text_content": "Purchase Commitments"
     },
@@ -4512,7 +4564,7 @@
         "cls_name": "TitleElement",
         "html_hash": "6f71655b",
         "html_preview": "style=\"margin-top:6p...[145]...ing Estimates</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Critical Accounting Estimates"
     },
@@ -4533,7 +4585,7 @@
         "cls_name": "TitleElement",
         "html_hash": "fdd2e5b8",
         "html_preview": "style=\"margin-top:6p...[137]...e Information</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Available Information"
     },
@@ -4601,16 +4653,16 @@
         "cls_name": "TitleElement",
         "html_hash": "abd2988b",
         "html_preview": "style=\"margin-top:6p...[164]...nd Procedures</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Evaluation of Disclosure Controls and Procedures"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "3467c025",
-        "html_preview": "<div style=\"margin-t...[2518]...losure.</span></div>",
+        "html_hash": "2f8474de",
+        "html_preview": "<div style=\"margin-t...[1474]...losure.</span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "Our management, with the participation of our chief executive officer and chief financial officer, evaluated the effectiveness of our disclosure controls and procedures pursuant to Rule 13a-15 under the Exchange Act, as of the end of the period covered by this Quarterly Report on Form 10-Q.Based on this evaluation, our chief executive officer and chief financial officer concluded that, as of June 30, 2023, our disclosure controls and procedures are designed at a reasonable assurance level and are effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to our management, including our Table of ContentsAlphabet Inc.chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure."
+        "text_content": "Our management, with the participation of our chief executive officer and chief financial officer, evaluated the effectiveness of our disclosure controls and procedures pursuant to Rule 13a-15 under the Exchange Act, as of the end of the period covered by this Quarterly Report on Form 10-Q.Based on this evaluation, our chief executive officer and chief financial officer concluded that, as of June 30, 2023, our disclosure controls and procedures are designed at a reasonable assurance level and are effective to provide reasonable assurance that information we are required to disclose in reports that we file or submit under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms, and that such information is accumulated and communicated to our management, including our chief executive officer and chief financial officer, as appropriate, to allow timely decisions regarding required disclosure."
     },
     {
         "cls_name": "PageNumberElement",
@@ -4625,10 +4677,16 @@
         "tag_name": "hr"
     },
     {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
+    },
+    {
         "cls_name": "TitleElement",
         "html_hash": "7d2687b5",
         "html_preview": "style=\"margin-top:6p...[168]...ial Reporting</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Changes in Internal Control over Financial Reporting"
     },
@@ -4643,16 +4701,16 @@
         "cls_name": "TitleElement",
         "html_hash": "c07c5e54",
         "html_preview": "style=\"margin-top:6p...[171]...nd Procedures</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Limitations on Effectiveness of Controls and Procedures"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "33b5c8fd",
-        "html_preview": "<div style=\"margin-t...[1700]...</table></div></div>",
-        "tag_name": "sec-parser-merged-text",
-        "text_content": "In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs.Table of ContentsAlphabet Inc."
+        "html_hash": "9c7444c7",
+        "html_preview": "style=\"margin-top:6p...[645]... their costs.</span>",
+        "tag_name": "div",
+        "text_content": "In designing and evaluating the disclosure controls and procedures, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures must reflect the fact that there are resource constraints and that management is required to apply its judgment in evaluating the benefits of possible controls and procedures relative to their costs."
     },
     {
         "cls_name": "PageNumberElement",
@@ -4671,6 +4729,12 @@
         "html_hash": "45ab5d64",
         "html_preview": "style=\"page-break-after:always\"/>",
         "tag_name": "hr"
+    },
+    {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
     },
     {
         "cls_name": "TopLevelSectionTitle",
@@ -4774,7 +4838,7 @@
         "cls_name": "TitleElement",
         "html_hash": "3f1c2288",
         "html_preview": "style=\"margin-top:6p...[134]...ty Securities</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "Issuer Purchases of Equity Securities"
     },
@@ -4829,16 +4893,16 @@
         "cls_name": "TitleElement",
         "html_hash": "bf732215",
         "html_preview": "style=\"margin-top:6p...[117]...Trading Plans</span>",
-        "level": 3,
+        "level": 2,
         "tag_name": "div",
         "text_content": "10b5-1 Trading Plans"
     },
     {
         "cls_name": "TextElement",
-        "html_hash": "1037f758",
-        "html_preview": "<div style=\"margin-t...[7485]...</table></div></div>",
+        "html_hash": "7cd35f35",
+        "html_preview": "<div style=\"margin-t...[5355]...ations.</span></div>",
         "tag_name": "sec-parser-merged-text",
-        "text_content": "During the fiscal quarter ended June 30, 2023, the following Section 16 officers adopted, modified or terminated “Rule 10b5-1 trading arrangements” (as defined in Item 408 of Regulation S-K of the Exchange Act):•Amie Thuener O’Toole, Vice President, Corporate Controller and Principal Accounting Officer, adopted a new trading plan on May 31, 2023 (with the first trade under the new plan scheduled for September 5, 2023). The trading plan will be effective until September 9, 2024 to sell an aggregate of (i) 2,904 shares of Class C Capital Stock, plus (ii) 50% of the (net) shares resulting from the vesting of 32,093 additional (gross) Class C Capital Stock during the plan period (net shares are net of tax withholding). •Kent Walker, President, Global Affairs, Chief Legal Officer and Secretary, effected a trading plan modification by terminating a trading plan on May 30, 2023, originally adopted on May 28, 2022, and adopting a new trading plan on May 31, 2023 (with the first trade under the new plan scheduled for September 5, 2023). The trading plan will be effective until February 27, 2026 to sell 100% of the (net) shares resulting from the vesting of 511,048 (gross) Class C Capital Stock during the plan period (net shares are net of tax withholding)*.*In accordance with new SEC rules adopted on December 14, 2022, any modification or change to the amount, price, or timing of the purchase or sale of securities constitutes a termination of an existing Rule 10b5-1 trading arrangement and the adoption of a new Rule 10b5-1 trading arrangement.There were no “non-Rule 10b5-1 trading arrangements” (as defined in Item 408 of Regulation S-K of the Exchange Act) adopted, modified or terminated during the fiscal quarter ended June 30, 2023 by our directors and Section 16 officers. Each of the Rule 10b5-1 trading arrangements are in accordance with our Policy Against Insider Table of ContentsAlphabet Inc.Trading and actual sale transactions made pursuant to such trading arrangements will be disclosed publicly in Section 16 filings with the SEC in accordance with applicable securities laws, rules and regulations.Table of ContentsAlphabet Inc."
+        "text_content": "During the fiscal quarter ended June 30, 2023, the following Section 16 officers adopted, modified or terminated “Rule 10b5-1 trading arrangements” (as defined in Item 408 of Regulation S-K of the Exchange Act):•Amie Thuener O’Toole, Vice President, Corporate Controller and Principal Accounting Officer, adopted a new trading plan on May 31, 2023 (with the first trade under the new plan scheduled for September 5, 2023). The trading plan will be effective until September 9, 2024 to sell an aggregate of (i) 2,904 shares of Class C Capital Stock, plus (ii) 50% of the (net) shares resulting from the vesting of 32,093 additional (gross) Class C Capital Stock during the plan period (net shares are net of tax withholding). •Kent Walker, President, Global Affairs, Chief Legal Officer and Secretary, effected a trading plan modification by terminating a trading plan on May 30, 2023, originally adopted on May 28, 2022, and adopting a new trading plan on May 31, 2023 (with the first trade under the new plan scheduled for September 5, 2023). The trading plan will be effective until February 27, 2026 to sell 100% of the (net) shares resulting from the vesting of 511,048 (gross) Class C Capital Stock during the plan period (net shares are net of tax withholding)*.*In accordance with new SEC rules adopted on December 14, 2022, any modification or change to the amount, price, or timing of the purchase or sale of securities constitutes a termination of an existing Rule 10b5-1 trading arrangement and the adoption of a new Rule 10b5-1 trading arrangement.There were no “non-Rule 10b5-1 trading arrangements” (as defined in Item 408 of Regulation S-K of the Exchange Act) adopted, modified or terminated during the fiscal quarter ended June 30, 2023 by our directors and Section 16 officers. Each of the Rule 10b5-1 trading arrangements are in accordance with our Policy Against Insider Trading and actual sale transactions made pursuant to such trading arrangements will be disclosed publicly in Section 16 filings with the SEC in accordance with applicable securities laws, rules and regulations."
     },
     {
         "cls_name": "PageNumberElement",
@@ -4851,6 +4915,12 @@
         "html_hash": "45ab5d64",
         "html_preview": "style=\"page-break-after:always\"/>",
         "tag_name": "hr"
+    },
+    {
+        "cls_name": "PageNumberElement",
+        "html_hash": "4c6ac0c7",
+        "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
+        "tag_name": "div"
     },
     {
         "cls_name": "PageNumberElement",
@@ -4869,6 +4939,12 @@
         "html_hash": "45ab5d64",
         "html_preview": "style=\"page-break-after:always\"/>",
         "tag_name": "hr"
+    },
+    {
+        "cls_name": "PageNumberElement",
+        "html_hash": "f5fa5cb5",
+        "html_preview": "style=\"min-height:42...[1035]...></tr></table></div>",
+        "tag_name": "div"
     },
     {
         "cls_name": "TopLevelSectionTitle",
@@ -4938,17 +5014,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TextElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "4c6ac0c7",
         "html_preview": "style=\"min-height:42...[993]...></tr></table></div>",
-        "tag_name": "div",
-        "text_content": "Table of ContentsAlphabet Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "815c1dd8",
         "html_preview": "style=\"margin-top:6p...[145]...\"> SIGNATURES</span>",
-        "level": 2,
+        "level": 1,
         "tag_name": "div",
         "text_content": "SIGNATURES"
     },

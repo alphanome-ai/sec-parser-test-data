@@ -14,11 +14,6 @@
     {
         "cls_name": "TitleElement",
         "level": 0,
-        "text_content": "Apple Inc."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 1,
         "text_content": "CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)"
     },
     {
@@ -29,17 +24,8 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
-    },
-    {
         "cls_name": "TitleElement",
         "level": 0,
-        "text_content": "Apple Inc."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 1,
         "text_content": "CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (Unaudited)"
     },
     {
@@ -50,17 +36,8 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
-    },
-    {
         "cls_name": "TitleElement",
         "level": 0,
-        "text_content": "Apple Inc."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 1,
         "text_content": "CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)"
     },
     {
@@ -71,17 +48,8 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
-    },
-    {
         "cls_name": "TitleElement",
         "level": 0,
-        "text_content": "Apple Inc."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 1,
         "text_content": "CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY (Unaudited)"
     },
     {
@@ -92,17 +60,8 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
-    },
-    {
         "cls_name": "TitleElement",
         "level": 0,
-        "text_content": "Apple Inc."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 1,
         "text_content": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)"
     },
     {
@@ -113,17 +72,8 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "SupplementaryText",
-        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
-    },
-    {
         "cls_name": "TitleElement",
-        "level": 0,
-        "text_content": "Apple Inc."
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 0,
+        "level": 1,
         "text_content": "Notes to Condensed Consolidated Financial Statements (Unaudited)"
     },
     {
@@ -896,7 +846,7 @@
     },
     {
         "cls_name": "TitleElement",
-        "level": 1,
+        "level": 0,
         "text_content": "SIGNATURE"
     },
     {

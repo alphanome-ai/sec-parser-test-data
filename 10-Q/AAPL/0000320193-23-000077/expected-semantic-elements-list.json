@@ -366,18 +366,16 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "f2cdf5a5",
         "html_preview": "style=\"margin-top:12...[129]...%\">Apple Inc.</span>",
-        "level": 0,
-        "tag_name": "div",
-        "text_content": "Apple Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "b04b2bfc",
         "html_preview": "style=\"margin-top:9p...[177]...S (Unaudited)</span>",
-        "level": 1,
+        "level": 0,
         "tag_name": "div",
         "text_content": "CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)"
     },
@@ -405,11 +403,10 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
-        "tag_name": "div",
-        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
+        "tag_name": "div"
     },
     {
         "cls_name": "PageNumberElement",
@@ -436,18 +433,16 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "44c6dcf4",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
-        "level": 0,
-        "tag_name": "div",
-        "text_content": "Apple Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "5a341fdc",
         "html_preview": "style=\"margin-top:9p...[187]...E (Unaudited)</span>",
-        "level": 1,
+        "level": 0,
         "tag_name": "div",
         "text_content": "CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (Unaudited)"
     },
@@ -475,11 +470,10 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
-        "tag_name": "div",
-        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
+        "tag_name": "div"
     },
     {
         "cls_name": "PageNumberElement",
@@ -506,18 +500,16 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "44c6dcf4",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
-        "level": 0,
-        "tag_name": "div",
-        "text_content": "Apple Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "c43d1e60",
         "html_preview": "style=\"margin-top:9p...[167]...S (Unaudited)</span>",
-        "level": 1,
+        "level": 0,
         "tag_name": "div",
         "text_content": "CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)"
     },
@@ -545,11 +537,10 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
-        "tag_name": "div",
-        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
+        "tag_name": "div"
     },
     {
         "cls_name": "PageNumberElement",
@@ -576,18 +567,16 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "f2cdf5a5",
         "html_preview": "style=\"margin-top:12...[129]...%\">Apple Inc.</span>",
-        "level": 0,
-        "tag_name": "div",
-        "text_content": "Apple Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "6ea764a4",
         "html_preview": "style=\"margin-top:9p...[187]...Y (Unaudited)</span>",
-        "level": 1,
+        "level": 0,
         "tag_name": "div",
         "text_content": "CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY (Unaudited)"
     },
@@ -615,11 +604,10 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
-        "tag_name": "div",
-        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
+        "tag_name": "div"
     },
     {
         "cls_name": "PageNumberElement",
@@ -646,18 +634,16 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "44c6dcf4",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
-        "level": 0,
-        "tag_name": "div",
-        "text_content": "Apple Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "366dea13",
         "html_preview": "style=\"margin-top:9p...[177]...S (Unaudited)</span>",
-        "level": 1,
+        "level": 0,
         "tag_name": "div",
         "text_content": "CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)"
     },
@@ -685,11 +671,10 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "SupplementaryText",
+        "cls_name": "PageNumberElement",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
-        "tag_name": "div",
-        "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
+        "tag_name": "div"
     },
     {
         "cls_name": "PageNumberElement",
@@ -716,18 +701,16 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "PageNumberElement",
         "html_hash": "44c6dcf4",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
-        "level": 0,
-        "tag_name": "div",
-        "text_content": "Apple Inc."
+        "tag_name": "div"
     },
     {
         "cls_name": "TitleElement",
         "html_hash": "5cb54760",
         "html_preview": "style=\"margin-top:9p...[182]...s (Unaudited)</span>",
-        "level": 0,
+        "level": 1,
         "tag_name": "div",
         "text_content": "Notes to Condensed Consolidated Financial Statements (Unaudited)"
     },
@@ -2638,7 +2621,7 @@
         "cls_name": "TitleElement",
         "html_hash": "e59dfda6",
         "html_preview": "style=\"text-align:ce...[112]...0%\">SIGNATURE</span>",
-        "level": 1,
+        "level": 0,
         "tag_name": "div",
         "text_content": "SIGNATURE"
     },
