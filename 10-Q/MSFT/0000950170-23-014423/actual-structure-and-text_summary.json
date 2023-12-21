@@ -1,18 +1,19 @@
 {
     "metrics": {
         "total_expected": 366,
-        "total_actual": 384,
+        "total_actual": 389,
         "total_missing": 10,
-        "total_unexpected": 28,
-        "precision": "92.71%",
+        "total_unexpected": 33,
+        "precision": "91.52%",
         "recall": "97.27%",
-        "f1_score": "94.93%",
+        "f1_score": "94.30%",
         "missing_elements_by_type": {
             "TopLevelSectionTitle": 10
         },
         "unexpected_elements_by_type": {
             "TopLevelSectionTitle": 10,
-            "TitleElement": 18
+            "TitleElement": 18,
+            "SupplementaryText": 5
         }
     },
     "missing_elements": [
@@ -109,6 +110,26 @@
             "cls_name": "TitleElement",
             "level": 0,
             "text_content": "AL STATEMENTS"
+        },
+        {
+            "cls_name": "SupplementaryText",
+            "text_content": "Refer to accompanying notes."
+        },
+        {
+            "cls_name": "SupplementaryText",
+            "text_content": "Refer to accompanying notes."
+        },
+        {
+            "cls_name": "SupplementaryText",
+            "text_content": "Refer to accompanying notes."
+        },
+        {
+            "cls_name": "SupplementaryText",
+            "text_content": "Refer to accompanying notes."
+        },
+        {
+            "cls_name": "SupplementaryText",
+            "text_content": "Refer to accompanying notes."
         },
         {
             "cls_name": "TopLevelSectionTitle",

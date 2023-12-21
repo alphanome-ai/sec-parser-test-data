@@ -7,38 +7,41 @@
         "ratio_perfect_recall": "0.00%"
     },
     "average_metrics": {
-        "f1_score": "98.99%",
-        "precision": "98.54%",
+        "f1_score": "98.61%",
+        "precision": "97.81%",
         "recall": "99.45%"
     },
     "average_elements": {
-        "expected": "325.2",
-        "actual": "328.8",
+        "expected": "329.6",
+        "actual": "335.2",
         "missing": "2",
-        "unexpected": "5.6"
+        "unexpected": "7.6"
     },
     "total_missing": {
         "TopLevelSectionTitle": 10
     },
     "total_unexpected": {
+        "SupplementaryText": 10,
         "TopLevelSectionTitle": 10,
         "TitleElement": 18
     },
     "selected_filings": {
         "10-Q_AAPL_0000320193-23-000077": {
             "total_expected": 197,
-            "total_actual": 197,
+            "total_actual": 202,
             "total_missing": 0,
-            "total_unexpected": 0,
-            "precision": "100.00%",
+            "total_unexpected": 5,
+            "precision": "97.52%",
             "recall": "100.00%",
-            "f1_score": "100.00%",
+            "f1_score": "98.75%",
             "missing_elements_by_type": {},
-            "unexpected_elements_by_type": {}
+            "unexpected_elements_by_type": {
+                "SupplementaryText": 5
+            }
         },
         "10-Q_GOOG_0001652044-23-000070": {
-            "total_expected": 382,
-            "total_actual": 382,
+            "total_expected": 387,
+            "total_actual": 387,
             "total_missing": 0,
             "total_unexpected": 0,
             "precision": "100.00%",
@@ -48,8 +51,8 @@
             "unexpected_elements_by_type": {}
         },
         "10-Q_GOOG_0001652044-23-000094": {
-            "total_expected": 385,
-            "total_actual": 385,
+            "total_expected": 390,
+            "total_actual": 390,
             "total_missing": 0,
             "total_unexpected": 0,
             "precision": "100.00%",
@@ -60,23 +63,24 @@
         },
         "10-Q_MSFT_0000950170-23-014423": {
             "total_expected": 366,
-            "total_actual": 384,
+            "total_actual": 389,
             "total_missing": 10,
-            "total_unexpected": 28,
-            "precision": "92.71%",
+            "total_unexpected": 33,
+            "precision": "91.52%",
             "recall": "97.27%",
-            "f1_score": "94.93%",
+            "f1_score": "94.30%",
             "missing_elements_by_type": {
                 "TopLevelSectionTitle": 10
             },
             "unexpected_elements_by_type": {
                 "TopLevelSectionTitle": 10,
-                "TitleElement": 18
+                "TitleElement": 18,
+                "SupplementaryText": 5
             }
         },
         "10-Q_META_0001326801-19-000037": {
-            "total_expected": 296,
-            "total_actual": 296,
+            "total_expected": 308,
+            "total_actual": 308,
             "total_missing": 0,
             "total_unexpected": 0,
             "precision": "100.00%",

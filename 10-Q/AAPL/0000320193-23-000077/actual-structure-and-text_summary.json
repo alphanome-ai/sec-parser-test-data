@@ -1,15 +1,38 @@
 {
     "metrics": {
         "total_expected": 197,
-        "total_actual": 197,
+        "total_actual": 202,
         "total_missing": 0,
-        "total_unexpected": 0,
-        "precision": "100.00%",
+        "total_unexpected": 5,
+        "precision": "97.52%",
         "recall": "100.00%",
-        "f1_score": "100.00%",
+        "f1_score": "98.75%",
         "missing_elements_by_type": {},
-        "unexpected_elements_by_type": {}
+        "unexpected_elements_by_type": {
+            "SupplementaryText": 5
+        }
     },
     "missing_elements": [],
-    "unexpected_elements": []
+    "unexpected_elements": [
+        {
+            "cls_name": "SupplementaryText",
+            "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
+        },
+        {
+            "cls_name": "SupplementaryText",
+            "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
+        },
+        {
+            "cls_name": "SupplementaryText",
+            "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
+        },
+        {
+            "cls_name": "SupplementaryText",
+            "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
+        },
+        {
+            "cls_name": "SupplementaryText",
+            "text_content": "See accompanying Notes to Condensed Consolidated Financial Statements."
+        }
+    ]
 }

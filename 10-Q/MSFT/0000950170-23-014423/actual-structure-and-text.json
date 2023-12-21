@@ -40,12 +40,20 @@
         "cls_name": "TableElement"
     },
     {
+        "cls_name": "SupplementaryText",
+        "text_content": "Refer to accompanying notes."
+    },
+    {
         "cls_name": "TitleElement",
         "level": 0,
         "text_content": "COMPREHENSIVE INCOME STATEMENTS"
     },
     {
         "cls_name": "TableElement"
+    },
+    {
+        "cls_name": "SupplementaryText",
+        "text_content": "Refer to accompanying notes."
     },
     {
         "cls_name": "TitleElement",
@@ -56,6 +64,10 @@
         "cls_name": "TableElement"
     },
     {
+        "cls_name": "SupplementaryText",
+        "text_content": "Refer to accompanying notes."
+    },
+    {
         "cls_name": "TitleElement",
         "level": 0,
         "text_content": "CASH FLOWS STATEMENTS"
@@ -64,12 +76,20 @@
         "cls_name": "TableElement"
     },
     {
+        "cls_name": "SupplementaryText",
+        "text_content": "Refer to accompanying notes."
+    },
+    {
         "cls_name": "TitleElement",
         "level": 0,
         "text_content": "STOCKHOLDERS’ EQUITY STATEMENTS"
     },
     {
         "cls_name": "TableElement"
+    },
+    {
+        "cls_name": "SupplementaryText",
+        "text_content": "Refer to accompanying notes."
     },
     {
         "cls_name": "TitleElement",
