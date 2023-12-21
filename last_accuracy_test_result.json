@@ -7,84 +7,63 @@
         "ratio_perfect_recall": "0.00%"
     },
     "average_metrics": {
-        "f1_score": "51.42%",
-        "precision": "54.87%",
-        "recall": "50.55%"
+        "f1_score": "93.24%",
+        "precision": "89.54%",
+        "recall": "97.73%"
     },
     "average_elements": {
-        "expected": "344.6",
+        "expected": "338",
         "actual": "380.2",
-        "missing": "174.8",
-        "unexpected": "133.8"
+        "missing": "9",
+        "unexpected": "51.2"
     },
     "total_missing": {
-        "TitleElement": 408,
-        "TextElement": 342,
-        "TopLevelSectionTitle": 33,
-        "SupplementaryText": 59,
-        "TableElement": 32
+        "TopLevelSectionTitle": 8,
+        "TitleElement": 37
     },
     "total_unexpected": {
-        "TitleElement": 550,
-        "TextElement": 111,
+        "TitleElement": 192,
+        "TextElement": 56,
         "TopLevelSectionTitle": 8
     },
     "selected_filings": {
         "10-Q_AAPL_0000320193-23-000077": {
-            "total_expected": 203,
+            "total_expected": 208,
             "total_actual": 208,
-            "total_missing": 65,
-            "total_unexpected": 70,
-            "precision": "66.35%",
-            "recall": "67.98%",
-            "f1_score": "67.15%",
-            "missing_elements_by_type": {
-                "TitleElement": 63,
-                "TextElement": 2
-            },
-            "unexpected_elements_by_type": {
-                "TitleElement": 69,
-                "TextElement": 1
-            }
+            "total_missing": 0,
+            "total_unexpected": 0,
+            "precision": "100.00%",
+            "recall": "100.00%",
+            "f1_score": "100.00%",
+            "missing_elements_by_type": {},
+            "unexpected_elements_by_type": {}
         },
         "10-Q_GOOG_0001652044-23-000070": {
-            "total_expected": 396,
+            "total_expected": 387,
             "total_actual": 421,
-            "total_missing": 271,
-            "total_unexpected": 166,
-            "precision": "42.96%",
-            "recall": "31.57%",
-            "f1_score": "36.39%",
-            "missing_elements_by_type": {
-                "TitleElement": 125,
-                "TextElement": 117,
-                "TopLevelSectionTitle": 9,
-                "SupplementaryText": 6,
-                "TableElement": 14
-            },
+            "total_missing": 0,
+            "total_unexpected": 34,
+            "precision": "91.92%",
+            "recall": "100.00%",
+            "f1_score": "95.79%",
+            "missing_elements_by_type": {},
             "unexpected_elements_by_type": {
-                "TitleElement": 122,
-                "TextElement": 44
+                "TitleElement": 6,
+                "TextElement": 28
             }
         },
         "10-Q_GOOG_0001652044-23-000094": {
-            "total_expected": 397,
+            "total_expected": 390,
             "total_actual": 424,
-            "total_missing": 272,
-            "total_unexpected": 167,
-            "precision": "42.81%",
-            "recall": "31.49%",
-            "f1_score": "36.28%",
-            "missing_elements_by_type": {
-                "TitleElement": 126,
-                "TextElement": 117,
-                "TopLevelSectionTitle": 9,
-                "SupplementaryText": 6,
-                "TableElement": 14
-            },
+            "total_missing": 0,
+            "total_unexpected": 34,
+            "precision": "91.98%",
+            "recall": "100.00%",
+            "f1_score": "95.82%",
+            "missing_elements_by_type": {},
             "unexpected_elements_by_type": {
-                "TitleElement": 123,
-                "TextElement": 44
+                "TitleElement": 6,
+                "TextElement": 28
             }
         },
         "10-Q_MSFT_0000950170-23-014423": {
@@ -105,23 +84,16 @@
             }
         },
         "10-Q_META_0001326801-19-000037": {
-            "total_expected": 330,
+            "total_expected": 308,
             "total_actual": 315,
-            "total_missing": 221,
-            "total_unexpected": 85,
-            "precision": "56.19%",
-            "recall": "33.03%",
-            "f1_score": "41.60%",
-            "missing_elements_by_type": {
-                "TitleElement": 57,
-                "TextElement": 106,
-                "TableElement": 4,
-                "SupplementaryText": 47,
-                "TopLevelSectionTitle": 7
-            },
+            "total_missing": 0,
+            "total_unexpected": 7,
+            "precision": "97.78%",
+            "recall": "100.00%",
+            "f1_score": "98.88%",
+            "missing_elements_by_type": {},
             "unexpected_elements_by_type": {
-                "TitleElement": 63,
-                "TextElement": 22
+                "TitleElement": 7
             }
         }
     }
