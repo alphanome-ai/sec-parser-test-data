@@ -1,19 +1,19 @@
 {
     "metrics": {
         "total_expected": 397,
-        "total_actual": 599,
-        "total_missing": 10,
-        "total_unexpected": 212,
-        "precision": "64.61%",
-        "recall": "97.48%",
-        "f1_score": "77.71%",
+        "total_actual": 533,
+        "total_missing": 45,
+        "total_unexpected": 181,
+        "precision": "66.04%",
+        "recall": "88.66%",
+        "f1_score": "75.70%",
         "missing_elements_by_type": {
             "TopLevelSectionTitle": 8,
-            "TitleElement": 2
+            "TitleElement": 37
         },
         "unexpected_elements_by_type": {
             "TopLevelSectionTitle": 8,
-            "TitleElement": 204
+            "TitleElement": 173
         }
     },
     "missing_elements": [
@@ -30,16 +30,151 @@
             "text_content": "ITEM 1. FINANCIAL STATEMENTS"
         },
         {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 1 — ACCOUNTING POLICIES"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 2 — EARNINGS PER SHARE"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 3 — OTHER INCOME (EXPENSE), NET"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 4 — INVESTMENTS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 5 — DERIVATIVES"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 6 — INVENTORIES"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 7 — BUSINESS COMBINATIONS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 8 — GOODWILL"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 9 — INTANGIBLE ASSETS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 10 — DEBT"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 11 — INCOME TAXES"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 12 — UNEARNED REVENUE"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 13 — LEASES"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 15 — STOCKHOLDERS’ EQUITY"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 16 — ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NOTE 17 — SEGMENT INFORMATION AND GEOGRAPHIC DATA"
+        },
+        {
             "cls_name": "TopLevelSectionTitle",
             "level": 1,
             "section_type": "part1item2",
             "text_content": "ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF"
         },
         {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "OVERVIEW"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "SUMMARY RESULTS OF OPERATIONS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "SEGMENT RESULTS OF OPERATIONS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "OPERATING EXPENSES"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "OTHER INCOME (EXPENSE), NET"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "INCOME TAXES"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "NON-GAAP FINANCIAL MEASURES"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "LIQUIDITY AND CAPITAL RESOURCES"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "CRITICAL ACCOUNTING ESTIMATES"
+        },
+        {
             "cls_name": "TopLevelSectionTitle",
             "level": 1,
             "section_type": "part1item3",
             "text_content": "ITEM 3. QUANTITATIVE AND QUALITATI"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "RISKS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "SENSITIVITY ANALYSIS"
         },
         {
             "cls_name": "TopLevelSectionTitle",
@@ -66,8 +201,48 @@
         },
         {
             "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "STRATEGIC AND COMPETITIVE RISKS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "RISKS RELATING TO THE EVOLUTION OF OUR BUSINESS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "CYBERSECURITY, DATA PRIVACY, AND PLATFORM ABUSE RISKS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "OPERATIONAL RISKS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "LEGAL, REGULATORY, AND LITIGATION RISKS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "INTELLECTUAL PROPERTY RISKS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "GENERAL RISKS"
+        },
+        {
+            "cls_name": "TitleElement",
             "level": 0,
             "text_content": "ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "SHARE REPURCHASES AND DIVIDENDS"
         },
         {
             "cls_name": "TopLevelSectionTitle",
@@ -112,431 +287,366 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "3"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "4"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "5"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "6"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "7"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "8"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 1 — ACCOUNTING POLICIES"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "9"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "10"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "11"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 2 — EARNINGS PER SHARE"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "NOTE 3 — OTHER INCOME (EXPENSE), NET"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "12"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "13"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 4 — INVESTMENTS"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "14"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "15"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "16"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 5 — DERIVATIVES"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "17"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "18"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 6 — INVENTORIES"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "19"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 7 — BUSINESS COMBINATIONS"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "NOTE 8 — GOODWILL"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "20"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 9 — INTANGIBLE ASSETS"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "21"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 10 — DEBT"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "22"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 11 — INCOME TAXES"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "23"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 12 — UNEARNED REVENUE"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "NOTE 13 — LEASES"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "24"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "25"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 15 — STOCKHOLDERS’ EQUITY"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "26"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "27"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 16 — ACCUMULATED OTHER COMPREHENSIVE INCOME (LOSS)"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "28"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "NOTE 17 — SEGMENT INFORMATION AND GEOGRAPHIC DATA"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "29"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "30"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 1"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "31"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
@@ -553,266 +663,221 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "32"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "OVERVIEW"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "33"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "34"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "35"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "36"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "SUMMARY RESULTS OF OPERATIONS"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "37"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "38"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "SEGMENT RESULTS OF OPERATIONS"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "39"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "40"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "41"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "OPERATING EXPENSES"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "42"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "OTHER INCOME (EXPENSE), NET"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "43"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "INCOME TAXES"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "NON-GAAP FINANCIAL MEASURES"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "44"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "LIQUIDITY AND CAPITAL RESOURCES"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "45"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "46"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "47"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "PART I"
+            "text_content": "CRITICAL ACCOUNTING ESTIMATES"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
+            "text_content": "PART I"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "48"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
             "cls_name": "TitleElement",
-            "level": 1,
+            "level": 2,
             "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "49"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART I"
         },
         {
@@ -827,6 +892,16 @@
             "text_content": "ITEM 3. QUANTITATIVE AND QUALITATI"
         },
         {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "RISKS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
+            "text_content": "SENSITIVITY ANALYSIS"
+        },
+        {
             "cls_name": "TopLevelSectionTitle",
             "level": 1,
             "text_content": "ITEM 4. CONTROLS",
@@ -836,11 +911,6 @@
             "cls_name": "TitleElement",
             "level": 0,
             "text_content": "AND PROCEDURES"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 1,
-            "text_content": "50"
         },
         {
             "cls_name": "TopLevelSectionTitle",
@@ -882,11 +952,11 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "51"
+            "text_content": "STRATEGIC AND COMPETITIVE RISKS"
         },
         {
             "cls_name": "TitleElement",
-            "level": 2,
+            "level": 1,
             "text_content": "PART II"
         },
         {
@@ -897,11 +967,6 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "52"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART II"
         },
         {
@@ -912,11 +977,11 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "53"
+            "text_content": "RISKS RELATING TO THE EVOLUTION OF OUR BUSINESS"
         },
         {
             "cls_name": "TitleElement",
-            "level": 2,
+            "level": 1,
             "text_content": "PART II"
         },
         {
@@ -927,11 +992,11 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "54"
+            "text_content": "CYBERSECURITY, DATA PRIVACY, AND PLATFORM ABUSE RISKS"
         },
         {
             "cls_name": "TitleElement",
-            "level": 2,
+            "level": 1,
             "text_content": "PART II"
         },
         {
@@ -942,11 +1007,6 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "55"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART II"
         },
         {
@@ -957,11 +1017,6 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "56"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART II"
         },
         {
@@ -972,11 +1027,6 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "57"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART II"
         },
         {
@@ -987,11 +1037,16 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "58"
+            "text_content": "OPERATIONAL RISKS"
         },
         {
             "cls_name": "TitleElement",
-            "level": 2,
+            "level": 1,
+            "text_content": "LEGAL, REGULATORY, AND LITIGATION RISKS"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 1,
             "text_content": "PART II"
         },
         {
@@ -1002,11 +1057,6 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "59"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART II"
         },
         {
@@ -1017,11 +1067,6 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "60"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART II"
         },
         {
@@ -1032,11 +1077,6 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "61"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART II"
         },
         {
@@ -1047,11 +1087,11 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "62"
+            "text_content": "INTELLECTUAL PROPERTY RISKS"
         },
         {
             "cls_name": "TitleElement",
-            "level": 2,
+            "level": 1,
             "text_content": "PART II"
         },
         {
@@ -1062,11 +1102,11 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "63"
+            "text_content": "GENERAL RISKS"
         },
         {
             "cls_name": "TitleElement",
-            "level": 2,
+            "level": 1,
             "text_content": "PART II"
         },
         {
@@ -1077,11 +1117,6 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "64"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART II"
         },
         {
@@ -1092,11 +1127,6 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "65"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
             "text_content": "PART II"
         },
         {
@@ -1112,11 +1142,11 @@
         {
             "cls_name": "TitleElement",
             "level": 1,
-            "text_content": "66"
+            "text_content": "SHARE REPURCHASES AND DIVIDENDS"
         },
         {
             "cls_name": "TitleElement",
-            "level": 2,
+            "level": 1,
             "text_content": "PART II"
         },
         {
@@ -1134,16 +1164,6 @@
             "cls_name": "TitleElement",
             "level": 0,
             "text_content": "XHIBITS"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 1,
-            "text_content": "67"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 1,
-            "text_content": "68"
         }
     ]
 }

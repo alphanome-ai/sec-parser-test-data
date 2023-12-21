@@ -1,18 +1,346 @@
 {
     "metrics": {
         "total_expected": 203,
-        "total_actual": 232,
-        "total_missing": 0,
-        "total_unexpected": 29,
-        "precision": "87.50%",
-        "recall": "100.00%",
-        "f1_score": "93.33%",
-        "missing_elements_by_type": {},
+        "total_actual": 208,
+        "total_missing": 65,
+        "total_unexpected": 70,
+        "precision": "66.35%",
+        "recall": "67.98%",
+        "f1_score": "67.15%",
+        "missing_elements_by_type": {
+            "TitleElement": 63,
+            "TextElement": 2
+        },
         "unexpected_elements_by_type": {
-            "TitleElement": 29
+            "TitleElement": 69,
+            "TextElement": 1
         }
     },
-    "missing_elements": [],
+    "missing_elements": [
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Note 1 – Summary of Significant Accounting Policies"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Basis of Presentation and Preparation"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Earnings Per Share"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Note 2 – Revenue"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Note 3 – Financial Instruments"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Cash, Cash Equivalents and Marketable Securities"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Derivative Instruments and Hedging"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Foreign Exchange Risk"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Interest Rate Risk"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Accounts Receivable"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Trade Receivables"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Vendor Non-Trade Receivables"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Note 4 – Condensed Consolidated Financial Statement Details"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Inventories"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Property, Plant and Equipment, Net"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Other Income/(Expense), Net"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Note 5 – Income Taxes"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "European Commission State Aid Decision"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Note 6 – Debt"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Commercial Paper"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Term Debt"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Note 7 – Shareholders’ Equity"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Share Repurchase Program"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Note 8 – Benefit Plans"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Restricted Stock Units"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Share-Based Compensation"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Note 9 – Commitments and Contingencies"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Unconditional Purchase Obligations"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Contingencies"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Note 10 – Segment Information and Geographic Data"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Available Information"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Business Seasonality and Product Introductions"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Fiscal Period"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Quarterly Highlights"
+        },
+        {
+            "cls_name": "TextElement",
+            "text_content": "Weakness in foreign currencies relative to the U.S. dollar had an unfavorable impact on the Company’s total net sales, which decreased 1% or $1.2 billion during the third quarter of 2023 compared to the same quarter in 2022. The year-over-year net sales decrease consisted primarily of lower net sales of iPad and iPhone, partially offset by higher net sales of Services.During the third quarter of 2023, the Company announced the following new products:•15-inch MacBook Air®, powered by the M2 chip;•Mac Studio™, powered by the M2 Max chip and the new M2 Ultra chip;•Mac Pro®, powered by the new M2 Ultra chip; and•Apple Vision Pro™, the Company’s first spatial computer featuring its new visionOS™, expected to be available in early calendar year 2024.The Company also announced iOS 17, macOS® Sonoma, iPadOS® 17, tvOS® 17 and watchOS® 10, updates to its operating systems that are expected to be available in the fall of 2023."
+        },
+        {
+            "cls_name": "TextElement",
+            "text_content": "The Company repurchased $18.0 billion of its common stock and paid dividends and dividend equivalents of $3.8 billion during the third quarter of 2023."
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Macroeconomic Conditions"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Segment Operating Performance"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Americas"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Europe"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Greater China"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Japan"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Rest of Asia Pacific"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Products and Services Performance"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "iPhone"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Mac"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "iPad"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Wearables, Home and Accessories"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Services"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Gross Margin"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Products Gross Margin"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Services Gross Margin"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Operating Expenses"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Research and Development"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Selling, General and Administrative"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Provision for Income Taxes"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Liquidity and Capital Resources"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Manufacturing Purchase Obligations"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Capital Return Program"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Critical Accounting Estimates"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Evaluation of Disclosure Controls and Procedures"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Changes in Internal Control over Financial Reporting"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Epic Games"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 4,
+            "text_content": "Other Legal Proceedings"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Purchases of Equity Securities by the Issuer and Affiliated Purchasers"
+        }
+    ],
     "unexpected_elements": [
         {
             "cls_name": "TitleElement",
@@ -21,8 +349,23 @@
         },
         {
             "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 1"
+            "level": 0,
+            "text_content": "Apple Inc."
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "Apple Inc."
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "Apple Inc."
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 0,
+            "text_content": "Apple Inc."
         },
         {
             "cls_name": "TitleElement",
@@ -32,132 +375,321 @@
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 2"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 0,
-            "text_content": "Apple Inc."
+            "text_content": "Note 1 – Summary of Significant Accounting Policies"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 3"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 0,
-            "text_content": "Apple Inc."
+            "text_content": "Basis of Presentation and Preparation"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 4"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 0,
-            "text_content": "Apple Inc."
+            "text_content": "Earnings Per Share"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 5"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 0,
-            "text_content": "Apple Inc."
+            "text_content": "Note 2 – Revenue"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 6"
+            "text_content": "Note 3 – Financial Instruments"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 7"
+            "text_content": "Cash, Cash Equivalents and Marketable Securities"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 8"
+            "text_content": "Derivative Instruments and Hedging"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Foreign Exchange Risk"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Interest Rate Risk"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 9"
+            "text_content": "Accounts Receivable"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Trade Receivables"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Vendor Non-Trade Receivables"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 10"
+            "text_content": "Note 4 – Condensed Consolidated Financial Statement Details"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 11"
+            "text_content": "Inventories"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 12"
+            "text_content": "Property, Plant and Equipment, Net"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 13"
+            "text_content": "Other Income/(Expense), Net"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 14"
+            "text_content": "Note 5 – Income Taxes"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 15"
+            "text_content": "European Commission State Aid Decision"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 16"
+            "text_content": "Note 6 – Debt"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 17"
+            "text_content": "Commercial Paper"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 18"
+            "text_content": "Term Debt"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 19"
+            "text_content": "Note 7 – Shareholders’ Equity"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 20"
+            "text_content": "Share Repurchase Program"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 21"
+            "text_content": "Note 8 – Benefit Plans"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 22"
+            "text_content": "Restricted Stock Units"
         },
         {
             "cls_name": "TitleElement",
             "level": 2,
-            "text_content": "Apple Inc. | Q3 2023 Form 10-Q | 23"
+            "text_content": "Share-Based Compensation"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Note 9 – Commitments and Contingencies"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Unconditional Purchase Obligations"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Contingencies"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Note 10 – Segment Information and Geographic Data"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Available Information"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Business Seasonality and Product Introductions"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Fiscal Period"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Quarterly Highlights"
+        },
+        {
+            "cls_name": "TextElement",
+            "text_content": "Weakness in foreign currencies relative to the U.S. dollar had an unfavorable impact on the Company’s total net sales, which decreased 1% or $1.2 billion during the third quarter of 2023 compared to the same quarter in 2022. The year-over-year net sales decrease consisted primarily of lower net sales of iPad and iPhone, partially offset by higher net sales of Services.During the third quarter of 2023, the Company announced the following new products:•15-inch MacBook Air®, powered by the M2 chip;•Mac Studio™, powered by the M2 Max chip and the new M2 Ultra chip;•Mac Pro®, powered by the new M2 Ultra chip; and•Apple Vision Pro™, the Company’s first spatial computer featuring its new visionOS™, expected to be available in early calendar year 2024.The Company also announced iOS 17, macOS® Sonoma, iPadOS® 17, tvOS® 17 and watchOS® 10, updates to its operating systems that are expected to be available in the fall of 2023.The Company repurchased $18.0 billion of its common stock and paid dividends and dividend equivalents of $3.8 billion during the third quarter of 2023."
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Macroeconomic Conditions"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Segment Operating Performance"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Americas"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Europe"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Greater China"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Japan"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Rest of Asia Pacific"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Products and Services Performance"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "iPhone"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Mac"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "iPad"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Wearables, Home and Accessories"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Services"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Gross Margin"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Products Gross Margin"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Services Gross Margin"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Operating Expenses"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Research and Development"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Selling, General and Administrative"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Provision for Income Taxes"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Liquidity and Capital Resources"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Manufacturing Purchase Obligations"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Capital Return Program"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Critical Accounting Estimates"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Evaluation of Disclosure Controls and Procedures"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Changes in Internal Control over Financial Reporting"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Epic Games"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 3,
+            "text_content": "Other Legal Proceedings"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Purchases of Equity Securities by the Issuer and Affiliated Purchasers"
         }
     ]
 }
