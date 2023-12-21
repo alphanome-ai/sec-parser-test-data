@@ -366,7 +366,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "f2cdf5a5",
         "html_preview": "style=\"margin-top:12...[129]...%\">Apple Inc.</span>",
         "tag_name": "div"
@@ -403,7 +403,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
         "tag_name": "div"
@@ -433,7 +433,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "44c6dcf4",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
         "tag_name": "div"
@@ -470,7 +470,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
         "tag_name": "div"
@@ -500,7 +500,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "44c6dcf4",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
         "tag_name": "div"
@@ -537,7 +537,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
         "tag_name": "div"
@@ -567,7 +567,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "f2cdf5a5",
         "html_preview": "style=\"margin-top:12...[129]...%\">Apple Inc.</span>",
         "tag_name": "div"
@@ -604,7 +604,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
         "tag_name": "div"
@@ -634,7 +634,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "44c6dcf4",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
         "tag_name": "div"
@@ -671,7 +671,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "dc30982e",
         "html_preview": "style=\"margin-top:12...[189]...l Statements.</span>",
         "tag_name": "div"
@@ -701,7 +701,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "44c6dcf4",
         "html_preview": "style=\"text-align:ce...[113]...%\">Apple Inc.</span>",
         "tag_name": "div"

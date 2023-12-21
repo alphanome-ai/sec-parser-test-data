@@ -498,7 +498,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "4305f9f1",
         "html_preview": "style=\"line-height:1...[124]...ACEBOOK, INC.</font>",
         "tag_name": "div"
@@ -519,7 +519,7 @@
         "text_content": "(In millions, except for number of shares and par value)"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "720b733c",
         "html_preview": "style=\"line-height:1...[105]...\">(Unaudited)</font>",
         "tag_name": "div"
@@ -535,7 +535,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "a2b55d22",
         "html_preview": "style=\"font-family:i...[91]...inancial Statements.",
         "tag_name": "font"
@@ -571,7 +571,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "2185ce8e",
         "html_preview": "style=\"line-height:1...[107]...ACEBOOK, INC.</font>",
         "tag_name": "div"
@@ -592,7 +592,7 @@
         "text_content": "(In millions, except per share amounts)"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "a6c5ec34",
         "html_preview": "style=\"line-height:1...[103]...\">(Unaudited)</font>",
         "tag_name": "div"
@@ -608,7 +608,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "57d1ca2c",
         "html_preview": "style=\"line-height:1...[179]...l Statements.</font>",
         "tag_name": "div"
@@ -650,7 +650,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "2185ce8e",
         "html_preview": "style=\"line-height:1...[107]...ACEBOOK, INC.</font>",
         "tag_name": "div"
@@ -671,7 +671,7 @@
         "text_content": "(In millions)"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "a6c5ec34",
         "html_preview": "style=\"line-height:1...[103]...\">(Unaudited)</font>",
         "tag_name": "div"
@@ -687,7 +687,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "57d1ca2c",
         "html_preview": "style=\"line-height:1...[179]...l Statements.</font>",
         "tag_name": "div"
@@ -729,7 +729,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "2185ce8e",
         "html_preview": "style=\"line-height:1...[107]...ACEBOOK, INC.</font>",
         "tag_name": "div"
@@ -750,7 +750,7 @@
         "text_content": "(In millions)"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "dede0596",
         "html_preview": "style=\"font-family:i...[32]...italic;\">(Unaudited)",
         "tag_name": "font"
@@ -784,7 +784,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "0a3e02c1",
         "html_preview": "style=\"line-height:1...[162]...l Statements.</font>",
         "tag_name": "div"
@@ -826,7 +826,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "2185ce8e",
         "html_preview": "style=\"line-height:1...[107]...ACEBOOK, INC.</font>",
         "tag_name": "div"
@@ -847,7 +847,7 @@
         "text_content": "(In millions)"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "a6c5ec34",
         "html_preview": "style=\"line-height:1...[103]...\">(Unaudited)</font>",
         "tag_name": "div"
@@ -863,7 +863,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "0a3e02c1",
         "html_preview": "style=\"line-height:1...[162]...l Statements.</font>",
         "tag_name": "div"
@@ -893,7 +893,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "2185ce8e",
         "html_preview": "style=\"line-height:1...[107]...ACEBOOK, INC.</font>",
         "tag_name": "div"
@@ -914,7 +914,7 @@
         "text_content": "(In millions)"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "a6c5ec34",
         "html_preview": "style=\"line-height:1...[103]...\">(Unaudited)</font>",
         "tag_name": "div"
@@ -930,7 +930,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "a88aec06",
         "html_preview": "style=\"line-height:1...[178]...l Statements.</font>",
         "tag_name": "div"
@@ -966,7 +966,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "PageNumberElement",
+        "cls_name": "PageHeaderElement",
         "html_hash": "2185ce8e",
         "html_preview": "style=\"line-height:1...[107]...ACEBOOK, INC.</font>",
         "tag_name": "div"
