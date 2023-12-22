@@ -312,7 +312,7 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
         "level": 0,
@@ -321,7 +321,7 @@
         "text_content": "PART I"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
         "level": 1,
@@ -3123,7 +3123,7 @@
         "tag_name": "span"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
         "level": 1,
@@ -4764,7 +4764,7 @@
         "tag_name": "span"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "c1eb19de",
         "html_preview": "style='background-co...[139]...-content;'>Item 3, 4",
         "level": 1,
@@ -4907,7 +4907,7 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "509e83d3",
         "html_preview": "style='background-co...[145]...t;'>ITEM 4. CONTROLS",
         "level": 1,
@@ -4943,7 +4943,7 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
         "level": 0,
@@ -4952,7 +4952,7 @@
         "text_content": "PART II"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "3cd753a6",
         "html_preview": "style='background-co...[166]...content;'>Item 1, 1A",
         "level": 1,
@@ -5006,7 +5006,7 @@
         "text_content": "Refer to Note 14 – Contingencies of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for information regarding legal proceedings in which we are involved."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "8d5cae59",
         "html_preview": "style='background-co...[140]...ontent;'>ITEM 1A. RI",
         "level": 1,
@@ -5825,7 +5825,7 @@
         "tag_name": "span"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
         "level": 1,
@@ -5947,7 +5947,7 @@
         "tag_name": "span"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "cf7940c0",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 6",
         "level": 1,

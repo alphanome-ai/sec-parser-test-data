@@ -18,10 +18,10 @@
         "unexpected": "6.6"
     },
     "total_missing": {
-        "TopLevelSectionTitle": 10
+        "TopSectionTitle": 10
     },
     "total_unexpected": {
-        "TopLevelSectionTitle": 10,
+        "TopSectionTitle": 10,
         "TitleElement": 18,
         "SupplementaryText": 5
     },
@@ -68,10 +68,10 @@
             "recall": "97.27%",
             "f1_score": "94.30%",
             "missing_elements_by_type": {
-                "TopLevelSectionTitle": 10
+                "TopSectionTitle": 10
             },
             "unexpected_elements_by_type": {
-                "TopLevelSectionTitle": 10,
+                "TopSectionTitle": 10,
                 "TitleElement": 18,
                 "SupplementaryText": 5
             }

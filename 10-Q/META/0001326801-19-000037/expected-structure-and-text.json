@@ -1,12 +1,12 @@
 [
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 0,
         "section_type": "part1",
         "text_content": "PART I\u2014FINANCIAL INFORMATION"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item1",
         "text_content": "Item 1. Financial Statements"
@@ -434,7 +434,7 @@
         "text_content": "(1)No individual country, other than disclosed above, exceeded 10% of our total long-lived assets for any period presented."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item2",
         "text_content": "Item 2.Management's Discussion and Analysis of Financial Condition and Results of Operations"
@@ -762,7 +762,7 @@
         "text_content": "Our condensed consolidated financial statements are prepared in accordance with GAAP. The preparation of these condensed consolidated financial statements requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, revenue, costs and expenses, and related disclosures. These estimates form the basis for judgments we make about the carrying values of our assets and liabilities, which are not readily apparent from other sources. We base our estimates and judgments on historical experience and on various other assumptions that we believe are reasonable under the circumstances. On an ongoing basis, we evaluate our estimates and assumptions. Our actual results may differ from these estimates under different assumptions or conditions. An accounting policy is deemed to be critical if it requires an accounting estimate to be made based on assumptions about matters that are highly uncertain at the time the estimate is made, if different estimates reasonably could have been used, or if changes in the estimate that are reasonably possible could materially impact the financial statements. We believe that the assumptions and estimates associated with income taxes, loss contingencies, and business combinations and valuation of goodwill and other acquired intangible assets have the greatest potential impact on our condensed consolidated financial statements. Therefore, we consider these to be our critical accounting policies and estimates. There have been no material changes to our critical accounting policies and estimates as compared to the critical accounting policies and estimates described in our Annual Report on Form 10-K for the fiscal year ended December\u00a031, 2018.On January 1, 2019, we adopted Accounting Standards Update No. 2016-02,\u00a0Leases (Topic 842)\u00a0(ASU 2016-02), as amended, which supersedes the lease accounting guidance under Topic 840, and generally requires lessees to recognize operating and financing lease liabilities and corresponding right-of-use (ROU) assets on the balance sheet and to provide enhanced disclosures surrounding the amount, timing and uncertainty of cash flows arising from leasing arrangements. We adopted the new guidance using the modified retrospective transition approach by applying the new standard to all leases existing at the date of initial application and not restating comparative periods. The most significant impact was the recognition of ROU assets and lease liabilities for operating leases, while our accounting for finance leases remained substantially unchanged. See Note 1 \u2014 Summary of Significant Accounting Policies and Note 7 \u2014 Leases in the notes to the condensed consolidated financial statements included in Part I, Item\u00a01, of this Quarterly Report on Form 10-Q for additional information regarding the adoption."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item3",
         "text_content": "Item 3.Quantitative and Qualitative Disclosures About Market Risk"
@@ -790,7 +790,7 @@
         "text_content": "Our exposure to changes in interest rates relates primarily to interest earned and market value on our cash and cash equivalents, and marketable securities.Our cash and cash equivalents and marketable securities consist of cash, certificates of deposit, time deposits, money market funds, U.S. government securities, U.S. government agency securities, and corporate debt securities. Our investment policy and strategy are focused on preservation of capital and supporting our liquidity requirements. Changes in U.S. interest rates affect the interest earned on our cash and cash equivalents and marketable securities, and the market value of those securities. A hypothetical 100 basis point increase in interest rates would have resulted in a decrease of $484 million and $468 million in the market value of our available-for-sale debt securities as of March\u00a031, 2019 and December\u00a031, 2018, respectively. Any realized gains or losses resulting from such interest rate changes would only occur if we sold the investments prior to maturity."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item4",
         "text_content": "Item 4.Controls and Procedures"
@@ -823,13 +823,13 @@
         "text_content": "In designing and evaluating the disclosure controls and procedures and internal control over financial reporting, management recognizes that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives. In addition, the design of disclosure controls and procedures and internal control over financial reporting must reflect the fact that there are resource constraints and that management is required to apply judgment in evaluating the benefits of possible controls and procedures relative to their costs."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 0,
         "section_type": "part2",
         "text_content": "PART II\u2014OTHER INFORMATION"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item1",
         "text_content": "Item 1.Legal Proceedings"
@@ -839,7 +839,7 @@
         "text_content": "Beginning on March 20, 2018, multiple putative class actions and derivative actions were filed in state and federal courts in the United States and elsewhere against us and certain of our directors and officers alleging violations of securities laws, breach of fiduciary duties, and other causes of action in connection with our platform and user data practices as well as the misuse of certain data by a developer that shared such data with third parties in violation of our terms and policies, and seeking unspecified damages and injunctive relief. Beginning on July 27, 2018, two putative class actions were filed in federal court in the United States against us and certain of our directors and officers alleging violations of securities laws in connection with the disclosure of our earnings results for the second quarter of 2018 and seeking unspecified damages. These two actions subsequently were transferred and consolidated in the U.S. District Court for the Northern District of California with the putative securities class action described above relating to our platform and user data practices. We believe these lawsuits are without merit, and we are vigorously defending them. In addition, our platform and user data practices, as well as the events surrounding the misuse of certain data by a developer, became the subject of U.S. Federal Trade Commission, Securities and Exchange Commission, state attorneys general, and other government inquiries in the United States, Europe, and other jurisdictions. Any such inquiries could subject us to substantial fines and costs, require us to change our business practices, divert resources and the attention of management from our business, or adversely affect our business.Beginning on September 28, 2018, multiple putative class actions were filed in state and federal courts in the United States and elsewhere against us alleging violations of consumer protection laws and other causes of action in connection with a third-party cyber-attack that exploited a vulnerability in Facebook\u2019s code to steal user access tokens and access certain profile information from user accounts on Facebook, and seeking unspecified damages and injunctive relief. We believe these lawsuits are without merit, and we are vigorously defending them. In addition, the events surrounding this cyber-attack became the subject of Irish Data Protection Commission and other government inquiries. Any such inquiries could subject us to substantial fines and costs, require us to change our business practices, divert resources and the attention of management from our business, or adversely affect our business.In addition, from time to time, we are subject to litigation and other proceedings involving law enforcement and other regulatory agencies, including in particular in Brazil and Europe, in order to ascertain the precise scope of our legal obligations to comply with the requests of those agencies, including our obligation to disclose user information in particular circumstances. A number of such instances have resulted in the assessment of fines and penalties against us. We believe we have multiple legal grounds to satisfy these requests or prevail against associated fines and penalties, and we intend to vigorously defend such fines and penalties.We are also party to various other legal proceedings, claims, and regulatory, tax or government inquiries and investigations that arise in the ordinary course of business, and we may in the future be subject to additional legal proceedings and disputes."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item1a",
         "text_content": "Item 1A.Risk Factors"
@@ -1219,7 +1219,7 @@
         "text_content": "Our status as a Delaware corporation and the anti-takeover provisions of the Delaware General Corporation Law may discourage, delay, or prevent a change in control by prohibiting us from engaging in a business combination with an interested stockholder for a period of three years after the person becomes an interested stockholder, even if a change of control would be beneficial to our existing stockholders. In addition, our current restated certificate of incorporation and bylaws contain provisions that may make the acquisition of our company more difficult, including the following:\u2022until the first date on which the outstanding shares of our Class B common stock represent less than 35% of the combined voting power of our common stock, any transaction that would result in a change in control of our company requires the approval of a majority of our outstanding Class\u00a0B common stock voting as a separate class;\u2022we currently have a dual class common stock structure, which provides Mr.\u00a0Zuckerberg with the ability to control the outcome of matters requiring stockholder approval, even if he owns significantly less than a majority of the shares of our outstanding Class\u00a0A and Class\u00a0B common stock;\u2022when the outstanding shares of our Class B common stock represent less than a majority of the combined voting power of common stock, certain amendments to our restated certificate of incorporation or bylaws will require the approval of two-thirds of the combined vote of our then-outstanding shares of Class\u00a0A and Class B common stock;\u2022when the outstanding shares of our Class B common stock represent less than a majority of the combined voting power of our common stock, vacancies on our board of directors will be able to be filled only by our board of directors and not by stockholders;\u2022when the outstanding shares of our Class B common stock represent less than a majority of the combined voting power of our common stock, our board of directors will be classified into three classes of directors with staggered three-year terms and directors will only be able to be removed from office for cause;\u2022when the outstanding shares of our Class B common stock represent less than a majority of the combined voting power of our common stock, our stockholders will only be able to take action at a meeting of stockholders and not by written consent;\u2022only our chairman, our chief executive officer, our president, or a majority of our board of directors are authorized to call a special meeting of stockholders;\u2022advance notice procedures apply for stockholders to nominate candidates for election as directors or to bring matters before an annual meeting of stockholders;\u2022our restated certificate of incorporation authorizes undesignated preferred stock, the terms of which may be established, and shares of which may be issued, without stockholder approval; and\u2022certain litigation against us can only be brought in Delaware."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item2",
         "text_content": "Item 2.Unregistered Sales of Equity Securities and Use of Proceeds"
@@ -1250,7 +1250,7 @@
         "text_content": "(1)Our board of directors has authorized a share repurchase program of our Class A common stock, which commenced in January 2017 and does not have an expiration date. In December 2018, our board of directors authorized an additional $9.0 billion of repurchases under this program. As of March\u00a031, 2019, approximately $8.5 billion remained available and authorized for repurchases. The timing and actual number of shares repurchased depend on a variety of factors, including price, general business and market conditions, and other investment opportunities, and shares may be repurchased through open market purchases or privately negotiated transactions, including through the use of trading plans intended to qualify under Rule 10b5-1 under the Exchange Act.(2)Average price paid per share includes costs associated with the repurchases."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item6",
         "text_content": "Item 6.Exhibits"

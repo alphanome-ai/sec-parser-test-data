@@ -336,7 +336,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "b901c4f3",
         "html_preview": "style=\"color:#000000...[96]...INANCIAL INFORMATION",
         "level": 0,
@@ -351,7 +351,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "7ac3f59a",
         "html_preview": "style=\"color:#000000...[95]...Financial Statements",
         "level": 1,
@@ -1578,7 +1578,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "ee74ed25",
         "html_preview": "style=\"color:#000000...[160]...esults of Operations",
         "level": 1,
@@ -2257,7 +2257,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "739fc427",
         "html_preview": "style=\"color:#000000...[133]...es About Market Risk",
         "level": 1,
@@ -2279,7 +2279,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "9d730087",
         "html_preview": "style=\"color:#000000...[98]...trols and Procedures",
         "level": 1,
@@ -2342,7 +2342,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "39de36ed",
         "html_preview": "style=\"color:#000000...[93]...—  OTHER INFORMATION",
         "level": 0,
@@ -2357,7 +2357,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "fbf36dda",
         "html_preview": "style=\"color:#000000...[92]...   Legal Proceedings",
         "level": 1,
@@ -2402,7 +2402,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "2e4d661c",
         "html_preview": "style=\"color:#000000...[88]... 1A.    Risk Factors",
         "level": 1,
@@ -2442,7 +2442,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "fca3e106",
         "html_preview": "style=\"color:#000000...[174]...of Equity Securities",
         "level": 1,
@@ -2489,7 +2489,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "37f2f5d4",
         "html_preview": "style=\"color:#000000...[106]...on Senior Securities",
         "level": 1,
@@ -2511,7 +2511,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "c3381b2f",
         "html_preview": "style=\"color:#000000...[98]...e Safety Disclosures",
         "level": 1,
@@ -2533,7 +2533,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "87e0b1fb",
         "html_preview": "style=\"color:#000000...[92]...   Other Information",
         "level": 1,
@@ -2573,7 +2573,7 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "html_hash": "4a79ef73",
         "html_preview": "style=\"color:#000000...[83]...>Item 6.    Exhibits",
         "level": 1,

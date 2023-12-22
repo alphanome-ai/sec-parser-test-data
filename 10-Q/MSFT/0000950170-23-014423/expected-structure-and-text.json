@@ -1,12 +1,12 @@
 [
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 0,
         "section_type": "part1",
         "text_content": "PART I. FINANCIAL INFORMATION"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item1",
         "text_content": "ITEM 1. FINANCIAL STATEMENTS"
@@ -689,7 +689,7 @@
         "text_content": "Seattle, WashingtonApril 25, 2023"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item2",
         "text_content": "ITEM 2. MANAGEMENT\u2019S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS"
@@ -1184,7 +1184,7 @@
         "text_content": "Inventories are stated at average cost, subject to the lower of cost or net realizable value. Cost includes materials, labor, and manufacturing overhead related to the purchase and production of inventories. Net realizable value is the estimated selling price less estimated costs of completion, disposal, and transportation. We regularly review inventory quantities on hand, future purchase commitments with our suppliers, and the estimated utility of our inventory. These reviews include analysis of demand forecasts, product life cycle status, product development plans, current sales levels, pricing strategy, and component cost trends. If our review indicates a reduction in utility below carrying value, we reduce our inventory to a new cost basis through a charge to cost of revenue."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item3",
         "text_content": "ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"
@@ -1247,7 +1247,7 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item4",
         "text_content": "ITEM 4. CONTROLS AND PROCEDURES"
@@ -1257,13 +1257,13 @@
         "text_content": "Under the supervision and with the participation of our management, including the Chief Executive Officer and Chief Financial Officer, we have evaluated the effectiveness of our disclosure controls and procedures as required by Exchange Act Rule 13a-15(b) as of the end of the period covered by this report. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that these disclosure controls and procedures are effective. There were no changes in our internal control over financial reporting during the quarter ended March 31, 2023 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 0,
         "section_type": "part2",
         "text_content": "PART II. OTHER INFORMATION"
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item1",
         "text_content": "ITEM 1. LEGAL PROCEEDINGS"
@@ -1273,7 +1273,7 @@
         "text_content": "Refer to Note 14 \u2013 Contingencies of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for information regarding legal proceedings in which we are involved."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item1a",
         "text_content": "ITEM 1A. RISK FACTORS"
@@ -1496,7 +1496,7 @@
         "text_content": "Our global business exposes us to operational and economic risks. Our customers are located throughout the world and a significant part of our revenue comes from international sales. The global nature of our business creates operational, economic, and geopolitical risks. Our results of operations may be affected by global, regional, and local economic developments, monetary policy, inflation, and recession, as well as political and military disputes. In addition, our international growth strategy includes certain markets, the developing nature of which presents several risks, including deterioration of social, political, labor, or economic conditions in a country or region, and difficulties in staffing and managing foreign operations. Emerging nationalist and protectionist trends and concerns about human rights, the environment, and political expression in specific countries may significantly alter the trade and commercial environments. Changes to trade policy or agreements as a result of populism, protectionism, or economic nationalism may result in higher tariffs, local sourcing initiatives, and non-local sourcing restrictions, export controls, investment restrictions, or other developments that make it more difficult to sell our products in foreign countries. Disruptions of these kinds in developed or emerging markets could negatively impact demand for our products and services, impair our ability to operate in certain regions, or increase operating costs. Although we hedge a portion of our international currency exposure, significant fluctuations in foreign exchange rates between the U.S. dollar and foreign currencies may adversely affect our results of operations.Our business depends on our ability to attract and retain talented employees. Our business is based on successfully attracting and retaining talented employees representing diverse backgrounds, experiences, and skill sets. The market for highly skilled workers and leaders in our industry is extremely competitive. Maintaining our brand and reputation, as well as a diverse and inclusive work environment that enables all our employees to thrive, are important to our ability to recruit and retain employees. We are also limited in our ability to recruit internationally by restrictive domestic immigration laws. Changes to U.S. immigration policies that restrain the flow of technical and professional talent may inhibit our ability to adequately staff our research and development efforts. If we are less successful in our recruiting efforts, or if we cannot retain highly skilled workers and key leaders, our ability to develop and deliver successful products and services may be adversely affected. Effective succession planning is also important to our long-term success. Failure to ensure effective transfer of knowledge and smooth transitions involving key employees could hinder our strategic planning and execution. How employment-related laws are interpreted and applied to our workforce practices may result in increased operating costs and less flexibility in how we meet our workforce needs. Our global workforce is predominantly non-unionized, although we do have some employees in the U.S. and internationally who are represented by unions or works councils. In the U.S., there has been a general increase in workers exercising their right to form or join a union. The unionization of significant employee populations could result in higher costs and other operational changes necessary to respond to changing conditions and to establish new relationships with worker representatives."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item2",
         "text_content": "ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS"
@@ -1525,7 +1525,7 @@
         "text_content": "We returned $9.7 billion to shareholders in the form of share repurchases and dividends in the third quarter of fiscal year 2023. Refer to Note 15 \u2013 Stockholders\u2019 Equity of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for further discussion regarding share repurchases and dividends."
     },
     {
-        "cls_name": "TopLevelSectionTitle",
+        "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item6",
         "text_content": "ITEM 6. EXHIBITS"
