@@ -1,29 +1,34 @@
 {
     "num_filings": {
-        "total": 5,
+        "total": 6,
         "perfect_f1_score": 4,
         "perfect_recall": 4,
-        "ratio_perfect_f1_score": "80.00%",
-        "ratio_perfect_recall": "80.00%"
+        "ratio_perfect_f1_score": "66.67%",
+        "ratio_perfect_recall": "66.67%"
     },
     "average_metrics": {
-        "f1_score": "98.86%",
-        "precision": "98.30%",
-        "recall": "99.45%"
+        "f1_score": "97.12%",
+        "precision": "97.36%",
+        "recall": "96.98%"
     },
     "average_elements": {
-        "expected": "330.6",
-        "actual": "335.2",
-        "missing": "2",
-        "unexpected": "6.6"
+        "expected": "292.833",
+        "actual": "295.167",
+        "missing": "4.33333",
+        "unexpected": "6.66667"
     },
     "total_missing": {
-        "TopSectionTitle": 10
+        "TopSectionTitle": 10,
+        "TitleElement": 10,
+        "TextElement": 4,
+        "SupplementaryText": 1,
+        "null": 1
     },
     "total_unexpected": {
         "TopSectionTitle": 10,
         "TitleElement": 18,
-        "SupplementaryText": 5
+        "SupplementaryText": 5,
+        "TextElement": 7
     },
     "selected_filings": {
         "10-Q_AAPL_0000320193-23-000077": {
@@ -86,6 +91,24 @@
             "f1_score": "100.00%",
             "missing_elements_by_type": {},
             "unexpected_elements_by_type": {}
+        },
+        "10-Q_AA_0001193125-18-236766": {
+            "total_expected": 104,
+            "total_actual": 95,
+            "total_missing": 16,
+            "total_unexpected": 7,
+            "precision": "92.63%",
+            "recall": "84.62%",
+            "f1_score": "88.44%",
+            "missing_elements_by_type": {
+                "TitleElement": 10,
+                "TextElement": 4,
+                "SupplementaryText": 1,
+                "null": 1
+            },
+            "unexpected_elements_by_type": {
+                "TextElement": 7
+            }
         }
     }
 }
