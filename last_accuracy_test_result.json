@@ -36,6 +36,28 @@
             "missing_elements_by_type": {},
             "unexpected_elements_by_type": {}
         },
+        "10-Q_GOOG_0001652044-23-000070": {
+            "total_expected": 387,
+            "total_actual": 387,
+            "total_missing": 0,
+            "total_unexpected": 0,
+            "precision": "100.00%",
+            "recall": "100.00%",
+            "f1_score": "100.00%",
+            "missing_elements_by_type": {},
+            "unexpected_elements_by_type": {}
+        },
+        "10-Q_GOOG_0001652044-23-000094": {
+            "total_expected": 390,
+            "total_actual": 390,
+            "total_missing": 0,
+            "total_unexpected": 0,
+            "precision": "100.00%",
+            "recall": "100.00%",
+            "f1_score": "100.00%",
+            "missing_elements_by_type": {},
+            "unexpected_elements_by_type": {}
+        },
         "10-Q_MSFT_0000950170-23-014423": {
             "total_expected": 371,
             "total_actual": 389,
@@ -55,28 +77,6 @@
         "10-Q_META_0001326801-19-000037": {
             "total_expected": 308,
             "total_actual": 308,
-            "total_missing": 0,
-            "total_unexpected": 0,
-            "precision": "100.00%",
-            "recall": "100.00%",
-            "f1_score": "100.00%",
-            "missing_elements_by_type": {},
-            "unexpected_elements_by_type": {}
-        },
-        "10-Q_GOOG_0001652044-23-000070": {
-            "total_expected": 387,
-            "total_actual": 387,
-            "total_missing": 0,
-            "total_unexpected": 0,
-            "precision": "100.00%",
-            "recall": "100.00%",
-            "f1_score": "100.00%",
-            "missing_elements_by_type": {},
-            "unexpected_elements_by_type": {}
-        },
-        "10-Q_GOOG_0001652044-23-000094": {
-            "total_expected": 390,
-            "total_actual": 390,
             "total_missing": 0,
             "total_unexpected": 0,
             "precision": "100.00%",
