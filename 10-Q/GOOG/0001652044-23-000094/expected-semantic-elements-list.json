@@ -573,11 +573,10 @@
         "tag_name": "div"
     },
     {
-        "cls_name": "TopSectionTitle",
+        "cls_name": "TitleElement",
         "html_hash": "e6cef692",
         "html_preview": "style=\"color:#000000...[68]...height:120%\">ITEM 1.",
-        "level": 1,
-        "section_type": "part1item1",
+        "level": 0,
         "tag_name": "span",
         "text_content": "ITEM 1."
     },
