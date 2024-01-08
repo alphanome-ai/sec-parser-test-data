@@ -312,34 +312,29 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TopSectionTitle",
+        "cls_name": "IntroductorySectionElement",
         "html_hash": "b5a04115",
         "html_preview": "style='background-co...[162]...fit-content;'>PART I",
-        "level": 0,
-        "section_type": "part1",
-        "tag_name": "span",
-        "text_content": "PART I"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TopSectionTitle",
+        "cls_name": "IntroductorySectionElement",
         "html_hash": "9f043413",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 1",
-        "level": 1,
-        "section_type": "part1item1",
-        "tag_name": "span",
-        "text_content": "Item 1"
+        "tag_name": "span"
     },
     {
-        "cls_name": "EmptyElement",
+        "cls_name": "IntroductorySectionElement",
         "html_hash": "d00321f1",
         "html_preview": "style=\"text-indent:0...[198]...t-content;'> </span>",
         "tag_name": "p"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopSectionTitle",
         "html_hash": "0f6f4ac1",
         "html_preview": "style='background-co...[144]...nt;'>PART I. FINANCI",
         "level": 0,
+        "section_type": "part1",
         "tag_name": "span",
         "text_content": "PART I. FINANCI"
     },
@@ -352,10 +347,11 @@
         "text_content": "AL INFORMATION"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopSectionTitle",
         "html_hash": "7d3a9a03",
         "html_preview": "style='background-co...[144]...nt;'>ITEM 1. FINANCI",
-        "level": 0,
+        "level": 1,
+        "section_type": "part1item1",
         "tag_name": "span",
         "text_content": "ITEM 1. FINANCI"
     },
@@ -3123,13 +3119,10 @@
         "tag_name": "span"
     },
     {
-        "cls_name": "TopSectionTitle",
+        "cls_name": "PageHeaderElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 1,
-        "section_type": "part1item2",
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -3138,10 +3131,11 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopSectionTitle",
         "html_hash": "3ce7a5eb",
         "html_preview": "style='background-co...[176]...SION AND ANALYSIS OF",
-        "level": 0,
+        "level": 1,
+        "section_type": "part1item2",
         "tag_name": "span",
         "text_content": "ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF"
     },
@@ -4764,11 +4758,10 @@
         "tag_name": "span"
     },
     {
-        "cls_name": "TopSectionTitle",
+        "cls_name": "TitleElement",
         "html_hash": "c1eb19de",
         "html_preview": "style='background-co...[139]...-content;'>Item 3, 4",
-        "level": 1,
-        "section_type": "part1item3",
+        "level": 8,
         "tag_name": "span",
         "text_content": "Item 3, 4"
     },
@@ -4779,10 +4772,11 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopSectionTitle",
         "html_hash": "51287d34",
         "html_preview": "style='background-co...[163]...TATIVE AND QUALITATI",
-        "level": 0,
+        "level": 1,
+        "section_type": "part1item3",
         "tag_name": "span",
         "text_content": "ITEM 3. QUANTITATIVE AND QUALITATI"
     },
@@ -4943,20 +4937,16 @@
         "tag_name": "hr"
     },
     {
-        "cls_name": "TopSectionTitle",
+        "cls_name": "PageHeaderElement",
         "html_hash": "dddb3bbb",
         "html_preview": "style='background-co...[163]...it-content;'>PART II",
-        "level": 0,
-        "section_type": "part2",
-        "tag_name": "span",
-        "text_content": "PART II"
+        "tag_name": "span"
     },
     {
-        "cls_name": "TopSectionTitle",
+        "cls_name": "TitleElement",
         "html_hash": "3cd753a6",
         "html_preview": "style='background-co...[166]...content;'>Item 1, 1A",
-        "level": 1,
-        "section_type": "part2item1",
+        "level": 9,
         "tag_name": "span",
         "text_content": "Item 1, 1A"
     },
@@ -4967,10 +4957,11 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopSectionTitle",
         "html_hash": "159c6586",
         "html_preview": "style='background-co...[143]...ent;'>PART II. OTHER",
         "level": 0,
+        "section_type": "part2",
         "tag_name": "span",
         "text_content": "PART II. OTHER"
     },
@@ -4983,10 +4974,11 @@
         "text_content": "INFORMATION"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopSectionTitle",
         "html_hash": "820f6022",
         "html_preview": "style='background-co...[142]...tent;'>ITEM 1. LEGAL",
-        "level": 0,
+        "level": 1,
+        "section_type": "part2item1",
         "tag_name": "span",
         "text_content": "ITEM 1. LEGAL"
     },
@@ -5006,11 +4998,10 @@
         "text_content": "Refer to Note 14 – Contingencies of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for information regarding legal proceedings in which we are involved."
     },
     {
-        "cls_name": "TopSectionTitle",
+        "cls_name": "TitleElement",
         "html_hash": "8d5cae59",
         "html_preview": "style='background-co...[140]...ontent;'>ITEM 1A. RI",
-        "level": 1,
-        "section_type": "part2item1a",
+        "level": 0,
         "tag_name": "span",
         "text_content": "ITEM 1A. RI"
     },
@@ -5094,10 +5085,13 @@
         "tag_name": "span"
     },
     {
-        "cls_name": "PageHeaderElement",
+        "cls_name": "TopSectionTitle",
         "html_hash": "c87cae4b",
         "html_preview": "style='background-co...[163]...it-content;'>Item 1A",
-        "tag_name": "span"
+        "level": 1,
+        "section_type": "part2item1a",
+        "tag_name": "span",
+        "text_content": "Item 1A"
     },
     {
         "cls_name": "EmptyElement",
@@ -5825,13 +5819,10 @@
         "tag_name": "span"
     },
     {
-        "cls_name": "TopSectionTitle",
+        "cls_name": "PageHeaderElement",
         "html_hash": "a5c9de95",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 2",
-        "level": 1,
-        "section_type": "part2item2",
-        "tag_name": "span",
-        "text_content": "Item 2"
+        "tag_name": "span"
     },
     {
         "cls_name": "EmptyElement",
@@ -5840,10 +5831,11 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopSectionTitle",
         "html_hash": "6db46951",
         "html_preview": "style='background-co...[163]...STERED SALES OF EQUI",
-        "level": 0,
+        "level": 1,
+        "section_type": "part2item2",
         "tag_name": "span",
         "text_content": "ITEM 2. UNREGISTERED SALES OF EQUI"
     },
@@ -5947,11 +5939,10 @@
         "tag_name": "span"
     },
     {
-        "cls_name": "TopSectionTitle",
+        "cls_name": "TitleElement",
         "html_hash": "cf7940c0",
         "html_preview": "style='background-co...[136]...fit-content;'>Item 6",
-        "level": 1,
-        "section_type": "part2item6",
+        "level": 8,
         "tag_name": "span",
         "text_content": "Item 6"
     },
@@ -5962,10 +5953,11 @@
         "tag_name": "p"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopSectionTitle",
         "html_hash": "97fc951c",
         "html_preview": "style='background-co...[138]...-content;'>ITEM 6. E",
-        "level": 0,
+        "level": 1,
+        "section_type": "part2item6",
         "tag_name": "span",
         "text_content": "ITEM 6. E"
     },
