@@ -3,17 +3,6 @@
         "cls_name": "TopSectionTitle",
         "level": 0,
         "section_type": "part1",
-        "text_content": "PART I"
-    },
-    {
-        "cls_name": "TopSectionTitle",
-        "level": 1,
-        "section_type": "part1item1",
-        "text_content": "Item 1"
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 0,
         "text_content": "PART I. FINANCI"
     },
     {
@@ -22,8 +11,9 @@
         "text_content": "AL INFORMATION"
     },
     {
-        "cls_name": "TitleElement",
-        "level": 0,
+        "cls_name": "TopSectionTitle",
+        "level": 1,
+        "section_type": "part1item1",
         "text_content": "ITEM 1. FINANCI"
     },
     {
@@ -732,11 +722,6 @@
         "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item2",
-        "text_content": "Item 2"
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 0,
         "text_content": "ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF"
     },
     {
@@ -1234,14 +1219,14 @@
         "text_content": "Inventories are stated at average cost, subject to the lower of cost or net realizable value. Cost includes materials, labor, and manufacturing overhead related to the purchase and production of inventories. Net realizable value is the estimated selling price less estimated costs of completion, disposal, and transportation. We regularly review inventory quantities on hand, future purchase commitments with our suppliers, and the estimated utility of our inventory. These reviews include analysis of demand forecasts, product life cycle status, product development plans, current sales levels, pricing strategy, and component cost trends. If our review indicates a reduction in utility below carrying value, we reduce our inventory to a new cost basis through a charge to cost of revenue."
     },
     {
-        "cls_name": "TopSectionTitle",
-        "level": 1,
-        "section_type": "part1item3",
+        "cls_name": "TitleElement",
+        "level": 8,
         "text_content": "Item 3, 4"
     },
     {
-        "cls_name": "TitleElement",
-        "level": 0,
+        "cls_name": "TopSectionTitle",
+        "level": 1,
+        "section_type": "part1item3",
         "text_content": "ITEM 3. QUANTITATIVE AND QUALITATI"
     },
     {
@@ -1322,20 +1307,14 @@
         "text_content": "Under the supervision and with the participation of our management, including the Chief Executive Officer and Chief Financial Officer, we have evaluated the effectiveness of our disclosure controls and procedures as required by Exchange Act Rule 13a-15(b) as of the end of the period covered by this report. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer have concluded that these disclosure controls and procedures are effective. There were no changes in our internal control over financial reporting during the quarter ended March 31, 2023 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting."
     },
     {
-        "cls_name": "TopSectionTitle",
-        "level": 0,
-        "section_type": "part2",
-        "text_content": "PART II"
-    },
-    {
-        "cls_name": "TopSectionTitle",
-        "level": 1,
-        "section_type": "part2item1",
+        "cls_name": "TitleElement",
+        "level": 9,
         "text_content": "Item 1, 1A"
     },
     {
-        "cls_name": "TitleElement",
+        "cls_name": "TopSectionTitle",
         "level": 0,
+        "section_type": "part2",
         "text_content": "PART II. OTHER"
     },
     {
@@ -1344,8 +1323,9 @@
         "text_content": "INFORMATION"
     },
     {
-        "cls_name": "TitleElement",
-        "level": 0,
+        "cls_name": "TopSectionTitle",
+        "level": 1,
+        "section_type": "part2item1",
         "text_content": "ITEM 1. LEGAL"
     },
     {
@@ -1358,9 +1338,8 @@
         "text_content": "Refer to Note 14 – Contingencies of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for information regarding legal proceedings in which we are involved."
     },
     {
-        "cls_name": "TopSectionTitle",
-        "level": 1,
-        "section_type": "part2item1a",
+        "cls_name": "TitleElement",
+        "level": 0,
         "text_content": "ITEM 1A. RI"
     },
     {
@@ -1399,6 +1378,12 @@
     {
         "cls_name": "TextElement",
         "text_content": "An important element of our business model has been to create platform-based ecosystems on which many participants can build diverse solutions. A well-established ecosystem creates beneficial network effects among users, application developers, and the platform provider that can accelerate growth. Establishing significant scale in the marketplace is necessary to achieve and maintain attractive margins. We face significant competition from firms that provide competing platforms.•A competing vertically-integrated model, in which a single firm controls the software and hardware elements of a product and related services, has succeeded with some consumer products such as personal computers, tablets, phones, gaming consoles, wearables, and other endpoint devices. Competitors pursuing this model also earn revenue from services integrated with the hardware and software platform, including applications and content sold through their integrated marketplaces. They may also be able to claim security and performance benefits from their vertically integrated offer. We also offer some vertically-integrated hardware and software products and services. To the extent we shift a portion of our business to a vertically integrated model we increase our cost of revenue and reduce our operating margins."
+    },
+    {
+        "cls_name": "TopSectionTitle",
+        "level": 1,
+        "section_type": "part2item1a",
+        "text_content": "Item 1A"
     },
     {
         "cls_name": "TextElement",
@@ -1589,11 +1574,6 @@
         "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item2",
-        "text_content": "Item 2"
-    },
-    {
-        "cls_name": "TitleElement",
-        "level": 0,
         "text_content": "ITEM 2. UNREGISTERED SALES OF EQUI"
     },
     {
@@ -1625,14 +1605,14 @@
         "text_content": "We returned $9.7 billion to shareholders in the form of share repurchases and dividends in the third quarter of fiscal year 2023. Refer to Note 15 – Stockholders’ Equity of the Notes to Financial Statements (Part I, Item 1 of this Form 10-Q) for further discussion regarding share repurchases and dividends."
     },
     {
-        "cls_name": "TopSectionTitle",
-        "level": 1,
-        "section_type": "part2item6",
+        "cls_name": "TitleElement",
+        "level": 8,
         "text_content": "Item 6"
     },
     {
-        "cls_name": "TitleElement",
-        "level": 0,
+        "cls_name": "TopSectionTitle",
+        "level": 1,
+        "section_type": "part2item6",
         "text_content": "ITEM 6. E"
     },
     {

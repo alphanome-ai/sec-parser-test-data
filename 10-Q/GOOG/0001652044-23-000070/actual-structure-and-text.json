@@ -6,9 +6,8 @@
         "text_content": "PART I.    FINANCIAL INFORMATION"
     },
     {
-        "cls_name": "TopSectionTitle",
-        "level": 1,
-        "section_type": "part1item1",
+        "cls_name": "TitleElement",
+        "level": 0,
         "text_content": "ITEM 1."
     },
     {
