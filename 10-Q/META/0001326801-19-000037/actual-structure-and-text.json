@@ -434,9 +434,8 @@
         "text_content": "(1)No individual country, other than disclosed above, exceeded 10% of our total long-lived assets for any period presented."
     },
     {
-        "cls_name": "TopSectionTitle",
+        "cls_name": "TitleElement",
         "level": 1,
-        "section_type": "part1item2",
         "text_content": "Item 2.Management's Discussion and Analysis of Financial Condition and Results of Operations"
     },
     {

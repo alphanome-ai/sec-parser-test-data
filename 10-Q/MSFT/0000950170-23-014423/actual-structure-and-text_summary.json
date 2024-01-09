@@ -1,18 +1,18 @@
 {
     "metrics": {
         "total_expected": 371,
-        "total_actual": 378,
-        "total_missing": 4,
-        "total_unexpected": 11,
-        "precision": "97.09%",
-        "recall": "98.92%",
-        "f1_score": "98.00%",
+        "total_actual": 377,
+        "total_missing": 3,
+        "total_unexpected": 9,
+        "precision": "97.61%",
+        "recall": "99.19%",
+        "f1_score": "98.40%",
         "missing_elements_by_type": {
-            "TopSectionTitle": 4
+            "TopSectionTitle": 3
         },
         "unexpected_elements_by_type": {
-            "TopSectionTitle": 4,
-            "TitleElement": 7
+            "TopSectionTitle": 3,
+            "TitleElement": 6
         }
     },
     "missing_elements": [
@@ -21,12 +21,6 @@
             "level": 0,
             "section_type": "part1",
             "text_content": "PART I. FINANCIAL INFORMATION"
-        },
-        {
-            "cls_name": "TopSectionTitle",
-            "level": 1,
-            "section_type": "part1item2",
-            "text_content": "ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS"
         },
         {
             "cls_name": "TopSectionTitle",
@@ -52,17 +46,6 @@
             "cls_name": "TitleElement",
             "level": 0,
             "text_content": "AL INFORMATION"
-        },
-        {
-            "cls_name": "TitleElement",
-            "level": 0,
-            "text_content": "ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS"
-        },
-        {
-            "cls_name": "TopSectionTitle",
-            "level": 1,
-            "section_type": "part1item2",
-            "text_content": "Item 2"
         },
         {
             "cls_name": "TitleElement",

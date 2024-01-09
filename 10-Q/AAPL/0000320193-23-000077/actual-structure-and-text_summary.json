@@ -2,25 +2,19 @@
     "metrics": {
         "total_expected": 202,
         "total_actual": 202,
-        "total_missing": 2,
-        "total_unexpected": 2,
-        "precision": "99.01%",
-        "recall": "99.01%",
-        "f1_score": "99.01%",
+        "total_missing": 1,
+        "total_unexpected": 1,
+        "precision": "99.50%",
+        "recall": "99.50%",
+        "f1_score": "99.50%",
         "missing_elements_by_type": {
-            "TopSectionTitle": 2
+            "TopSectionTitle": 1
         },
         "unexpected_elements_by_type": {
-            "TitleElement": 2
+            "TitleElement": 1
         }
     },
     "missing_elements": [
-        {
-            "cls_name": "TopSectionTitle",
-            "level": 1,
-            "section_type": "part1item2",
-            "text_content": "Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations"
-        },
         {
             "cls_name": "TopSectionTitle",
             "level": 1,
@@ -29,11 +23,6 @@
         }
     ],
     "unexpected_elements": [
-        {
-            "cls_name": "TitleElement",
-            "level": 2,
-            "text_content": "Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations"
-        },
         {
             "cls_name": "TitleElement",
             "level": 2,

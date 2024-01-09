@@ -714,8 +714,9 @@
         "text_content": "Seattle, WashingtonApril 25, 2023"
     },
     {
-        "cls_name": "TitleElement",
-        "level": 0,
+        "cls_name": "TopSectionTitle",
+        "level": 1,
+        "section_type": "part1item2",
         "text_content": "ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS"
     },
     {
@@ -735,12 +736,6 @@
     {
         "cls_name": "TextElement",
         "text_content": "Microsoft is a technology company whose mission is to empower every person and every organization on the planet to achieve more. We strive to create local opportunity, growth, and impact in every country around the world. Our platforms and tools help drive small business productivity, large business competitiveness, and public-sector efficiency. We are creating the platforms and tools that deliver better, faster, and more effective solutions to support new startups, improve educational and health outcomes, and empower human ingenuity.We generate revenue by offering a wide range of cloud-based and other services to people and businesses; licensing and supporting an array of software products; designing, manufacturing, and selling devices; and delivering relevant online advertising to a global audience. Our most significant expenses are related to compensating employees; designing, manufacturing, marketing, and selling our products and services; datacenter costs in support of our cloud-based services; and income taxes.Highlights from the third quarter of fiscal year 2023 compared with the third quarter of fiscal year 2022 included:•Microsoft Cloud revenue increased 22% to $28.5 billion.•Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 14%.•Office Consumer products and cloud services revenue increased 1% and Microsoft 365 Consumer subscribers increased to 65.4 million.•LinkedIn revenue increased 8%.•Dynamics products and cloud services revenue increased 17% driven by Dynamics 365 growth of 25%.•Server products and cloud services revenue increased 17% driven by Azure and other cloud services growth of 27%.•Windows original equipment manufacturer licensing (“Windows OEM”) revenue decreased 28%.•Devices revenue decreased 30%.•Windows Commercial products and cloud services revenue increased 14%.•Xbox content and services revenue increased 3%.•Search and news advertising revenue excluding traffic acquisition costs increased 10%."
-    },
-    {
-        "cls_name": "TopSectionTitle",
-        "level": 1,
-        "section_type": "part1item2",
-        "text_content": "Item 2"
     },
     {
         "cls_name": "TitleElement",

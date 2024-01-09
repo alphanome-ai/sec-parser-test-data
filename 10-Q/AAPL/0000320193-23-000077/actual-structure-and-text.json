@@ -434,8 +434,9 @@
         "cls_name": "TableElement"
     },
     {
-        "cls_name": "TitleElement",
-        "level": 2,
+        "cls_name": "TopSectionTitle",
+        "level": 1,
+        "section_type": "part1item2",
         "text_content": "Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations"
     },
     {
