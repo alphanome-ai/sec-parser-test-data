@@ -2,14 +2,42 @@
     "metrics": {
         "total_expected": 202,
         "total_actual": 202,
-        "total_missing": 0,
-        "total_unexpected": 0,
-        "precision": "100.00%",
-        "recall": "100.00%",
-        "f1_score": "100.00%",
-        "missing_elements_by_type": {},
-        "unexpected_elements_by_type": {}
+        "total_missing": 2,
+        "total_unexpected": 2,
+        "precision": "99.01%",
+        "recall": "99.01%",
+        "f1_score": "99.01%",
+        "missing_elements_by_type": {
+            "TopSectionTitle": 2
+        },
+        "unexpected_elements_by_type": {
+            "TitleElement": 2
+        }
     },
-    "missing_elements": [],
-    "unexpected_elements": []
+    "missing_elements": [
+        {
+            "cls_name": "TopSectionTitle",
+            "level": 1,
+            "section_type": "part1item2",
+            "text_content": "Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+            "cls_name": "TopSectionTitle",
+            "level": 1,
+            "section_type": "part2item2",
+            "text_content": "Item 2.    Unregistered Sales of Equity Securities, Use of Proceeds, and Issuer Purchases of Equity Securities"
+        }
+    ],
+    "unexpected_elements": [
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Item 2.    Management’s Discussion and Analysis of Financial Condition and Results of Operations"
+        },
+        {
+            "cls_name": "TitleElement",
+            "level": 2,
+            "text_content": "Item 2.    Unregistered Sales of Equity Securities, Use of Proceeds, and Issuer Purchases of Equity Securities"
+        }
+    ]
 }

@@ -1,32 +1,33 @@
 {
     "metrics": {
         "total_expected": 387,
-        "total_actual": 387,
-        "total_missing": 1,
+        "total_actual": 386,
+        "total_missing": 2,
         "total_unexpected": 1,
         "precision": "99.74%",
-        "recall": "99.74%",
-        "f1_score": "99.74%",
+        "recall": "99.48%",
+        "f1_score": "99.61%",
         "missing_elements_by_type": {
-            "TopSectionTitle": 1
+            "TextElement": 2
         },
         "unexpected_elements_by_type": {
-            "TitleElement": 1
+            "TextElement": 1
         }
     },
     "missing_elements": [
         {
-            "cls_name": "TopSectionTitle",
-            "level": 1,
-            "section_type": "part1item1",
-            "text_content": "ITEM 1."
+            "cls_name": "TextElement",
+            "text_content": "We have a short-term debt financing program of up to $10.0 billion through the issuance of commercial paper. Net proceeds from this program are used for general corporate purposes. As of June 30, 2023, we had no commercial paper outstanding. As of June 30, 2023, we had $10.0 billion of revolving credit facilities, $4.0 billion expiring in April 2024 and $6.0 billion expiring in April 2028. The interest rates for all credit facilities are determined based on a formula using certain market rates, as well as our progress toward the achievement of certain sustainability goals. No amounts have been borrowed under the credit facilities.As of June 30, 2023, we had senior unsecured notes outstanding with a total carrying value of $12.9 billion. See Note 5 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q for further information on our debt."
+        },
+        {
+            "cls_name": "TextElement",
+            "text_content": "We primarily utilize contract manufacturers for the assembly of our servers used in our technical infrastructure and hardware products we sell. We have agreements where we may purchase components directly from suppliers and then supply these components to contract manufacturers for use in the assembly of the servers and hardware products. Certain of these arrangements result in a portion of the cash received from and paid to the contract manufacturers to be presented as financing activities in the Consolidated Statements of Cash Flows included in Item 1 of this Quarterly Report on Form 10-Q"
         }
     ],
     "unexpected_elements": [
         {
-            "cls_name": "TitleElement",
-            "level": 0,
-            "text_content": "ITEM 1."
+            "cls_name": "TextElement",
+            "text_content": "We have a short-term debt financing program of up to $10.0 billion through the issuance of commercial paper. Net proceeds from this program are used for general corporate purposes. As of June 30, 2023, we had no commercial paper outstanding. As of June 30, 2023, we had $10.0 billion of revolving credit facilities, $4.0 billion expiring in April 2024 and $6.0 billion expiring in April 2028. The interest rates for all credit facilities are determined based on a formula using certain market rates, as well as our progress toward the achievement of certain sustainability goals. No amounts have been borrowed under the credit facilities.As of June 30, 2023, we had senior unsecured notes outstanding with a total carrying value of $12.9 billion. See Note 5 of the Notes to Consolidated Financial Statements included in Item 1 of this Quarterly Report on Form 10-Q for further information on our debt.We primarily utilize contract manufacturers for the assembly of our servers used in our technical infrastructure and hardware products we sell. We have agreements where we may purchase components directly from suppliers and then supply these components to contract manufacturers for use in the assembly of the servers and hardware products. Certain of these arrangements result in a portion of the cash received from and paid to the contract manufacturers to be presented as financing activities in the Consolidated Statements of Cash Flows included in Item 1 of this Quarterly Report on Form 10-Q."
         }
     ]
 }

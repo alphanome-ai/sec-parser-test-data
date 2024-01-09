@@ -1,55 +1,61 @@
 {
     "num_filings": {
         "total": 5,
-        "perfect_f1_score": 2,
-        "perfect_recall": 2,
-        "ratio_perfect_f1_score": "40.00%",
-        "ratio_perfect_recall": "40.00%"
+        "perfect_f1_score": 1,
+        "perfect_recall": 1,
+        "ratio_perfect_f1_score": "20.00%",
+        "ratio_perfect_recall": "20.00%"
     },
     "average_metrics": {
-        "f1_score": "99.00%",
-        "precision": "98.65%",
-        "recall": "99.36%"
+        "f1_score": "99.25%",
+        "precision": "99.12%",
+        "recall": "99.38%"
     },
     "average_elements": {
         "expected": "331.6",
-        "actual": "334.4",
-        "missing": "2.4",
-        "unexpected": "5.2"
+        "actual": "332.6",
+        "missing": "2",
+        "unexpected": "3"
     },
     "total_missing": {
-        "TopSectionTitle": 12
+        "TopSectionTitle": 6,
+        "TextElement": 4
     },
     "total_unexpected": {
-        "TopSectionTitle": 10,
-        "TitleElement": 16
+        "TitleElement": 9,
+        "TopSectionTitle": 4,
+        "TextElement": 2
     },
     "selected_filings": {
         "10-Q_AAPL_0000320193-23-000077": {
             "total_expected": 202,
             "total_actual": 202,
-            "total_missing": 0,
-            "total_unexpected": 0,
-            "precision": "100.00%",
-            "recall": "100.00%",
-            "f1_score": "100.00%",
-            "missing_elements_by_type": {},
-            "unexpected_elements_by_type": {}
+            "total_missing": 2,
+            "total_unexpected": 2,
+            "precision": "99.01%",
+            "recall": "99.01%",
+            "f1_score": "99.01%",
+            "missing_elements_by_type": {
+                "TopSectionTitle": 2
+            },
+            "unexpected_elements_by_type": {
+                "TitleElement": 2
+            }
         },
         "10-Q_MSFT_0000950170-23-014423": {
             "total_expected": 371,
-            "total_actual": 385,
-            "total_missing": 10,
-            "total_unexpected": 24,
-            "precision": "93.77%",
-            "recall": "97.30%",
-            "f1_score": "95.50%",
+            "total_actual": 378,
+            "total_missing": 4,
+            "total_unexpected": 11,
+            "precision": "97.09%",
+            "recall": "98.92%",
+            "f1_score": "98.00%",
             "missing_elements_by_type": {
-                "TopSectionTitle": 10
+                "TopSectionTitle": 4
             },
             "unexpected_elements_by_type": {
-                "TopSectionTitle": 10,
-                "TitleElement": 14
+                "TopSectionTitle": 4,
+                "TitleElement": 7
             }
         },
         "10-Q_META_0001326801-19-000037": {
@@ -65,32 +71,32 @@
         },
         "10-Q_GOOG_0001652044-23-000070": {
             "total_expected": 387,
-            "total_actual": 387,
-            "total_missing": 1,
+            "total_actual": 386,
+            "total_missing": 2,
             "total_unexpected": 1,
             "precision": "99.74%",
-            "recall": "99.74%",
-            "f1_score": "99.74%",
+            "recall": "99.48%",
+            "f1_score": "99.61%",
             "missing_elements_by_type": {
-                "TopSectionTitle": 1
+                "TextElement": 2
             },
             "unexpected_elements_by_type": {
-                "TitleElement": 1
+                "TextElement": 1
             }
         },
         "10-Q_GOOG_0001652044-23-000094": {
             "total_expected": 390,
-            "total_actual": 390,
-            "total_missing": 1,
+            "total_actual": 389,
+            "total_missing": 2,
             "total_unexpected": 1,
             "precision": "99.74%",
-            "recall": "99.74%",
-            "f1_score": "99.74%",
+            "recall": "99.49%",
+            "f1_score": "99.61%",
             "missing_elements_by_type": {
-                "TopSectionTitle": 1
+                "TextElement": 2
             },
             "unexpected_elements_by_type": {
-                "TitleElement": 1
+                "TextElement": 1
             }
         }
     }
