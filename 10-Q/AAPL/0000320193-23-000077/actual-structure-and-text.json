@@ -800,8 +800,9 @@
         "text_content": "The Company’s business, reputation, results of operations, financial condition and stock price can be affected by a number of factors, whether currently known or unknown, including those described in Part I, Item 1A of the 2022 Form 10-K under the heading “Risk Factors.” When any one or more of these risks materialize from time to time, the Company’s business, reputation, results of operations, financial condition and stock price can be materially and adversely affected. There have been no material changes to the Company’s risk factors since the 2022 Form 10-K."
     },
     {
-        "cls_name": "TitleElement",
-        "level": 2,
+        "cls_name": "TopSectionTitle",
+        "level": 1,
+        "section_type": "part2item2",
         "text_content": "Item 2.    Unregistered Sales of Equity Securities, Use of Proceeds, and Issuer Purchases of Equity Securities"
     },
     {
