@@ -14,7 +14,12 @@
         "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item1",
-        "text_content": "ITEM 1. FINANCIAL STATEMENTS"
+        "text_content": "ITEM 1. FINANCI"
+    },
+    {
+        "cls_name": "TitleElement",
+        "level": 0,
+        "text_content": "AL STATEMENTS"
     },
     {
         "cls_name": "TitleElement",
@@ -717,7 +722,12 @@
         "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item2",
-        "text_content": "ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS"
+        "text_content": "ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF"
+    },
+    {
+        "cls_name": "TitleElement",
+        "level": 0,
+        "text_content": "FINANCIAL CONDITION AND RESULTS OF OPERATIONS"
     },
     {
         "cls_name": "TitleElement",
@@ -1217,7 +1227,12 @@
         "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item3",
-        "text_content": "ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK"
+        "text_content": "ITEM 3. QUANTITATIVE AND QUALITATI"
+    },
+    {
+        "cls_name": "TitleElement",
+        "level": 0,
+        "text_content": "VE DISCLOSURES ABOUT MARKET RISK"
     },
     {
         "cls_name": "TitleElement",
@@ -1280,7 +1295,12 @@
         "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part1item4",
-        "text_content": "ITEM 4. CONTROLS AND PROCEDURES"
+        "text_content": "ITEM 4. CONTROLS"
+    },
+    {
+        "cls_name": "TitleElement",
+        "level": 0,
+        "text_content": "AND PROCEDURES"
     },
     {
         "cls_name": "TextElement",
@@ -1306,7 +1326,12 @@
         "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item1",
-        "text_content": "ITEM 1. LEGAL PROCEEDINGS"
+        "text_content": "ITEM 1. LEGAL"
+    },
+    {
+        "cls_name": "TitleElement",
+        "level": 0,
+        "text_content": "PROCEEDINGS"
     },
     {
         "cls_name": "SupplementaryText",
@@ -1315,7 +1340,12 @@
     {
         "cls_name": "TitleElement",
         "level": 0,
-        "text_content": "ITEM 1A. RISK FACTORS"
+        "text_content": "ITEM 1A. RI"
+    },
+    {
+        "cls_name": "TitleElement",
+        "level": 0,
+        "text_content": "SK FACTORS"
     },
     {
         "cls_name": "TextElement",
@@ -1544,7 +1574,12 @@
         "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item2",
-        "text_content": "ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS"
+        "text_content": "ITEM 2. UNREGISTERED SALES OF EQUI"
+    },
+    {
+        "cls_name": "TitleElement",
+        "level": 0,
+        "text_content": "TY SECURITIES AND USE OF PROCEEDS"
     },
     {
         "cls_name": "TitleElement",
@@ -1578,7 +1613,12 @@
         "cls_name": "TopSectionTitle",
         "level": 1,
         "section_type": "part2item6",
-        "text_content": "ITEM 6. EXHIBITS"
+        "text_content": "ITEM 6. E"
+    },
+    {
+        "cls_name": "TitleElement",
+        "level": 0,
+        "text_content": "XHIBITS"
     },
     {
         "cls_name": "TableElement"
